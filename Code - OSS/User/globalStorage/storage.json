@@ -1,0 +1,97 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "9ffa0d0501c7e5652d34bc80052bb71e860bfb3f51cc8687e781c8a037fc8414",
+    "telemetry.devDeviceId": "17dab67f-2160-43ae-8a38-0c75c3130053",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/dread-wing/.config/waybar"
+            },
+            {
+                "folderUri": "file:///home/dread-wing/.config/swaync"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1782682102841"
+            }
+        ]
+    },
+    "windowControlHeight": 42,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/dread-wing/.config/waybar": "__default__profile__",
+            "file:///home/dread-wing/M_Stich_final": "__default__profile__",
+            "file:///home/dread-wing/.config/swaync": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1782682102841": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/dread-wing/.config/swaync",
+            "backupPath": "/home/dread-wing/.config/Code - OSS/Backups/ecc33c4d482a8960f3571925593710ec",
+            "uiState": {
+                "mode": 0,
+                "x": 1,
+                "y": 0,
+                "width": 1920,
+                "height": 1080,
+                "zoomLevel": 1
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#121314",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#bfbfbf",
+            "background": "#121314",
+            "editorBackground": "#121314",
+            "titleBarBackground": "#191a1b",
+            "titleBarBorder": "#2a2b2c",
+            "activityBarBackground": "#191a1b",
+            "activityBarBorder": "#2a2b2c",
+            "sideBarBackground": "#191a1b",
+            "sideBarBorder": "#2a2b2c",
+            "statusBarBackground": "#191a1b",
+            "statusBarBorder": "#2a2b2c",
+            "statusBarNoFolderBackground": "#191a1b"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 195,
+            "auxiliaryBarWidth": 195,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 195,
+            "auxiliaryBarWidth": 195,
+            "workspaces": {
+                "990a3a4a287e73bb4ce28437d3953ef5": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "2233b5569384426dbb85aad9fce3133f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "456cd2cbf1ecabb0d53315a8fc9e24f2": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

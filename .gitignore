@@ -1,0 +1,52 @@
+# Browsers / user data
+mozilla/
+google-chrome/
+chromium/
+
+# Chat / account data
+discord/
+libaccounts-glib/
+
+# Spotify runtime data
+spotify/
+spicetify/
+
+# KDE machine/session stuff
+session/
+kdeconnect/
+kdedefaults/
+
+# Dconf binary DB
+dconf/
+
+# Temporary/runtime
+pulse/
+cache/
+.cache/
+
+# GTK generated state
+gtk-3.0/bookmarks
+gtk-4.0/server.ini
+gtkrc-2.0
+
+# Logs
+*.log
+
+# Databases
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.db
+*.db-shm
+*.db-wal
+
+# Session / temp
+*.tmp
+*.bak
+*.lock
+
+kactivitymanagerd*
+ksmserverrc
+kwinrulesrc
+kglobalshortcutsrc
+ktimezonedrc

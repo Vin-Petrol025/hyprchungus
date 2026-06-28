@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "'GeistMono Nerd Font Propo', monospace",
+    "editor.unicodeHighlight.allowedCharacters": {
+        "": true
+    },
+    "editor.unicodeHighlight.nonBasicASCII": false
+}
