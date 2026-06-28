@@ -1,38 +1,55 @@
-# Browsers / user data
+# ==========================
+# Browser / App Data
+# ==========================
 mozilla/
-google-chrome/
-chromium/
-
-# Chat / account data
+spotify/
 discord/
+spicetify/
+kdeconnect/
+session/
+dconf/
+pulse/
 libaccounts-glib/
 
-# Spotify runtime data
-spotify/
-spicetify/
+# ==========================
+# Telemetry / IDE
+# ==========================
+go/telemetry/
+Code - OSS/
 
-# KDE machine/session stuff
-session/
-kdeconnect/
-kdedefaults/
+# ==========================
+# KDE noisy / machine-specific
+# ==========================
+kactivitymanagerd*
+ksmserverrc
+kconf_updaterc
+kwinoutputconfig.json
+kwinrc
+kcminputrc
+kdeglobals
+kde5rc
+kglobalshortcutsrc
+ktimezonedrc
+plasmashellrc
+plasma-localerc
+plasma-org.kde.plasma.desktop-appletsrc
+powerdevilprofilesrc
+user-dirs.locale
 
-# Dconf binary DB
-dconf/
+# Kate
+katerc
+katevirc
+kate-externaltoolspluginrc
+kate/
+kdeglobals
 
-# Temporary/runtime
-pulse/
-cache/
-.cache/
-
-# GTK generated state
-gtk-3.0/bookmarks
-gtk-4.0/server.ini
-gtkrc-2.0
-
-# Logs
+# ==========================
+# Runtime / temp / databases
+# ==========================
 *.log
-
-# Databases
+*.tmp
+*.bak
+*.lock
 *.sqlite
 *.sqlite-shm
 *.sqlite-wal
@@ -40,13 +57,7 @@ gtkrc-2.0
 *.db-shm
 *.db-wal
 
-# Session / temp
-*.tmp
-*.bak
-*.lock
-
-kactivitymanagerd*
-ksmserverrc
-kwinrulesrc
-kglobalshortcutsrc
-ktimezonedrc
+# Cache
+.cache/
+cache/
+Cache/
