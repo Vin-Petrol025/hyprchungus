@@ -13,7 +13,11 @@ Built for people who want a polished daily-driver setup without spending weeks c
 > Add your showcase video here after uploading to GitHub assets or Releases.
 
 ```md
-https://github.com/user-attachments/assets/YOUR-VIDEO-ID
+
+
+https://github.com/user-attachments/assets/28caa3a4-5ea2-4f52-aa57-cf83b7ef1e4f
+
+
 ```
 
 ### Screenshots
