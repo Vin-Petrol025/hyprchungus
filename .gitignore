@@ -10,7 +10,7 @@ session/
 dconf/
 pulse/
 libaccounts-glib/
-
+spotify-player/
 # ==========================
 # Telemetry / IDE
 # ==========================
