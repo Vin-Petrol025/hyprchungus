@@ -28,6 +28,12 @@ hl.monitor({
 	position = "0x0",
 	scale = 1,
 })
+hl.window_rule({
+	match = {
+		class = "waypaper"
+	},
+	float = true
+})
 ------------------
 ---- MY PROGRAMS ----
 ---------------------
@@ -279,7 +285,7 @@ hl.bind(
 hl.bind(mainMod .. " + G", hl.dsp.exec_cmd("gimp"))
 hl.bind(mainMod .. " + SHIFT + R", hl.dsp.exec_cmd("flatpak run com.obsproject.Studio"))
 hl.bind(mainMod .. " + D", hl.dsp.exec_cmd("discord"))
-hl.bind(mainMod .. " + W", hl.dsp.exec_cmd("./Downloads/WarThunder/launcher"))
+hl.bind(mainMod .. " + W", hl.dsp.exec_cmd("waypaper"))
 hl.bind(mainMod .. " + BRACKETRIGHT", hl.dsp.exec_cmd("awww img ~/.config/wallpapers/wallhaven-k727yd_1920x1080.png --transition-type center --transition-duration=1"))
 hl.bind(mainMod .. " + PERIOD", hl.dsp.exec_cmd("awww img ~/.config/wallpapers/1w.png --transition-type center --transition-duration=1"))
 hl.bind(mainMod .. " + COMMA", hl.dsp.exec_cmd("awww img ~/.config/wallpapers/2w.png --transition-type center --transition-duration=1"))
