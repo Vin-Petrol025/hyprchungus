@@ -44,6 +44,7 @@ local fileManager = "thunar"
 local menu = "/home/dread-wing/.config/rofi/launchers/type-4/launcher.sh || pkill rofi"
 local waybarreload = "~/.config/waybar/launch.sh"
 local screenshot = "flameshot gui"
+
 -------------------
 ---- AUTOSTART ----
 -------------------
@@ -60,6 +61,7 @@ hl.on("hyprland.start", function()
 	hl.exec_cmd("awww-daemon")
 	hl.exec_cmd("flameshot")
 	hl.exec_cmd("swaync")
+	hl.exec_cmd("hypridle")
 end)
 
 -------------------------------
@@ -297,7 +299,7 @@ hl.bind(mainMod .. " + left", hl.dsp.focus({ direction = "left" }))
 hl.bind(mainMod .. " + right", hl.dsp.focus({ direction = "right" }))
 hl.bind(mainMod .. " + up", hl.dsp.focus({ direction = "up" }))
 hl.bind(mainMod .. " + down", hl.dsp.focus({ direction = "down" }))
-
+hl.bind(mainMod .. " + L", hl.dsp.exec_cmd("hyprlock"))
 -- Switch workspaces with mainMod + [0-9]
 -- Move active window to a workspace with mainMod + SHIFT + [0-9]
 for i = 1, 10 do

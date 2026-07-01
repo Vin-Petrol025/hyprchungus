@@ -3,8 +3,8 @@ LastActiveMode=THUNAR_RENAMER_MODE_NAME
 LastActiveRenamer=ThunarSbrNumberRenamer
 
 [ThunarSbrNumberRenamer]
-TextMode=THUNAR_SBR_TEXT_MODE_TN
-Text=7
+TextMode=THUNAR_SBR_TEXT_MODE_NT
+Text=B
 Mode=THUNAR_SBR_NUMBER_MODE_123
-Start=6
+Start=1
 
