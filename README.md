@@ -96,7 +96,7 @@ cp -r .config/* ~/.config/
 Install the main packages:
 
 ```bash
-sudo pacman -S hyprland waybar kitty rofi cava zsh grim slurp wl-clipboard flameshot
+sudo pacman -S hyprland waybar-cava kitty rofi cava zsh grim slurp wl-clipboard flameshot
 ```
 
 Additional packages may be required depending on your setup.
