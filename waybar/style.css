@@ -98,6 +98,12 @@ tooltip label {
 #custom-notification {
     color: @fg;
 }
+#custom-wlogout{
+    color:rgb(26, 219, 180);
+    font-size: 30px;
+    margin-left:10px;
+    margin-right: 10px;
+}
 
 #pulseaudio {
     color: @yellow;

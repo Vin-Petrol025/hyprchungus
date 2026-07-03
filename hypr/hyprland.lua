@@ -269,7 +269,7 @@ local mainMod = "SUPER" -- Sets "Windows" key as main modifier
 hl.bind(mainMod .. " + T", hl.dsp.exec_cmd(terminal))
 local closeWindowBind = hl.bind(mainMod .. " + Q", hl.dsp.window.close())
 -- closeWindowBind:set_enabled(false)
-hl.bind(mainMod .. " + L", hl.dsp.exec_cmd("wlogout -C ~/.config/wlogout/style-1.css"))
+hl.bind(mainMod .. " + SHIFT + L", hl.dsp.exec_cmd("wlogout --layout ~/.config/wlogout/layout --css ~/.config/wlogout/style.css"))
 hl.bind(mainMod .. " + E", hl.dsp.exec_cmd(fileManager))
 hl.bind(mainMod .. " + V", hl.dsp.window.float({ action = "toggle" }))
 hl.bind(mainMod .. " + SPACE", hl.dsp.exec_cmd(menu))
@@ -280,6 +280,8 @@ hl.bind(mainMod .. " + PRINT", hl.dsp.exec_cmd(screenshot))
 hl.bind(mainMod .. " + SHIFT + Z", hl.dsp.exec_cmd("spotify"))
 hl.bind(mainMod .. " + C", hl.dsp.exec_cmd("code"))
 hl.bind(mainMod .. " + F", hl.dsp.exec_cmd("firefox"))
+hl.bind(mainMod .. " + K", hl.dsp.exec_cmd("kdeconnect-app"))
+hl.bind(mainMod .. " + H", hl.dsp.exec_cmd("kate ~/.config/hypr/hyprland.lua"))
 hl.bind(
 	mainMod .. " + SHIFT + SPACE",
 	hl.dsp.exec_cmd("kdeconnect-cli --send-clipboard -d 7de30e37bcbc4de28570b5a60ffd1f41")

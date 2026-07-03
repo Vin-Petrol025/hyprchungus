@@ -2,6 +2,7 @@
     "layer": "top",
     "margin-top": 5,
     "modules-left": [
+        "custom/wlogout",
         "clock",
         "tray",
         "mpris",
@@ -242,4 +243,9 @@
     "on-click": "~/.config/waybar/scripts/weather/get_weather.rb --next", // Cycle views
     "interval": 900 // Every 15 minutes
 },
+"custom/wlogout":{
+    "format": "",
+    "on-click": " wlogout --layout ~/.config/wlogout/layout --css ~/.config/wlogout/style.css",
+    
+}
 }
