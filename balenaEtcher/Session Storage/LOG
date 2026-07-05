@@ -1,2 +1,3 @@
-2026/06/30-00:42:10.147 1655c Creating DB /home/dread-wing/.config/balenaEtcher/Session Storage since it was missing.
-2026/06/30-00:42:10.157 1655c Reusing MANIFEST /home/dread-wing/.config/balenaEtcher/Session Storage/MANIFEST-000001
+2026/07/04-15:21:48.583 44dd Reusing MANIFEST /home/dread-wing/.config/balenaEtcher/Session Storage/MANIFEST-000001
+2026/07/04-15:21:48.584 44dd Recovering log #3
+2026/07/04-15:21:48.584 44dd Reusing old log /home/dread-wing/.config/balenaEtcher/Session Storage/000003.log 

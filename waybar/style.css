@@ -71,6 +71,7 @@ tooltip label {
     transition: all 0.3s ease-in-out;
 
 }
+#custom-power-profile,
 #tray,
 #bluetooth,
 #custom-weather,
@@ -104,7 +105,9 @@ tooltip label {
     margin-left:10px;
     margin-right: 10px;
 }
-
+#custom-power-profile{
+    color:@red;
+}
 #pulseaudio {
     color: @yellow;
 
