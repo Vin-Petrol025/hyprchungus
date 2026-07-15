@@ -1,2 +1,0 @@
-Khadder
-checksum_v1 = 57a6d84968fcb1d017bffdb26fdde2a1

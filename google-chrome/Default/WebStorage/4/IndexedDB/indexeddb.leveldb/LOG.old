@@ -1,7 +1,0 @@
-2026/07/11-21:29:39.358 d6ba Reusing MANIFEST /home/dread-wing/.config/google-chrome/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2026/07/11-21:29:39.358 d6ba Recovering log #3
-2026/07/11-21:29:39.359 d6ba Reusing old log /home/dread-wing/.config/google-chrome/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/000003.log 
-2026/07/11-21:35:38.584 d6ba Level-0 table #5: started
-2026/07/11-21:35:38.586 d6ba Level-0 table #5: 15835 bytes OK
-2026/07/11-21:35:38.588 d6ba Delete type=0 #3
-2026/07/11-21:35:38.589 d6ba Manual compaction at level-0 from (begin) .. (end); will stop at (end)

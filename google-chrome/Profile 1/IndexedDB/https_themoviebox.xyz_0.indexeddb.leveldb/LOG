@@ -1,7 +1,0 @@
-2026/07/15-19:09:13.297 5ca Reusing MANIFEST /home/dread-wing/.config/google-chrome/Profile 1/IndexedDB/https_themoviebox.xyz_0.indexeddb.leveldb/MANIFEST-000001
-2026/07/15-19:09:13.298 5ca Recovering log #3
-2026/07/15-19:09:13.311 5ca Reusing old log /home/dread-wing/.config/google-chrome/Profile 1/IndexedDB/https_themoviebox.xyz_0.indexeddb.leveldb/000003.log 
-2026/07/15-19:11:38.988 5cc Level-0 table #5: started
-2026/07/15-19:11:38.999 5cc Level-0 table #5: 328187 bytes OK
-2026/07/15-19:11:39.000 5cc Delete type=0 #3
-2026/07/15-19:11:39.001 5cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
