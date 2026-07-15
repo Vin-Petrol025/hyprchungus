@@ -1,0 +1,3335 @@
+{
+   "aamConfirmButton": {
+      "message": "Bevestigen"
+   },
+   "aamEditButton": {
+      "message": "Bewerken"
+   },
+   "aamFieldCityStatePostal": {
+      "message": "Stad, staat/provincie, postcode"
+   },
+   "aamFieldCountry": {
+      "message": "Land"
+   },
+   "aamFieldDateOfBirth": {
+      "message": "Geboortedatum"
+   },
+   "aamFieldEmail": {
+      "message": "E-mailadres"
+   },
+   "aamFieldExternalId": {
+      "message": "Externe ID"
+   },
+   "aamFieldFirstLastName": {
+      "message": "Voor- en achternaam"
+   },
+   "aamFieldGender": {
+      "message": "Geslacht"
+   },
+   "aamFieldPhoneNumber": {
+      "message": "Telefoonnummer"
+   },
+   "aamInfoDescription": {
+      "message": "Automatische geavanceerde overeenkomsten gebruikt klantgegevens die aan je bedrijf zijn verstrekt, zoals e-mailadressen of telefoonnummers, om bezoekers te koppelen die ook Meta gebruiken."
+   },
+   "aamNoEditPermissionTooltip": {
+      "message": "Geen toestemming om te bewerken. Neem contact op met je beheerder"
+   },
+   "aamStepConfirmFieldsDescription": {
+      "message": "Bevestig de velden die je wilt verzenden"
+   },
+   "aamStepUserActionRequired": {
+      "message": "Gebruikersactie vereist"
+   },
+   "aboutAdvancedMatchingForWeb": {
+      "message": "Over geavanceerde overeenkomsten voor het web"
+   },
+   "aboutEventSetupTool": {
+      "message": "Over de tool voor gebeurtenisconfiguraties"
+   },
+   "actionAddMissingEventsCtaLabel": {
+      "message": "Instellen voor mijzelf"
+   },
+   "actionAddMissingEventsDescription": {
+      "message": "Verbeter eenvoudig je advertentieprestaties en de nauwkeurigheid van metingen door ontbrekende gebeurtenissen toe te voegen aan je configuratie."
+   },
+   "actionAddMissingEventsHeader": {
+      "message": "Ontbrekende gebeurtenissen toevoegen"
+   },
+   "actionAutomatableValueLabel": {
+      "message": "Automatiseerbaar"
+   },
+   "actionCAPIGTMProductRecommendationHeader": {
+      "message": "Deel je gegevens veilig via Google Tag Manager"
+   },
+   "actionCAPIGTMSetupDescription": {
+      "message": "Zo kun je het implementeren en beheren van tags stroomlijnen en efficiënt gebeurtenissen bijhouden zonder codewijzigingen, voor betere marketingprestaties."
+   },
+   "actionCAPIGTMSetupHeader": {
+      "message": "Conversions API instellen met Google Tag Manager"
+   },
+   "actionCAPIGeneralSetupDescription": {
+      "message": "Maximaliseer de gemeten gegevens op je website en verlaag je kosten per resultaat."
+   },
+   "actionCAPIGeneralSetupHeader": {
+      "message": "Conversions API instellen"
+   },
+   "actionCAPISalesforceCRMSetupDescription": {
+      "message": "Automatische configuratie maakt het mogelijk om nauwkeurig en in realtime gebeurtenissen van server naar server bij te houden voor betere klantstatistieken en marketing."
+   },
+   "actionCAPISalesforceCRMSetupHeader": {
+      "message": "Conversions API instellen met Salesforce CRM"
+   },
+   "actionCardDatasetTooltip": {
+      "message": "Ga naar Gebeurtenisbeheer om deze gegevensset te bekijken"
+   },
+   "actionCatalogUpsellCtaLabel": {
+      "message": "Producten toevoegen"
+   },
+   "actionCatalogUpsellDescription": {
+      "message": "Trek nieuwe doelgroepen aan en lever een gepersonaliseerde shopervaring op basis van hun gedrag en interesses. Leid klanten via verschillende advertentie-indelingen van overweging naar een aankoop."
+   },
+   "actionCatalogUpsellHeader": {
+      "message": "Voeg producten aan je Meta-catalogus toe en maximaliseer je advertentieprestaties"
+   },
+   "actionFixInvalidValueCurrencyDescription": {
+      "message": "Het corrigeren van ongeldige waarde- en valutaparameters voor aankoopgebeurtenissen op de website zorgt voor nauwkeurigere rapportage en betere campagneoptimalisatie."
+   },
+   "actionFixInvalidValueCurrencyHeader": {
+      "message": "Ongeldige waarde- en valutaparameters corrigeren"
+   },
+   "actionFreeCAPIGOneClickDescription": {
+      "message": "Verzend je pixelgebeurtenissen automatisch via de server. Geen technische configuratie, geen extra tags. Wij maken de verbinding voor je."
+   },
+   "actionFreeCAPIGOneClickHeader": {
+      "message": "Door Meta ingeschakelde Conversions API"
+   },
+   "actionFreeCAPIGOneClickTooltip": {
+      "message": "Als je hierop klikt, wordt door Meta gehoste server-side gebeurtenisweergave ingeschakeld voor dit bedrijf. Je kunt dit later wijzigen in Gebeurtenisbeheer."
+   },
+   "actionFreeCAPIGOneClickValueLift": {
+      "message": "17,8% lagere kosten per resultaat"
+   },
+   "actionFreeCAPIGOneClickViewDetails": {
+      "message": "Details bekijken"
+   },
+   "actionInstallFacebookForWooCommerceCtaLabel": {
+      "message": "Aan de slag"
+   },
+   "actionInstallFacebookForWooCommercePluginDescription": {
+      "message": "Meta for WooCommerce houdt je winkel gesynchroniseerd met Facebook, Instagram en WhatsApp. Minder beheer voor jou, meer tijd voor je bedrijf."
+   },
+   "actionInstallFacebookForWooCommercePluginHeader": {
+      "message": "De plug-in Meta for WooCommerce installeren"
+   },
+   "actionInstallFacebookForWooCommercePluginSubtitle": {
+      "message": "Bespaar tijd en geef de juiste producten bij de juiste mensen weer."
+   },
+   "actionSetupMamAamDescription": {
+      "message": "Geavanceerde overeenkomsten zorgen voor meer conversies via je advertenties, zodat je meer mensen kunt bereiken met remarketingcampagnes."
+   },
+   "actionSetupMamAamHeader": {
+      "message": "Geavanceerd overeenkomsten instellen"
+   },
+   "actionShopifyProductSyncCtaLabel": {
+      "message": "Aan de slag"
+   },
+   "actionShopifyProductSyncDescription": {
+      "message": "Sommige content-ID's op deze pagina kunnen niet worden gekoppeld aan producten in je catalogus. Gebruik de synchronisatie van Shopify-producten om ontbrekende producten toe te voegen."
+   },
+   "actionShopifyProductSyncHeader": {
+      "message": "Ontbrekende producten van Shopify synchroniseren"
+   },
+   "actionSignalsGatewayGTMSetupDescription": {
+      "message": "Dit maakt nauwkeurige, realtime server-naar-server gebeurtenistracking mogelijk voor betere klantstatistieken en marketing."
+   },
+   "actionSignalsGatewayGTMSetupHeader": {
+      "message": "Signals Gateway Pixel instellen met Google Tagmanager"
+   },
+   "actionUpdateFacebookForWooCommerceCtaLabel": {
+      "message": "Plug-in bijwerken"
+   },
+   "actionUpdateFacebookForWooCommercePluginDescription": {
+      "message": "Werk nu bij voor de nieuwste verbeteringen en om je winkel probleemloos te blijven synchroniseren met Facebook, Instagram en WhatsApp."
+   },
+   "actionUpdateFacebookForWooCommercePluginHeader": {
+      "message": "De plug-in Meta for WooCommerce bijwerken"
+   },
+   "actionUpdateFacebookForWooCommercePluginSubtitle": {
+      "message": "Er is een nieuwe versie van je plug-in klaar."
+   },
+   "addMissingEventsCancel": {
+      "message": "Annuleren"
+   },
+   "addMissingEventsHeader": {
+      "message": "Ontbrekende gebeurtenissen toevoegen"
+   },
+   "addMissingEventsMoreDatasets": {
+      "message": "nog $1 gegevenssets"
+   },
+   "addMissingEventsNextSteps": {
+      "message": "Volgende stappen"
+   },
+   "addMissingEventsPotentialBadge": {
+      "message": "Potentieel -$1% van CPR"
+   },
+   "addMissingEventsSetUpForMe": {
+      "message": "Instellen voor mij"
+   },
+   "addMissingEventsSubtitle": {
+      "message": "Voeg ontbrekende pixelgebeurtenissen toe om conversiegebeurtenissen bij te houden en te optimaliseren, en de advertentieresultaten te verbeteren."
+   },
+   "addMissingEventsTimeEstimate": {
+      "message": "Minder dan \u003C 1 minuut"
+   },
+   "add_more_label": {
+      "message": "Meer toevoegen"
+   },
+   "additionalRecommendation": {
+      "message": "aanvullende aanbeveling"
+   },
+   "additionalRecommendations": {
+      "message": "aanvullende aanbevelingen"
+   },
+   "agenticActionAskUserSelect": {
+      "message": "Je vragen om te kiezen"
+   },
+   "agenticActionCaptureDropdown": {
+      "message": "Vervolgkeuzemenu-opties van $1 vastleggen"
+   },
+   "agenticActionCaptureDropdownActive": {
+      "message": "Vervolgkeuzemenu-opties opnemen van $1"
+   },
+   "agenticActionCaptureDropdownPast": {
+      "message": "Vervolgkeuzemenu-opties van $1 vastgelegd"
+   },
+   "agenticActionCaptureStoreAsDetail": {
+      "message": "Opslaan als $1"
+   },
+   "agenticActionClick": {
+      "message": "Klik op $1"
+   },
+   "agenticActionClickActive": {
+      "message": "Klikken op $1"
+   },
+   "agenticActionClickPast": {
+      "message": "Op $1 geklikt"
+   },
+   "agenticActionCloseTab": {
+      "message": "Tabblad $1 sluiten"
+   },
+   "agenticActionCloseTabActive": {
+      "message": "$1 sluiten"
+   },
+   "agenticActionCloseTabPast": {
+      "message": "$1 gesloten"
+   },
+   "agenticActionCopyMatchDetail": {
+      "message": "Overeenkomst $1"
+   },
+   "agenticActionCopyMatchingText": {
+      "message": "Kopieer overeenkomende tekst naar cache $1"
+   },
+   "agenticActionCopyMatchingTextActive": {
+      "message": "Overeenkomende tekst kopiëren naar cache $1"
+   },
+   "agenticActionCopyMatchingTextPast": {
+      "message": "Overeenkomende tekst gekopieerd naar cache $1"
+   },
+   "agenticActionCopyTextFromTarget": {
+      "message": "Tekst van $1 kopiëren naar cache $2"
+   },
+   "agenticActionCopyTextFromTargetActive": {
+      "message": "Tekst van $1 wordt gekopieerd naar cache $2"
+   },
+   "agenticActionCopyTextFromTargetPast": {
+      "message": "Tekst van $1 gekopieerd naar cache $2"
+   },
+   "agenticActionCopyVisibleText": {
+      "message": "Kopieer zichtbare tekst naar cache $1"
+   },
+   "agenticActionCopyVisibleTextActive": {
+      "message": "Zichtbare tekst wordt gekopieerd naar cache $1"
+   },
+   "agenticActionCopyVisibleTextPast": {
+      "message": "Zichtbare tekst gekopieerd naar cache $1"
+   },
+   "agenticActionGetDropdownOptions": {
+      "message": "Opties van $1 lezen"
+   },
+   "agenticActionGoToUrl": {
+      "message": "Ga naar $1"
+   },
+   "agenticActionHover": {
+      "message": "$1 bewerken"
+   },
+   "agenticActionNeededTitle": {
+      "message": "Actie vereist"
+   },
+   "agenticActionOpenNewTab": {
+      "message": "Nieuw tabblad openen"
+   },
+   "agenticActionOpenPage": {
+      "message": "Een nieuwe pagina openen"
+   },
+   "agenticActionOpenPageActive": {
+      "message": "Een nieuwe pagina openen"
+   },
+   "agenticActionOpenPagePast": {
+      "message": "Een nieuwe pagina geopend"
+   },
+   "agenticActionOpenRelativePath": {
+      "message": "Een relatief pad openen"
+   },
+   "agenticActionOpenRelativePathActive": {
+      "message": "Een relatief pad openen"
+   },
+   "agenticActionOpenRelativePathPast": {
+      "message": "Heeft een relatief pad geopend"
+   },
+   "agenticActionOpenTab": {
+      "message": "Tabblad openen voor $1"
+   },
+   "agenticActionOpenTabActive": {
+      "message": "Een nieuw tabblad openen"
+   },
+   "agenticActionOpenTabDestinationDetail": {
+      "message": "Bestemming: $1"
+   },
+   "agenticActionOpenTabPast": {
+      "message": "Een nieuw tabblad geopend"
+   },
+   "agenticActionPaste": {
+      "message": "Plakken in $1"
+   },
+   "agenticActionPasteSourceDetail": {
+      "message": "Broncache: $1"
+   },
+   "agenticActionPasteText": {
+      "message": "Opgeslagen tekst plakken in $1"
+   },
+   "agenticActionPasteTextActive": {
+      "message": "Opgeslagen tekst plakken in $1"
+   },
+   "agenticActionPasteTextPast": {
+      "message": "Opgeslagen tekst geplakt in $1"
+   },
+   "agenticActionReloadPage": {
+      "message": "De pagina opnieuw laden"
+   },
+   "agenticActionReloadPageActive": {
+      "message": "De pagina opnieuw laden"
+   },
+   "agenticActionReloadPagePast": {
+      "message": "Heeft de pagina opnieuw geladen"
+   },
+   "agenticActionScrollBottom": {
+      "message": "Naar beneden scrollen"
+   },
+   "agenticActionScrollBottomActive": {
+      "message": "Naar de onderkant van de pagina scrollen"
+   },
+   "agenticActionScrollBottomPast": {
+      "message": "Gescrold naar de onderkant van de pagina"
+   },
+   "agenticActionScrollElementPercent": {
+      "message": "$1 scrollen naar $2%"
+   },
+   "agenticActionScrollIntoViewDetail": {
+      "message": "Scrol voordat je interactie hebt met een element buiten het scherm."
+   },
+   "agenticActionScrollPercent": {
+      "message": "Naar $1% scrollen"
+   },
+   "agenticActionScrollPercentActive": {
+      "message": "$1 scrollen naar $2"
+   },
+   "agenticActionScrollPercentPage": {
+      "message": "de pagina"
+   },
+   "agenticActionScrollPercentPast": {
+      "message": "$1 naar $2 gescrold"
+   },
+   "agenticActionScrollTo": {
+      "message": "Scrollen naar $1"
+   },
+   "agenticActionScrollToActive": {
+      "message": "Scrollen naar $1"
+   },
+   "agenticActionScrollToPast": {
+      "message": "Gescrold naar $1"
+   },
+   "agenticActionScrollTop": {
+      "message": "Naar boven scrollen"
+   },
+   "agenticActionScrollTopActive": {
+      "message": "Naar de bovenkant van de pagina scrollen"
+   },
+   "agenticActionScrollTopPast": {
+      "message": "Gescrold naar de bovenkant van de pagina"
+   },
+   "agenticActionSelect": {
+      "message": "$1 selecteren in $2"
+   },
+   "agenticActionSelectActive": {
+      "message": "$1 selecteren in $2"
+   },
+   "agenticActionSelectPast": {
+      "message": "$1 geselecteerd in $2"
+   },
+   "agenticActionSfAskOpportunityPreference": {
+      "message": "Vragen over het bijhouden van kansen"
+   },
+   "agenticActionSfConfirmFieldMappings": {
+      "message": "Veldtoewijzingen bevestigen"
+   },
+   "agenticActionSfGetFieldMappings": {
+      "message": "Aanbevolen veldtoewijzingen ontvangen"
+   },
+   "agenticActionSfMutateWebhookIntegration": {
+      "message": "Webhook-integratie instellen"
+   },
+   "agenticActionSwitchTab": {
+      "message": "Overschakelen naar tabblad $1"
+   },
+   "agenticActionSwitchTabActive": {
+      "message": "Overschakelen naar $1"
+   },
+   "agenticActionSwitchTabPast": {
+      "message": "Overgeschakeld naar $1"
+   },
+   "agenticActionTypeInto": {
+      "message": "Typ in $1"
+   },
+   "agenticActionTypeIntoActive": {
+      "message": "Typen in $1"
+   },
+   "agenticActionTypeIntoPast": {
+      "message": "Getypt in $1"
+   },
+   "agenticAskUserSelectDescriptionFallback": {
+      "message": "Selecteer een optie om door te gaan."
+   },
+   "agenticAskUserSelectFieldLabel": {
+      "message": "Optie"
+   },
+   "agenticAskUserSelectPlaceholder": {
+      "message": "Selecteer een optie"
+   },
+   "agenticConnectionFailed": {
+      "message": "Opnieuw verbinding maken is mislukt. Vernieuw de pagina."
+   },
+   "agenticConnectionReconnecting": {
+      "message": "Verbinding verbroken. Opnieuw verbinding maken... ($1/$2)"
+   },
+   "agenticDefaultWaitPrompt": {
+      "message": "Voltooi de opgevraagde actie."
+   },
+   "agenticElementNameOnly": {
+      "message": "\"$1\""
+   },
+   "agenticElementNounAccordion": {
+      "message": "accordeon"
+   },
+   "agenticElementNounBanner": {
+      "message": "banner"
+   },
+   "agenticElementNounButton": {
+      "message": "knop"
+   },
+   "agenticElementNounCard": {
+      "message": "notitie"
+   },
+   "agenticElementNounCell": {
+      "message": "cel"
+   },
+   "agenticElementNounCheckbox": {
+      "message": "selectievakje"
+   },
+   "agenticElementNounChip": {
+      "message": "chip"
+   },
+   "agenticElementNounDialog": {
+      "message": "dialoogvenster"
+   },
+   "agenticElementNounDropdown": {
+      "message": "vervolgkeuzemenu"
+   },
+   "agenticElementNounElement": {
+      "message": "element"
+   },
+   "agenticElementNounFileInput": {
+      "message": "bestandsinput"
+   },
+   "agenticElementNounImage": {
+      "message": "afbeelding"
+   },
+   "agenticElementNounInputField": {
+      "message": "invoerveld"
+   },
+   "agenticElementNounItem": {
+      "message": "item"
+   },
+   "agenticElementNounLink": {
+      "message": "link"
+   },
+   "agenticElementNounMenu": {
+      "message": "menu"
+   },
+   "agenticElementNounOption": {
+      "message": "optie"
+   },
+   "agenticElementNounPanel": {
+      "message": "deelvenster"
+   },
+   "agenticElementNounRadioButton": {
+      "message": "keuzerondje"
+   },
+   "agenticElementNounRow": {
+      "message": "rij"
+   },
+   "agenticElementNounStep": {
+      "message": "stap"
+   },
+   "agenticElementNounSubmitButton": {
+      "message": "verzendknop"
+   },
+   "agenticElementNounTab": {
+      "message": "tabblad"
+   },
+   "agenticElementNounTextArea": {
+      "message": "tekstgebied"
+   },
+   "agenticElementNounTile": {
+      "message": "tegel"
+   },
+   "agenticElementNounToggle": {
+      "message": "schuifregelaar"
+   },
+   "agenticElementWithName": {
+      "message": "$2 '$1'"
+   },
+   "agenticErrorApi": {
+      "message": "Niet mogelijk om verbinding te maken met AI-dienst. Opnieuw proberen?"
+   },
+   "agenticErrorRateLimit": {
+      "message": "AI-dienst is bezet. Wacht even of probeer het later opnieuw."
+   },
+   "agenticErrorTimeout": {
+      "message": "AI duurt er langer over dan verwacht. Opnieuw proberen?"
+   },
+   "agenticErrorTitle": {
+      "message": "Fout"
+   },
+   "agenticErrorUnknown": {
+      "message": "Er is iets fout gegaan. Opnieuw proberen?"
+   },
+   "agenticNavigationPageLoadFailed": {
+      "message": "Pagina laden is mislukt. Opnieuw proberen..."
+   },
+   "agenticNavigationReorienting": {
+      "message": "Onverwachte navigatie op pagina. Opnieuw positioneren..."
+   },
+   "agenticPleaseCompleteAction": {
+      "message": "Voltooi de actie om door te gaan"
+   },
+   "agenticReconnectNow": {
+      "message": "Nu opnieuw verbinding maken"
+   },
+   "agenticResyncWithPage": {
+      "message": "Opnieuw synchroniseren met pagina"
+   },
+   "agenticScrollPercentFallback": {
+      "message": "het aangevraagde punt"
+   },
+   "agenticTabFallbackById": {
+      "message": "tabblad $1"
+   },
+   "agenticTabFallbackSelected": {
+      "message": "het geselecteerde tabblad"
+   },
+   "agenticThinking": {
+      "message": "Aan het denken…"
+   },
+   "agenticTryAgain": {
+      "message": "Opnieuw"
+   },
+   "agenticVerbClick": {
+      "message": "Klik"
+   },
+   "agenticVerbCopyText": {
+      "message": "Tekst kopiëren"
+   },
+   "agenticVerbEnterText": {
+      "message": "Tekst invoeren"
+   },
+   "agenticVerbPasteText": {
+      "message": "Tekst plakken"
+   },
+   "agenticVerbReadDropdown": {
+      "message": "Opties in vervolgkeuzemenu lezen"
+   },
+   "agenticVerbScrollToElement": {
+      "message": "Naar element scrollen"
+   },
+   "agenticVerbSelectOption": {
+      "message": "Optie selecteren"
+   },
+   "agenticWaitingForAction": {
+      "message": "Wachten op je actie..."
+   },
+   "allRecommendationsHeader": {
+      "message": "Alle aanbevelingen"
+   },
+   "automatableBadge": {
+      "message": "Automatiseren"
+   },
+   "automationFlowCompleteTitle": {
+      "message": "Google Tag Manager instellen"
+   },
+   "automationSuccessFeedbackCommentPlaceholder": {
+      "message": "Optioneel: voeg een opmerking toe"
+   },
+   "automationSuccessFeedbackFallbackName": {
+      "message": "Automatisering"
+   },
+   "automationSuccessFeedbackPromptTitle": {
+      "message": "Hoe was dit resultaat?"
+   },
+   "automationSuccessFeedbackStarLabel": {
+      "message": "sterbeoordeling"
+   },
+   "automationSuccessFeedbackSubmitError": {
+      "message": "Feedback verzenden is mislukt"
+   },
+   "buttonLoading": {
+      "message": "Laden..."
+   },
+   "buttonStartEventSetupTool": {
+      "message": "Gebeurtenissen instellen"
+   },
+   "buttonTroubleshootPixel": {
+      "message": "Problemen met de pixel oplossen"
+   },
+   "cancelAutomationCancelButton": {
+      "message": "Automatisering annuleren"
+   },
+   "cancelAutomationCancellingButton": {
+      "message": "Annuleren..."
+   },
+   "cancelAutomationFromVerificationCancelButton": {
+      "message": "Automatisering annuleren"
+   },
+   "cancelAutomationFromVerificationMessage": {
+      "message": "We kunnen de status van deze actie nog steeds niet verifiëren. Annuleer de automatisering om handmatig in te stellen."
+   },
+   "cancelAutomationFromVerificationTitle": {
+      "message": "Automatisering annuleren"
+   },
+   "cancelAutomationFromVerificationTryAgainButton": {
+      "message": "Opnieuw"
+   },
+   "cancelAutomationResumeButton": {
+      "message": "Automatisering hervatten"
+   },
+   "cancelAutomationTitle": {
+      "message": "Weet je zeker dat je de automatisering wilt sluiten en annuleren?"
+   },
+   "cancelSetupCancelButton": {
+      "message": "Instellen annuleren"
+   },
+   "cancelSetupResumeButton": {
+      "message": "Configuratie hervatten"
+   },
+   "cancelSetupTitle": {
+      "message": "Weet je zeker dat je de configuratie wilt sluiten en annuleren?"
+   },
+   "capiFieldCity": {
+      "message": "Woonplaats"
+   },
+   "capiFieldClickId": {
+      "message": "Klik-ID"
+   },
+   "capiFieldCountry": {
+      "message": "Land"
+   },
+   "capiFieldDateOfBirth": {
+      "message": "Geboortedatum"
+   },
+   "capiFieldEmail": {
+      "message": "E-mailadres"
+   },
+   "capiFieldEventName": {
+      "message": "Evenementnaam"
+   },
+   "capiFieldEventTime": {
+      "message": "Tijd van evenement"
+   },
+   "capiFieldExternalId": {
+      "message": "Externe ID"
+   },
+   "capiFieldFirstName": {
+      "message": "Voornaam"
+   },
+   "capiFieldGender": {
+      "message": "Geslacht"
+   },
+   "capiFieldLastName": {
+      "message": "Achternaam"
+   },
+   "capiFieldLeadId": {
+      "message": "Meta lead-ID"
+   },
+   "capiFieldPhone": {
+      "message": "Telefoonnummer"
+   },
+   "capiFieldState": {
+      "message": "Staat/provincie"
+   },
+   "capiFieldZipCode": {
+      "message": "Postcode"
+   },
+   "catalogConnectedTo": {
+      "message": "Gekoppeld aan $1"
+   },
+   "catalogConnections": {
+      "message": "Koppelingen"
+   },
+   "catalogCsvHeaderHowToFix": {
+      "message": "Oplossen"
+   },
+   "catalogCsvHeaderIssueType": {
+      "message": "Type probleem"
+   },
+   "catalogCsvHeaderMoreInfo": {
+      "message": "Meer informatie"
+   },
+   "catalogCsvHeaderSampleType": {
+      "message": "Voorbeeldtype"
+   },
+   "catalogCsvHeaderSampleValue": {
+      "message": "Voorbeeldwaarde"
+   },
+   "catalogCsvHeaderTotalReceived": {
+      "message": "Totaal aantal ontvangen"
+   },
+   "catalogCsvHowToFixText": {
+      "message": "Meer informatie over hoe je producten toevoegt aan je catalogus: https://www.facebook.com/business/help/384041892421495?id=725943027795860"
+   },
+   "catalogCsvMoreInfoText": {
+      "message": "Voeg de producten voor deze content-ID's toe aan je catalogus of zorg dat je de juiste content-ID's in je gebeurtenissen verzendt"
+   },
+   "catalogCsvUnmatchedEvents": {
+      "message": "Niet-overeenkomende gebeurtenissen"
+   },
+   "catalogEventNameAddToCart": {
+      "message": "Toevoegingen aan winkelwagentje"
+   },
+   "catalogEventNameAddToWishlist": {
+      "message": "Toevoegingen aan verlanglijstje"
+   },
+   "catalogEventNameInitiateCheckout": {
+      "message": "Gestarte betaalprocessen"
+   },
+   "catalogEventNameLead": {
+      "message": "Leads"
+   },
+   "catalogEventNamePurchase": {
+      "message": "Aankopen"
+   },
+   "catalogEventNameSearch": {
+      "message": "Zoekopdrachten"
+   },
+   "catalogEventNameSubscribe": {
+      "message": "Abonnementen"
+   },
+   "catalogEventNameViewContent": {
+      "message": "Paginaweergaven"
+   },
+   "catalogFooterManageConnection": {
+      "message": "Koppeling beheren"
+   },
+   "catalogFooterViewInCommerceManager": {
+      "message": "Bekijken in Handelsbeheer"
+   },
+   "catalogLiveMatchCount": {
+      "message": "$1 / $2 producten gekoppeld"
+   },
+   "catalogLoadError": {
+      "message": "Laden van catalogusgegevens is mislukt"
+   },
+   "catalogManageCatalogConnections": {
+      "message": "Catalogusconnecties beheren"
+   },
+   "catalogMatchRate": {
+      "message": "$1% overeenkomstpercentage catalogus"
+   },
+   "catalogMatchRateAdsImpactedBody": {
+      "message": "Bij $1% heb je beperkte producten beschikbaar voor advertentietargeting. Dit kan leiden tot kleinere doelgroepen, hogere kosten en minder verkopen."
+   },
+   "catalogMatchRateAdsImpactedFollowup": {
+      "message": "Bekijk hieronder hoe je je overeenkomstpercentage kunt verbeteren."
+   },
+   "catalogMatchRateAdsImpactedTitle": {
+      "message": "Mogelijk zijn er gevolgen voor je advertenties"
+   },
+   "catalogMatchRateByEventHeader": {
+      "message": "Productovereenkomsten per gebeurtenis"
+   },
+   "catalogMatchRateDescription": {
+      "message": "van productinteracties komt overeen met producten in deze catalogus"
+   },
+   "catalogMatchRateHeader": {
+      "message": "Overeenkomstpercentage catalogus"
+   },
+   "catalogMatchRateImproveStep1Body": {
+      "message": "Zorg dat al je producten in je catalogus staan."
+   },
+   "catalogMatchRateImproveStep1Title": {
+      "message": "Gesynchroniseerde producten bekijken"
+   },
+   "catalogMatchRateImproveStep2Body": {
+      "message": "Product-ID's moeten exact overeenkomen met je catalogus."
+   },
+   "catalogMatchRateImproveStep2Title": {
+      "message": "Product-ID's verifiëren"
+   },
+   "catalogMatchRateImproveStep3Body": {
+      "message": "Zorg dat je pixel- en conversiegebeurtenissen correct werken."
+   },
+   "catalogMatchRateImproveStep3Title": {
+      "message": "Gebeurtenisconfiguratie verifiëren"
+   },
+   "catalogMatchRateImproveTitle": {
+      "message": "Je overeenkomstpercentage voor producten verbeteren"
+   },
+   "catalogMatchRateLearnMore": {
+      "message": "Meer informatie"
+   },
+   "catalogMatchRateMissing": {
+      "message": "Ontbrekend"
+   },
+   "catalogMatchRateTimeframe": {
+      "message": "Bij alle gekoppelde websites in de afgelopen 28 dagen"
+   },
+   "catalogMatchRateWarning": {
+      "message": "We raden aan het overeenkomstpercentage van je catalogus boven de 90% te houden."
+   },
+   "catalogMenuCopyCatalogId": {
+      "message": "Catalogus-ID kopiëren"
+   },
+   "catalogMenuGiveFeedback": {
+      "message": "Feedback geven"
+   },
+   "catalogMenuGoToCatalog": {
+      "message": "Naar catalogus"
+   },
+   "catalogMenuMoreOptions": {
+      "message": "Meer opties"
+   },
+   "catalogMoreCatalogs": {
+      "message": "$1 of meer catalogi"
+   },
+   "catalogOnboardingBannerLearnMore": {
+      "message": "Weergeven"
+   },
+   "catalogOnboardingBannerText": {
+      "message": "Je kunt nu je catalogi naast je pixels zien, met dezelfde statuscontroles en waarschuwingen."
+   },
+   "catalogPixelAssociatedWebsites": {
+      "message": "Gekoppelde websites"
+   },
+   "catalogPixelConnectionDetailsHeader": {
+      "message": "Details van pixel-koppeling"
+   },
+   "catalogPixelProducts": {
+      "message": "Producten"
+   },
+   "catalogProductImageAlt": {
+      "message": "Productafbeelding"
+   },
+   "catalogProductMatchedBadge": {
+      "message": "Komt overeen"
+   },
+   "catalogProductNotMatchedBadge": {
+      "message": "Komt niet overeen"
+   },
+   "catalogProductsSectionTitle": {
+      "message": "Producten op deze pagina"
+   },
+   "catalogUnmatchedAddProductsDescription": {
+      "message": "Mensen hebben interactie met producten op je website die niet overeenkomen met een aan je pixel gekoppelde catalogus. Zorg dat alle producten op je website zijn toegevoegd aan je catalogus"
+   },
+   "catalogUnmatchedAddProductsLink": {
+      "message": "Meer informatie over hoe je producten toevoegt"
+   },
+   "catalogUnmatchedAddProductsTitle": {
+      "message": "Voeg producten aan je catalogus toe waarmee mensen interactie hebben gehad"
+   },
+   "catalogUnmatchedContentIdColumnHeader": {
+      "message": "Content-ID"
+   },
+   "catalogUnmatchedDescription": {
+      "message": "Voeg de producten voor deze content-ID's toe in je catalogus of zorg dat je de juiste content-ID's verstuurt in je gebeurtenissen."
+   },
+   "catalogUnmatchedDownloadList": {
+      "message": "Lijst downloaden"
+   },
+   "catalogUnmatchedOtherWaysHeader": {
+      "message": "Andere manieren om dit probleem op te lossen"
+   },
+   "catalogUnmatchedRecommendationsHeader": {
+      "message": "Aanbevelingen"
+   },
+   "catalogUnmatchedSendContentIdDescription": {
+      "message": "Controleer of je de juiste content-ID verstuurt die overeenkomt met een product in deze catalogus of een aan je pixel gekoppelde catalogus."
+   },
+   "catalogUnmatchedSendContentIdTitle": {
+      "message": "De overeenkomende content-ID verzenden"
+   },
+   "catalogUnmatchedTitle": {
+      "message": "Sommige content-ID's komen niet overeen met catalogi"
+   },
+   "catalogUnmatchedTopInteractionsHeader": {
+      "message": "Meestvoorkomende interacties met problemen"
+   },
+   "catalogUnmatchedTotalReceivedColumnHeader": {
+      "message": "Totaal ontvangen"
+   },
+   "catalogWarningsFromPixel": {
+      "message": "Van $1"
+   },
+   "catalogWarningsHeader": {
+      "message": "Waarschuwingen"
+   },
+   "catalogWarningsUnmatchedProductsDescription": {
+      "message": "Content-ID's komen niet overeen met catalogi"
+   },
+   "catalogWarningsUnmatchedProductsHeader": {
+      "message": "Niet-overeenkomende producten"
+   },
+   "confirmEventsToSetUpHeader": {
+      "message": "Bevestig de gebeurtenissen die je wilt instellen"
+   },
+   "continueButton": {
+      "message": "Doorgaan"
+   },
+   "continueToNextDatasetButton": {
+      "message": "Doorgaan met volgende gegevensset"
+   },
+   "copyToClipboardCopied": {
+      "message": "Gekopieerd!"
+   },
+   "copyToClipboardTitle": {
+      "message": "Naar klembord kopiëren"
+   },
+   "create_new_asset_already_added": {
+      "message": "Al toegevoegd"
+   },
+   "create_new_asset_button": {
+      "message": "Nieuwe maken"
+   },
+   "customConversionActionSourceLabel": {
+      "message": "Actiebron"
+   },
+   "customConversionEventLabel": {
+      "message": "Gebeurtenis"
+   },
+   "customConversionNameLabel": {
+      "message": "Naam"
+   },
+   "customConversionRulesLabel": {
+      "message": "Regels"
+   },
+   "customConversionValueFormat": {
+      "message": "$$1"
+   },
+   "customConversionValueLabel": {
+      "message": "Standaardwaarde"
+   },
+   "datasetIdPrefix": {
+      "message": "ID: $1"
+   },
+   "datasetsAffected": {
+      "message": "Van invloed op $1 gegevenssets"
+   },
+   "dropdownSearchPlaceholder": {
+      "message": "Zoeken"
+   },
+   "dropdownTagIdentifier": {
+      "message": "Identifier"
+   },
+   "dropdownTagRecommended": {
+      "message": "Aanbevolen"
+   },
+   "duplicateEventMessage": {
+      "message": "Gebeurtenis $1 is $2 keer geactiveerd met identieke gegevens. Dit kan leiden tot trackingfouten"
+   },
+   "duplicateEventRecommendation": {
+      "message": "Controleer je pixelimplementatie om te zorgen dat gebeurtenissen niet onbedoeld meerdere keren worden geactiveerd. Dit gebeurt vaak wanneer dezelfde gebeurteniscode meerdere keren wordt uitgevoerd of wanneer de pixel meerdere keren wordt geïnitialiseerd."
+   },
+   "emptyActionsStateDescriptionPart1": {
+      "message": "Bezoek"
+   },
+   "emptyActionsStateDescriptionPart2": {
+      "message": "voor prestatiekansen"
+   },
+   "emptyActionsStateEventsManagerLink": {
+      "message": "Gebeurtenisbeheer"
+   },
+   "emptyActionsStateTitle": {
+      "message": "Geen beschikbare acties"
+   },
+   "enableFreeCAPIGButton": {
+      "message": "Inschakelen"
+   },
+   "error_generic": {
+      "message": "Er is een fout opgetreden"
+   },
+   "eventDeduplicated": {
+      "message": "Gededupliceerd"
+   },
+   "eventDetailsAdvancedMatchingHeader": {
+      "message": "Parameters voor geavanceerde overeenkomsten verzonden"
+   },
+   "eventDetailsBrowserOnlyAriaLabel": {
+      "message": "Parameter alleen in browserdata"
+   },
+   "eventDetailsBrowserOnlyBadge": {
+      "message": "Alleen browser"
+   },
+   "eventDetailsCustomParamsHeader": {
+      "message": "Aangepaste parameters"
+   },
+   "eventDetailsDpoHeader": {
+      "message": "Gegevensverwerkingsparameters verzonden"
+   },
+   "eventDetailsDpoWarning": {
+      "message": "Aangezien opties voor gegevensverwerking worden verzonden, werken aangepaste conversies of catalogusfeedback mogelijk niet."
+   },
+   "eventDetailsEventIdLabel": {
+      "message": "Gebeurtenis-ID"
+   },
+   "eventDetailsEventInfoHeader": {
+      "message": "Gebeurtenisinformatie"
+   },
+   "eventDetailsFrameIFrame": {
+      "message": "IFrame"
+   },
+   "eventDetailsFrameLabel": {
+      "message": "Kader"
+   },
+   "eventDetailsFrameWindow": {
+      "message": "Venster"
+   },
+   "eventDetailsLoadTimeLabel": {
+      "message": "Laadtijd"
+   },
+   "eventDetailsPixelCodeLabel": {
+      "message": "Pixelcode"
+   },
+   "eventDetailsPixelLocationLabel": {
+      "message": "Pixellocatie"
+   },
+   "eventDetailsServerOnlyAriaLabel": {
+      "message": "Parameter alleen in serverdata"
+   },
+   "eventDetailsServerOnlyBadge": {
+      "message": "Alleen server"
+   },
+   "eventDetailsSetupMethodAutomatic": {
+      "message": "Automatisch"
+   },
+   "eventDetailsSetupMethodLabel": {
+      "message": "Instelmethode"
+   },
+   "eventDetailsSetupMethodManual": {
+      "message": "Handmatig"
+   },
+   "eventDetailsUrlCalledLabel": {
+      "message": "URL aangeroepen"
+   },
+   "eventsHeader": {
+      "message": "Gebeurtenissen"
+   },
+   "eventsOnThisPageHeader": {
+      "message": "Gebeurtenissen op deze pagina"
+   },
+   "extensionDescription": {
+      "message": "De Meta-pixel Helper is een probleemoplossingstool waarmee je je pixel-implementatie kunt valideren."
+   },
+   "extensionName": {
+      "message": "Meta-pixel Helper"
+   },
+   "feedbackAddButton": {
+      "message": "Toevoegen"
+   },
+   "feedbackAttachScreenshots": {
+      "message": "Screenshots toevoegen"
+   },
+   "feedbackAutomaticScreenshot": {
+      "message": "Automatische screenshot"
+   },
+   "feedbackDeleteAttachment": {
+      "message": "Bijlage verwijderen"
+   },
+   "feedbackDescriptionPlaceholder": {
+      "message": "Beschrijf de feedback uitvoerig"
+   },
+   "feedbackDropdownLabel": {
+      "message": "Feedback geven"
+   },
+   "feedbackErrorScreenshotLabel": {
+      "message": "Screenshot van fout"
+   },
+   "feedbackPageDescription": {
+      "message": "Je kunt bijdragen aan het verbeteringen door problemen te rapporteren en feedback te geven."
+   },
+   "feedbackPagePrivacyLink": {
+      "message": "Bekijk hoe we deze gegevens gebruiken."
+   },
+   "feedbackPageTitle": {
+      "message": "Feedback verzenden"
+   },
+   "feedbackReceivedSubTitle": {
+      "message": "Fijn dat je deze ervaring wilt verbeteren."
+   },
+   "feedbackReceivedTitle": {
+      "message": "Feedback ontvangen"
+   },
+   "feedbackReturnToPreviousPage": {
+      "message": "Terug naar vorige pagina"
+   },
+   "feedbackSelectorTypeBug": {
+      "message": "Bug"
+   },
+   "feedbackSelectorTypeFeatureRequest": {
+      "message": "Functieverzoek"
+   },
+   "feedbackSelectorTypeGeneralFeedback": {
+      "message": "Algemene feedback"
+   },
+   "feedbackSelectorTypeQuestion": {
+      "message": "Welk type feedback?"
+   },
+   "feedbackStoredLocally": {
+      "message": "Lokaal opgeslagen"
+   },
+   "feedbackSubmitButton": {
+      "message": "Verzenden"
+   },
+   "feedbackSubmitDisabledTooltip": {
+      "message": "Vul alle vereiste velden in om feedback te verzenden"
+   },
+   "feedbackSubmittingButton": {
+      "message": "Verzenden..."
+   },
+   "feedbackTitleLabel": {
+      "message": "Feedbacktitel"
+   },
+   "feedbackUploadButton": {
+      "message": "Uploaden"
+   },
+   "fieldItemCopyTooltip": {
+      "message": "$1 kopiëren"
+   },
+   "fieldItemHide": {
+      "message": "Verbergen"
+   },
+   "fieldItemShow": {
+      "message": "Weergeven"
+   },
+   "freeCapigL2DisableNote": {
+      "message": "Je kunt dit wanneer je wilt uitschakelen in Gebeurtenisbeheer."
+   },
+   "freeCapigL2ReturnHome": {
+      "message": "Terug naar startpagina"
+   },
+   "freeCapigL2SeeTermsLabel": {
+      "message": "Voorwaarden bekijken"
+   },
+   "freeCapigL2SetupStep1": {
+      "message": "Meta stelt de verbinding aan de serverzijde op de achtergrond in."
+   },
+   "freeCapigL2SetupStep2": {
+      "message": "Je pixelgebeurtenissen worden automatisch gespiegeld in de Conversions API"
+   },
+   "freeCapigL2SetupStep3": {
+      "message": "Profiteer van de betrouwbaardere bijgehouden gegevens aan de serverzijde!"
+   },
+   "freeCapigL2SuccessExplainerEMLink": {
+      "message": "Gebeurtenisbeheer"
+   },
+   "freeCapigL2SuccessExplainerPrefix": {
+      "message": "De wijzigingen worden binnen de komende 7 dagen van kracht. Ontdek en bewerk de wijzigingen in"
+   },
+   "freeCapigL2SuccessExplainerSuffix": {
+      "message": "wanneer je wilt."
+   },
+   "freeCapigL2SuccessTitle": {
+      "message": "Conversions API ingeschakeld"
+   },
+   "freeCapigL2TermsBusinessToolsTermsLink": {
+      "message": "Voorwaarden voor bedrijfstools"
+   },
+   "freeCapigL2TermsDisclosureMiddle": {
+      "message": "en"
+   },
+   "freeCapigL2TermsDisclosurePrefix": {
+      "message": "Door verder te gaan, geef je Meta hierbij toestemming en de instructie om namens jou een Meta-gestuurde Conversions API-integratie in te stellen. Ook ga je ermee akkoord dat je gebruik van de integratie onderhevig is aan Meta's"
+   },
+   "freeCapigL2TermsPlatformTermsLink": {
+      "message": "Platformvoorwaarden"
+   },
+   "freeCapigOptInErrorMessage": {
+      "message": "Kan Conversions API niet inschakelen. Probeer het opnieuw of stel dit in via Gebeurtenisbeheer."
+   },
+   "freeCapigOptInLoadingLabel": {
+      "message": "Inschakelen…"
+   },
+   "freeCapigOptInSuccessTitle": {
+      "message": "Conversions API ingeschakeld!"
+   },
+   "ga_account_creation_title": {
+      "message": "Google Analytics-account"
+   },
+   "ga_account_display_name_label": {
+      "message": "Accountnaam"
+   },
+   "ga_property_creation_title": {
+      "message": "Google Analytics-eigenschap"
+   },
+   "ga_property_display_name_label": {
+      "message": "Naam van eigenschap"
+   },
+   "ga_property_time_zone_label": {
+      "message": "Tijdzone"
+   },
+   "ga_stream_creation_title": {
+      "message": "Google Analytics-webstream"
+   },
+   "ga_stream_display_name_label": {
+      "message": "Streamnaam"
+   },
+   "ga_stream_url_label": {
+      "message": "URL van website"
+   },
+   "go_back": {
+      "message": "Terug"
+   },
+   "gtmAccountSelectorLabel": {
+      "message": "Google Tag Manager-account"
+   },
+   "gtmAccountSelectorPlaceholder": {
+      "message": "Een account selecteren"
+   },
+   "gtmChooseHostingProvider": {
+      "message": "Kies een hostingprovider:"
+   },
+   "gtmCreateNewServerContainer": {
+      "message": "Nieuwe servercontainer maken"
+   },
+   "gtmHostingGoogleBullet1": {
+      "message": "Geen ontwikkelaar nodig"
+   },
+   "gtmHostingGoogleBullet2": {
+      "message": "Ongeveer 30 minuten"
+   },
+   "gtmHostingGoogleBullet3": {
+      "message": "Betalen voor cloudbronnen"
+   },
+   "gtmHostingGoogleBullet4": {
+      "message": "Volledig aanpasbaar"
+   },
+   "gtmHostingGoogleDescription": {
+      "message": "Integreer Google Tag Manager rechtstreeks om je tags te stroomlijnen en te beheren. Ideaal voor degenen die hun tags willen beheren met de native tools van Google."
+   },
+   "gtmHostingGoogleLabel": {
+      "message": "Google"
+   },
+   "gtmHostingStapeBullet1": {
+      "message": "Geen ontwikkelaar nodig"
+   },
+   "gtmHostingStapeBullet2": {
+      "message": "Ongeveer 15 minuten"
+   },
+   "gtmHostingStapeBullet3": {
+      "message": "Freemium-abonnement beschikbaar"
+   },
+   "gtmHostingStapeBullet4": {
+      "message": "Prijzen op basis van abonnementen"
+   },
+   "gtmHostingStapeDescription": {
+      "message": "Stape vereenvoudigt de configuratie van je servercontainer en regelt de hosting voor je. Er is een gratis niveau beschikbaar."
+   },
+   "gtmHostingStapeLabel": {
+      "message": "Stape"
+   },
+   "gtmInvalidUrlError": {
+      "message": "Voer een geldige URL in."
+   },
+   "gtmServerConnectionOptionGoogleTagManager": {
+      "message": "Google Tag Manager"
+   },
+   "gtmServerConnectionOptionMetaEnabledCapig": {
+      "message": "Door Meta ingeschakelde Conversions API (aanbevolen)"
+   },
+   "gtmServerConnectionOptionNone": {
+      "message": "Geen"
+   },
+   "gtmServerConnectionSelectorLabel": {
+      "message": "Serververbinding"
+   },
+   "gtmServerContainerLabel": {
+      "message": "Servercontainer"
+   },
+   "gtmServerContainerNotProvisionedWarning": {
+      "message": "Deze server is niet geconfigureerd"
+   },
+   "gtmServerContainerPlaceholder": {
+      "message": "Een servercontainer selecteren"
+   },
+   "gtmStepAnalyticsStream": {
+      "message": "Analysestream"
+   },
+   "gtmStepGtmAccount": {
+      "message": "GTM-account"
+   },
+   "gtmStepPreExistingTooltip": {
+      "message": "Dit bedrijfsmiddel bestond al of is geautomatiseerd via API."
+   },
+   "gtmStepProvisionedServerContainer": {
+      "message": "Toegewezen servercontainer"
+   },
+   "gtmStepPublished": {
+      "message": "Gepubliceerd"
+   },
+   "gtmStepServerContainer": {
+      "message": "Servercontainer"
+   },
+   "gtmStepWebContainer": {
+      "message": "Webcontainer"
+   },
+   "gtmTaggingServerUrlLabel": {
+      "message": "Taggingserver-URL"
+   },
+   "gtmTaggingServerUrlPlaceholder": {
+      "message": "https://your-tagging-server.example.com"
+   },
+   "gtm_account_creation_title": {
+      "message": "Google Tag Manager-account"
+   },
+   "gtm_account_name_label": {
+      "message": "Accountnaam"
+   },
+   "gtm_action_needed": {
+      "message": "Actie vereist"
+   },
+   "gtm_api_fetch_accounts_error": {
+      "message": "Accounts ophalen is mislukt. Probeer het opnieuw of controleer je Google Tag Manager-toegang."
+   },
+   "gtm_api_fetch_containers_error": {
+      "message": "Containers ophalen voor account $1 is mislukt. Probeer het opnieuw of controleer je Google Tag Manager-toestemmingen."
+   },
+   "gtm_api_fetch_data_streams_error": {
+      "message": "Gegevensstreams ophalen voor product $1 is mislukt"
+   },
+   "gtm_api_fetch_ga_accounts_error": {
+      "message": "Google Analytics-accounts ophalen is mislukt"
+   },
+   "gtm_api_fetch_ga_properties_error": {
+      "message": "Google Analytics-property's ophalen is mislukt. Probeer het opnieuw of controleer je Google Analytics-toegang."
+   },
+   "gtm_api_get_token_error": {
+      "message": "Token ophalen is mislukt"
+   },
+   "gtm_api_invalid_token_response": {
+      "message": "Ongeldige tokenreactie"
+   },
+   "gtm_automatic_advanced_matching_label": {
+      "message": "Koppel automatisch belangrijke klantgegevens, zoals e-mailadres en telefoonnummer, van je website om de advertentieweergave te verbeteren."
+   },
+   "gtm_availability_load_error": {
+      "message": "Google Tag Manager-gegevens laden mislukt"
+   },
+   "gtm_availability_no_account_error": {
+      "message": "Er is geen Google Tag Manager-account gevonden."
+   },
+   "gtm_availability_no_web_container_error": {
+      "message": "Er is geen webcontainer gevonden in Google Tag Manager."
+   },
+   "gtm_capi_token_error": {
+      "message": "Toegangstoken voor Conversions API genereren is mislukt. Zorg dat je een bedrijfsbeheerder bent voor deze pixel."
+   },
+   "gtm_dataset_label": {
+      "message": "Gegevensset"
+   },
+   "gtm_fetch_accounts_fallback_error": {
+      "message": "Accounts ophalen mislukt"
+   },
+   "gtm_fetch_containers_fallback_error": {
+      "message": "Containers ophalen mislukt"
+   },
+   "gtm_fetch_google_analytics_accounts_fallback_error": {
+      "message": "Google Analytics-accounts ophalen is mislukt"
+   },
+   "gtm_fetch_google_analytics_properties_fallback_error": {
+      "message": "Google Analytics-property's ophalen is mislukt"
+   },
+   "gtm_fetch_google_analytics_web_streams_fallback_error": {
+      "message": "Google Analytics-webstreams ophalen is mislukt"
+   },
+   "gtm_fetch_server_containers_fallback_error": {
+      "message": "Google Tag Manager-servercontainers ophalen is mislukt"
+   },
+   "gtm_ga4_data_stream_label": {
+      "message": "Google Analytics-datastream"
+   },
+   "gtm_ga4_web_stream_toggle_label": {
+      "message": "Google Analytics-gebeurtenissen doorsturen"
+   },
+   "gtm_ga_account_label": {
+      "message": "Google Analytics-account"
+   },
+   "gtm_ga_account_placeholder": {
+      "message": "Selecteer een Google Analytics-account"
+   },
+   "gtm_ga_data_stream_placeholder": {
+      "message": "Een gegevensstroom selecteren"
+   },
+   "gtm_google_auth_warning_body": {
+      "message": "Het lijkt erop dat je Google-sessie inactief is tijdens het instellen. Meld je opnieuw aan om door te gaan waar je gebleven was."
+   },
+   "gtm_google_auth_warning_primary_cta": {
+      "message": "Aanmelden"
+   },
+   "gtm_google_auth_warning_title": {
+      "message": "Meld je opnieuw aan bij Google om door te gaan"
+   },
+   "gtm_next_step_back_aria_label": {
+      "message": "Terug"
+   },
+   "gtm_next_step_confirm_button": {
+      "message": "Bevestigen"
+   },
+   "gtm_next_step_event_setup_description": {
+      "message": "Met de tool voor gebeurtenisconfiguratie kun je conversiegebeurtenissen, zoals aankopen of toevoegingen aan winkelwagentje, rechtstreeks vanaf je websitepagina's selecteren en veilig naar Meta verzenden."
+   },
+   "gtm_next_step_event_setup_title": {
+      "message": "Belangrijke conversiegebeurtenissen naar Meta sturen"
+   },
+   "gtm_next_step_eyebrow": {
+      "message": "Actie vereist"
+   },
+   "gtm_next_step_manual_setup_title": {
+      "message": "Handmatige configuratie"
+   },
+   "gtm_next_step_missing_pixel_error": {
+      "message": "Selecteer een gegevensset-ID om door te gaan"
+   },
+   "gtm_next_step_missing_url_error": {
+      "message": "Voer een website-URL in om door te gaan"
+   },
+   "gtm_next_step_nav_title": {
+      "message": "Koppel je gegevens veilig"
+   },
+   "gtm_next_step_title": {
+      "message": "Koppel je data veilig"
+   },
+   "gtm_next_step_website_url_label": {
+      "message": "Website-URL"
+   },
+   "gtm_next_step_website_url_placeholder": {
+      "message": "Website-URL invoeren"
+   },
+   "gtm_pixel_business_fetch_error": {
+      "message": "Kan pixelgegevens voor pixel $1 niet ophalen. Je hebt mogelijk geen toestemming voor toegang tot deze pixel. Details: $2"
+   },
+   "gtm_pixel_business_load_error": {
+      "message": "Gegevensset $1 kan niet worden geladen. Controleer of de gegevensset-ID correct is en of je toestemming hebt om deze te bekijken."
+   },
+   "gtm_pixel_business_no_business_error": {
+      "message": "Pixel $1 heeft geen eigenaar. De pixel moet worden geclaimd door een bedrijf om een Conversions API-toegangstoken te genereren."
+   },
+   "gtm_pixel_dataset_id_label": {
+      "message": "Gegevensset-ID"
+   },
+   "gtm_pixel_detected_on_page": {
+      "message": "Gedetecteerd op pagina"
+   },
+   "gtm_pixel_load_more": {
+      "message": "Meer pixels laden..."
+   },
+   "gtm_pixel_no_pixels_detected": {
+      "message": "Er zijn geen pixels gedetecteerd op deze pagina. Voer handmatig een gegevensset-ID in."
+   },
+   "gtm_pixel_no_pixels_found": {
+      "message": "Geen pixels gevonden"
+   },
+   "gtm_pixel_picker_dataset_id_numeric_error": {
+      "message": "Gegevensset-ID moet numeriek zijn"
+   },
+   "gtm_pixel_picker_dataset_id_placeholder": {
+      "message": "Gegevensset-ID invoeren"
+   },
+   "gtm_pixel_picker_enter_manually": {
+      "message": "Handmatig invoeren"
+   },
+   "gtm_pixel_search_placeholder": {
+      "message": "Zoeken naar pixels"
+   },
+   "gtm_pixel_select_placeholder": {
+      "message": "Selecteer een pixel"
+   },
+   "gtm_pixel_your_pixels": {
+      "message": "Je pixels"
+   },
+   "gtm_publish_asset_preparation_failed": {
+      "message": "Voorbereiding van item is mislukt"
+   },
+   "gtm_publish_asset_preparation_missing_ids": {
+      "message": "Voorbereiding van item voltooid zonder publicatie-ID's"
+   },
+   "gtm_publish_automatic_advanced_matching_progress": {
+      "message": "Automatische geavanceerde overeenkomsten inschakelen..."
+   },
+   "gtm_publish_automatic_advanced_matching_warning": {
+      "message": "Automatische geavanceerde overeenkomsten kunnen niet worden ingeschakeld, maar Google Tag Manager-tags zijn wel gepubliceerd."
+   },
+   "gtm_publish_completed_with_warnings_title": {
+      "message": "Gepubliceerd met waarschuwingen"
+   },
+   "gtm_publish_confirm_button": {
+      "message": "Bevestigen"
+   },
+   "gtm_publish_create_ga_account_and_property_progress": {
+      "message": "Google Analytics-account en -eigenschap maken…"
+   },
+   "gtm_publish_create_ga_property_progress": {
+      "message": "Google Analytics-eigenschap maken…"
+   },
+   "gtm_publish_create_ga_stream_progress": {
+      "message": "Google Analytics-webstream maken…"
+   },
+   "gtm_publish_create_gtm_account_and_web_container_progress": {
+      "message": "Google Tag Manager-account en webcontainer maken..."
+   },
+   "gtm_publish_create_server_container_progress": {
+      "message": "Servercontainer maken..."
+   },
+   "gtm_publish_create_version_error": {
+      "message": "Maken van $1-containerversie is mislukt"
+   },
+   "gtm_publish_create_web_container_progress": {
+      "message": "Webcontainer maken..."
+   },
+   "gtm_publish_failed_title": {
+      "message": "Publiceren mislukt"
+   },
+   "gtm_publish_fetch_pixel_business_progress": {
+      "message": "Bedrijfsinformatie over pixel ophalen..."
+   },
+   "gtm_publish_free_capig_opt_in_progress": {
+      "message": "Door Meta geactiveerde Conversions API instellen..."
+   },
+   "gtm_publish_free_capig_opt_in_warning": {
+      "message": "Door Meta ingeschakelde Conversions API kan niet worden ingesteld, maar Google Tag Manager-tags zijn wel gepubliceerd."
+   },
+   "gtm_publish_ga_account_recipe_flow_error": {
+      "message": "Voor het maken van een Google Analytics-account is een op recepten gebaseerde flow vereist"
+   },
+   "gtm_publish_generate_capi_token_progress": {
+      "message": "Toegangstoken Conversions API genereren..."
+   },
+   "gtm_publish_google_tag_manager_missing_ga_measurement_id": {
+      "message": "Google Analytics-meting-ID"
+   },
+   "gtm_publish_google_tag_manager_missing_requirements": {
+      "message": "Serververbinding met Google Tag Manager ontbreekt: $1"
+   },
+   "gtm_publish_google_tag_manager_missing_server_container": {
+      "message": "Servercontainer van Google Tag Manager"
+   },
+   "gtm_publish_google_tag_manager_missing_tagging_server_url": {
+      "message": "Tagserver-URL"
+   },
+   "gtm_publish_gtm_account_recipe_flow_error": {
+      "message": "Voor het maken van een Google Tag Manager-account is een op recepten gebaseerde flow vereist"
+   },
+   "gtm_publish_missing_ga_account_draft": {
+      "message": "Geen concept van Google Analytics-account"
+   },
+   "gtm_publish_missing_ga_account_for_property": {
+      "message": "Geen Google Analytics-account geselecteerd om property te maken"
+   },
+   "gtm_publish_missing_ga_property_draft": {
+      "message": "Geen concept van Google Analytics-property"
+   },
+   "gtm_publish_missing_ga_property_for_stream": {
+      "message": "Er is geen Google Analytics-property geselecteerd voor het maken van streams"
+   },
+   "gtm_publish_missing_ga_stream_draft": {
+      "message": "Geen concept van Google Analytics-stream"
+   },
+   "gtm_publish_missing_google_auth": {
+      "message": "Niet geverifieerd met Google"
+   },
+   "gtm_publish_missing_gtm_account_draft": {
+      "message": "Geen concept van Google Tag Manager-account"
+   },
+   "gtm_publish_missing_gtm_account_for_server_container": {
+      "message": "Geen Google Tag Manager-account geselecteerd om servercontainer te maken"
+   },
+   "gtm_publish_missing_gtm_account_for_web_container": {
+      "message": "Geen Google Tag Manager-account geselecteerd voor het maken van een webcontainer"
+   },
+   "gtm_publish_missing_pixel_id": {
+      "message": "Geen gegevensset-ID geselecteerd"
+   },
+   "gtm_publish_missing_required_asset": {
+      "message": "$1 ontbreekt. Voeg dit toe via 'Nieuwe maken' of selecteer een bestaande."
+   },
+   "gtm_publish_missing_required_assets_error": {
+      "message": "Ontbrekende vereiste bedrijfsmiddelen: $1"
+   },
+   "gtm_publish_missing_requirements_title": {
+      "message": "Ontbrekende vereisten:"
+   },
+   "gtm_publish_missing_server_container_draft": {
+      "message": "Geen concept voor servercontainer"
+   },
+   "gtm_publish_missing_web_container_draft": {
+      "message": "Geen concept voor webcontainer"
+   },
+   "gtm_publish_no_workspaces_error": {
+      "message": "Geen werkruimtes gevonden voor $1 container bij $2. Maak een werkruimte in Google Tag Manager en probeer het opnieuw."
+   },
+   "gtm_publish_pixel_label": {
+      "message": "Gegevensset-ID: $1"
+   },
+   "gtm_publish_prepare_assets_progress": {
+      "message": "Bedrijfsmiddelen worden voorbereid..."
+   },
+   "gtm_publish_progress_complete": {
+      "message": "Publicatie is voltooid."
+   },
+   "gtm_publish_progress_creating_datalayer_variables": {
+      "message": "Variabelen voor data layer maken..."
+   },
+   "gtm_publish_progress_creating_pixel_template_tag": {
+      "message": "Tag voor pixelsjabloon maken..."
+   },
+   "gtm_publish_progress_creating_server_action_source": {
+      "message": "Variabele voor actiebron via de server maken..."
+   },
+   "gtm_publish_progress_creating_server_tag": {
+      "message": "Tag via de server maken..."
+   },
+   "gtm_publish_progress_creating_server_trigger": {
+      "message": "Trigger via de server maken..."
+   },
+   "gtm_publish_progress_creating_web_tags": {
+      "message": "Webtags maken..."
+   },
+   "gtm_publish_progress_creating_web_tags_web_only": {
+      "message": "Webtags maken..."
+   },
+   "gtm_publish_progress_creating_web_triggers": {
+      "message": "Webtriggers maken..."
+   },
+   "gtm_publish_progress_enabling_builtin_variables": {
+      "message": "Ingebouwde variabelen inschakelen..."
+   },
+   "gtm_publish_progress_getting_web_workspace": {
+      "message": "Webwerkruimte ophalen..."
+   },
+   "gtm_publish_progress_getting_workspaces": {
+      "message": "Werkruimtes ophalen..."
+   },
+   "gtm_publish_progress_importing_web_pixel_template": {
+      "message": "Webpixelsjabloon importeren..."
+   },
+   "gtm_publish_progress_pixel_template_complete": {
+      "message": "Publicatie pixelsjabloon voltooid."
+   },
+   "gtm_publish_progress_publishing_server_container": {
+      "message": "Servercontainer publiceren..."
+   },
+   "gtm_publish_progress_publishing_web_container": {
+      "message": "Webcontainer publiceren..."
+   },
+   "gtm_publish_progress_setting_up_server_template": {
+      "message": "Sjabloon via de server instellen..."
+   },
+   "gtm_publish_progress_web_only_complete": {
+      "message": "Publicatie voor alleen web voltooid."
+   },
+   "gtm_publish_published_button": {
+      "message": "Gepubliceerd"
+   },
+   "gtm_publish_publishing_button": {
+      "message": "Publiceren..."
+   },
+   "gtm_publish_server_container_no_url_notice": {
+      "message": "Servercontainer wordt gemaakt, maar tagging aan de kant van de server wordt niet gepubliceerd tot er een URL voor een tagging-server beschikbaar is."
+   },
+   "gtm_publish_success_message": {
+      "message": "Tags gepubliceerd!"
+   },
+   "gtm_publish_unsupported_draft_asset": {
+      "message": "Het maken van een $1-concept tijdens publicatie wordt nog niet ondersteund"
+   },
+   "gtm_publish_web_only_notice": {
+      "message": "Er is geen servercontainer geselecteerd. De configuratie voor alleen web wordt gepubliceerd. Je kunt later een servercontainer toevoegen en publiceren."
+   },
+   "gtm_reauthenticate": {
+      "message": "Opnieuw verifiëren"
+   },
+   "gtm_review_setup_and_publish": {
+      "message": "Controleer je instellingen en publiceer"
+   },
+   "gtm_setup_authenticate_button": {
+      "message": "Accounts verifiëren en ophalen"
+   },
+   "gtm_setup_button": {
+      "message": "Instellen"
+   },
+   "gtm_setup_header_title": {
+      "message": "Koppel je gegevens veilig"
+   },
+   "gtm_setup_required_message": {
+      "message": "Je moet een webcontainer instellen in Google Tag Manager om door te gaan"
+   },
+   "gtm_setup_required_primary_cta": {
+      "message": "Naar Google Tag Manager"
+   },
+   "gtm_setup_required_secondary_cta": {
+      "message": "Opnieuw proberen"
+   },
+   "gtm_setup_settings": {
+      "message": "Configuratie-instellingen"
+   },
+   "gtm_setup_summary_description": {
+      "message": "Maakt het mogelijk om tags eenvoudig te implementeren en beheren, en gebeurtenissen efficiënt bij te houden zonder code voor betere advertentieresultaten."
+   },
+   "gtm_setup_warning_loading_label": {
+      "message": "Laden…"
+   },
+   "gtm_web_container_label": {
+      "message": "Webcontainer"
+   },
+   "gtm_web_container_placeholder": {
+      "message": "Selecteer een webcontainer"
+   },
+   "guidanceEventsAffectedBadge": {
+      "message": "Van invloed op $1% van de gebeurtenissen"
+   },
+   "guidanceMoreIssuesPlural": {
+      "message": "Nog $1 problemen"
+   },
+   "guidanceMoreIssuesSingular": {
+      "message": "Nog $1 probleem"
+   },
+   "guidanceViewAllButton": {
+      "message": "Alles weergeven"
+   },
+   "guidanceViewButton": {
+      "message": "Weergeven"
+   },
+   "highlightTooltipChooseAccount": {
+      "message": "Kies een account om je aan te melden"
+   },
+   "highlightTooltipClickToContinue": {
+      "message": "Klik hier om door te gaan"
+   },
+   "highlightTooltipSelectAll": {
+      "message": "Alles selecteren"
+   },
+   "idLabel": {
+      "message": "ID: $1"
+   },
+   "islandActionFailedMessage": {
+      "message": "Voltooi de actie handmatig om door te gaan"
+   },
+   "islandActionRequiredMessage": {
+      "message": "Voltooi de actie om door te gaan"
+   },
+   "learnAboutManualAdvancedMatching": {
+      "message": "Meer informatie over Handmatig geavanceerd overeenkomsten zoeken"
+   },
+   "learnAboutValueAndCurrencyParameters": {
+      "message": "Stel waarde en valuta in de Meta-pixel in"
+   },
+   "learnHowToSetupAdvancedMatchingManually": {
+      "message": "Meer informatie over het handmatig instellen van geavanceerde overeenkomsten"
+   },
+   "learnMoreLink": {
+      "message": "Meer informatie"
+   },
+   "loadingText": {
+      "message": "Laden..."
+   },
+   "loginPageButtonCreateAccount": {
+      "message": "Nieuw account maken"
+   },
+   "loginPageButtonLogin": {
+      "message": "Aanmelden met Facebook"
+   },
+   "loginPageButtonMMALogin": {
+      "message": "Aanmelden met een beheerd Meta-account"
+   },
+   "loginPageDescription": {
+      "message": "voor gepersonaliseerde support bij het instellen van gebeurtenissen"
+   },
+   "loginPageSubtitle": {
+      "message": "Aanmelden bij bedrijfstools van Meta"
+   },
+   "loginPageTitle": {
+      "message": "Meta-pixel Helper"
+   },
+   "mamStepExampleLabel": {
+      "message": "Voorbeeld: $ 1"
+   },
+   "metaLogoAlt": {
+      "message": "Meta"
+   },
+   "metaSignalHelperLogoAlt": {
+      "message": "Meta-pixel Helper"
+   },
+   "missingEventsActiveSessionTooltip": {
+      "message": "Gebeurtenisconfiguratie is al bezig"
+   },
+   "missingEventsTabSwitchTooltip": {
+      "message": "Ga terug naar het tabblad waarop je bent begonnen met het instellen van de gebeurtenis"
+   },
+   "moreInformationHeader": {
+      "message": "Meer informatie"
+   },
+   "moreLabel": {
+      "message": "+ nog $1"
+   },
+   "newFeaturesBannerLearnMore": {
+      "message": "Meer informatie"
+   },
+   "newFeaturesBannerText": {
+      "message": "Er is een nieuwe automatiseringsfunctie beschikbaar waarmee je binnen enkele minuten complexe tools kunt instellen."
+   },
+   "nextStepsHeader": {
+      "message": "Volgende stappen"
+   },
+   "noEventsOnThisPageMessage": {
+      "message": "Geen gebeurtenissen op deze pagina. Klik op Alle gebeurtenissen weergeven om gebeurtenissen van andere pagina's te bekijken."
+   },
+   "noPixelsFoundCardHeader": {
+      "message": "Geen pixels gevonden op deze pagina"
+   },
+   "onThisPageHeader": {
+      "message": "Op deze pagina"
+   },
+   "optionalLabel": {
+      "message": "· Optioneel"
+   },
+   "overlayActionCompletedTitle": {
+      "message": "Actie is voltooid"
+   },
+   "overlayCloseButton": {
+      "message": "Sluiten"
+   },
+   "overlayDatasetCountPlural": {
+      "message": "Meerdere gegevenssets"
+   },
+   "overlayDatasetCountSingular": {
+      "message": "1 gegevensset"
+   },
+   "overlayDescriptionPluralActions": {
+      "message": "$1 acties die je kunt ondernemen"
+   },
+   "overlayDescriptionPluralPixelsPluralActions": {
+      "message": "Er zijn $1 pixels op deze pagina en $2 acties die je kunt uitvoeren."
+   },
+   "overlayDescriptionPluralPixelsSingularAction": {
+      "message": "Er zijn $1 pixels op deze pagina en 1 actie die je kunt uitvoeren."
+   },
+   "overlayDescriptionSingularAction": {
+      "message": "We hebben een optimalisatie voor je gevonden:"
+   },
+   "overlayDescriptionSingularPixelPluralActions": {
+      "message": "Er is 1 pixel op deze pagina en $1 acties die je kunt uitvoeren."
+   },
+   "overlayDescriptionSingularPixelSingularAction": {
+      "message": "Er is 1 pixel op deze pagina en 1 actie die je kunt uitvoeren."
+   },
+   "overlayFreeCapigEnabledLabel": {
+      "message": "Ingeschakeld"
+   },
+   "overlayGoBackButton": {
+      "message": "Terug"
+   },
+   "overlayGreetingAfternoon": {
+      "message": "Goedemiddag, $1"
+   },
+   "overlayGreetingEvening": {
+      "message": "Goedenavond, $1"
+   },
+   "overlayGreetingMorning": {
+      "message": "Goedemorgen, $1"
+   },
+   "overlayGtmSetupForMeCta": {
+      "message": "Instellen voor mij"
+   },
+   "overlayNotificationSettingsButton": {
+      "message": "Meldingsinstellingen"
+   },
+   "overlayNotificationSettingsDescription": {
+      "message": "Kies hoe je meldingen wilt ontvangen gerelateerd aan het verbeteren van je instellingen. Je kunt dit ook op ieder moment wijzigen op de startpagina door op het belpictogram te klikken."
+   },
+   "overlayNotificationSettingsTitle": {
+      "message": "Meldingsinstellingen"
+   },
+   "overlayNotificationsToggleDescription": {
+      "message": "Geef meldingen weer op pagina's met je pixels"
+   },
+   "overlayNotificationsToggleLabel": {
+      "message": "Meldingen"
+   },
+   "overlayTitle": {
+      "message": "Meta-pixel Helper"
+   },
+   "overlayToggleDescription": {
+      "message": "Geef acties weer op basis van je context en pixelstatus terwijl je bladert."
+   },
+   "overlayToggleOff": {
+      "message": "Contextuele meldingen zijn uitgeschakeld"
+   },
+   "overlayToggleOn": {
+      "message": "Contextuele meldingen zijn ingeschakeld"
+   },
+   "overlayViewAllButton": {
+      "message": "Alles weergeven"
+   },
+   "overlayViewDatasetsButton": {
+      "message": "Gegevenssets bekijken"
+   },
+   "pageIssueHeaderPlural": {
+      "message": "$1 waarschuwingen gevonden op deze pagina"
+   },
+   "pageIssueHeaderSingular": {
+      "message": "Er is een waarschuwing gevonden op deze pagina"
+   },
+   "pinExtensionBannerCta": {
+      "message": "Vastzetten op werkbalk"
+   },
+   "pinExtensionBannerDescription": {
+      "message": "Zet Meta Signal Helper vast op je werkbalk voor snelle toegang."
+   },
+   "pinExtensionBannerTitle": {
+      "message": "Deze extensie vastzetten"
+   },
+   "pixelBackButton": {
+      "message": "Terug"
+   },
+   "pixelCopyIdTitle": {
+      "message": "Gegevensset-ID kopiëren"
+   },
+   "pixelCopyIdTooltip": {
+      "message": "Gegevensset-ID kopiëren"
+   },
+   "pixelCustomConversionBadge": {
+      "message": "Aangepaste conversie"
+   },
+   "pixelErrorCommonStep1": {
+      "message": "Open de code van je website."
+   },
+   "pixelErrorConflictingVersionsCardTitle": {
+      "message": "Verwijder oude of conflicterende pixel(s)"
+   },
+   "pixelErrorConflictingVersionsExample": {
+      "message": "Voorbeeld: n.version='2.0'"
+   },
+   "pixelErrorConflictingVersionsMessage": {
+      "message": "Verwijder oude of conflicterende pixel(s)"
+   },
+   "pixelErrorConflictingVersionsRecommendation": {
+      "message": "Er zijn meerdere pixels met conflicterende versies gedetecteerd op deze pagina. Gebruik slechts één versie van de Meta-pixel."
+   },
+   "pixelErrorConflictingVersionsStep2": {
+      "message": "Zoek naar **n.version='** in de basiscode van je pixelinstallatie"
+   },
+   "pixelErrorConflictingVersionsStep3": {
+      "message": "Zorg dat versies hetzelfde zijn voor alle pixels"
+   },
+   "pixelErrorDuplicatePixelIdCardTitle": {
+      "message": "Verwijder dubbele gegevensset-ID"
+   },
+   "pixelErrorDuplicatePixelIdMessage": {
+      "message": "Verwijder dubbele gegevensset-ID"
+   },
+   "pixelErrorDuplicatePixelIdRecommendation": {
+      "message": "Je hebt een dubbele gegevensset-ID: $1. Elke pixel mag slechts 1 keer per pagina worden geïnitialiseerd om dubbele gegevens te voorkomen."
+   },
+   "pixelErrorDuplicatePixelIdStep2": {
+      "message": "Zoek naar **fbq('init', $1)** in de basiscode van je pixelinstallatie"
+   },
+   "pixelErrorDuplicatePixelIdStep3": {
+      "message": "Verwijder het dubbele **fbq('init', $1)**"
+   },
+   "pixelErrorFbqNoMethodNameCardTitle": {
+      "message": "Ontbrekende methodenaam in fbq()-aanroep"
+   },
+   "pixelErrorFbqNoMethodNameExample": {
+      "message": "Voorbeeld: fbq('track', 'PageView')"
+   },
+   "pixelErrorFbqNoMethodNameMessage": {
+      "message": "Geef een argument op voor fbq{}"
+   },
+   "pixelErrorFbqNoMethodNameRecommendation": {
+      "message": "Geef een methode op wanneer je fbq() aanroept. Voorbeeld: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorFbqNoMethodNameStep2": {
+      "message": "Zoek de fbq()-aanroep waarvoor een methodenaam ontbreekt."
+   },
+   "pixelErrorFbqNoMethodNameStep3": {
+      "message": "Voeg een geldige methode toe, zoals 'track' of 'init', als eerste argument."
+   },
+   "pixelErrorInvalidConsentActionCardTitle": {
+      "message": "Verzend een geldige toestemmingsactie"
+   },
+   "pixelErrorInvalidConsentActionMessage": {
+      "message": "Verzend een geldige toestemmingsactie"
+   },
+   "pixelErrorInvalidConsentActionRecommendation": {
+      "message": "'fbq('$1', ...);' is geen geldige fbq('consent', ...)-actie. Geldige toestemmingsacties zijn 'grant' en 'revoke'. Controleer de implementatie van je toestemmingsbeheer."
+   },
+   "pixelErrorInvalidConsentActionStep2": {
+      "message": "Zoek naar **fbq('$1', ...)**"
+   },
+   "pixelErrorInvalidConsentActionStep3": {
+      "message": "Werk de naam van de methode bij naar **revoke** of **grant**"
+   },
+   "pixelErrorInvalidEventIdFormatCardTitle": {
+      "message": "Voeg een reeks waarde toe voor eventID"
+   },
+   "pixelErrorInvalidEventIdFormatMessage": {
+      "message": "Voeg een tekenreekswaarde toe voor eventID"
+   },
+   "pixelErrorInvalidEventIdFormatRecommendation": {
+      "message": "Onjuist type eventID voor gegevensset-ID: $1 voor gebeurtenis '$2'. De parameter eventID moet een string zijn. Voorbeeld: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorInvalidEventIdFormatRecommendationGeneric": {
+      "message": "Onjuist type eventID voor gegevensset-ID: $1. De parameter eventID moet een reeks zijn. Voorbeeld: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'}})."
+   },
+   "pixelErrorInvalidEventIdFormatStep2": {
+      "message": "Zoek naar **fbq('track', '$1', ..., {eventID: ...})** en controleer of eventID een tekenreeks is"
+   },
+   "pixelErrorInvalidEventIdFormatStep2Generic": {
+      "message": "Zoek naar **fbq('track', ..., {eventID: ...})** en controleer of eventID een tekenreeks is"
+   },
+   "pixelErrorInvalidEventIdFormatStep3": {
+      "message": "Converteer de waarde van eventID naar een reekstype"
+   },
+   "pixelErrorInvalidFbqMethodCardTitle": {
+      "message": "Ongeldige methode in fbq()-aanroep"
+   },
+   "pixelErrorInvalidFbqMethodExample": {
+      "message": "Geldige methoden: 'init', 'track', 'trackCustom', 'trackSingle', 'trackSingleCustom'"
+   },
+   "pixelErrorInvalidFbqMethodMessage": {
+      "message": "Gebruik geldige fbq-opdrachten"
+   },
+   "pixelErrorInvalidFbqMethodParameterCardTitle": {
+      "message": "Werk parameterindeling bij"
+   },
+   "pixelErrorInvalidFbqMethodParameterExample": {
+      "message": "Voorbeeld: fbq('init', '123456789', {em: 'user@example.com', ph: '1234567890'}); // user_data moet een object zijn"
+   },
+   "pixelErrorInvalidFbqMethodParameterMessage": {
+      "message": "Laat parameters overeenkomen met de verwachte indeling"
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendation": {
+      "message": "De waarde van de parameter $3 voor de functie fbq($1, $2) is ongeldig: $4."
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendationSimple": {
+      "message": "Ongeldige fbq()-methodeparameter."
+   },
+   "pixelErrorInvalidFbqMethodParameterStep2": {
+      "message": "Zoek naar **fbq('$1', $2);**"
+   },
+   "pixelErrorInvalidFbqMethodParameterStep3": {
+      "message": "Werk **$1** bij naar een geldige parameternaam"
+   },
+   "pixelErrorInvalidFbqMethodRecommendation": {
+      "message": "'fbq('$1', ...);' is geen geldige fbq-opdracht. Gebruik geldige fbq-methoden zoals 'init', 'track', 'trackCustom'."
+   },
+   "pixelErrorInvalidFbqMethodStep2": {
+      "message": "Zoek de fbq()-aanroep met de ongeldige methode '$1'."
+   },
+   "pixelErrorInvalidFbqMethodStep3": {
+      "message": "Vervang deze door een geldige methode, zoals 'track', 'init' of 'trackCustom'."
+   },
+   "pixelErrorInvalidJsonLdCardTitle": {
+      "message": "Werk JSON-LD-indeling bij"
+   },
+   "pixelErrorInvalidJsonLdMessage": {
+      "message": "Zorg dat JSON-LD correct is en een geldige indeling heeft"
+   },
+   "pixelErrorInvalidJsonLdRecommendation": {
+      "message": "Het is niet mogelijk om de JSON-LD-tag te parseren. Ongeldige JSON gevonden: '$1'. Zorg dat de JSON-LD-opmaak correct is opgemaakt en geldig is voordat deze naar de pixel wordt gestuurd."
+   },
+   "pixelErrorInvalidJsonLdStep2": {
+      "message": "Zoek naar **$1**"
+   },
+   "pixelErrorInvalidJsonLdStep3": {
+      "message": "Gebruik de juiste indeling en zorg dat de JSON geldig is"
+   },
+   "pixelErrorInvalidParamCardTitle": {
+      "message": "Ongeldige parameter voor je gebeurtenis bijwerken"
+   },
+   "pixelErrorInvalidParamExample": {
+      "message": "Voorbeeld: fbq('track', 'Purchase', {currency: 'USD', value: 30.00})"
+   },
+   "pixelErrorInvalidParamFormatCardTitle": {
+      "message": "Werk je parameterindeling bij"
+   },
+   "pixelErrorInvalidParamFormatExample": {
+      "message": "Veelvoorkomende parameters: value, currency, content_ids, content_type, etc. Volledige lijst in wiki: https://developers.facebook.com/docs/meta-pixel/reference/"
+   },
+   "pixelErrorInvalidParamFormatMessage": {
+      "message": "Werk je parameterindeling bij"
+   },
+   "pixelErrorInvalidParamFormatRecommendation": {
+      "message": "Ongeldige parameterindeling voor $1."
+   },
+   "pixelErrorInvalidParamFormatStep2": {
+      "message": "Zoek naar **$1**"
+   },
+   "pixelErrorInvalidParamMessage": {
+      "message": "Verwijder of werk een ongeldige parameter voor je gebeurtenis bij"
+   },
+   "pixelErrorInvalidParamRecommendation": {
+      "message": "Parameter $1 is ongeldig voor gebeurtenis $2."
+   },
+   "pixelErrorInvalidParamStep2": {
+      "message": "Zoek naar **fbq('track', $1, ...)**"
+   },
+   "pixelErrorInvalidParamStep3": {
+      "message": "Verwijder $1 of werk dit bij"
+   },
+   "pixelErrorInvalidPixelIdCardTitle": {
+      "message": "Voeg een geldige gegevensset-ID toe"
+   },
+   "pixelErrorInvalidPixelIdMessage": {
+      "message": "Voeg een geldige gegevensset-ID toe"
+   },
+   "pixelErrorInvalidPixelIdRecommendation": {
+      "message": "Je gegevensset-ID $1 is ongeldig. Controleer of de ID juist is in Meta Gebeurtenisbeheer en werk je pixelcode bij."
+   },
+   "pixelErrorInvalidPixelIdStep2": {
+      "message": "Zoek naar **fbq('init', $1)** in de basiscode van je pixelinstallatie"
+   },
+   "pixelErrorInvalidPixelIdStep3": {
+      "message": "Vervang $1 door een geldige die je kunt vinden in Meta Gebeurtenisbeheer"
+   },
+   "pixelErrorMultiplePixelsCardTitle": {
+      "message": "Voeg samen tot één Meta-pixel"
+   },
+   "pixelErrorMultiplePixelsMessage": {
+      "message": "Voeg samen tot één Meta-pixel"
+   },
+   "pixelErrorMultiplePixelsRecommendation": {
+      "message": "Er zijn meerdere pixels gedetecteerd op deze pagina. Meerdere pixels kunnen duiden op configuratieproblemen en zorgen dat gebeurtenissen niet probleemloos worden bijgehouden."
+   },
+   "pixelErrorMultiplePixelsStep2": {
+      "message": "Zoek naar **fbq('init', ...)** in de basiscode van je pixelinstallatie"
+   },
+   "pixelErrorMultiplePixelsStep3": {
+      "message": "Verwijder alle pixels behalve 1. Werk je campagnes bij als er een dubbele pixel in gebruik is"
+   },
+   "pixelErrorNegativeEventParamCardTitle": {
+      "message": "Voeg een positieve waarde toe aan $1"
+   },
+   "pixelErrorNegativeEventParamMessage": {
+      "message": "Controleer je $1-gebeurtenisgegevens"
+   },
+   "pixelErrorNegativeEventParamRecommendation": {
+      "message": "Parameter $1 is negatief voor gebeurtenis $2. Gebeurtenisparameters zoals waarde, aantal enzovoort mogen niet negatief zijn."
+   },
+   "pixelErrorNegativeEventParamStep2": {
+      "message": "Zoek naar **fbq('track', $1)**"
+   },
+   "pixelErrorNegativeEventParamStep3": {
+      "message": "Werk de waarde bij naar een positief getal"
+   },
+   "pixelErrorNoEventIdCardTitle": {
+      "message": "Voeg gebeurtenis-ID's toe"
+   },
+   "pixelErrorNoEventIdMessage": {
+      "message": "Voeg een gebeurtenis-ID toe voor trackingsdoeleinden en deduplicatie"
+   },
+   "pixelErrorNoEventIdRecommendation": {
+      "message": "We hebben een nul of lege eventID van parameter 4 gedetecteerd voor gegevensset-ID: $1. Voeg een eventID toe. Voorbeeld: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorNoEventIdStep2": {
+      "message": "Zoek naar **fbq('track', ..., ..., ..., {})** en zoek de plek waar de vierde parameter of de gebeurtenis-ID leeg is"
+   },
+   "pixelErrorNoEventIdStep3": {
+      "message": "Geef de gebeurtenis-ID op of verwijder de vierde parameter"
+   },
+   "pixelErrorNoEventNameCardTitle": {
+      "message": "Voeg een gebeurtenisnaam toe"
+   },
+   "pixelErrorNoEventNameExample": {
+      "message": "Voorbeeld: fbq('track', 'AddToCart')"
+   },
+   "pixelErrorNoEventNameMessage": {
+      "message": "Voeg een gebeurtenisnaam toe om je gebeurtenis bij te houden"
+   },
+   "pixelErrorNoEventNameRecommendation": {
+      "message": "Gebeurtenisnaam ontbreekt. Gebeurtenissen bijhouden moeten worden gelogd met een gebeurtenisnaam fbq(\"track\", eventName). Voorbeeld: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorNoEventNameStep2": {
+      "message": "Zoek naar **fbq('track', '', ...)** of **fbq('track', ' ', ...)**"
+   },
+   "pixelErrorNoEventNameStep3": {
+      "message": "Voeg gebeurtenisnaam toe"
+   },
+   "pixelErrorNonstandardEventCardTitle": {
+      "message": "Werk je niet-standaardgebeurtenis bij"
+   },
+   "pixelErrorNonstandardEventMessage": {
+      "message": "Verzend je niet-standaardgebeurtenis met trackCustom"
+   },
+   "pixelErrorNonstandardEventRecommendation": {
+      "message": "Je verzendt een niet-standaardgebeurtenis $1. Verzend deze gebeurtenissen met trackCustom. Roep in plaats daarvan fbq('trackCustom', ...) aan."
+   },
+   "pixelErrorNonstandardEventStep2": {
+      "message": "Zoek naar **fbq('track', $1)**"
+   },
+   "pixelErrorNonstandardEventStep3": {
+      "message": "Vervang door **fbq('trackCustom', $1)**"
+   },
+   "pixelErrorPiiInvalidTypeCardTitle": {
+      "message": "Verwijder ongeldige klantinformatie"
+   },
+   "pixelErrorPiiInvalidTypeExample": {
+      "message": "Voorbeeld: **em**, **ph**, **fn**, **ln**, **db**, **ge**, **ct**, **zp**, **external_id**, etc."
+   },
+   "pixelErrorPiiInvalidTypeMessage": {
+      "message": "Verwijder ongeldige klantinformatie"
+   },
+   "pixelErrorPiiInvalidTypeRecommendation": {
+      "message": "Er is een ongeldige $1 opgegeven voor '$2'. Deze gegevens worden niet verzonden met gebeurtenissen voor deze pixel."
+   },
+   "pixelErrorPiiInvalidTypeStep2": {
+      "message": "Zoek naar **fbq('init', $1, {$2:...})**"
+   },
+   "pixelErrorPiiInvalidTypeStep3": {
+      "message": "Werk **$1** bij of vervang deze met geldige informatie"
+   },
+   "pixelErrorPiiUnhashedPiiCardTitle": {
+      "message": "Verzend e-mails met het juiste codeveld"
+   },
+   "pixelErrorPiiUnhashedPiiMessage": {
+      "message": "Verzend e-mails met het juiste codeveld"
+   },
+   "pixelErrorPiiUnhashedPiiRecommendation": {
+      "message": "De waarde voor de code $1 lijkt PII te zijn. Deze gegevens worden niet verzonden met gebeurtenissen voor deze pixel. De aanbevolen manier is om fbq('init', 'PIXEL_ID', {em: 'email@email.com', ...}) aan te roepen."
+   },
+   "pixelErrorPiiUnhashedPiiStep2": {
+      "message": "Zoek naar **$1** en kijk of er een waarde is ingesteld op een e-mailadres"
+   },
+   "pixelErrorPiiUnhashedPiiStep3": {
+      "message": "Werk **$1** bij naar **em**"
+   },
+   "pixelErrorRequiredParamMissingCardTitle": {
+      "message": "Voeg ontbrekende parameter toe"
+   },
+   "pixelErrorRequiredParamMissingMessage": {
+      "message": "Voeg de ontbrekende vereiste parameter toe aan je gebeurtenis"
+   },
+   "pixelErrorRequiredParamMissingRecommendation": {
+      "message": "Vereiste parameter $1 ontbreekt voor gebeurtenis $2."
+   },
+   "pixelErrorRequiredParamMissingStep2": {
+      "message": "Zoek naar **fbq('track', $1, ...)**"
+   },
+   "pixelErrorRequiredParamMissingStep3": {
+      "message": "Voeg ontbrekende parameter toe"
+   },
+   "pixelErrorRestrictedEventCardTitle": {
+      "message": "Beoordeel geblokkeerde gebeurtenissen"
+   },
+   "pixelErrorRestrictedEventMessage": {
+      "message": "Ga naar Gebeurtenisbeheer om geblokkeerde gebeurtenissen te bekijken"
+   },
+   "pixelErrorRestrictedEventRecommendation": {
+      "message": "Je probeert een beperkte gebeurtenis te verzenden. De gebeurtenis is onderdrukt."
+   },
+   "pixelErrorRestrictedEventStep1": {
+      "message": "Ga naar het tabblad Instellingen van je Gebeurtenisbeheer-gegevensset"
+   },
+   "pixelErrorRestrictedEventStep2": {
+      "message": "Ga naar Verkeerstoestemmingen > het gedeelte Websites"
+   },
+   "pixelErrorRestrictedEventStep3": {
+      "message": "Beoordeel geblokkeerde gebeurtenissen en werk ze bij of stop met het verzenden van geblokkeerde gebeurtenissen vanaf je website"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelCardTitle": {
+      "message": "Initialiseer je pixel"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelMessage": {
+      "message": "Initialiseer je pixel initialiseren voordat metagegevens worden ingesteld"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendation": {
+      "message": "Probeer argument $1 voor niet-geïnitialiseerde gegevensset-ID $2 in te stellen. Initialiseer de pixel voordat je metagegevens instelt. Roep eerst fbq('init', '$3') aan."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendationSimple": {
+      "message": "Poging om metagegevens in te stellen voor niet-geïnitialiseerde pixel."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep2": {
+      "message": "Zoek naar **fbq()**"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep3": {
+      "message": "Roep eerst **fbq('init', 'PIXEL_ID')** aan"
+   },
+   "pixelErrorSiteCodelessOptOutCardTitle": {
+      "message": "Schakel codevrije configuratie van gebeurtenissen in"
+   },
+   "pixelErrorSiteCodelessOptOutMessage": {
+      "message": "Schakel codevrije gebeurtenisconfiguratie in of gebruik handmatige pixelintegratie"
+   },
+   "pixelErrorSiteCodelessOptOutRecommendation": {
+      "message": "Niet mogelijk om codevrije gebeurtenisinterface te openen voor pixel, omdat de site zich heeft afgemeld. Gegevensset-ID: $1."
+   },
+   "pixelErrorSiteCodelessOptOutStep2": {
+      "message": "Zoek naar **fbq('set', 'codeless', 'false', $1)**"
+   },
+   "pixelErrorSiteCodelessOptOutStep3": {
+      "message": "Verwijder deze regel om deze vervolgens opnieuw in te schakelen of schakel deze expliciet in **fbq('set', 'codeless', 'true', $1);"
+   },
+   "pixelErrorUnableLoadFbqCardTitle": {
+      "message": "Verwijder adblockers"
+   },
+   "pixelErrorUnableLoadFbqMessage": {
+      "message": "Controleer je netwerkverbinding en browserconsole"
+   },
+   "pixelErrorUnableLoadFbqRecommendation": {
+      "message": "Kan fbq niet laden. Ad blockers kunnen ook voorkomen dat de pixel wordt geladen."
+   },
+   "pixelErrorUnableLoadFbqStep1": {
+      "message": "Controleer je netwerkverbinding"
+   },
+   "pixelErrorUnableLoadFbqStep2": {
+      "message": "Zorg dat adblockers zijn uitgeschakeld"
+   },
+   "pixelErrorUninitializedPixelCardTitle": {
+      "message": "Initialiseer je pixel"
+   },
+   "pixelErrorUninitializedPixelMessage": {
+      "message": "Initialiseer je pixel"
+   },
+   "pixelErrorUninitializedPixelRecommendation": {
+      "message": "Pixel $1 niet gevonden. Initialiseer de pixel met fbq('init', 'PIXEL_ID') voordat je andere fbq-methoden aanroept."
+   },
+   "pixelErrorUninitializedPixelStep1": {
+      "message": "Ga naar het tabblad Overzicht in Gebeurtenisbeheer om de basiscode van de Meta-pixel te kopiëren"
+   },
+   "pixelErrorUninitializedPixelStep2": {
+      "message": "Plak de Meta-pixelcode tussen de tags \u003Chead> en \u003C/head> van je webpagina"
+   },
+   "pixelErrorUnknownErrorMessage": {
+      "message": "Er is een onbekende pixelfout opgetreden"
+   },
+   "pixelErrorUnknownErrorRecommendation": {
+      "message": "Check de browserconsole voor meer informatie over deze fout."
+   },
+   "pixelErrorUnsupportedMetadataCardTitle": {
+      "message": "Verwijder niet-ondersteunde metagegevensvelden of werk deze bij"
+   },
+   "pixelErrorUnsupportedMetadataMessage": {
+      "message": "Verwijder niet-ondersteunde metagegevensvelden of werk deze bij"
+   },
+   "pixelErrorUnsupportedMetadataRecommendation": {
+      "message": "Niet-ondersteund metagegevensargument: $1. Geldige metagegevensargumenten zijn 'agent', 'automaticMatchingConfig', 'codeless', 'trackSingleOnly', 'cbData.oneTrustId'."
+   },
+   "pixelErrorUnsupportedMetadataStep2": {
+      "message": "Zoek naar **fbq('set', $1)**"
+   },
+   "pixelErrorUnsupportedMetadataStep3": {
+      "message": "Vervang door een geldig argument"
+   },
+   "pixelErrorUnverifiedEventCardTitle": {
+      "message": "Verifieer je gebeurtenissen"
+   },
+   "pixelErrorUnverifiedEventMessage": {
+      "message": "Verifieer je gebeurtenissen in Gebeurtenisbeheer"
+   },
+   "pixelErrorUnverifiedEventRecommendation": {
+      "message": "Je probeert een niet-geverifieerde gebeurtenis te verzenden. De gebeurtenis is onderdrukt. Ga naar Gebeurtenisbeheer voor meer informatie."
+   },
+   "pixelErrorUnverifiedEventStep1": {
+      "message": "Ga naar het tabblad Diagnostische gegevens van je gegevensset in Gebeurtenisbeheer"
+   },
+   "pixelErrorUnverifiedEventStep2": {
+      "message": "Gebeurtenissen verifiëren"
+   },
+   "pixelErrorUnwantedCustomDataCardTitle": {
+      "message": "Verwijder potentiële schendingen"
+   },
+   "pixelErrorUnwantedCustomDataExample": {
+      "message": "Voorbeeld: fbq('track', 'Purchase', {...}) - Verwijder velden voor ssn, credit_card, password"
+   },
+   "pixelErrorUnwantedCustomDataMessage": {
+      "message": "Verwijder aangepaste gegevensvelden met mogelijke schendingen"
+   },
+   "pixelErrorUnwantedCustomDataRecommendation": {
+      "message": "Parameters uit aangepaste gegevens verwijderd vanwege potentiële schendingen. Ga naar Gebeurtenisbeheer om deze te controleren."
+   },
+   "pixelErrorUnwantedCustomDataStep2": {
+      "message": "Verwijder het wachtwoord of financiële informatie, controleer meer schendingstypen in wiki"
+   },
+   "pixelErrorUnwantedEventNameCardTitle": {
+      "message": "Beoordeel gebeurtenisnamen"
+   },
+   "pixelErrorUnwantedEventNameExample": {
+      "message": "Voorbeeld: verkeerde gebeurtenisnamen zoals CreditCardSubmit, PasswordEntered, SNNCollected"
+   },
+   "pixelErrorUnwantedEventNameMessage": {
+      "message": "Zorg dat je gebeurtenisnaam geen verboden informatie heeft"
+   },
+   "pixelErrorUnwantedEventNameRecommendation": {
+      "message": "Je gebeurtenis is geblokkeerd vanwege potentiële schendingen."
+   },
+   "pixelErrorUnwantedEventNameStep2": {
+      "message": "Zoek naar **fbq('track', ...)**"
+   },
+   "pixelErrorUnwantedEventNameStep3": {
+      "message": "Beoordeel je gebeurtenisnaam om te zorgen dat deze geen verboden informatie heeft (zoals wachtwoord, BSN, creditcard, enzovoort)"
+   },
+   "pixelErrorUnwantedUrlDataCardTitle": {
+      "message": "Beoordeel potentiële schendingen"
+   },
+   "pixelErrorUnwantedUrlDataExample": {
+      "message": "Voorbeeld:\\n❌ Verkeerde URL's:\\nhttps://example.com/checkout?email=user@test.com&ssn=123-45-6789\\nhttps://example.com/login?password=secret123&credit_card=4111...\\n\\n✅ Goede URL's:\\nhttps://example.com/checkout?order_id=12345\\nhttps://example.com/login (geen gevoelige queryparameters)"
+   },
+   "pixelErrorUnwantedUrlDataMessage": {
+      "message": "Beoordeel URL-gegevens om te zorgen dat deze geen verboden of beperkte informatie hebben"
+   },
+   "pixelErrorUnwantedUrlDataRecommendation": {
+      "message": "URL-queryparameters verwijderd vanwege mogelijke schendingen."
+   },
+   "pixelErrorUnwantedUrlDataStep2": {
+      "message": "Controleer je URL's - Controleer zowel de huidige pagina (dl) als de doorverwijzende pagina (rl) om te zorgen dat er geen gevoelige informatie staat"
+   },
+   "pixelEventCountPlural": {
+      "message": "$ 1 gebeurtenissen"
+   },
+   "pixelEventCountSingular": {
+      "message": "$ 1 gebeurtenis"
+   },
+   "pixelEventUnnamed": {
+      "message": "Gebeurtenis (naamloos)"
+   },
+   "pixelHeaderPlural": {
+      "message": "$1 pixels gevonden op deze pagina"
+   },
+   "pixelHeaderSingular": {
+      "message": "Er is een pixel gevonden op deze pagina"
+   },
+   "pixelIdLabel": {
+      "message": "ID: $1"
+   },
+   "pixelLoadTime": {
+      "message": "$1 ms"
+   },
+   "pixelMetaPixelTitle": {
+      "message": "Meta-pixel"
+   },
+   "pixelMissingFiresMessage": {
+      "message": "Er zijn geen pixels geactiveerd op de huidige pagina, maar er zijn pixels geactiveerd op andere pagina's van deze website"
+   },
+   "pixelMissingFiresRecommendation": {
+      "message": "Overweeg om pixeltrackinggebeurtenissen toe te voegen aan deze pagina of controleer of bestaande pixels correct werken"
+   },
+   "pixelNoEventsRecorded": {
+      "message": "Nog geen gebeurtenissen vastgelegd"
+   },
+   "pixelNotFiringMessage": {
+      "message": "Pixel $1 is geïnstalleerd maar is onlangs niet actief geweest"
+   },
+   "pixelStatusActive": {
+      "message": "Actief"
+   },
+   "pixelStatusAutomaticallyDetected": {
+      "message": "Automatisch gedetecteerd"
+   },
+   "pixelStatusError": {
+      "message": "Fout"
+   },
+   "pixelStatusEventNotProcessed": {
+      "message": "Gebeurtenis niet verwerkt"
+   },
+   "pixelStatusEventReceived": {
+      "message": "Gebeurtenis ontvangen"
+   },
+   "pixelStatusInactive": {
+      "message": "Niet actief"
+   },
+   "pixelStatusReceived": {
+      "message": "Ontvangen"
+   },
+   "pixelStatusSent": {
+      "message": "Gebeurtenis verzonden"
+   },
+   "pixelStatusWarning": {
+      "message": "Waarschuwing"
+   },
+   "recipeAddMoreFields": {
+      "message": "Meer toevoegen"
+   },
+   "recipeCancelAutomation": {
+      "message": "Automatisering annuleren"
+   },
+   "recipeCompleteActionToContinue": {
+      "message": "Voltooi de actie om door te gaan"
+   },
+   "recipeErrorBackButton": {
+      "message": "Naar startpagina"
+   },
+   "recipeErrorMessage": {
+      "message": "Vanwege een onverwacht probleem konden we de automatisering niet starten. Controleer je internetverbinding en probeer het later opnieuw."
+   },
+   "recipeErrorTitle": {
+      "message": "Probeer het later opnieuw."
+   },
+   "recipeFailedStateDescription": {
+      "message": "Er is een probleem opgetreden bij het voltooien van deze actie. Je moet deze actie handmatig voltooien om door te gaan met instellen."
+   },
+   "recipeFieldIdentifierLabel": {
+      "message": "Identifier"
+   },
+   "recipeFieldMappingInfoBoxTextLead": {
+      "message": "Als je wilt doorgaan, bevestig dan de naam en tijd van het evenement en kies je minimaal 1 identifier-veld (Lead-ID aanbevolen)."
+   },
+   "recipeFieldMappingInfoBoxTextOpportunity": {
+      "message": "Bevestig de naam en tijd van het evenement om door te gaan."
+   },
+   "recipeFieldOptionalLabel": {
+      "message": "Optioneel"
+   },
+   "recipeFieldsDropdownNoResultsFound": {
+      "message": "Geen resultaten gevonden"
+   },
+   "recipeFieldsEventNameTooltipContent": {
+      "message": "Deze naam is gekoppeld aan leads in je CRM-trechter. Verzend alle fasen zodra ze zijn bijgewerkt."
+   },
+   "recipeFieldsEventNameTooltipExample": {
+      "message": "bijvoorbeeld"
+   },
+   "recipeFieldsEventNameTooltipExample1": {
+      "message": "Ruwe lead van Meta"
+   },
+   "recipeFieldsEventNameTooltipExample2": {
+      "message": "Voor marketing gekwalificeerde lead"
+   },
+   "recipeFieldsEventNameTooltipExample3": {
+      "message": "Verkoopmogelijkheid"
+   },
+   "recipeFieldsEventNameTooltipExample4": {
+      "message": "Klant"
+   },
+   "recipeFieldsEventNameTooltipLearnMore": {
+      "message": "Meer informatie"
+   },
+   "recipeFieldsEventNameTooltipLearnMoreContinued": {
+      "message": "over het integreren van conversieleads."
+   },
+   "recipeFileABug": {
+      "message": "Een bug indienen"
+   },
+   "recipeFileAnotherBug": {
+      "message": "Nog een bug rapporteren"
+   },
+   "recipeIntroStartAutomationButton": {
+      "message": "Automatisering starten"
+   },
+   "recipeMaibaCallerIndicator": {
+      "message": "Terug naar MAIBA"
+   },
+   "recipeMarkAsComplete": {
+      "message": "Markeren als voltooid"
+   },
+   "recipeMilestoneActionNeededStatus": {
+      "message": "Actie vereist"
+   },
+   "recipeMilestoneCompleteStatus": {
+      "message": "Compleet"
+   },
+   "recipeMilestoneFailedStatus": {
+      "message": "Mislukt"
+   },
+   "recipeMilestoneInProgressStatus": {
+      "message": "Bezig"
+   },
+   "recipeMilestonePausedStatus": {
+      "message": "Gepauzeerd"
+   },
+   "recipeMilestoneStepFailedSuffix": {
+      "message": "· Stap mislukt"
+   },
+   "recipeOpportunityChoiceNo": {
+      "message": "nee"
+   },
+   "recipeOpportunityChoiceYes": {
+      "message": "ja"
+   },
+   "recipeOpportunityQuestionDropdownLabel": {
+      "message": "Benut je kansen?"
+   },
+   "recipeOpportunityQuestionInfoText": {
+      "message": "Kansen synchroniseren Salesforce-dealstatus met Meta, zodat advertenties kunnen worden geoptimaliseerd voor echte omzetresultaten en niet alleen voor leads."
+   },
+   "recipeOpportunityQuestionLearnMore": {
+      "message": "Meer informatie"
+   },
+   "recipeOpportunityQuestionNo": {
+      "message": "Nee"
+   },
+   "recipeOpportunityQuestionYes": {
+      "message": "Ja"
+   },
+   "recipePause": {
+      "message": "Pauzeren"
+   },
+   "recipeResume": {
+      "message": "Hervatten"
+   },
+   "recipeRetry": {
+      "message": "Opnieuw"
+   },
+   "recipeReturnToMaiba": {
+      "message": "Terug naar MAIBA"
+   },
+   "recipeReturnToTab": {
+      "message": "Terug naar tabblad"
+   },
+   "recipeReturnToTabPrompt": {
+      "message": "Keer terug naar het tabblad waarop deze automatisering actief was en klik vervolgens op Doorgaan."
+   },
+   "recipeStepFailed": {
+      "message": "Mislukt"
+   },
+   "recipeStepNumber": {
+      "message": "Stap $1"
+   },
+   "recipeStepSkipped": {
+      "message": "Overgeslagen"
+   },
+   "recipeStepSkippedTooltip": {
+      "message": "Deze stap is overgeslagen omdat is vastgesteld dat deze niet meer nodig is."
+   },
+   "recipeStepUserActionRequired": {
+      "message": "Actie vereist"
+   },
+   "recipeSummaryHeaderTitle": {
+      "message": "Samenvatting"
+   },
+   "recipeSwitchToActiveTabHint": {
+      "message": "Klik om over te schakelen naar het actieve tabblad om automatisering te versnellen."
+   },
+   "recipeThanksForFeedback": {
+      "message": "Bedankt voor het geven van feedback"
+   },
+   "recipeVerifying": {
+      "message": "Verifiëren..."
+   },
+   "recipeViewInEventsManager": {
+      "message": "Bekijken in Gebeurtenisbeheer"
+   },
+   "recipeViewReport": {
+      "message": "Automatiseringsoverzicht bekijken"
+   },
+   "recipeWpAdminUrlInfoText": {
+      "message": "We kunnen je WordPress-beheerders-URL niet automatisch detecteren. Voer de volledige URL naar je WordPress-beheerdersdashboard in zodat we verder kunnen met het instellen."
+   },
+   "recipeWpAdminUrlInputLabel": {
+      "message": "Voer je WordPress-beheerders-URL in (bijvoorbeeld https://jouwsite.com/wp-admin/)"
+   },
+   "recipeYourActionIsRequired": {
+      "message": "Er is actie van je vereist"
+   },
+   "remove": {
+      "message": "Verwijderen"
+   },
+   "remove_asset_button_label": {
+      "message": "Dit bedrijfsmiddel verwijderen"
+   },
+   "remove_asset_button_required_label": {
+      "message": "Dit item is vereist en kan niet worden verwijderd"
+   },
+   "reportAiGenerated": {
+      "message": "Door AI gegenereerd"
+   },
+   "reportAutomationCountPlural": {
+      "message": "$1 automatiseringen"
+   },
+   "reportAutomationCountSingular": {
+      "message": "$1 automatisering"
+   },
+   "reportAutomationPanelDescription": {
+      "message": "Controleer de status, tijdlijn en acties die zijn uitgevoerd tijdens deze automatisering."
+   },
+   "reportAutomationSummaryDescription": {
+      "message": "Een gedetailleerde specificatie van je automatiseringservaring. Uit privacyoverwegingen wordt dit niet opgeslagen op ons platform."
+   },
+   "reportAutomationSummaryTitle": {
+      "message": "Automatiseringsoverzicht"
+   },
+   "reportCapturedDuringEmSelection": {
+      "message": "Selectie van Gebeurtenisbeheer"
+   },
+   "reportCapturedDuringGaSetup": {
+      "message": "Google Analytics-configuratie"
+   },
+   "reportCapturedDuringGtmSetup": {
+      "message": "GTM-instellingen"
+   },
+   "reportCapturedDuringSfWebhook": {
+      "message": "Salesforce-webhookintegratie"
+   },
+   "reportCapturedIdsCreatedDuringSession": {
+      "message": "Gemaakt tijdens je sessie"
+   },
+   "reportCapturedIdsDescription": {
+      "message": "De volgende ID's zijn geopend tijdens je automatisering."
+   },
+   "reportCapturedIdsEmpty": {
+      "message": "Er zijn geen ID's geopend tijdens deze automatisering."
+   },
+   "reportCapturedIdsExisting": {
+      "message": "Bestaand"
+   },
+   "reportCapturedIdsHeading": {
+      "message": "Geopende ID's"
+   },
+   "reportClickToCopy": {
+      "message": "Klik om te kopiëren"
+   },
+   "reportCopied": {
+      "message": "Gekopieerd"
+   },
+   "reportCopyAll": {
+      "message": "Alles kopiëren"
+   },
+   "reportDomainEventsManager": {
+      "message": "Gebeurtenisbeheer"
+   },
+   "reportDomainGoogleAnalytics": {
+      "message": "Google Analytics"
+   },
+   "reportDomainGoogleTagManager": {
+      "message": "Google Tag Manager"
+   },
+   "reportDomainSalesforce": {
+      "message": "Salesforce"
+   },
+   "reportDomainStape": {
+      "message": "Stape"
+   },
+   "reportExportPdf": {
+      "message": "Overzicht exporteren als pdf"
+   },
+   "reportExportPdfNote": {
+      "message": "Exporteren kan tot 45 seconden duren."
+   },
+   "reportFlowAutomationName": {
+      "message": "Automatiseringsflow"
+   },
+   "reportFlowSummaryDescription": {
+      "message": "Bekijk statussen, tijdlijnen en uitgevoerde acties voor alle automatiseringen in deze flow."
+   },
+   "reportFlowSummaryHeading": {
+      "message": "Flowsamenvatting"
+   },
+   "reportIdCountPlural": {
+      "message": "$1 ID's"
+   },
+   "reportIdCountSingular": {
+      "message": "$1 ID"
+   },
+   "reportIdLabelAdAccountId": {
+      "message": "Advertentieaccount-ID"
+   },
+   "reportIdLabelBusinessId": {
+      "message": "Bedrijfs-ID"
+   },
+   "reportIdLabelCustom": {
+      "message": "Aangepaste ID"
+   },
+   "reportIdLabelDatasetId": {
+      "message": "Gegevensset-ID"
+   },
+   "reportIdLabelGaMeasurementId": {
+      "message": "Google Analytics-meting-ID"
+   },
+   "reportIdLabelGtmAccountId": {
+      "message": "Naam van Google Tag Manager-account"
+   },
+   "reportIdLabelGtmContainerId": {
+      "message": "Container-ID van Google Tag Manager"
+   },
+   "reportIdLabelGtmServerContainerName": {
+      "message": "Servercontainer van Google Tag Manager"
+   },
+   "reportIdLabelGtmWebContainerName": {
+      "message": "Webcontainer van Google Tag Manager"
+   },
+   "reportIdLabelSgwDataPlaneUrl": {
+      "message": "URL gegevensvlak van Signals Gateway"
+   },
+   "reportIdLabelSgwPixelId": {
+      "message": "Gegevensset-ID van Signals Gateway"
+   },
+   "reportIdLabelWebhookIntegrationId": {
+      "message": "ID van webhook-integratie"
+   },
+   "reportIdLabelWebhookUrl": {
+      "message": "Webhook-URL"
+   },
+   "reportInProgress": {
+      "message": "Wordt verwerkt"
+   },
+   "reportKeyScreenshotEndOfAutomation": {
+      "message": "Einde van automatisering"
+   },
+   "reportKeyScreenshotFinalState": {
+      "message": "Uiteindelijke automatiseringsstatus"
+   },
+   "reportLabelActionsTaken": {
+      "message": "Uitgevoerde acties"
+   },
+   "reportLabelAutomations": {
+      "message": "Automatiseringen"
+   },
+   "reportLabelDuration": {
+      "message": "Duur"
+   },
+   "reportLabelStatus": {
+      "message": "Status"
+   },
+   "reportLabelTimeline": {
+      "message": "Tijdlijn"
+   },
+   "reportMilestoneComplete": {
+      "message": "Voltooid"
+   },
+   "reportNavHowWeUseData": {
+      "message": "Hoe we je gegevens gebruiken"
+   },
+   "reportNavIdsAccessed": {
+      "message": "Geopende ID's"
+   },
+   "reportNavPagesVisited": {
+      "message": "Bezochte pagina's en domeinen"
+   },
+   "reportNavPrivacySecurity": {
+      "message": "Privacy en beveiliging"
+   },
+   "reportNavSummary": {
+      "message": "Samenvatting"
+   },
+   "reportOverviewCapiGatewayDescription": {
+      "message": "Deze automatisering heeft de Conversions API Gateway geconfigureerd om gebeurtenissen op de server bij te houden. De gateway stuurt gebeurtenisgegevens rechtstreeks vanaf je server naar Meta, wat de betrouwbaarheid van gegevens en de kwaliteit van overeenkomsten verbetert."
+   },
+   "reportOverviewCapiGatewayTitle": {
+      "message": "Configuratie van Conversions API Gateway"
+   },
+   "reportOverviewDefaultDescription": {
+      "message": "In dit rapport staat een overzicht van de acties die zijn uitgevoerd tijdens het automatiseringsproces."
+   },
+   "reportOverviewDefaultTitle": {
+      "message": "Automatisering voltooid"
+   },
+   "reportOverviewGtmServerDescription": {
+      "message": "Deze automatisering heeft taggen op de server geconfigureerd via Google Tag Manager. Taggen op de server verbetert de gegevenskwaliteit, siteprestaties en gebruikersprivacy door tags op een server te verwerken in plaats van in de browser."
+   },
+   "reportOverviewGtmServerTitle": {
+      "message": "Configuratie van server van Google Tag Manager"
+   },
+   "reportOverviewGtmWebDescription": {
+      "message": "Deze automatisering heeft een Google Tag Manager-webcontainer geconfigureerd en deze voor je website ingesteld. Via de container kun je marketingtags, analyses en trackingpixels beheren zonder je sitecode te wijzigen."
+   },
+   "reportOverviewGtmWebTitle": {
+      "message": "Configuratie van webcontainer van Google Tag Manager"
+   },
+   "reportOverviewMetaPixelDescription": {
+      "message": "Deze automatisering heeft de Meta-pixel op je website geïnstalleerd en geverifieerd. De pixel houdt bezoekersactiviteit bij zodat je de effectiviteit van je advertenties kunt meten, doelgroepen kunt opbouwen en de advertentieweergave kunt optimaliseren."
+   },
+   "reportOverviewMetaPixelTitle": {
+      "message": "Installatie van Meta-pixel"
+   },
+   "reportOverviewSalesforceDescription": {
+      "message": "Deze automatisering heeft Meta CRM-CAPI-webhooks geconfigureerd in je Salesforce-instantie. De webhook-integratie stuurt CRM-gebeurtenissen vanuit Salesforce rechtstreeks naar Meta, voor betere advertentietargeting en -meting doordat gebeurtenissen op de server worden gedeeld."
+   },
+   "reportOverviewSalesforceTitle": {
+      "message": "Configuratie van Salesforce CRM-CAPI Webhook"
+   },
+   "reportPagesDescription": {
+      "message": "De volgende pagina's zijn bezocht tijdens je automatiseringservaring."
+   },
+   "reportPagesDescriptionShort": {
+      "message": "De volgende pagina's zijn bezocht tijdens je automatisering."
+   },
+   "reportPagesEmpty": {
+      "message": "Er zijn geen pagina's bezocht tijdens deze automatisering."
+   },
+   "reportPagesHeading": {
+      "message": "Bezochte pagina's en domeinen"
+   },
+   "reportRecipeNameGaCreateAccount": {
+      "message": "Google Analytics-account maken"
+   },
+   "reportRecipeNameGtmCreateAccount": {
+      "message": "GTM-account maken"
+   },
+   "reportRecipeNameGtmProvisionServer": {
+      "message": "GTM-servercontainer inrichten"
+   },
+   "reportRecipeNameInstallFacebookForWoocommerce": {
+      "message": "Facebook voor WooCommerce installeren"
+   },
+   "reportRecipeNameSalesforceWebhook": {
+      "message": "CRM-webhook voor Salesforce instellen"
+   },
+   "reportRecipeNameSgwGtmSetup": {
+      "message": "Signals Gateway met GTM instellen"
+   },
+   "reportRecipeNameShopifyProductSync": {
+      "message": "Shopify-productsynchronisatie"
+   },
+   "reportRecipeNameUpdateFacebookForWoocommerce": {
+      "message": "Facebook voor WooCommerce bijwerken"
+   },
+   "reportStatusFailed": {
+      "message": "Mislukt"
+   },
+   "reportStatusSetupIncomplete": {
+      "message": "Instellingen niet voltooid"
+   },
+   "reportStatusSuccess": {
+      "message": "Gelukt"
+   },
+   "reportSummaryDescription": {
+      "message": "Controleer statussen, tijdlijnen en acties die zijn uitgevoerd tijdens je automatiseringservaring."
+   },
+   "reportSummaryFailureDescription": {
+      "message": "De automatisering is niet voltooid. Controleer de tijdlijn en informatiebronnen die zijn gemaakt voorafgaand aan de fout."
+   },
+   "reportSummaryHeading": {
+      "message": "Samenvatting"
+   },
+   "reportTimelineStarted": {
+      "message": "$1 gestart"
+   },
+   "reportTitleFailure": {
+      "message": "Automatisering mislukt: $1"
+   },
+   "reportTitleFlow": {
+      "message": "Overzicht van automatiseringsflow"
+   },
+   "reportTitleSuccess": {
+      "message": "Automatiseringsoverzicht: $1"
+   },
+   "required": {
+      "message": "Verplicht"
+   },
+   "resolutionStepAddingMissingEventsTitle": {
+      "message": "Ontbrekende gebeurtenissen toevoegen"
+   },
+   "resolutionStepClickToCopy": {
+      "message": "Klik om te kopiëren"
+   },
+   "resolutionStepConfirmNewEvents": {
+      "message": "Nieuwe gebeurtenissen bevestigen"
+   },
+   "resolutionStepEnableAAMEventsTitle": {
+      "message": "Automatische geavanceerde overeenkomsten inschakelen"
+   },
+   "resolutionStepEnableMAMEventsTitle": {
+      "message": "Handmatig geavanceerd overeenkomsten zoeken instellen"
+   },
+   "resolutionStepInvalidValueCurrencyTitle": {
+      "message": "Waarde en valuta bijwerken"
+   },
+   "resolutionStepLeaveTabOpen": {
+      "message": "Houd dit tabblad open"
+   },
+   "resolutionStepOpenEventSetupTool": {
+      "message": "De tool voor gebeurtenisconfiguraties voor je website openen"
+   },
+   "resolutionStepOpenWebsiteCode": {
+      "message": "Open de code van je website."
+   },
+   "resolutionStepSearchFbqInit": {
+      "message": "Zoek naar **fbq('init'...)** om plekken te vinden waar je de Meta-pixel gebruikt."
+   },
+   "resolutionStepSearchFbqTrackPurchase": {
+      "message": "Zoek de bijgehouden gebeurtenis 'Purchase' van je pixel."
+   },
+   "resolutionStepUpdateCodeBlock": {
+      "message": "Werk het codeblok bij om de geavanceerde overeenkomstengegevens hieronder als derde parameter op te nemen."
+   },
+   "resolutionStepUpdateCurrencyField": {
+      "message": "Werk het valutaveld bij."
+   },
+   "resolutionStepUpdateValueField": {
+      "message": "Werk het waardeveld bij."
+   },
+   "resolutionStepUserActionRequired": {
+      "message": "Gebruikersactie vereist"
+   },
+   "resolutionStepValueFieldInformation": {
+      "message": "Informatie over waardeveld:"
+   },
+   "resolutionStepValueFieldRequirement1": {
+      "message": "Moet een numerieke waarde zijn die groter is dan 0"
+   },
+   "resolutionStepValueFieldRequirement2": {
+      "message": "Mag de decimale punt bevatten. Bijvoorbeeld 9.99 of 9."
+   },
+   "resolutionStepValueFieldRequirement3": {
+      "message": "Voeg geen extra cijfers, speciale tekens of symbolen toe aan de valutaparameter."
+   },
+   "resolutionStepsDefault": {
+      "message": "Stappen voor een oplossing"
+   },
+   "reviewSuggestionsEmpty": {
+      "message": "Geen voorgestelde gebeurtenissen op dit moment."
+   },
+   "reviewSuggestionsIneligible": {
+      "message": "Voorgestelde gebeurtenissen zijn nog niet beschikbaar voor deze pixel."
+   },
+   "reviewSuggestionsLoading": {
+      "message": "Voorgestelde gebeurtenissen laden..."
+   },
+   "ruleOperator_eq": {
+      "message": "is gelijk aan"
+   },
+   "ruleOperator_gt": {
+      "message": "is groter dan"
+   },
+   "ruleOperator_gte": {
+      "message": "is groter dan of gelijk aan"
+   },
+   "ruleOperator_i_contains": {
+      "message": "bevat"
+   },
+   "ruleOperator_i_greater_than_or_equal": {
+      "message": "is groter dan of gelijk aan"
+   },
+   "ruleOperator_i_is_any": {
+      "message": "is een van"
+   },
+   "ruleOperator_i_less_than_or_equal": {
+      "message": "is kleiner dan of gelijk aan"
+   },
+   "ruleOperator_i_not_contains": {
+      "message": "bevat geen"
+   },
+   "ruleOperator_lt": {
+      "message": "is minder dan"
+   },
+   "ruleOperator_lte": {
+      "message": "is kleiner dan of gelijk aan"
+   },
+   "ruleOperator_neq": {
+      "message": "is niet gelijk aan"
+   },
+   "ruleOperator_or": {
+      "message": "of"
+   },
+   "ruleOperator_regex_match": {
+      "message": "overeenkomsten"
+   },
+   "screenshotGalleryDisclaimer": {
+      "message": "Screenshots worden alleen op je apparaat opgeslagen en worden gewist wanneer je sessie eindigt."
+   },
+   "screenshotGalleryTimeDaysAgo": {
+      "message": "$1 d geleden"
+   },
+   "screenshotGalleryTimeHoursAgo": {
+      "message": "$1 uur geleden"
+   },
+   "screenshotGalleryTimeJustNow": {
+      "message": "zojuist"
+   },
+   "screenshotGalleryTimeMinutesAgo": {
+      "message": "$1 min. geleden"
+   },
+   "selector_no_options_available": {
+      "message": "Geen opties beschikbaar"
+   },
+   "selector_no_results_found": {
+      "message": "Geen resultaten gevonden"
+   },
+   "selector_select_placeholder": {
+      "message": "-- Selecteren --"
+   },
+   "server_container_creation_title": {
+      "message": "Servercontainer"
+   },
+   "server_container_name_label": {
+      "message": "Naam van container"
+   },
+   "server_container_tagging_url_label": {
+      "message": "URL van tagserver"
+   },
+   "settingsDescription": {
+      "message": "Beheer eenvoudig de configuratie van je Meta-pixel en optimaliseer hoe deze voor jou werkt."
+   },
+   "settingsErrorOccurred": {
+      "message": "Er is een fout opgetreden"
+   },
+   "settingsOverlayNotificationsDescription": {
+      "message": "Geef contextuele overlaymeldingen weer op pagina's met je pixels"
+   },
+   "settingsOverlayNotificationsTitle": {
+      "message": "Overlaymeldingen"
+   },
+   "settingsTitle": {
+      "message": "Instellingen"
+   },
+   "settingsWaitSpeedFast": {
+      "message": "Versnellen"
+   },
+   "settingsWaitSpeedFastDescription": {
+      "message": "Minder dan 1 seconde"
+   },
+   "settingsWaitSpeedMedium": {
+      "message": "Gemiddeld"
+   },
+   "settingsWaitSpeedMediumDescription": {
+      "message": "2-3 seconden"
+   },
+   "settingsWaitSpeedSlow": {
+      "message": "Vertragen"
+   },
+   "settingsWaitSpeedSlowDescription": {
+      "message": "5+ seconden"
+   },
+   "settingsWaitTimeBetweenActionsTitle": {
+      "message": "Wachttijd tussen acties"
+   },
+   "setupAddingAllEventsLabel": {
+      "message": "Alle evenementen toevoegen"
+   },
+   "setupAddingPixelEventsCardTitle": {
+      "message": "Pixelgebeurtenissen toevoegen"
+   },
+   "setupComplete": {
+      "message": "Installatie voltooid"
+   },
+   "setupDetailsHeader": {
+      "message": "Configuratiegegevens"
+   },
+   "setupDetailsInfoTooltip": {
+      "message": "Als de automatisering wordt gestart, worden de volgende stappen voor je voltooid."
+   },
+   "setupHowItWorksDescription": {
+      "message": "Meta AI scant je website, identificeert belangrijke conversiegebeurtenissen zoals Aankopen, Toevoegingen aan winkelwagentje of Leads en voegt deze automatisch toe als Pixel-gebeurtenissen. Er is geen codering vereist."
+   },
+   "setupHowItWorksLabel": {
+      "message": "Hoe het werkt"
+   },
+   "setupPixelEventsAddedHeader": {
+      "message": "Pixelgebeurtenissen toegevoegd"
+   },
+   "setupPixelEventsAddedSubtitle": {
+      "message": "Nu kun je achterover leunen en genieten van de boost in je campagneprestaties."
+   },
+   "setupPixelEventsHeader": {
+      "message": "Pixel-gebeurtenissen instellen"
+   },
+   "setupReturnToPreviousPage": {
+      "message": "Terug naar vorige pagina"
+   },
+   "setup_failed": {
+      "message": "Configuratie mislukt"
+   },
+   "setup_requirements": {
+      "message": "Configuratievereisten"
+   },
+   "shopifyProductSyncIntroStep1SubA": {
+      "message": "Open de aanmeldingspagina voor Shopify-beheerders"
+   },
+   "shopifyProductSyncIntroStep1SubB": {
+      "message": "Meld je aan bij de Shopify-beheeromgeving van je winkel"
+   },
+   "shopifyProductSyncIntroStep1Title": {
+      "message": "Aanmelden bij Shopify-beheer"
+   },
+   "shopifyProductSyncIntroStep2SubA": {
+      "message": "Klik op **Producten**"
+   },
+   "shopifyProductSyncIntroStep2SubB": {
+      "message": "Klik op het tabblad **Alles**"
+   },
+   "shopifyProductSyncIntroStep2SubC": {
+      "message": "Alle producten selecteren"
+   },
+   "shopifyProductSyncIntroStep2Title": {
+      "message": "Producten identificeren"
+   },
+   "shopifyProductSyncIntroStep3SubA": {
+      "message": "Klik op **Meer opties**"
+   },
+   "shopifyProductSyncIntroStep3SubB": {
+      "message": "Klik op **Opnemen in verkoopkanalen**"
+   },
+   "shopifyProductSyncIntroStep3SubC": {
+      "message": "Selecteer **Facebook en Instagram**"
+   },
+   "shopifyProductSyncIntroStep3SubD": {
+      "message": "Klik op **Producten opnemen**"
+   },
+   "shopifyProductSyncIntroStep3Title": {
+      "message": "Producten opnemen"
+   },
+   "showAllEvents": {
+      "message": "Alle gebeurtenissen weergeven"
+   },
+   "showAllPixels": {
+      "message": "Alle pixels weergeven"
+   },
+   "showAllWarnings": {
+      "message": "Alle waarschuwingen weergeven"
+   },
+   "showLess": {
+      "message": "Minder weergeven"
+   },
+   "showLessEvents": {
+      "message": "Minder gebeurtenissen weergeven"
+   },
+   "showMore": {
+      "message": "Meer weergeven"
+   },
+   "stepResumeTooltip": {
+      "message": "Zorg dat je de bovenstaande actie handmatig hebt voltooid voordat je doorgaat."
+   },
+   "suggestionButtonTextLabel": {
+      "message": "Knoptekst is '$1'"
+   },
+   "suggestionExampleUrlsLabel": {
+      "message": "Voorbeeld-URL's: $1"
+   },
+   "switcherCatalogSingular": {
+      "message": "$ 1 catalogus"
+   },
+   "switcherCatalogsPlural": {
+      "message": "$ 1 catalogi"
+   },
+   "switcherPixelsPlural": {
+      "message": "$ 1 pixels"
+   },
+   "switcherPixelsSingular": {
+      "message": "$ 1 pixel"
+   },
+   "testEventsHeader": {
+      "message": "Testgebeurtenissen"
+   },
+   "topActionsSectionHeader": {
+      "message": "Je beste acties"
+   },
+   "topActionsSectionSubHeader": {
+      "message": "Op basis van je configuratie"
+   },
+   "triggerEventDetection": {
+      "message": "Voorgestelde gebeurtenissen detecteren"
+   },
+   "useMetaEventSetupToolForWeb": {
+      "message": "De Meta-tool voor gebeurtenisconfiguraties voor het web gebruiken"
+   },
+   "verificationFailedCancelButton": {
+      "message": "Automatisering annuleren"
+   },
+   "verificationFailedMessage": {
+      "message": "We kunnen de status van deze actie niet detecteren. Als deze fout zich blijft voordoen, kun je de automatisering annuleren en doorgaan met de handmatige configuratie."
+   },
+   "verificationFailedTitle": {
+      "message": "Probeer het opnieuw"
+   },
+   "verificationFailedTryAgainButton": {
+      "message": "Opnieuw"
+   },
+   "verificationInProgressMessage": {
+      "message": "Controleren of de actie is voltooid"
+   },
+   "warningsHeader": {
+      "message": "Waarschuwingen"
+   },
+   "web_container_creation_title": {
+      "message": "Webcontainer"
+   },
+   "web_container_name_label": {
+      "message": "Naam van container"
+   },
+   "what_we_will_create_title": {
+      "message": "Wat we voor jou maken"
+   },
+   "wooCommerceIntroSetUpForMeButton": {
+      "message": "Instellen voor mij"
+   },
+   "wooCommerceIntroStep1SubA": {
+      "message": "Open je WordPress-administratiepanel"
+   },
+   "wooCommerceIntroStep1SubB": {
+      "message": "Meld je aan bij je WordPress-account"
+   },
+   "wooCommerceIntroStep1Title": {
+      "message": "Aanmelden bij WordPress"
+   },
+   "wooCommerceIntroStep2SubA": {
+      "message": "Ga naar het linkerdeelvenster, selecteer **Plug-ins** en vervolgens **Plug-ins toevoegen**"
+   },
+   "wooCommerceIntroStep2SubB": {
+      "message": "Klik op **Plug-in toevoegen**"
+   },
+   "wooCommerceIntroStep2SubC": {
+      "message": "Ga naar de zoekbalk bovenaan de pagina"
+   },
+   "wooCommerceIntroStep2SubD": {
+      "message": "Zoeken naar Meta for WooCommerce-plug-in"
+   },
+   "wooCommerceIntroStep2SubE": {
+      "message": "Scrol naar de Meta for WooCommerce-plug-in en klik op **Nu installeren**"
+   },
+   "wooCommerceIntroStep2Title": {
+      "message": "Plug-in installeren"
+   },
+   "wooCommerceIntroStep3SubA": {
+      "message": "Zodra Meta for WooCommerce is geïnstalleerd, klik je op **Activeren**"
+   },
+   "wooCommerceIntroStep3SubB": {
+      "message": "Ga naar de pagina **Plug-ins** in het linkerdeelvenster"
+   },
+   "wooCommerceIntroStep3SubC": {
+      "message": "Scrol naar de Meta for WooCommerce-plug-in en klik op **Configureren**"
+   },
+   "wooCommerceIntroStep3SubD": {
+      "message": "Klik op het configuratiescherm op **Aan de slag**"
+   },
+   "wooCommerceIntroStep3Title": {
+      "message": "Plug-in activeren"
+   },
+   "wooCommerceUpdateIntroStep2SubA": {
+      "message": "De pagina Plug-ins toevoegen openen"
+   },
+   "wooCommerceUpdateIntroStep2SubB": {
+      "message": "Naar de plug-in Meta for WooCommerce scrollen"
+   },
+   "wooCommerceUpdateIntroStep2SubC": {
+      "message": "Klik op **Nu bijwerken**"
+   },
+   "wooCommerceUpdateIntroStep2Title": {
+      "message": "Plug-in bijwerken"
+   }
+}

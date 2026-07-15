@@ -1,0 +1,3335 @@
+{
+   "aamConfirmButton": {
+      "message": "確認"
+   },
+   "aamEditButton": {
+      "message": "編輯"
+   },
+   "aamFieldCityStatePostal": {
+      "message": "城市、州、郵遞區號"
+   },
+   "aamFieldCountry": {
+      "message": "國家／地區"
+   },
+   "aamFieldDateOfBirth": {
+      "message": "出生日期"
+   },
+   "aamFieldEmail": {
+      "message": "電子郵件地址"
+   },
+   "aamFieldExternalId": {
+      "message": "外部編號"
+   },
+   "aamFieldFirstLastName": {
+      "message": "姓名"
+   },
+   "aamFieldGender": {
+      "message": "性別"
+   },
+   "aamFieldPhoneNumber": {
+      "message": "電話號碼"
+   },
+   "aamInfoDescription": {
+      "message": "自動進階配對會使用你商家提供的顧客資料（例如電子郵件地址或電話號碼），來比對同樣使用 Meta 的訪客。"
+   },
+   "aamNoEditPermissionTooltip": {
+      "message": "沒有編輯權限，請聯絡你的管理員"
+   },
+   "aamStepConfirmFieldsDescription": {
+      "message": "確認你想傳送的欄位"
+   },
+   "aamStepUserActionRequired": {
+      "message": "用戶必須採取動作"
+   },
+   "aboutAdvancedMatchingForWeb": {
+      "message": "關於網頁版進階配對"
+   },
+   "aboutEventSetupTool": {
+      "message": "關於事件設定工具"
+   },
+   "actionAddMissingEventsCtaLabel": {
+      "message": "為我設定"
+   },
+   "actionAddMissingEventsDescription": {
+      "message": "在設定中新增缺少的事件，即可輕鬆提升廣告成效和成效衡量準確度。"
+   },
+   "actionAddMissingEventsHeader": {
+      "message": "新增缺少的事件"
+   },
+   "actionAutomatableValueLabel": {
+      "message": "可自動化"
+   },
+   "actionCAPIGTMProductRecommendationHeader": {
+      "message": "透過 Google 代碼管理工具安全地分享資料"
+   },
+   "actionCAPIGTMSetupDescription": {
+      "message": "這樣能簡化代碼部署和管理，無需變更程式碼即可有效率地追蹤事件，藉此提升行銷成效。"
+   },
+   "actionCAPIGTMSetupHeader": {
+      "message": "透過 Google 代碼管理工具設定轉換 API"
+   },
+   "actionCAPIGeneralSetupDescription": {
+      "message": "充分運用你網站上衡量的資料，並協助降低每次成果成本。"
+   },
+   "actionCAPIGeneralSetupHeader": {
+      "message": "設定轉換 API"
+   },
+   "actionCAPISalesforceCRMSetupDescription": {
+      "message": "自動設定可順暢無礙地啟用準確即時的伺服器對伺服器事件追蹤功能，藉此獲得更優質的顧客洞察報告和行銷成效。"
+   },
+   "actionCAPISalesforceCRMSetupHeader": {
+      "message": "透過 Salesforce CRM 設定轉換 API"
+   },
+   "actionCardDatasetTooltip": {
+      "message": "前往事件管理工具查看此資料集"
+   },
+   "actionCatalogUpsellCtaLabel": {
+      "message": "新增商品"
+   },
+   "actionCatalogUpsellDescription": {
+      "message": "吸引新受眾，並根據他們的行為和興趣提供個人化購物體驗。透過多種廣告格式，吸引顧客將想法轉化為實際購買行為。"
+   },
+   "actionCatalogUpsellHeader": {
+      "message": "新增商品到 Meta 目錄，發揮最大廣告成效"
+   },
+   "actionFixInvalidValueCurrencyDescription": {
+      "message": "修正網站購買事件的無效值和幣別參數，可獲得準確的分析報告並達到更理想的行銷活動最佳化成效。"
+   },
+   "actionFixInvalidValueCurrencyHeader": {
+      "message": "修正無效的值和幣別參數"
+   },
+   "actionFreeCAPIGOneClickDescription": {
+      "message": "自動將像素事件傳送到伺服器端，無須工程設定，也不需要額外標籤。我們會為你建立連結。"
+   },
+   "actionFreeCAPIGOneClickHeader": {
+      "message": "Meta 支援的轉換 API"
+   },
+   "actionFreeCAPIGOneClickTooltip": {
+      "message": "點擊即可為此商家啟用 Meta 代管的伺服器端事件傳送功能。你之後可以在事件管理工具中變更此設定。"
+   },
+   "actionFreeCAPIGOneClickValueLift": {
+      "message": "每次成果成本降低 17.8%"
+   },
+   "actionFreeCAPIGOneClickViewDetails": {
+      "message": "查看詳情"
+   },
+   "actionInstallFacebookForWooCommerceCtaLabel": {
+      "message": "開始使用"
+   },
+   "actionInstallFacebookForWooCommercePluginDescription": {
+      "message": "Meta for WooCommerce 會將你的商店持續同步到 Facebook、Instagram 和 WhatsApp，減少你管理的負擔，為你的商家節省更多時間。"
+   },
+   "actionInstallFacebookForWooCommercePluginHeader": {
+      "message": "安裝 Meta for WooCommerce 外掛程式"
+   },
+   "actionInstallFacebookForWooCommercePluginSubtitle": {
+      "message": "節省寶貴時間，向理想受眾顯示適合的商品。"
+   },
+   "actionSetupMamAamDescription": {
+      "message": "進階配對可提高你的廣告轉換次數，以便透過「再行銷」行銷活動觸及更多受眾。"
+   },
+   "actionSetupMamAamHeader": {
+      "message": "設定進階配對"
+   },
+   "actionShopifyProductSyncCtaLabel": {
+      "message": "開始使用"
+   },
+   "actionShopifyProductSyncDescription": {
+      "message": "此頁面的部分內容編號無法與你的目錄商品配對。請使用 Shopify 商品同步功能新增缺少的商品。"
+   },
+   "actionShopifyProductSyncHeader": {
+      "message": "從 Shopify 同步缺少的商品"
+   },
+   "actionSignalsGatewayGTMSetupDescription": {
+      "message": "這可啟用準確即時的伺服器對伺服器事件追蹤功能，藉此獲得更優質的顧客洞察報告和行銷成效。"
+   },
+   "actionSignalsGatewayGTMSetupHeader": {
+      "message": "透過 Google 代碼管理工具設定 Signals Gateway Pixel"
+   },
+   "actionUpdateFacebookForWooCommerceCtaLabel": {
+      "message": "更新外掛程式"
+   },
+   "actionUpdateFacebookForWooCommercePluginDescription": {
+      "message": "立即更新以取得最新改善功能，並讓你的商店順利同步到 Facebook、Instagram 和 WhatsApp。"
+   },
+   "actionUpdateFacebookForWooCommercePluginHeader": {
+      "message": "更新 Meta for WooCommerce 外掛程式"
+   },
+   "actionUpdateFacebookForWooCommercePluginSubtitle": {
+      "message": "新版本外掛程式已準備就緒。"
+   },
+   "addMissingEventsCancel": {
+      "message": "取消"
+   },
+   "addMissingEventsHeader": {
+      "message": "新增缺少的事件"
+   },
+   "addMissingEventsMoreDatasets": {
+      "message": "其他 $1 個資料集"
+   },
+   "addMissingEventsNextSteps": {
+      "message": "後續步驟"
+   },
+   "addMissingEventsPotentialBadge": {
+      "message": "CPR 有望降低 1%"
+   },
+   "addMissingEventsSetUpForMe": {
+      "message": "為我設定"
+   },
+   "addMissingEventsSubtitle": {
+      "message": "新增缺少的像素事件，以開始追蹤和最佳化轉換事件，藉此提升廣告成果。"
+   },
+   "addMissingEventsTimeEstimate": {
+      "message": "不到 \u003C 1 分鐘"
+   },
+   "add_more_label": {
+      "message": "新增更多"
+   },
+   "additionalRecommendation": {
+      "message": "其他建議"
+   },
+   "additionalRecommendations": {
+      "message": "其他建議"
+   },
+   "agenticActionAskUserSelect": {
+      "message": "要求你選擇"
+   },
+   "agenticActionCaptureDropdown": {
+      "message": "擷取 $1 的下拉式選項"
+   },
+   "agenticActionCaptureDropdownActive": {
+      "message": "正在擷取 $1 的下拉式選項"
+   },
+   "agenticActionCaptureDropdownPast": {
+      "message": "已擷取 $1 的下拉式選項"
+   },
+   "agenticActionCaptureStoreAsDetail": {
+      "message": "儲存為 $1"
+   },
+   "agenticActionClick": {
+      "message": "點擊 $1"
+   },
+   "agenticActionClickActive": {
+      "message": "正在點擊 $1"
+   },
+   "agenticActionClickPast": {
+      "message": "已點擊 $1"
+   },
+   "agenticActionCloseTab": {
+      "message": "關閉頁籤 $1"
+   },
+   "agenticActionCloseTabActive": {
+      "message": "正在關閉 $1"
+   },
+   "agenticActionCloseTabPast": {
+      "message": "已關閉 $1"
+   },
+   "agenticActionCopyMatchDetail": {
+      "message": "符合 $1"
+   },
+   "agenticActionCopyMatchingText": {
+      "message": "將相符文字複製到快取 $1"
+   },
+   "agenticActionCopyMatchingTextActive": {
+      "message": "正在將相符文字複製到快取 $1"
+   },
+   "agenticActionCopyMatchingTextPast": {
+      "message": "已將相符文字複製到快取 $1"
+   },
+   "agenticActionCopyTextFromTarget": {
+      "message": "將文字從 $1 複製到快取 $2"
+   },
+   "agenticActionCopyTextFromTargetActive": {
+      "message": "正在將文字從 $1 複製到快取 $2"
+   },
+   "agenticActionCopyTextFromTargetPast": {
+      "message": "已將文字從 $1 複製到快取 $2"
+   },
+   "agenticActionCopyVisibleText": {
+      "message": "將可見文字複製到快取 $1"
+   },
+   "agenticActionCopyVisibleTextActive": {
+      "message": "正在將可見文字複製到快取 $1"
+   },
+   "agenticActionCopyVisibleTextPast": {
+      "message": "已將可見文字複製到快取 $1"
+   },
+   "agenticActionGetDropdownOptions": {
+      "message": "讀取 $1 中的選項"
+   },
+   "agenticActionGoToUrl": {
+      "message": "前往 $1"
+   },
+   "agenticActionHover": {
+      "message": "將滑鼠移到 $1 上方"
+   },
+   "agenticActionNeededTitle": {
+      "message": "需要採取動作"
+   },
+   "agenticActionOpenNewTab": {
+      "message": "開啟新頁籤"
+   },
+   "agenticActionOpenPage": {
+      "message": "開啟新頁面"
+   },
+   "agenticActionOpenPageActive": {
+      "message": "正在開啟新頁面"
+   },
+   "agenticActionOpenPagePast": {
+      "message": "已開啟新頁面"
+   },
+   "agenticActionOpenRelativePath": {
+      "message": "開啟相對路徑"
+   },
+   "agenticActionOpenRelativePathActive": {
+      "message": "正在開啟相對路徑"
+   },
+   "agenticActionOpenRelativePathPast": {
+      "message": "已開啟相對路徑"
+   },
+   "agenticActionOpenTab": {
+      "message": "開啟 $1 頁籤"
+   },
+   "agenticActionOpenTabActive": {
+      "message": "正在開啟新頁籤"
+   },
+   "agenticActionOpenTabDestinationDetail": {
+      "message": "目的地：$1"
+   },
+   "agenticActionOpenTabPast": {
+      "message": "已開啟新頁籤"
+   },
+   "agenticActionPaste": {
+      "message": "貼到 $1"
+   },
+   "agenticActionPasteSourceDetail": {
+      "message": "來源快取：$1"
+   },
+   "agenticActionPasteText": {
+      "message": "將儲存的文字貼到 $1"
+   },
+   "agenticActionPasteTextActive": {
+      "message": "正在將儲存的文字貼到 $1"
+   },
+   "agenticActionPasteTextPast": {
+      "message": "已將儲存的文字貼到 $1"
+   },
+   "agenticActionReloadPage": {
+      "message": "重新載入頁面"
+   },
+   "agenticActionReloadPageActive": {
+      "message": "正在重新載入頁面"
+   },
+   "agenticActionReloadPagePast": {
+      "message": "已重新載入頁面"
+   },
+   "agenticActionScrollBottom": {
+      "message": "捲動至底部"
+   },
+   "agenticActionScrollBottomActive": {
+      "message": "正在捲動至頁面底部"
+   },
+   "agenticActionScrollBottomPast": {
+      "message": "已捲動至頁面底部"
+   },
+   "agenticActionScrollElementPercent": {
+      "message": "捲動 $1% 至 $2%"
+   },
+   "agenticActionScrollIntoViewDetail": {
+      "message": "捲動以便與畫面外元素互動。"
+   },
+   "agenticActionScrollPercent": {
+      "message": "捲動至 $1%"
+   },
+   "agenticActionScrollPercentActive": {
+      "message": "正在捲動 $1 至 $2"
+   },
+   "agenticActionScrollPercentPage": {
+      "message": "頁面"
+   },
+   "agenticActionScrollPercentPast": {
+      "message": "已捲動至 $1 的 $2"
+   },
+   "agenticActionScrollTo": {
+      "message": "捲動至 $1"
+   },
+   "agenticActionScrollToActive": {
+      "message": "正在捲動至 $1"
+   },
+   "agenticActionScrollToPast": {
+      "message": "已捲動至 $1"
+   },
+   "agenticActionScrollTop": {
+      "message": "捲動至頂端"
+   },
+   "agenticActionScrollTopActive": {
+      "message": "正在捲動至頁面頂端"
+   },
+   "agenticActionScrollTopPast": {
+      "message": "已捲動至頁面頂端"
+   },
+   "agenticActionSelect": {
+      "message": "在 $2 選擇 $1"
+   },
+   "agenticActionSelectActive": {
+      "message": "正在 $2 選擇 $1"
+   },
+   "agenticActionSelectPast": {
+      "message": "已在 $2 選擇 $1"
+   },
+   "agenticActionSfAskOpportunityPreference": {
+      "message": "詢問機會追蹤相關問題"
+   },
+   "agenticActionSfConfirmFieldMappings": {
+      "message": "確認欄位對應"
+   },
+   "agenticActionSfGetFieldMappings": {
+      "message": "取得建議的欄位對應"
+   },
+   "agenticActionSfMutateWebhookIntegration": {
+      "message": "設定 Webhook 整合工具"
+   },
+   "agenticActionSwitchTab": {
+      "message": "切換到頁籤 $1"
+   },
+   "agenticActionSwitchTabActive": {
+      "message": "正在切換到 $1"
+   },
+   "agenticActionSwitchTabPast": {
+      "message": "已切換至 $1"
+   },
+   "agenticActionTypeInto": {
+      "message": "在 $1 輸入內容"
+   },
+   "agenticActionTypeIntoActive": {
+      "message": "正在 $1 輸入內容"
+   },
+   "agenticActionTypeIntoPast": {
+      "message": "已輸入內容到 $1"
+   },
+   "agenticAskUserSelectDescriptionFallback": {
+      "message": "選擇選項以繼續。"
+   },
+   "agenticAskUserSelectFieldLabel": {
+      "message": "選項"
+   },
+   "agenticAskUserSelectPlaceholder": {
+      "message": "選擇一個選項"
+   },
+   "agenticConnectionFailed": {
+      "message": "無法重新連結，請重新整理頁面。"
+   },
+   "agenticConnectionReconnecting": {
+      "message": "連結中斷。正在重新連結……（$1／$2）"
+   },
+   "agenticDefaultWaitPrompt": {
+      "message": "請完成要求的動作。"
+   },
+   "agenticElementNameOnly": {
+      "message": "「$1」"
+   },
+   "agenticElementNounAccordion": {
+      "message": "手風琴"
+   },
+   "agenticElementNounBanner": {
+      "message": "橫幅"
+   },
+   "agenticElementNounButton": {
+      "message": "按鈕"
+   },
+   "agenticElementNounCard": {
+      "message": "卡片"
+   },
+   "agenticElementNounCell": {
+      "message": "儲存格"
+   },
+   "agenticElementNounCheckbox": {
+      "message": "核取方塊"
+   },
+   "agenticElementNounChip": {
+      "message": "晶片"
+   },
+   "agenticElementNounDialog": {
+      "message": "對話方塊"
+   },
+   "agenticElementNounDropdown": {
+      "message": "下拉式功能表"
+   },
+   "agenticElementNounElement": {
+      "message": "元素"
+   },
+   "agenticElementNounFileInput": {
+      "message": "檔案輸入"
+   },
+   "agenticElementNounImage": {
+      "message": "圖像"
+   },
+   "agenticElementNounInputField": {
+      "message": "輸入欄位"
+   },
+   "agenticElementNounItem": {
+      "message": "項目"
+   },
+   "agenticElementNounLink": {
+      "message": "連結"
+   },
+   "agenticElementNounMenu": {
+      "message": "功能表"
+   },
+   "agenticElementNounOption": {
+      "message": "選項"
+   },
+   "agenticElementNounPanel": {
+      "message": "面板"
+   },
+   "agenticElementNounRadioButton": {
+      "message": "選項按鈕"
+   },
+   "agenticElementNounRow": {
+      "message": "行"
+   },
+   "agenticElementNounStep": {
+      "message": "步驟"
+   },
+   "agenticElementNounSubmitButton": {
+      "message": "「提交」按鈕"
+   },
+   "agenticElementNounTab": {
+      "message": "頁籤"
+   },
+   "agenticElementNounTextArea": {
+      "message": "文字區域"
+   },
+   "agenticElementNounTile": {
+      "message": "功能鍵"
+   },
+   "agenticElementNounToggle": {
+      "message": "切換開關"
+   },
+   "agenticElementWithName": {
+      "message": "「$1」$2"
+   },
+   "agenticErrorApi": {
+      "message": "無法連結至 AI 服務。要重試嗎？"
+   },
+   "agenticErrorRateLimit": {
+      "message": "AI 服務忙碌中。請稍待片刻，或稍後重試。"
+   },
+   "agenticErrorTimeout": {
+      "message": "AI 回應時間比預期長。要重試嗎？"
+   },
+   "agenticErrorTitle": {
+      "message": "錯誤"
+   },
+   "agenticErrorUnknown": {
+      "message": "發生錯誤要重試嗎？"
+   },
+   "agenticNavigationPageLoadFailed": {
+      "message": "無法載入頁面。正在重試……"
+   },
+   "agenticNavigationReorienting": {
+      "message": "粉絲專頁導覽發生非預期情況。正在重新調整方向……"
+   },
+   "agenticPleaseCompleteAction": {
+      "message": "請完成動作以繼續"
+   },
+   "agenticReconnectNow": {
+      "message": "立即重新連結"
+   },
+   "agenticResyncWithPage": {
+      "message": "重新同步網頁"
+   },
+   "agenticScrollPercentFallback": {
+      "message": "要求的百分比"
+   },
+   "agenticTabFallbackById": {
+      "message": "頁籤 $1"
+   },
+   "agenticTabFallbackSelected": {
+      "message": "所選的頁籤"
+   },
+   "agenticThinking": {
+      "message": "思考中……"
+   },
+   "agenticTryAgain": {
+      "message": "再試一次"
+   },
+   "agenticVerbClick": {
+      "message": "點擊"
+   },
+   "agenticVerbCopyText": {
+      "message": "複製文字"
+   },
+   "agenticVerbEnterText": {
+      "message": "輸入文字"
+   },
+   "agenticVerbPasteText": {
+      "message": "貼上文字"
+   },
+   "agenticVerbReadDropdown": {
+      "message": "讀取下拉式選項"
+   },
+   "agenticVerbScrollToElement": {
+      "message": "捲動至元素"
+   },
+   "agenticVerbSelectOption": {
+      "message": "選擇選項"
+   },
+   "agenticWaitingForAction": {
+      "message": "正在等待你採取動作……"
+   },
+   "allRecommendationsHeader": {
+      "message": "所有建議"
+   },
+   "automatableBadge": {
+      "message": "自動化"
+   },
+   "automationFlowCompleteTitle": {
+      "message": "設定 Google 代碼管理工具"
+   },
+   "automationSuccessFeedbackCommentPlaceholder": {
+      "message": "選填：新增留言"
+   },
+   "automationSuccessFeedbackFallbackName": {
+      "message": "自動化"
+   },
+   "automationSuccessFeedbackPromptTitle": {
+      "message": "你對這個結果滿意嗎？"
+   },
+   "automationSuccessFeedbackStarLabel": {
+      "message": "星級評分"
+   },
+   "automationSuccessFeedbackSubmitError": {
+      "message": "無法提交意見回饋"
+   },
+   "buttonLoading": {
+      "message": "載入中"
+   },
+   "buttonStartEventSetupTool": {
+      "message": "設定事件"
+   },
+   "buttonTroubleshootPixel": {
+      "message": "解決像素問題"
+   },
+   "cancelAutomationCancelButton": {
+      "message": "取消自動化"
+   },
+   "cancelAutomationCancellingButton": {
+      "message": "取消中……"
+   },
+   "cancelAutomationFromVerificationCancelButton": {
+      "message": "取消自動化"
+   },
+   "cancelAutomationFromVerificationMessage": {
+      "message": "我們仍無法驗證此動作的狀態。請取消自動化以手動設定。"
+   },
+   "cancelAutomationFromVerificationTitle": {
+      "message": "取消自動化"
+   },
+   "cancelAutomationFromVerificationTryAgainButton": {
+      "message": "再試一次"
+   },
+   "cancelAutomationResumeButton": {
+      "message": "繼續自動化"
+   },
+   "cancelAutomationTitle": {
+      "message": "確定要關閉並取消自動化？"
+   },
+   "cancelSetupCancelButton": {
+      "message": "取消設定"
+   },
+   "cancelSetupResumeButton": {
+      "message": "繼續設定"
+   },
+   "cancelSetupTitle": {
+      "message": "確定要關閉並取消設定？"
+   },
+   "capiFieldCity": {
+      "message": "城市"
+   },
+   "capiFieldClickId": {
+      "message": "點擊編號"
+   },
+   "capiFieldCountry": {
+      "message": "國家／地區"
+   },
+   "capiFieldDateOfBirth": {
+      "message": "出生日期"
+   },
+   "capiFieldEmail": {
+      "message": "電子郵件地址"
+   },
+   "capiFieldEventName": {
+      "message": "事件名稱"
+   },
+   "capiFieldEventTime": {
+      "message": "事件時間"
+   },
+   "capiFieldExternalId": {
+      "message": "外部編號"
+   },
+   "capiFieldFirstName": {
+      "message": "名字"
+   },
+   "capiFieldGender": {
+      "message": "性別"
+   },
+   "capiFieldLastName": {
+      "message": "姓氏"
+   },
+   "capiFieldLeadId": {
+      "message": "Meta 潛在顧客編號"
+   },
+   "capiFieldPhone": {
+      "message": "手機號碼"
+   },
+   "capiFieldState": {
+      "message": "州／省"
+   },
+   "capiFieldZipCode": {
+      "message": "郵遞區號"
+   },
+   "catalogConnectedTo": {
+      "message": "已連結至 $1"
+   },
+   "catalogConnections": {
+      "message": "連結"
+   },
+   "catalogCsvHeaderHowToFix": {
+      "message": "解決方式"
+   },
+   "catalogCsvHeaderIssueType": {
+      "message": "問題類型"
+   },
+   "catalogCsvHeaderMoreInfo": {
+      "message": "更多資訊"
+   },
+   "catalogCsvHeaderSampleType": {
+      "message": "範例類型"
+   },
+   "catalogCsvHeaderSampleValue": {
+      "message": "範例值"
+   },
+   "catalogCsvHeaderTotalReceived": {
+      "message": "收到的總數"
+   },
+   "catalogCsvHowToFixText": {
+      "message": "瞭解如何將商品新增至目錄：https://www.facebook.com/business/help/384041892421495?id=725943027795860"
+   },
+   "catalogCsvMoreInfoText": {
+      "message": "在目錄中為這些內容編號新增商品，或確定你在事件中傳送的內容編號是正確的"
+   },
+   "catalogCsvUnmatchedEvents": {
+      "message": "事件不相符"
+   },
+   "catalogEventNameAddToCart": {
+      "message": "加到購物車"
+   },
+   "catalogEventNameAddToWishlist": {
+      "message": "加到願望清單"
+   },
+   "catalogEventNameInitiateCheckout": {
+      "message": "開始結帳"
+   },
+   "catalogEventNameLead": {
+      "message": "成為潛在顧客"
+   },
+   "catalogEventNamePurchase": {
+      "message": "購買"
+   },
+   "catalogEventNameSearch": {
+      "message": "搜尋"
+   },
+   "catalogEventNameSubscribe": {
+      "message": "訂閱"
+   },
+   "catalogEventNameViewContent": {
+      "message": "粉絲專頁瀏覽"
+   },
+   "catalogFooterManageConnection": {
+      "message": "管理連線"
+   },
+   "catalogFooterViewInCommerceManager": {
+      "message": "在商務管理工具查看"
+   },
+   "catalogLiveMatchCount": {
+      "message": "$1／$2 商品相符"
+   },
+   "catalogLoadError": {
+      "message": "無法載入目錄資料"
+   },
+   "catalogManageCatalogConnections": {
+      "message": "管理目錄連結"
+   },
+   "catalogMatchRate": {
+      "message": "$1% 目錄配對率"
+   },
+   "catalogMatchRateAdsImpactedBody": {
+      "message": "在 $1% 的情況下，你能用於廣告目標設定的商品有限。這可能導致廣告受眾規模較小、成本較高，以及銷售業績較少。"
+   },
+   "catalogMatchRateAdsImpactedFollowup": {
+      "message": "查看下方內容，瞭解如何提高配對率。"
+   },
+   "catalogMatchRateAdsImpactedTitle": {
+      "message": "你的廣告可能會受到影響"
+   },
+   "catalogMatchRateByEventHeader": {
+      "message": "依事件顯示商品相符項目"
+   },
+   "catalogMatchRateDescription": {
+      "message": "的商品互動與此目錄中的商品相符"
+   },
+   "catalogMatchRateHeader": {
+      "message": "目錄配對率"
+   },
+   "catalogMatchRateImproveStep1Body": {
+      "message": "確保你的全部商品都在目錄中。"
+   },
+   "catalogMatchRateImproveStep1Title": {
+      "message": "查看已同步的商品"
+   },
+   "catalogMatchRateImproveStep2Body": {
+      "message": "商品編號必須與你的目錄完全相符。"
+   },
+   "catalogMatchRateImproveStep2Title": {
+      "message": "驗證商品編號"
+   },
+   "catalogMatchRateImproveStep3Body": {
+      "message": "確認你的像素和轉換事件都正常運作。"
+   },
+   "catalogMatchRateImproveStep3Title": {
+      "message": "驗證事件設定"
+   },
+   "catalogMatchRateImproveTitle": {
+      "message": "提高商品配對率"
+   },
+   "catalogMatchRateLearnMore": {
+      "message": "瞭解詳情"
+   },
+   "catalogMatchRateMissing": {
+      "message": "缺少"
+   },
+   "catalogMatchRateTimeframe": {
+      "message": "過去 28 天內所有連結的網站"
+   },
+   "catalogMatchRateWarning": {
+      "message": "我們建議將目錄配對率保持在 90% 以上。"
+   },
+   "catalogMenuCopyCatalogId": {
+      "message": "複製目錄編號"
+   },
+   "catalogMenuGiveFeedback": {
+      "message": "提供意見回饋"
+   },
+   "catalogMenuGoToCatalog": {
+      "message": "前往目錄"
+   },
+   "catalogMenuMoreOptions": {
+      "message": "更多選項"
+   },
+   "catalogMoreCatalogs": {
+      "message": "另外 $1 個目錄"
+   },
+   "catalogOnboardingBannerLearnMore": {
+      "message": "顯示"
+   },
+   "catalogOnboardingBannerText": {
+      "message": "你現在可以在像素旁看到目錄，且會顯示相同的系統健康檢查和警告。"
+   },
+   "catalogPixelAssociatedWebsites": {
+      "message": "相關聯網站"
+   },
+   "catalogPixelConnectionDetailsHeader": {
+      "message": "像素連結詳情"
+   },
+   "catalogPixelProducts": {
+      "message": "商品"
+   },
+   "catalogProductImageAlt": {
+      "message": "商品圖像"
+   },
+   "catalogProductMatchedBadge": {
+      "message": "相符"
+   },
+   "catalogProductNotMatchedBadge": {
+      "message": "不相符"
+   },
+   "catalogProductsSectionTitle": {
+      "message": "此頁面上的商品"
+   },
+   "catalogUnmatchedAddProductsDescription": {
+      "message": "用戶在你的網站上互動的商品與你像素連結的任何目錄都不相符。請確定網站上的所有商品皆已新增到目錄中"
+   },
+   "catalogUnmatchedAddProductsLink": {
+      "message": "瞭解如何新增商品"
+   },
+   "catalogUnmatchedAddProductsTitle": {
+      "message": "新增互動商品到目錄"
+   },
+   "catalogUnmatchedContentIdColumnHeader": {
+      "message": "內容編號"
+   },
+   "catalogUnmatchedDescription": {
+      "message": "在目錄中為這些內容編號新增商品，或確定你在事件中傳送的內容編號是正確的。"
+   },
+   "catalogUnmatchedDownloadList": {
+      "message": "下載清單"
+   },
+   "catalogUnmatchedOtherWaysHeader": {
+      "message": "此問題的其他修正方式"
+   },
+   "catalogUnmatchedRecommendationsHeader": {
+      "message": "建議"
+   },
+   "catalogUnmatchedSendContentIdDescription": {
+      "message": "檢查你傳送的是正確的內容編號，且此目錄或任何與你像素連結的目錄中，有某個商品與該編號相對應。"
+   },
+   "catalogUnmatchedSendContentIdTitle": {
+      "message": "傳送對應的內容編號"
+   },
+   "catalogUnmatchedTitle": {
+      "message": "部分內容編號與任何目錄都不相符"
+   },
+   "catalogUnmatchedTopInteractionsHeader": {
+      "message": "有問題的熱門互動"
+   },
+   "catalogUnmatchedTotalReceivedColumnHeader": {
+      "message": "收到的互動總數"
+   },
+   "catalogWarningsFromPixel": {
+      "message": "來自 $1"
+   },
+   "catalogWarningsHeader": {
+      "message": "警告"
+   },
+   "catalogWarningsUnmatchedProductsDescription": {
+      "message": "內容編號與任何目錄都不相符"
+   },
+   "catalogWarningsUnmatchedProductsHeader": {
+      "message": "不相符的商品"
+   },
+   "confirmEventsToSetUpHeader": {
+      "message": "確認你要設定的事件"
+   },
+   "continueButton": {
+      "message": "繼續"
+   },
+   "continueToNextDatasetButton": {
+      "message": "繼續前往下個資料集"
+   },
+   "copyToClipboardCopied": {
+      "message": "已複製！"
+   },
+   "copyToClipboardTitle": {
+      "message": "複製到剪貼簿"
+   },
+   "create_new_asset_already_added": {
+      "message": "已新增"
+   },
+   "create_new_asset_button": {
+      "message": "建立新資產"
+   },
+   "customConversionActionSourceLabel": {
+      "message": "集客力動作來源"
+   },
+   "customConversionEventLabel": {
+      "message": "事件"
+   },
+   "customConversionNameLabel": {
+      "message": "名稱"
+   },
+   "customConversionRulesLabel": {
+      "message": "規則"
+   },
+   "customConversionValueFormat": {
+      "message": "$$1 美元"
+   },
+   "customConversionValueLabel": {
+      "message": "預設值"
+   },
+   "datasetIdPrefix": {
+      "message": "編號：$1"
+   },
+   "datasetsAffected": {
+      "message": "$1 個資料集受到影響"
+   },
+   "dropdownSearchPlaceholder": {
+      "message": "搜尋"
+   },
+   "dropdownTagIdentifier": {
+      "message": "識別資料"
+   },
+   "dropdownTagRecommended": {
+      "message": "建議"
+   },
+   "duplicateEventMessage": {
+      "message": "含有相同資料的「$1」事件已觸發 2 次，這可能會導致追蹤錯誤"
+   },
+   "duplicateEventRecommendation": {
+      "message": "請檢查你的像素實作，以確保並未無意間觸發事件多次。當多次執行相同事件程式碼，或初始化像素不只一次時，就可能會經常發生這種情況。"
+   },
+   "emptyActionsStateDescriptionPart1": {
+      "message": "前往"
+   },
+   "emptyActionsStateDescriptionPart2": {
+      "message": "以尋找成效商機"
+   },
+   "emptyActionsStateEventsManagerLink": {
+      "message": "事件管理工具"
+   },
+   "emptyActionsStateTitle": {
+      "message": "沒有可採取的動作"
+   },
+   "enableFreeCAPIGButton": {
+      "message": "啟用"
+   },
+   "error_generic": {
+      "message": "發生錯誤"
+   },
+   "eventDeduplicated": {
+      "message": "已刪除重複事件"
+   },
+   "eventDetailsAdvancedMatchingHeader": {
+      "message": "已傳送的進階配對參數"
+   },
+   "eventDetailsBrowserOnlyAriaLabel": {
+      "message": "參數只存在瀏覽器資料中"
+   },
+   "eventDetailsBrowserOnlyBadge": {
+      "message": "僅限瀏覽器"
+   },
+   "eventDetailsCustomParamsHeader": {
+      "message": "自訂參數"
+   },
+   "eventDetailsDpoHeader": {
+      "message": "已傳送的資料處理參數"
+   },
+   "eventDetailsDpoWarning": {
+      "message": "由於已傳送資料處理選項，自訂轉換或目錄意見回饋可能無法運作。"
+   },
+   "eventDetailsEventIdLabel": {
+      "message": "事件編號"
+   },
+   "eventDetailsEventInfoHeader": {
+      "message": "事件資料"
+   },
+   "eventDetailsFrameIFrame": {
+      "message": "IFrame"
+   },
+   "eventDetailsFrameLabel": {
+      "message": "框架"
+   },
+   "eventDetailsFrameWindow": {
+      "message": "視窗"
+   },
+   "eventDetailsLoadTimeLabel": {
+      "message": "載入時間"
+   },
+   "eventDetailsPixelCodeLabel": {
+      "message": "像素程式碼"
+   },
+   "eventDetailsPixelLocationLabel": {
+      "message": "像素位置"
+   },
+   "eventDetailsServerOnlyAriaLabel": {
+      "message": "參數只存在瀏覽器資料中"
+   },
+   "eventDetailsServerOnlyBadge": {
+      "message": "僅限伺服器"
+   },
+   "eventDetailsSetupMethodAutomatic": {
+      "message": "自動"
+   },
+   "eventDetailsSetupMethodLabel": {
+      "message": "設定方式"
+   },
+   "eventDetailsSetupMethodManual": {
+      "message": "手動"
+   },
+   "eventDetailsUrlCalledLabel": {
+      "message": "已呼叫的網址"
+   },
+   "eventsHeader": {
+      "message": "事件"
+   },
+   "eventsOnThisPageHeader": {
+      "message": "此頁面上的事件"
+   },
+   "extensionDescription": {
+      "message": "Meta 像素小幫手是一項疑難排解工具，幫助你驗證像素實作。"
+   },
+   "extensionName": {
+      "message": "Meta 像素小幫手"
+   },
+   "feedbackAddButton": {
+      "message": "新增"
+   },
+   "feedbackAttachScreenshots": {
+      "message": "附加螢幕截圖"
+   },
+   "feedbackAutomaticScreenshot": {
+      "message": "自動螢幕截圖"
+   },
+   "feedbackDeleteAttachment": {
+      "message": "刪除附件"
+   },
+   "feedbackDescriptionPlaceholder": {
+      "message": "請詳細說明意見回饋"
+   },
+   "feedbackDropdownLabel": {
+      "message": "提供意見回饋"
+   },
+   "feedbackErrorScreenshotLabel": {
+      "message": "錯誤螢幕截圖"
+   },
+   "feedbackPageDescription": {
+      "message": "回報問題或分享意見回饋，以協助我們改善服務。"
+   },
+   "feedbackPagePrivacyLink": {
+      "message": "瞭解我們如何使用此資料。"
+   },
+   "feedbackPageTitle": {
+      "message": "傳送意見回饋"
+   },
+   "feedbackReceivedSubTitle": {
+      "message": "感謝你協助改善這項體驗。"
+   },
+   "feedbackReceivedTitle": {
+      "message": "已收到意見回饋"
+   },
+   "feedbackReturnToPreviousPage": {
+      "message": "返回上一頁"
+   },
+   "feedbackSelectorTypeBug": {
+      "message": "故障"
+   },
+   "feedbackSelectorTypeFeatureRequest": {
+      "message": "功能要求"
+   },
+   "feedbackSelectorTypeGeneralFeedback": {
+      "message": "一般意見回饋"
+   },
+   "feedbackSelectorTypeQuestion": {
+      "message": "哪種類型的意見回饋？"
+   },
+   "feedbackStoredLocally": {
+      "message": "已儲存在本機"
+   },
+   "feedbackSubmitButton": {
+      "message": "提交"
+   },
+   "feedbackSubmitDisabledTooltip": {
+      "message": "請填寫所有必要欄位以提交意見回饋"
+   },
+   "feedbackSubmittingButton": {
+      "message": "提交中……"
+   },
+   "feedbackTitleLabel": {
+      "message": "意見回饋標題"
+   },
+   "feedbackUploadButton": {
+      "message": "上傳"
+   },
+   "fieldItemCopyTooltip": {
+      "message": "複製 $1"
+   },
+   "fieldItemHide": {
+      "message": "隱藏"
+   },
+   "fieldItemShow": {
+      "message": "顯示"
+   },
+   "freeCapigL2DisableNote": {
+      "message": "你隨時可以從事件管理工具停用此功能。"
+   },
+   "freeCapigL2ReturnHome": {
+      "message": "返回首頁"
+   },
+   "freeCapigL2SeeTermsLabel": {
+      "message": "查看使用條款"
+   },
+   "freeCapigL2SetupStep1": {
+      "message": "Meta 會在背景設定伺服器端連結。"
+   },
+   "freeCapigL2SetupStep2": {
+      "message": "你的像素事件將會自動鏡射到轉換 API"
+   },
+   "freeCapigL2SetupStep3": {
+      "message": "享受提升的伺服器端追蹤穩定性！"
+   },
+   "freeCapigL2SuccessExplainerEMLink": {
+      "message": "事件管理工具"
+   },
+   "freeCapigL2SuccessExplainerPrefix": {
+      "message": "預計接下來 7 天內就會生效。前往以下位置探索和編輯變更："
+   },
+   "freeCapigL2SuccessExplainerSuffix": {
+      "message": "。"
+   },
+   "freeCapigL2SuccessTitle": {
+      "message": "轉換 API 已啟用"
+   },
+   "freeCapigL2TermsBusinessToolsTermsLink": {
+      "message": "《商業工具使用條款》"
+   },
+   "freeCapigL2TermsDisclosureMiddle": {
+      "message": "和"
+   },
+   "freeCapigL2TermsDisclosurePrefix": {
+      "message": "繼續即表示你特此授權並指示 Meta 代表你設定 Meta 支援的轉換 API 整合工具，且你同意在使用該整合工具時遵守 Meta 的"
+   },
+   "freeCapigL2TermsPlatformTermsLink": {
+      "message": "《開放平台使用條款》"
+   },
+   "freeCapigOptInErrorMessage": {
+      "message": "無法啟用轉換 API。請再試一次，或透過事件管理工具進行設定。"
+   },
+   "freeCapigOptInLoadingLabel": {
+      "message": "啟用中……"
+   },
+   "freeCapigOptInSuccessTitle": {
+      "message": "轉換 API 已啟用！"
+   },
+   "ga_account_creation_title": {
+      "message": "Google Analytics（分析）帳號"
+   },
+   "ga_account_display_name_label": {
+      "message": "帳號名稱"
+   },
+   "ga_property_creation_title": {
+      "message": "Google Analytics（分析）資產"
+   },
+   "ga_property_display_name_label": {
+      "message": "屬性名稱"
+   },
+   "ga_property_time_zone_label": {
+      "message": "時區"
+   },
+   "ga_stream_creation_title": {
+      "message": "Google Analytics（分析）網頁串流"
+   },
+   "ga_stream_display_name_label": {
+      "message": "串流名稱"
+   },
+   "ga_stream_url_label": {
+      "message": "網站網址"
+   },
+   "go_back": {
+      "message": "返回"
+   },
+   "gtmAccountSelectorLabel": {
+      "message": "Google 代碼管理工具帳號"
+   },
+   "gtmAccountSelectorPlaceholder": {
+      "message": "選擇帳號"
+   },
+   "gtmChooseHostingProvider": {
+      "message": "選擇代管服務供應商："
+   },
+   "gtmCreateNewServerContainer": {
+      "message": "建立新的伺服器容器"
+   },
+   "gtmHostingGoogleBullet1": {
+      "message": "不需開發人員協助"
+   },
+   "gtmHostingGoogleBullet2": {
+      "message": "約 30 分鐘"
+   },
+   "gtmHostingGoogleBullet3": {
+      "message": "支付雲端資源費用"
+   },
+   "gtmHostingGoogleBullet4": {
+      "message": "可完全自訂"
+   },
+   "gtmHostingGoogleDescription": {
+      "message": "直接整合 Google 代碼管理工具，以簡化和管理代碼。適合想透過 Google 原生工具管理代碼的人。"
+   },
+   "gtmHostingGoogleLabel": {
+      "message": "Google"
+   },
+   "gtmHostingStapeBullet1": {
+      "message": "不需開發人員協助"
+   },
+   "gtmHostingStapeBullet2": {
+      "message": "約 15 分鐘"
+   },
+   "gtmHostingStapeBullet3": {
+      "message": "提供免費增值方案"
+   },
+   "gtmHostingStapeBullet4": {
+      "message": "訂閱式定價"
+   },
+   "gtmHostingStapeDescription": {
+      "message": "Stape 已簡化伺服器容器的設定方式，並可為你處理託管事務。提供免費方案。"
+   },
+   "gtmHostingStapeLabel": {
+      "message": "Stape"
+   },
+   "gtmInvalidUrlError": {
+      "message": "請輸入有效網址。"
+   },
+   "gtmServerConnectionOptionGoogleTagManager": {
+      "message": "Google 代碼管理工具"
+   },
+   "gtmServerConnectionOptionMetaEnabledCapig": {
+      "message": "Meta 啟用的轉換 API（建議）"
+   },
+   "gtmServerConnectionOptionNone": {
+      "message": "無"
+   },
+   "gtmServerConnectionSelectorLabel": {
+      "message": "伺服器連線"
+   },
+   "gtmServerContainerLabel": {
+      "message": "伺服器容器"
+   },
+   "gtmServerContainerNotProvisionedWarning": {
+      "message": "此伺服器未佈建"
+   },
+   "gtmServerContainerPlaceholder": {
+      "message": "選擇伺服器容器"
+   },
+   "gtmStepAnalyticsStream": {
+      "message": "Analytics（分析）串流"
+   },
+   "gtmStepGtmAccount": {
+      "message": "GTM 帳號"
+   },
+   "gtmStepPreExistingTooltip": {
+      "message": "此資產已存在或已透過 API 自動化。"
+   },
+   "gtmStepProvisionedServerContainer": {
+      "message": "已佈建伺服器容器"
+   },
+   "gtmStepPublished": {
+      "message": "已發佈"
+   },
+   "gtmStepServerContainer": {
+      "message": "伺服器容器"
+   },
+   "gtmStepWebContainer": {
+      "message": "網頁容器"
+   },
+   "gtmTaggingServerUrlLabel": {
+      "message": "標註伺服器網址"
+   },
+   "gtmTaggingServerUrlPlaceholder": {
+      "message": "https://your-tagging-server.example.com"
+   },
+   "gtm_account_creation_title": {
+      "message": "Google 代碼管理工具帳號"
+   },
+   "gtm_account_name_label": {
+      "message": "帳號名稱"
+   },
+   "gtm_action_needed": {
+      "message": "需要採取動作"
+   },
+   "gtm_api_fetch_accounts_error": {
+      "message": "無法擷取帳號。請再試一次或檢查 Google 代碼管理工具存取權限。"
+   },
+   "gtm_api_fetch_containers_error": {
+      "message": "無法為帳號 $1 擷取容器。請再試一次或檢查 Google 代碼管理工具權限。"
+   },
+   "gtm_api_fetch_data_streams_error": {
+      "message": "無法擷取資產 $1 的資料串流"
+   },
+   "gtm_api_fetch_ga_accounts_error": {
+      "message": "無法擷取 Google Analytics（分析）帳號"
+   },
+   "gtm_api_fetch_ga_properties_error": {
+      "message": "無法擷取 Google Analytics（分析）資源。請再試一次或檢查 Google Analytics（分析）存取權限。"
+   },
+   "gtm_api_get_token_error": {
+      "message": "無法取得權杖"
+   },
+   "gtm_api_invalid_token_response": {
+      "message": "權杖回應無效"
+   },
+   "gtm_automatic_advanced_matching_label": {
+      "message": "自動比對你網站上的重要顧客詳細資料（例如電子郵件地址和手機號碼），以改善廣告投遞。"
+   },
+   "gtm_availability_load_error": {
+      "message": "無法載入 Google 代碼管理工具資產"
+   },
+   "gtm_availability_no_account_error": {
+      "message": "找不到 Google 代碼管理工具帳號。"
+   },
+   "gtm_availability_no_web_container_error": {
+      "message": "在 Google 代碼管理工具中找不到網頁容器。"
+   },
+   "gtm_capi_token_error": {
+      "message": "無法產生轉換 API 存取權杖。請確認你是此像素的企業管理平台管理員。"
+   },
+   "gtm_dataset_label": {
+      "message": "資料集"
+   },
+   "gtm_fetch_accounts_fallback_error": {
+      "message": "無法擷取帳號"
+   },
+   "gtm_fetch_containers_fallback_error": {
+      "message": "無法擷取容器"
+   },
+   "gtm_fetch_google_analytics_accounts_fallback_error": {
+      "message": "無法擷取 Google Analytics（分析）帳號"
+   },
+   "gtm_fetch_google_analytics_properties_fallback_error": {
+      "message": "無法擷取 Google Analytics（分析）資源"
+   },
+   "gtm_fetch_google_analytics_web_streams_fallback_error": {
+      "message": "無法擷取 Google Analytics（分析）網頁串流"
+   },
+   "gtm_fetch_server_containers_fallback_error": {
+      "message": "無法擷取 Google 代碼管理工具伺服器容器"
+   },
+   "gtm_ga4_data_stream_label": {
+      "message": "Google Analytics（分析）資料串流"
+   },
+   "gtm_ga4_web_stream_toggle_label": {
+      "message": "轉送 Google Analytics（分析）事件"
+   },
+   "gtm_ga_account_label": {
+      "message": "Google Analytics（分析）帳號"
+   },
+   "gtm_ga_account_placeholder": {
+      "message": "選擇 Google Analytics（分析）帳號"
+   },
+   "gtm_ga_data_stream_placeholder": {
+      "message": "選擇資料串流"
+   },
+   "gtm_google_auth_warning_body": {
+      "message": "你的 Google 連線階段在設定期間似乎閒置。請重新登入以繼續先前的設定。"
+   },
+   "gtm_google_auth_warning_primary_cta": {
+      "message": "登入"
+   },
+   "gtm_google_auth_warning_title": {
+      "message": "請重新登入 Google 以繼續"
+   },
+   "gtm_next_step_back_aria_label": {
+      "message": "返回"
+   },
+   "gtm_next_step_confirm_button": {
+      "message": "確認"
+   },
+   "gtm_next_step_event_setup_description": {
+      "message": "事件設定工具可讓你直接從網站頁面選擇轉換事件（例如購買或加到購物車），並將這些事件安全地傳送給 Meta。"
+   },
+   "gtm_next_step_event_setup_title": {
+      "message": "傳送重要轉換事件到 Meta"
+   },
+   "gtm_next_step_eyebrow": {
+      "message": "必須採取動作"
+   },
+   "gtm_next_step_manual_setup_title": {
+      "message": "手動設定"
+   },
+   "gtm_next_step_missing_pixel_error": {
+      "message": "選擇資料集編號以繼續"
+   },
+   "gtm_next_step_missing_url_error": {
+      "message": "輸入網站網址以繼續"
+   },
+   "gtm_next_step_nav_title": {
+      "message": "安全連結你的資料"
+   },
+   "gtm_next_step_title": {
+      "message": "安全連結你的資料"
+   },
+   "gtm_next_step_website_url_label": {
+      "message": "網站網址"
+   },
+   "gtm_next_step_website_url_placeholder": {
+      "message": "輸入網站網址"
+   },
+   "gtm_pixel_business_fetch_error": {
+      "message": "無法為像素 $1 擷取像素資訊。你可能沒有此像素的存取權限。詳細資訊：$2"
+   },
+   "gtm_pixel_business_load_error": {
+      "message": "無法載入資料集 $1。請檢查資料集編號是否正確，以及你是否有權限查看該資料集。"
+   },
+   "gtm_pixel_business_no_business_error": {
+      "message": "像素 $1 沒有所屬的企業管理平台。企業管理平台必須認領像素，才能產生轉換 API 存取權杖。"
+   },
+   "gtm_pixel_dataset_id_label": {
+      "message": "資料集編號"
+   },
+   "gtm_pixel_detected_on_page": {
+      "message": "在頁面上偵測到"
+   },
+   "gtm_pixel_load_more": {
+      "message": "載入更多像素……"
+   },
+   "gtm_pixel_no_pixels_detected": {
+      "message": "在此頁面未偵測到任何像素。請手動輸入資料集編號。"
+   },
+   "gtm_pixel_no_pixels_found": {
+      "message": "查無像素"
+   },
+   "gtm_pixel_picker_dataset_id_numeric_error": {
+      "message": "資料集編號必須為數值"
+   },
+   "gtm_pixel_picker_dataset_id_placeholder": {
+      "message": "輸入資料集編號"
+   },
+   "gtm_pixel_picker_enter_manually": {
+      "message": "手動輸入"
+   },
+   "gtm_pixel_search_placeholder": {
+      "message": "搜尋像素"
+   },
+   "gtm_pixel_select_placeholder": {
+      "message": "選擇像素"
+   },
+   "gtm_pixel_your_pixels": {
+      "message": "你的像素"
+   },
+   "gtm_publish_asset_preparation_failed": {
+      "message": "素材準備失敗"
+   },
+   "gtm_publish_asset_preparation_missing_ids": {
+      "message": "素材已準備完成，但缺少發佈編號"
+   },
+   "gtm_publish_automatic_advanced_matching_progress": {
+      "message": "正在啟用自動進階配對……"
+   },
+   "gtm_publish_automatic_advanced_matching_warning": {
+      "message": "無法啟用自動進階配對，但已發佈 Google 代碼管理工具代碼。"
+   },
+   "gtm_publish_completed_with_warnings_title": {
+      "message": "已發佈但有警告"
+   },
+   "gtm_publish_confirm_button": {
+      "message": "確認"
+   },
+   "gtm_publish_create_ga_account_and_property_progress": {
+      "message": "正在建立 Google Analytics（分析）帳號和資產……"
+   },
+   "gtm_publish_create_ga_property_progress": {
+      "message": "正在建立 Google Analytics（分析）資產……"
+   },
+   "gtm_publish_create_ga_stream_progress": {
+      "message": "正在建立 Google Analytics（分析）網頁串流……"
+   },
+   "gtm_publish_create_gtm_account_and_web_container_progress": {
+      "message": "正在建立 Google 代碼管理工具帳號和網頁容器……"
+   },
+   "gtm_publish_create_server_container_progress": {
+      "message": "正在建立伺服器容器……"
+   },
+   "gtm_publish_create_version_error": {
+      "message": "無法建立 $1 容器版本"
+   },
+   "gtm_publish_create_web_container_progress": {
+      "message": "正在建立網頁容器……"
+   },
+   "gtm_publish_failed_title": {
+      "message": "發佈失敗"
+   },
+   "gtm_publish_fetch_pixel_business_progress": {
+      "message": "正在擷取像素商家資料……"
+   },
+   "gtm_publish_free_capig_opt_in_progress": {
+      "message": "正在設定 Meta 啟用的轉換 API……"
+   },
+   "gtm_publish_free_capig_opt_in_warning": {
+      "message": "無法設定 Meta 啟用的轉換 API，但已發佈 Google 代碼管理工具代碼。"
+   },
+   "gtm_publish_ga_account_recipe_flow_error": {
+      "message": "Google Analytics 帳號建立流程必須以規則為基礎"
+   },
+   "gtm_publish_generate_capi_token_progress": {
+      "message": "正在產生轉換 API 存取權杖……"
+   },
+   "gtm_publish_google_tag_manager_missing_ga_measurement_id": {
+      "message": "Google Analytics（分析）評估 ID"
+   },
+   "gtm_publish_google_tag_manager_missing_requirements": {
+      "message": "缺少 Google 代碼管理工具伺服器連線：$1"
+   },
+   "gtm_publish_google_tag_manager_missing_server_container": {
+      "message": "Google 代碼管理工具伺服器容器"
+   },
+   "gtm_publish_google_tag_manager_missing_tagging_server_url": {
+      "message": "代碼伺服器網址"
+   },
+   "gtm_publish_gtm_account_recipe_flow_error": {
+      "message": "Google 代碼管理工具帳號建立流程必須以規則為基礎"
+   },
+   "gtm_publish_missing_ga_account_draft": {
+      "message": "沒有 Google Analytics（分析）帳號草稿"
+   },
+   "gtm_publish_missing_ga_account_for_property": {
+      "message": "未選擇 Google Analytics（分析）帳號來建立資產"
+   },
+   "gtm_publish_missing_ga_property_draft": {
+      "message": "沒有 Google Analytics（分析）資產草稿"
+   },
+   "gtm_publish_missing_ga_property_for_stream": {
+      "message": "未選擇 Google Analytics（分析）資源來建立串流"
+   },
+   "gtm_publish_missing_ga_stream_draft": {
+      "message": "沒有 Google Analytics（分析）串流草稿"
+   },
+   "gtm_publish_missing_google_auth": {
+      "message": "未使用 Google 帳號驗證"
+   },
+   "gtm_publish_missing_gtm_account_draft": {
+      "message": "沒有 Google 代碼管理工具帳號草稿"
+   },
+   "gtm_publish_missing_gtm_account_for_server_container": {
+      "message": "未選擇 Google 代碼管理工具帳號來建立伺服器容器"
+   },
+   "gtm_publish_missing_gtm_account_for_web_container": {
+      "message": "未選擇任何 Google 代碼管理工具帳號來建立網站容器"
+   },
+   "gtm_publish_missing_pixel_id": {
+      "message": "未選擇任何資料集編號"
+   },
+   "gtm_publish_missing_required_asset": {
+      "message": "缺少 $1。請透過「建立新內容」來新增，或選擇現有項目。"
+   },
+   "gtm_publish_missing_required_assets_error": {
+      "message": "缺少必要資產：$1"
+   },
+   "gtm_publish_missing_requirements_title": {
+      "message": "不符要求："
+   },
+   "gtm_publish_missing_server_container_draft": {
+      "message": "沒有伺服器容器草稿"
+   },
+   "gtm_publish_missing_web_container_draft": {
+      "message": "沒有網頁容器草稿"
+   },
+   "gtm_publish_no_workspaces_error": {
+      "message": "找不到 $1 容器在 $2 的工作空間。請在 Google 代碼管理工具中建立工作空間，然後再試一次。"
+   },
+   "gtm_publish_pixel_label": {
+      "message": "資料集編號：$1"
+   },
+   "gtm_publish_prepare_assets_progress": {
+      "message": "正在準備資產……"
+   },
+   "gtm_publish_progress_complete": {
+      "message": "已完成發佈。"
+   },
+   "gtm_publish_progress_creating_datalayer_variables": {
+      "message": "正在建立資料層變數……"
+   },
+   "gtm_publish_progress_creating_pixel_template_tag": {
+      "message": "正在建立像素範本代碼……"
+   },
+   "gtm_publish_progress_creating_server_action_source": {
+      "message": "正在建立伺服器端集客力動作來源變數……"
+   },
+   "gtm_publish_progress_creating_server_tag": {
+      "message": "正在建立伺服器端代碼……"
+   },
+   "gtm_publish_progress_creating_server_trigger": {
+      "message": "正在建立伺服器端觸發程序……"
+   },
+   "gtm_publish_progress_creating_web_tags": {
+      "message": "正在建立網站代碼……"
+   },
+   "gtm_publish_progress_creating_web_tags_web_only": {
+      "message": "正在建立網站代碼……"
+   },
+   "gtm_publish_progress_creating_web_triggers": {
+      "message": "正在建立網站觸發條件……"
+   },
+   "gtm_publish_progress_enabling_builtin_variables": {
+      "message": "正在啟用內建變數……"
+   },
+   "gtm_publish_progress_getting_web_workspace": {
+      "message": "正在取得網路工作空間……"
+   },
+   "gtm_publish_progress_getting_workspaces": {
+      "message": "正在取得工作空間……"
+   },
+   "gtm_publish_progress_importing_web_pixel_template": {
+      "message": "正在匯入網頁像素範本……"
+   },
+   "gtm_publish_progress_pixel_template_complete": {
+      "message": "已完成像素範本發佈。"
+   },
+   "gtm_publish_progress_publishing_server_container": {
+      "message": "正在發佈伺服器容器……"
+   },
+   "gtm_publish_progress_publishing_web_container": {
+      "message": "正在發佈網頁容器……"
+   },
+   "gtm_publish_progress_setting_up_server_template": {
+      "message": "正在設定伺服器端範本……"
+   },
+   "gtm_publish_progress_web_only_complete": {
+      "message": "已完成僅限網頁發佈。"
+   },
+   "gtm_publish_published_button": {
+      "message": "已發佈"
+   },
+   "gtm_publish_publishing_button": {
+      "message": "發佈中……"
+   },
+   "gtm_publish_server_container_no_url_notice": {
+      "message": "系統將建立伺服器容器，但在提供代碼伺服器網址之前，系統不會發佈伺服器端代碼。"
+   },
+   "gtm_publish_success_message": {
+      "message": "已成功發佈代碼！"
+   },
+   "gtm_publish_unsupported_draft_asset": {
+      "message": "尚不支援在發佈期間建立 $1 草稿"
+   },
+   "gtm_publish_web_only_notice": {
+      "message": "未選擇伺服器容器。正在發佈僅限網頁的設定。你可以稍後再新增並發佈伺服器容器。"
+   },
+   "gtm_reauthenticate": {
+      "message": "重新驗證"
+   },
+   "gtm_review_setup_and_publish": {
+      "message": "查看你的設定並發佈"
+   },
+   "gtm_setup_authenticate_button": {
+      "message": "驗證並擷取帳號"
+   },
+   "gtm_setup_button": {
+      "message": "設定"
+   },
+   "gtm_setup_header_title": {
+      "message": "安全連結你的資料"
+   },
+   "gtm_setup_required_message": {
+      "message": "你必須在 Google 代碼管理工具中設定網頁容器，才能繼續操作"
+   },
+   "gtm_setup_required_primary_cta": {
+      "message": "前往 Google 代碼管理工具"
+   },
+   "gtm_setup_required_secondary_cta": {
+      "message": "再試一次"
+   },
+   "gtm_setup_settings": {
+      "message": "設定"
+   },
+   "gtm_setup_summary_description": {
+      "message": "順暢無阻地啟用代碼部署和管理，無需程式碼即可有效率地追蹤事件，藉此提升廣告成果。"
+   },
+   "gtm_setup_warning_loading_label": {
+      "message": "載入中……"
+   },
+   "gtm_web_container_label": {
+      "message": "網頁容器"
+   },
+   "gtm_web_container_placeholder": {
+      "message": "選擇網頁容器"
+   },
+   "guidanceEventsAffectedBadge": {
+      "message": "$1% 的事件受影響"
+   },
+   "guidanceMoreIssuesPlural": {
+      "message": "另外 $1 個問題"
+   },
+   "guidanceMoreIssuesSingular": {
+      "message": "另外 $1 個問題"
+   },
+   "guidanceViewAllButton": {
+      "message": "查看全部"
+   },
+   "guidanceViewButton": {
+      "message": "檢視"
+   },
+   "highlightTooltipChooseAccount": {
+      "message": "選擇帳號以登入"
+   },
+   "highlightTooltipClickToContinue": {
+      "message": "點擊這裡以繼續"
+   },
+   "highlightTooltipSelectAll": {
+      "message": "全選"
+   },
+   "idLabel": {
+      "message": "編號：$1"
+   },
+   "islandActionFailedMessage": {
+      "message": "請手動完成動作以繼續"
+   },
+   "islandActionRequiredMessage": {
+      "message": "請完成動作以繼續"
+   },
+   "learnAboutManualAdvancedMatching": {
+      "message": "瞭解手動進階配對"
+   },
+   "learnAboutValueAndCurrencyParameters": {
+      "message": "在 Meta 像素中設定值和幣別"
+   },
+   "learnHowToSetupAdvancedMatchingManually": {
+      "message": "瞭解如何手動設定進階配對"
+   },
+   "learnMoreLink": {
+      "message": "瞭解詳情"
+   },
+   "loadingText": {
+      "message": "載入中……"
+   },
+   "loginPageButtonCreateAccount": {
+      "message": "建立新帳號"
+   },
+   "loginPageButtonLogin": {
+      "message": "使用 Facebook 帳號登入"
+   },
+   "loginPageButtonMMALogin": {
+      "message": "使用受管理 Meta 帳號登入"
+   },
+   "loginPageDescription": {
+      "message": "取得事件設定的個人化支援"
+   },
+   "loginPageSubtitle": {
+      "message": "登入 Meta 商業工具"
+   },
+   "loginPageTitle": {
+      "message": "Meta 像素小幫手"
+   },
+   "mamStepExampleLabel": {
+      "message": "範例：$1 美元"
+   },
+   "metaLogoAlt": {
+      "message": "Meta"
+   },
+   "metaSignalHelperLogoAlt": {
+      "message": "Meta 像素小幫手"
+   },
+   "missingEventsActiveSessionTooltip": {
+      "message": "事件設定已在進行中"
+   },
+   "missingEventsTabSwitchTooltip": {
+      "message": "請切換回你開始設定事件的頁籤"
+   },
+   "moreInformationHeader": {
+      "message": "更多詳情"
+   },
+   "moreLabel": {
+      "message": "和另外 $1 個"
+   },
+   "newFeaturesBannerLearnMore": {
+      "message": "瞭解詳情"
+   },
+   "newFeaturesBannerText": {
+      "message": "全新自動化功能旨在協助你在幾分鐘設定複雜工具。"
+   },
+   "nextStepsHeader": {
+      "message": "下一步"
+   },
+   "noEventsOnThisPageMessage": {
+      "message": "此頁面沒有事件。點擊「顯示所有事件」即可查看其他頁面的事件。"
+   },
+   "noPixelsFoundCardHeader": {
+      "message": "此頁面上沒有像素"
+   },
+   "onThisPageHeader": {
+      "message": "在此頁面上"
+   },
+   "optionalLabel": {
+      "message": "· 選填"
+   },
+   "overlayActionCompletedTitle": {
+      "message": "操作完成"
+   },
+   "overlayCloseButton": {
+      "message": "關閉"
+   },
+   "overlayDatasetCountPlural": {
+      "message": "多個資料集"
+   },
+   "overlayDatasetCountSingular": {
+      "message": "1 個資料集"
+   },
+   "overlayDescriptionPluralActions": {
+      "message": "$1 項可以採取的動作"
+   },
+   "overlayDescriptionPluralPixelsPluralActions": {
+      "message": "此頁面有 $1 個像素，你可以採取 $2 個動作。"
+   },
+   "overlayDescriptionPluralPixelsSingularAction": {
+      "message": "此頁面有 $1 個像素，你可以採取 1 個動作。"
+   },
+   "overlayDescriptionSingularAction": {
+      "message": "我們已為你找到一項最佳化機會："
+   },
+   "overlayDescriptionSingularPixelPluralActions": {
+      "message": "此頁面有 1 個像素，你可以採取 $1 個動作。"
+   },
+   "overlayDescriptionSingularPixelSingularAction": {
+      "message": "此頁面有 1 個像素，你可以採取 1 個動作。"
+   },
+   "overlayFreeCapigEnabledLabel": {
+      "message": "已啟用"
+   },
+   "overlayGoBackButton": {
+      "message": "返回"
+   },
+   "overlayGreetingAfternoon": {
+      "message": "$1，午安"
+   },
+   "overlayGreetingEvening": {
+      "message": "$1，晚安"
+   },
+   "overlayGreetingMorning": {
+      "message": "$1，早安"
+   },
+   "overlayGtmSetupForMeCta": {
+      "message": "為我設定"
+   },
+   "overlayNotificationSettingsButton": {
+      "message": "通知設定"
+   },
+   "overlayNotificationSettingsDescription": {
+      "message": "選擇要如何接收與改善設定相關的通知。你也可以隨時在首頁點擊鈴鐺圖示來變更此設定。"
+   },
+   "overlayNotificationSettingsTitle": {
+      "message": "通知設定"
+   },
+   "overlayNotificationsToggleDescription": {
+      "message": "在含有你像素的頁面顯示通知"
+   },
+   "overlayNotificationsToggleLabel": {
+      "message": "通知"
+   },
+   "overlayTitle": {
+      "message": "Meta 像素小幫手"
+   },
+   "overlayToggleDescription": {
+      "message": "在你瀏覽時，根據你的背景資訊和像素狀態顯示操作。"
+   },
+   "overlayToggleOff": {
+      "message": "相關通知已關閉"
+   },
+   "overlayToggleOn": {
+      "message": "相關通知已開啟"
+   },
+   "overlayViewAllButton": {
+      "message": "檢視全部"
+   },
+   "overlayViewDatasetsButton": {
+      "message": "查看資料集"
+   },
+   "pageIssueHeaderPlural": {
+      "message": "此頁面上有 $1 則警告"
+   },
+   "pageIssueHeaderSingular": {
+      "message": "此頁面上有一則警告"
+   },
+   "pinExtensionBannerCta": {
+      "message": "釘選到工具列"
+   },
+   "pinExtensionBannerDescription": {
+      "message": "將 Meta Signal Helper 釘選到工具列，以便快速存取。"
+   },
+   "pinExtensionBannerTitle": {
+      "message": "釘選此擴充功能"
+   },
+   "pixelBackButton": {
+      "message": "返回"
+   },
+   "pixelCopyIdTitle": {
+      "message": "複製資料集編號"
+   },
+   "pixelCopyIdTooltip": {
+      "message": "複製資料集編號"
+   },
+   "pixelCustomConversionBadge": {
+      "message": "自訂轉換"
+   },
+   "pixelErrorCommonStep1": {
+      "message": "開啟你網站的程式碼。"
+   },
+   "pixelErrorConflictingVersionsCardTitle": {
+      "message": "移除舊版或互相衝突的像素"
+   },
+   "pixelErrorConflictingVersionsExample": {
+      "message": "範例：n.version='2.0'"
+   },
+   "pixelErrorConflictingVersionsMessage": {
+      "message": "移除舊版或互相衝突的像素"
+   },
+   "pixelErrorConflictingVersionsRecommendation": {
+      "message": "系統在此頁面偵測到多個版本互相衝突的像素。請只使用一種版本的 Meta 像素。"
+   },
+   "pixelErrorConflictingVersionsStep2": {
+      "message": "在像素安裝基底程式碼中搜尋 **n.version='**"
+   },
+   "pixelErrorConflictingVersionsStep3": {
+      "message": "請確保所有像素的版本皆相同"
+   },
+   "pixelErrorDuplicatePixelIdCardTitle": {
+      "message": "移除重複的資料集編號"
+   },
+   "pixelErrorDuplicatePixelIdMessage": {
+      "message": "移除重複的資料集編號"
+   },
+   "pixelErrorDuplicatePixelIdRecommendation": {
+      "message": "你有重複的資料集編號：$1。每個像素只能在每個頁面上初始化一次，以免重複使用資料。"
+   },
+   "pixelErrorDuplicatePixelIdStep2": {
+      "message": "在像素安裝基底程式碼中搜尋 **fbq('init', $1)**"
+   },
+   "pixelErrorDuplicatePixelIdStep3": {
+      "message": "移除重複的 **fbq('init', $1)**"
+   },
+   "pixelErrorFbqNoMethodNameCardTitle": {
+      "message": "fbq() 呼叫中缺少方式名稱"
+   },
+   "pixelErrorFbqNoMethodNameExample": {
+      "message": "範例：fbq('track', 'PageView')"
+   },
+   "pixelErrorFbqNoMethodNameMessage": {
+      "message": "為 fbq{}提供引數"
+   },
+   "pixelErrorFbqNoMethodNameRecommendation": {
+      "message": "呼叫 fbq() 時，請提供方式名稱。範例：fbq('track', 'AddToCart')。"
+   },
+   "pixelErrorFbqNoMethodNameStep2": {
+      "message": "尋找缺少方式名稱的 fbq() 呼叫。"
+   },
+   "pixelErrorFbqNoMethodNameStep3": {
+      "message": "新增「track」或「init」等有效的方式名稱作為第一個引數。"
+   },
+   "pixelErrorInvalidConsentActionCardTitle": {
+      "message": "傳送有效的同意動作"
+   },
+   "pixelErrorInvalidConsentActionMessage": {
+      "message": "傳送有效的同意動作"
+   },
+   "pixelErrorInvalidConsentActionRecommendation": {
+      "message": "「fbq('$1', ...)；」並非有效的 fbq('consent', …) 動作。有效的同意動作為「grant」和「revoke」。請檢查你的同意管理實作。"
+   },
+   "pixelErrorInvalidConsentActionStep2": {
+      "message": "搜尋 **fbq('$1', ...)**"
+   },
+   "pixelErrorInvalidConsentActionStep3": {
+      "message": "將方式名稱更新為 **revoke** 或 **grant**"
+   },
+   "pixelErrorInvalidEventIdFormatCardTitle": {
+      "message": "新增 eventID 的字串值"
+   },
+   "pixelErrorInvalidEventIdFormatMessage": {
+      "message": "新增 eventID 的字串值"
+   },
+   "pixelErrorInvalidEventIdFormatRecommendation": {
+      "message": "資料集編號 $1 的「$2」事件 eventID 類型不正確。eventID 參數必須為字串。範例：fbq('track', 'Purchase',{value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})。"
+   },
+   "pixelErrorInvalidEventIdFormatRecommendationGeneric": {
+      "message": "資料集編號 $1 的 eventID 類型不正確。eventID 參數必須為字串。範例：fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'}）。"
+   },
+   "pixelErrorInvalidEventIdFormatStep2": {
+      "message": "搜尋 **fbq('track', '$1', ..., {eventID: ...})**，並檢查 eventID 是否為字串"
+   },
+   "pixelErrorInvalidEventIdFormatStep2Generic": {
+      "message": "搜尋 **fbq('track', ..., {eventID: ...})**，並檢查 eventID 是否為字串"
+   },
+   "pixelErrorInvalidEventIdFormatStep3": {
+      "message": "將 eventID 值轉換為字串類型"
+   },
+   "pixelErrorInvalidFbqMethodCardTitle": {
+      "message": "fbq() 呼叫中的方式無效"
+   },
+   "pixelErrorInvalidFbqMethodExample": {
+      "message": "有效的方式：'init'、'track'、'trackCustom'、'trackSingle'、'trackSingleCustom'"
+   },
+   "pixelErrorInvalidFbqMethodMessage": {
+      "message": "使用有效的 fbq 指令"
+   },
+   "pixelErrorInvalidFbqMethodParameterCardTitle": {
+      "message": "更新參數格式"
+   },
+   "pixelErrorInvalidFbqMethodParameterExample": {
+      "message": "範例：fbq('init', '123456789', {em: 'user@example.com', ph: '1234567890'})； // user_data 必須為物件"
+   },
+   "pixelErrorInvalidFbqMethodParameterMessage": {
+      "message": "參數必須符合預期格式"
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendation": {
+      "message": "使用參數「$3」呼叫「fbq('$1', $2)；」時含有無效的「$4」值。"
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendationSimple": {
+      "message": "無效的 fbq() 方式參數。"
+   },
+   "pixelErrorInvalidFbqMethodParameterStep2": {
+      "message": "搜尋 **fbq('$1', $2)；**"
+   },
+   "pixelErrorInvalidFbqMethodParameterStep3": {
+      "message": "將 **$1** 更新為有效的參數名稱"
+   },
+   "pixelErrorInvalidFbqMethodRecommendation": {
+      "message": "「fbq('$1', …)」並非有效的 fbq 指令。請使用有效的 fbq 方式，例如「init」、「track」、「trackCustom」。"
+   },
+   "pixelErrorInvalidFbqMethodStep2": {
+      "message": "尋找含有無效方式「$1」的 fbq() 呼叫。"
+   },
+   "pixelErrorInvalidFbqMethodStep3": {
+      "message": "請改用有效的方式名稱，例如「track」、「init」或「trackCustom」。"
+   },
+   "pixelErrorInvalidJsonLdCardTitle": {
+      "message": "更新 JSON-LD 格式"
+   },
+   "pixelErrorInvalidJsonLdMessage": {
+      "message": "請確認 JSON-LD 格式正確且有效"
+   },
+   "pixelErrorInvalidJsonLdRecommendation": {
+      "message": "無法剖析 JSON-LD 代碼。發現格式錯誤的 JSON：「$1」。傳送到像素前，請先確保 JSON-LD 標記格式正確且有效。"
+   },
+   "pixelErrorInvalidJsonLdStep2": {
+      "message": "搜尋 **$1**"
+   },
+   "pixelErrorInvalidJsonLdStep3": {
+      "message": "修正格式並確保是有效的 JSON"
+   },
+   "pixelErrorInvalidParamCardTitle": {
+      "message": "更新事件的無效參數"
+   },
+   "pixelErrorInvalidParamExample": {
+      "message": "範例：fbq('track', 'Purchase', {currency: 'USD', value: 30.00})"
+   },
+   "pixelErrorInvalidParamFormatCardTitle": {
+      "message": "更新參數格式"
+   },
+   "pixelErrorInvalidParamFormatExample": {
+      "message": "常見參數：value、currency、content_ids、content_type 等。完整清單請見 Wiki：https://developers.facebook.com/docs/meta-pixel/reference/"
+   },
+   "pixelErrorInvalidParamFormatMessage": {
+      "message": "更新參數格式"
+   },
+   "pixelErrorInvalidParamFormatRecommendation": {
+      "message": "$1 的參數格式無效。"
+   },
+   "pixelErrorInvalidParamFormatStep2": {
+      "message": "搜尋 **$1**"
+   },
+   "pixelErrorInvalidParamMessage": {
+      "message": "移除或更新事件的無效參數"
+   },
+   "pixelErrorInvalidParamRecommendation": {
+      "message": "「$2」事件的參數「$1」無效。"
+   },
+   "pixelErrorInvalidParamStep2": {
+      "message": "搜尋 **fbq('track', $1, ...)**"
+   },
+   "pixelErrorInvalidParamStep3": {
+      "message": "移除或更新 $1"
+   },
+   "pixelErrorInvalidPixelIdCardTitle": {
+      "message": "新增有效的資料集編號"
+   },
+   "pixelErrorInvalidPixelIdMessage": {
+      "message": "新增有效的資料集編號"
+   },
+   "pixelErrorInvalidPixelIdRecommendation": {
+      "message": "你的資料集編號 $1 無效。請在 Meta 事件管理工具中驗證編號是否正確，並更新你的像素程式碼。"
+   },
+   "pixelErrorInvalidPixelIdStep2": {
+      "message": "在像素安裝基底程式碼中搜尋 **fbq('init', $1)**"
+   },
+   "pixelErrorInvalidPixelIdStep3": {
+      "message": "將「$1」替換為可在 Meta 事件管理工具找到且有效的像素編號"
+   },
+   "pixelErrorMultiplePixelsCardTitle": {
+      "message": "合併為單一 Meta 像素"
+   },
+   "pixelErrorMultiplePixelsMessage": {
+      "message": "合併為單一 Meta 像素"
+   },
+   "pixelErrorMultiplePixelsRecommendation": {
+      "message": "系統在此頁面偵測到多個像素。多個像素可能表示有設定問題，導致無法順暢追蹤事件。"
+   },
+   "pixelErrorMultiplePixelsStep2": {
+      "message": "在像素安裝基底程式碼中搜尋 **fbq('init', ...)**"
+   },
+   "pixelErrorMultiplePixelsStep3": {
+      "message": "移除所有像素，只保留一個像素；如果有重複的像素使用中，請務必更新行銷活動"
+   },
+   "pixelErrorNegativeEventParamCardTitle": {
+      "message": "為 $1 加上正值"
+   },
+   "pixelErrorNegativeEventParamMessage": {
+      "message": "檢查 $1 項事件資料"
+   },
+   "pixelErrorNegativeEventParamRecommendation": {
+      "message": "「$2」事件的參數「$1」為負值。值、數量等事件參數不應為負值。"
+   },
+   "pixelErrorNegativeEventParamStep2": {
+      "message": "搜尋 **fbq('track', $1)**"
+   },
+   "pixelErrorNegativeEventParamStep3": {
+      "message": "將值更新為正數"
+   },
+   "pixelErrorNoEventIdCardTitle": {
+      "message": "新增事件編號"
+   },
+   "pixelErrorNoEventIdMessage": {
+      "message": "加入事件編號以進行追蹤和刪除重複項目"
+   },
+   "pixelErrorNoEventIdRecommendation": {
+      "message": "我們偵測到資料集編號 $1 第 4 個參數的 eventID 無效或空白。請加入事件編號。範例：fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})。"
+   },
+   "pixelErrorNoEventIdStep2": {
+      "message": "搜尋 **fbq('track', ..., ..., ..., {})**，並尋找第 4 個參數或 eventID 為空白的位置"
+   },
+   "pixelErrorNoEventIdStep3": {
+      "message": "指定 eventID 或移除第 4 個參數"
+   },
+   "pixelErrorNoEventNameCardTitle": {
+      "message": "新增事件名稱"
+   },
+   "pixelErrorNoEventNameExample": {
+      "message": "範例：fbq('track', 'AddToCart')"
+   },
+   "pixelErrorNoEventNameMessage": {
+      "message": "新增事件名稱以追蹤事件"
+   },
+   "pixelErrorNoEventNameRecommendation": {
+      "message": "缺少事件名稱。追蹤事件必須使用事件名稱 fbq(\"track\", eventName) 記錄。範例：fbq('track', 'AddToCart')。"
+   },
+   "pixelErrorNoEventNameStep2": {
+      "message": "搜尋 **fbq('track', '', ...)** 或 **fbq('track', ' ', ...)**"
+   },
+   "pixelErrorNoEventNameStep3": {
+      "message": "新增事件名稱"
+   },
+   "pixelErrorNonstandardEventCardTitle": {
+      "message": "更新非標準事件"
+   },
+   "pixelErrorNonstandardEventMessage": {
+      "message": "使用 trackCustom 傳送非標準事件"
+   },
+   "pixelErrorNonstandardEventRecommendation": {
+      "message": "你正在傳送非標準事件「$1」。請使用 trackCustom 傳送這些事件。改為呼叫 fbq('trackCustom', ...)。"
+   },
+   "pixelErrorNonstandardEventStep2": {
+      "message": "搜尋 **fbq('track', $1)**"
+   },
+   "pixelErrorNonstandardEventStep3": {
+      "message": "替換為 **fbq('trackCustom', $1)**"
+   },
+   "pixelErrorPiiInvalidTypeCardTitle": {
+      "message": "移除無效的顧客資料"
+   },
+   "pixelErrorPiiInvalidTypeExample": {
+      "message": "範例：**em**、**ph**、**fn**、**ln**、**db**、**ge**、**ct**、**zp**、**external_id** 等等"
+   },
+   "pixelErrorPiiInvalidTypeMessage": {
+      "message": "移除無效的顧客資料"
+   },
+   "pixelErrorPiiInvalidTypeRecommendation": {
+      "message": "為「$2」指定的 $1 無效。這項資料不會與此像素的任何事件一併傳送。"
+   },
+   "pixelErrorPiiInvalidTypeStep2": {
+      "message": "搜尋 **fbq('init', $1, {$2:...})**"
+   },
+   "pixelErrorPiiInvalidTypeStep3": {
+      "message": "更新 **$1** 或替換為有效的資料"
+   },
+   "pixelErrorPiiUnhashedPiiCardTitle": {
+      "message": "傳送含有正確金鑰欄位的電子郵件"
+   },
+   "pixelErrorPiiUnhashedPiiMessage": {
+      "message": "傳送含有正確金鑰欄位的電子郵件"
+   },
+   "pixelErrorPiiUnhashedPiiRecommendation": {
+      "message": "「$1」金鑰的值似乎是 PII。這項資料不會與此像素的任何事件一併傳送。建議的方法是呼叫 fbq('init', 'PIXEL_ID', {em: 'email@email.com', ...})。"
+   },
+   "pixelErrorPiiUnhashedPiiStep2": {
+      "message": "搜尋 **$1** 並查看是否有任何值設為電子郵件地址"
+   },
+   "pixelErrorPiiUnhashedPiiStep3": {
+      "message": "將 **$1** 更新為 **em**"
+   },
+   "pixelErrorRequiredParamMissingCardTitle": {
+      "message": "新增缺少的參數"
+   },
+   "pixelErrorRequiredParamMissingMessage": {
+      "message": "為事件新增缺少的必要參數"
+   },
+   "pixelErrorRequiredParamMissingRecommendation": {
+      "message": "「$2」事件缺少必要的參數「$1」。"
+   },
+   "pixelErrorRequiredParamMissingStep2": {
+      "message": "搜尋 **fbq('track', $1, ...)**"
+   },
+   "pixelErrorRequiredParamMissingStep3": {
+      "message": "新增缺少的參數"
+   },
+   "pixelErrorRestrictedEventCardTitle": {
+      "message": "檢視已封鎖的事件"
+   },
+   "pixelErrorRestrictedEventMessage": {
+      "message": "前往事件管理工具查看已封鎖的事件"
+   },
+   "pixelErrorRestrictedEventRecommendation": {
+      "message": "你正在嘗試傳送受限制的事件。此事件已遭阻擋。"
+   },
+   "pixelErrorRestrictedEventStep1": {
+      "message": "前往事件管理工具資料集的「設定」頁籤"
+   },
+   "pixelErrorRestrictedEventStep2": {
+      "message": "前往「流量權限」>「網站」區塊"
+   },
+   "pixelErrorRestrictedEventStep3": {
+      "message": "檢視並更新已封鎖的事件，或停止從你的網站傳送已封鎖的事件"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelCardTitle": {
+      "message": "初始化像素"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelMessage": {
+      "message": "先初始化像素，再設定中繼資料"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendation": {
+      "message": "正在嘗試針對未初始化的資料集編號 $2 設定引數 $1。請初始化像素後再設定中繼資料。先呼叫 fbq('init', '$3')。"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendationSimple": {
+      "message": "正在嘗試設定未初始化像素的中繼資料。"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep2": {
+      "message": "搜尋 **fbq()**"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep3": {
+      "message": "先呼叫 **fbq('init', 'PIXEL_ID')**"
+   },
+   "pixelErrorSiteCodelessOptOutCardTitle": {
+      "message": "啟用無程式碼事件設定"
+   },
+   "pixelErrorSiteCodelessOptOutMessage": {
+      "message": "啟用無程式碼事件設定，或使用手動像素整合工具"
+   },
+   "pixelErrorSiteCodelessOptOutRecommendation": {
+      "message": "無法針對像素開啟無程式碼事件介面，因為網站已選擇退出。資料集編號：$1。"
+   },
+   "pixelErrorSiteCodelessOptOutStep2": {
+      "message": "搜尋 **fbq('set', 'codeless', 'false', $1)**"
+   },
+   "pixelErrorSiteCodelessOptOutStep3": {
+      "message": "移除此行以重新啟用或明確啟用 **fbq('set', 'codeless', 'true', $1)；"
+   },
+   "pixelErrorUnableLoadFbqCardTitle": {
+      "message": "移除廣告封鎖程式"
+   },
+   "pixelErrorUnableLoadFbqMessage": {
+      "message": "檢查你的網路連線和瀏覽器主控台"
+   },
+   "pixelErrorUnableLoadFbqRecommendation": {
+      "message": "無法載入 fbq。廣告封鎖程式可能也會阻止像素載入。"
+   },
+   "pixelErrorUnableLoadFbqStep1": {
+      "message": "請檢查網路連線"
+   },
+   "pixelErrorUnableLoadFbqStep2": {
+      "message": "確保已關閉廣告封鎖程式"
+   },
+   "pixelErrorUninitializedPixelCardTitle": {
+      "message": "初始化像素"
+   },
+   "pixelErrorUninitializedPixelMessage": {
+      "message": "初始化像素"
+   },
+   "pixelErrorUninitializedPixelRecommendation": {
+      "message": "找不到像素 $1。請先以 fbq('init', 'PIXEL_ID') 初始化像素，再呼叫其他 fbq 方式。"
+   },
+   "pixelErrorUninitializedPixelStep1": {
+      "message": "前往事件管理工具的「總覽」頁籤，以複製 Meta 像素基底程式碼"
+   },
+   "pixelErrorUninitializedPixelStep2": {
+      "message": "將 Meta 像素程式碼貼到網頁的\u003Chead>和\u003C/head>標籤之間"
+   },
+   "pixelErrorUnknownErrorMessage": {
+      "message": "發生未知的像素錯誤"
+   },
+   "pixelErrorUnknownErrorRecommendation": {
+      "message": "查看瀏覽器主控台，以深入瞭解此錯誤。"
+   },
+   "pixelErrorUnsupportedMetadataCardTitle": {
+      "message": "移除或更新不支援的中繼資料欄位"
+   },
+   "pixelErrorUnsupportedMetadataMessage": {
+      "message": "移除或更新不支援的中繼資料欄位"
+   },
+   "pixelErrorUnsupportedMetadataRecommendation": {
+      "message": "不支援的中繼資料引數：$1。有效的中繼資料引數為「agent」、「automaticMatchingConfig」、「codeless」、「trackSingleOnly」、「cbData.oneTrustId」。"
+   },
+   "pixelErrorUnsupportedMetadataStep2": {
+      "message": "搜尋 **fbq('set', $1)**"
+   },
+   "pixelErrorUnsupportedMetadataStep3": {
+      "message": "替換為有效的引數"
+   },
+   "pixelErrorUnverifiedEventCardTitle": {
+      "message": "驗證事件"
+   },
+   "pixelErrorUnverifiedEventMessage": {
+      "message": "在事件管理工具驗證事件"
+   },
+   "pixelErrorUnverifiedEventRecommendation": {
+      "message": "你正在嘗試傳送未驗證的事件。此事件已遭阻擋。請前往事件管理工具以瞭解詳情。"
+   },
+   "pixelErrorUnverifiedEventStep1": {
+      "message": "前往事件管理工具資料集的「問題診斷」頁籤"
+   },
+   "pixelErrorUnverifiedEventStep2": {
+      "message": "驗證事件"
+   },
+   "pixelErrorUnwantedCustomDataCardTitle": {
+      "message": "移除可能違規的內容"
+   },
+   "pixelErrorUnwantedCustomDataExample": {
+      "message": "範例：fbq('track', 'Purchase', {...}) - 移除 ssn、credit_card、password 欄位"
+   },
+   "pixelErrorUnwantedCustomDataMessage": {
+      "message": "移除含有可能違規內容的自訂資料欄位"
+   },
+   "pixelErrorUnwantedCustomDataRecommendation": {
+      "message": "參數已因可能違規的內容而從自訂資料移除。請前往事件管理工具檢查。"
+   },
+   "pixelErrorUnwantedCustomDataStep2": {
+      "message": "移除密碼或任何財務資訊，請查看 Wiki 以瞭解更多違規類型"
+   },
+   "pixelErrorUnwantedEventNameCardTitle": {
+      "message": "檢視事件名稱"
+   },
+   "pixelErrorUnwantedEventNameExample": {
+      "message": "範例：錯誤的事件名稱，例如 'CreditCardSubmit'、'PasswordEntered'、'SSNCollected'"
+   },
+   "pixelErrorUnwantedEventNameMessage": {
+      "message": "確保你的事件名稱未包含違禁資訊"
+   },
+   "pixelErrorUnwantedEventNameRecommendation": {
+      "message": "你的事件因可能違規的內容而遭封鎖。"
+   },
+   "pixelErrorUnwantedEventNameStep2": {
+      "message": "搜尋 **fbq('track', ...)**"
+   },
+   "pixelErrorUnwantedEventNameStep3": {
+      "message": "檢查事件名稱，以確保其中不含違禁資訊（例如密碼、SSN、信用卡等）"
+   },
+   "pixelErrorUnwantedUrlDataCardTitle": {
+      "message": "檢視可能違規的內容"
+   },
+   "pixelErrorUnwantedUrlDataExample": {
+      "message": "範例：\n❌ 錯誤的網址：\nhttps://example.com/checkout?email=user@test.com&ssn=123-45-6789\nhttps://example.com/login?password=secret123&credit_card=4111...\n\n✅ 正確的網址：\nhttps://example.com/checkout?order_id=12345\nhttps://example.com/login（沒有敏感的查詢參數）"
+   },
+   "pixelErrorUnwantedUrlDataMessage": {
+      "message": "檢查網址資料，確保其中的資料未包含違禁資訊"
+   },
+   "pixelErrorUnwantedUrlDataRecommendation": {
+      "message": "網址查詢參數已因可能違規的內容而遭移除。"
+   },
+   "pixelErrorUnwantedUrlDataStep2": {
+      "message": "審核網址 - 檢查目前頁面（dl）和轉介網址（rl）以確保都沒有敏感資訊"
+   },
+   "pixelEventCountPlural": {
+      "message": "$1 個事件"
+   },
+   "pixelEventCountSingular": {
+      "message": "$1 個事件"
+   },
+   "pixelEventUnnamed": {
+      "message": "事件（未命名）"
+   },
+   "pixelHeaderPlural": {
+      "message": "此頁面上有 $1 個像素"
+   },
+   "pixelHeaderSingular": {
+      "message": "此頁面上有一個像素"
+   },
+   "pixelIdLabel": {
+      "message": "編號：$1"
+   },
+   "pixelLoadTime": {
+      "message": "$1 毫秒"
+   },
+   "pixelMetaPixelTitle": {
+      "message": "Meta 像素"
+   },
+   "pixelMissingFiresMessage": {
+      "message": "目前頁面未觸發任何像素，但此網站的其他頁面觸發了像素"
+   },
+   "pixelMissingFiresRecommendation": {
+      "message": "請考慮將像素追蹤事件新增到此頁面，或檢查現有像素是否正常運作"
+   },
+   "pixelNoEventsRecorded": {
+      "message": "尚未記錄任何事件"
+   },
+   "pixelNotFiringMessage": {
+      "message": "已安裝像素 $1，但最近未觸發"
+   },
+   "pixelStatusActive": {
+      "message": "使用中"
+   },
+   "pixelStatusAutomaticallyDetected": {
+      "message": "已自動偵測"
+   },
+   "pixelStatusError": {
+      "message": "錯誤"
+   },
+   "pixelStatusEventNotProcessed": {
+      "message": "未處理的事件"
+   },
+   "pixelStatusEventReceived": {
+      "message": "已收到事件"
+   },
+   "pixelStatusInactive": {
+      "message": "非使用中"
+   },
+   "pixelStatusReceived": {
+      "message": "已收到"
+   },
+   "pixelStatusSent": {
+      "message": "已傳送事件"
+   },
+   "pixelStatusWarning": {
+      "message": "警告"
+   },
+   "recipeAddMoreFields": {
+      "message": "新增更多"
+   },
+   "recipeCancelAutomation": {
+      "message": "取消自動化"
+   },
+   "recipeCompleteActionToContinue": {
+      "message": "完成動作以繼續"
+   },
+   "recipeErrorBackButton": {
+      "message": "前往首頁"
+   },
+   "recipeErrorMessage": {
+      "message": "由於發生未預期問題，因此無法開始自動化。請檢查你的網路連線，並稍後再試。"
+   },
+   "recipeErrorTitle": {
+      "message": "請稍後再試。"
+   },
+   "recipeFailedStateDescription": {
+      "message": "完成此動作時發生問題。你必須手動完成此動作，才能繼續設定。"
+   },
+   "recipeFieldIdentifierLabel": {
+      "message": "識別資料"
+   },
+   "recipeFieldMappingInfoBoxTextLead": {
+      "message": "若要繼續，請確認事件名稱、事件時間，並選擇至少 1 個識別資料欄位（建議使用潛在顧客編號）。"
+   },
+   "recipeFieldMappingInfoBoxTextOpportunity": {
+      "message": "若要繼續，請確認事件名稱和事件時間。"
+   },
+   "recipeFieldOptionalLabel": {
+      "message": "選填"
+   },
+   "recipeFieldsDropdownNoResultsFound": {
+      "message": "查無結果"
+   },
+   "recipeFieldsEventNameTooltipContent": {
+      "message": "此名稱會對應到你 CRM 漏斗中的潛在顧客。請隨著階段更新傳送所有階段。"
+   },
+   "recipeFieldsEventNameTooltipExample": {
+      "message": "例如"
+   },
+   "recipeFieldsEventNameTooltipExample1": {
+      "message": "來自 Meta 的初始潛在顧客"
+   },
+   "recipeFieldsEventNameTooltipExample2": {
+      "message": "行銷有效潛在顧客"
+   },
+   "recipeFieldsEventNameTooltipExample3": {
+      "message": "銷售機會"
+   },
+   "recipeFieldsEventNameTooltipExample4": {
+      "message": "顧客"
+   },
+   "recipeFieldsEventNameTooltipLearnMore": {
+      "message": "瞭解詳情"
+   },
+   "recipeFieldsEventNameTooltipLearnMoreContinued": {
+      "message": "關於整合採取轉換動作的潛在顧客。"
+   },
+   "recipeFileABug": {
+      "message": "回報故障"
+   },
+   "recipeFileAnotherBug": {
+      "message": "回報其他故障"
+   },
+   "recipeIntroStartAutomationButton": {
+      "message": "開始自動化"
+   },
+   "recipeMaibaCallerIndicator": {
+      "message": "返回 MAIBA"
+   },
+   "recipeMarkAsComplete": {
+      "message": "標示為完成"
+   },
+   "recipeMilestoneActionNeededStatus": {
+      "message": "必須採取動作"
+   },
+   "recipeMilestoneCompleteStatus": {
+      "message": "完成"
+   },
+   "recipeMilestoneFailedStatus": {
+      "message": "失敗"
+   },
+   "recipeMilestoneInProgressStatus": {
+      "message": "處理中"
+   },
+   "recipeMilestonePausedStatus": {
+      "message": "已暫停"
+   },
+   "recipeMilestoneStepFailedSuffix": {
+      "message": "· 步驟失敗"
+   },
+   "recipeOpportunityChoiceNo": {
+      "message": "否"
+   },
+   "recipeOpportunityChoiceYes": {
+      "message": "是"
+   },
+   "recipeOpportunityQuestionDropdownLabel": {
+      "message": "你是否使用機會？"
+   },
+   "recipeOpportunityQuestionInfoText": {
+      "message": "「機會」會將 Salesforce 合作協議狀態同步到 Meta，讓廣告能針對實際收益成果（而非僅針對潛在顧客）進行最佳化。"
+   },
+   "recipeOpportunityQuestionLearnMore": {
+      "message": "瞭解詳情"
+   },
+   "recipeOpportunityQuestionNo": {
+      "message": "否"
+   },
+   "recipeOpportunityQuestionYes": {
+      "message": "是"
+   },
+   "recipePause": {
+      "message": "暫停"
+   },
+   "recipeResume": {
+      "message": "繼續"
+   },
+   "recipeRetry": {
+      "message": "重試"
+   },
+   "recipeReturnToMaiba": {
+      "message": "返回 MAIBA"
+   },
+   "recipeReturnToTab": {
+      "message": "返回頁籤"
+   },
+   "recipeReturnToTabPrompt": {
+      "message": "返回正在執行此自動化的頁籤，然後點擊「繼續」。"
+   },
+   "recipeStepFailed": {
+      "message": "失敗"
+   },
+   "recipeStepNumber": {
+      "message": "步驟 $1"
+   },
+   "recipeStepSkipped": {
+      "message": "已略過"
+   },
+   "recipeStepSkippedTooltip": {
+      "message": "這個步驟已略過，因為系統判定不再需要。"
+   },
+   "recipeStepUserActionRequired": {
+      "message": "需要採取動作"
+   },
+   "recipeSummaryHeaderTitle": {
+      "message": "摘要"
+   },
+   "recipeSwitchToActiveTabHint": {
+      "message": "點擊可切換到使用中的頁籤以加快自動化速度。"
+   },
+   "recipeThanksForFeedback": {
+      "message": "感謝你提供意見回饋"
+   },
+   "recipeVerifying": {
+      "message": "驗證中……"
+   },
+   "recipeViewInEventsManager": {
+      "message": "在事件管理工具中查看"
+   },
+   "recipeViewReport": {
+      "message": "查看自動化摘要"
+   },
+   "recipeWpAdminUrlInfoText": {
+      "message": "我們無法自動偵測你的 WordPress 管理員網址。請輸入你 WordPress 管理員主控板的完整網址，以便我們繼續設定。"
+   },
+   "recipeWpAdminUrlInputLabel": {
+      "message": "輸入你的 WordPress 管理員網址（例如： https://yoursite.com/wp-admin/）"
+   },
+   "recipeYourActionIsRequired": {
+      "message": "你必須採取動作"
+   },
+   "remove": {
+      "message": "移除"
+   },
+   "remove_asset_button_label": {
+      "message": "移除此資產"
+   },
+   "remove_asset_button_required_label": {
+      "message": "此為必要資產，無法移除"
+   },
+   "reportAiGenerated": {
+      "message": "AI 生成"
+   },
+   "reportAutomationCountPlural": {
+      "message": "$1 個自動化項目"
+   },
+   "reportAutomationCountSingular": {
+      "message": "$1 個自動化項目"
+   },
+   "reportAutomationPanelDescription": {
+      "message": "檢查狀態、時間表和這項自動化程序中採取的動作。"
+   },
+   "reportAutomationSummaryDescription": {
+      "message": "這是你的自動化體驗詳細資料解析。為了保護你的隱私，這項資料不會儲存在我們的平台。"
+   },
+   "reportAutomationSummaryTitle": {
+      "message": "自動化摘要"
+   },
+   "reportCapturedDuringEmSelection": {
+      "message": "事件管理工具選項"
+   },
+   "reportCapturedDuringGaSetup": {
+      "message": "Google Analytics（分析）設定"
+   },
+   "reportCapturedDuringGtmSetup": {
+      "message": "GTM 設定"
+   },
+   "reportCapturedDuringSfWebhook": {
+      "message": "Salesforce Webhook 整合"
+   },
+   "reportCapturedIdsCreatedDuringSession": {
+      "message": "在自動化階段期間建立"
+   },
+   "reportCapturedIdsDescription": {
+      "message": "在自動化期間，系統已存取下列編號。"
+   },
+   "reportCapturedIdsEmpty": {
+      "message": "在這次自動化期間，系統並未存取任何編號。"
+   },
+   "reportCapturedIdsExisting": {
+      "message": "現有"
+   },
+   "reportCapturedIdsHeading": {
+      "message": "已存取的編號"
+   },
+   "reportClickToCopy": {
+      "message": "點擊複製"
+   },
+   "reportCopied": {
+      "message": "已複製"
+   },
+   "reportCopyAll": {
+      "message": "複製全部"
+   },
+   "reportDomainEventsManager": {
+      "message": "事件管理工具"
+   },
+   "reportDomainGoogleAnalytics": {
+      "message": "Google Analytics（分析）"
+   },
+   "reportDomainGoogleTagManager": {
+      "message": "Google 代碼管理工具"
+   },
+   "reportDomainSalesforce": {
+      "message": "Salesforce"
+   },
+   "reportDomainStape": {
+      "message": "Stape"
+   },
+   "reportExportPdf": {
+      "message": "將摘要匯出成 pdf 格式"
+   },
+   "reportExportPdfNote": {
+      "message": "匯出最多可能需要 45 秒。"
+   },
+   "reportFlowAutomationName": {
+      "message": "自動化流程"
+   },
+   "reportFlowSummaryDescription": {
+      "message": "檢視此流程中所有自動化的狀態、時間表和已採取的動作。"
+   },
+   "reportFlowSummaryHeading": {
+      "message": "流程摘要"
+   },
+   "reportIdCountPlural": {
+      "message": "$1 個編號"
+   },
+   "reportIdCountSingular": {
+      "message": "$1 個編號"
+   },
+   "reportIdLabelAdAccountId": {
+      "message": "廣告帳號編號"
+   },
+   "reportIdLabelBusinessId": {
+      "message": "商家編號"
+   },
+   "reportIdLabelCustom": {
+      "message": "自訂編號"
+   },
+   "reportIdLabelDatasetId": {
+      "message": "資料集編號"
+   },
+   "reportIdLabelGaMeasurementId": {
+      "message": "Google Analytics（分析）編號"
+   },
+   "reportIdLabelGtmAccountId": {
+      "message": "Google 代碼管理工具帳號名稱"
+   },
+   "reportIdLabelGtmContainerId": {
+      "message": "Google 代碼管理工具容器編號"
+   },
+   "reportIdLabelGtmServerContainerName": {
+      "message": "Google 代碼管理工具伺服器容器"
+   },
+   "reportIdLabelGtmWebContainerName": {
+      "message": "Google 代碼管理工具網頁容器"
+   },
+   "reportIdLabelSgwDataPlaneUrl": {
+      "message": "Signal Gateway Data Plane 網址"
+   },
+   "reportIdLabelSgwPixelId": {
+      "message": "Signal Gateway 資料集編號"
+   },
+   "reportIdLabelWebhookIntegrationId": {
+      "message": "Webhook 整合工具編號"
+   },
+   "reportIdLabelWebhookUrl": {
+      "message": "Webhook 網址"
+   },
+   "reportInProgress": {
+      "message": "處理中"
+   },
+   "reportKeyScreenshotEndOfAutomation": {
+      "message": "自動化結束"
+   },
+   "reportKeyScreenshotFinalState": {
+      "message": "最終自動化狀態"
+   },
+   "reportLabelActionsTaken": {
+      "message": "採取的動作"
+   },
+   "reportLabelAutomations": {
+      "message": "自動化"
+   },
+   "reportLabelDuration": {
+      "message": "時間長度"
+   },
+   "reportLabelStatus": {
+      "message": "狀態"
+   },
+   "reportLabelTimeline": {
+      "message": "時間表"
+   },
+   "reportMilestoneComplete": {
+      "message": "完成"
+   },
+   "reportNavHowWeUseData": {
+      "message": "我們如何使用你的資料"
+   },
+   "reportNavIdsAccessed": {
+      "message": "已存取的編號"
+   },
+   "reportNavPagesVisited": {
+      "message": "造訪過的頁面和網域"
+   },
+   "reportNavPrivacySecurity": {
+      "message": "隱私設定和帳號安全"
+   },
+   "reportNavSummary": {
+      "message": "摘要"
+   },
+   "reportOverviewCapiGatewayDescription": {
+      "message": "這項自動化功能已設定轉換 API 閘道，以便追蹤伺服器端事件。這個閘道會直接從你的伺服器將事件資料傳送給 Meta，進而提升資料可靠性和配對品質。"
+   },
+   "reportOverviewCapiGatewayTitle": {
+      "message": "轉換 API 閘道設定"
+   },
+   "reportOverviewDefaultDescription": {
+      "message": "這份報告概述了自動化程序期間採取的動作。"
+   },
+   "reportOverviewDefaultTitle": {
+      "message": "自動化完成"
+   },
+   "reportOverviewGtmServerDescription": {
+      "message": "這項自動化功能已透過 Google 代碼管理工具設定伺服器端代碼。伺服器端代碼會在伺服器（而非瀏覽器）上處理代碼，以改善資料品質、網站效能和用戶隱私。"
+   },
+   "reportOverviewGtmServerTitle": {
+      "message": "Google 代碼管理工具伺服器端設定"
+   },
+   "reportOverviewGtmWebDescription": {
+      "message": "這項自動化功能可設定 Google 代碼管理工具網站容器，並為你的網站進行設定。這個容器可讓你管理行銷代碼、分析工具和追蹤像素，而不必修改網站程式碼。"
+   },
+   "reportOverviewGtmWebTitle": {
+      "message": "Google 代碼管理工具網站容器設定"
+   },
+   "reportOverviewMetaPixelDescription": {
+      "message": "這項自動化功能已在你的網站上安裝 Meta 像素並加以驗證。像素會追蹤訪客活動，以協助你衡量廣告成效、建立廣告受眾並進行廣告投遞最佳化。"
+   },
+   "reportOverviewMetaPixelTitle": {
+      "message": "Meta 像素安裝"
+   },
+   "reportOverviewSalesforceDescription": {
+      "message": "這項自動化功能已在你的 Salesforce 執行個體中設定 Meta CRM-CAPI Webhooks。Webhook 整合工具會將 CRM 事件從 Salesforce 直接傳送至 Meta，透過伺服器端事件分享來提升廣告目標設定和成效衡量。"
+   },
+   "reportOverviewSalesforceTitle": {
+      "message": "Salesforce CRM-CAPI Webhook 設定"
+   },
+   "reportPagesDescription": {
+      "message": "以下頁面在你的自動化體驗期間曾被瀏覽。"
+   },
+   "reportPagesDescriptionShort": {
+      "message": "以下頁面在你的自動化期間曾被瀏覽。"
+   },
+   "reportPagesEmpty": {
+      "message": "在此自動化期間未有任何頁面被瀏覽。"
+   },
+   "reportPagesHeading": {
+      "message": "造訪過的頁面和網域"
+   },
+   "reportRecipeNameGaCreateAccount": {
+      "message": "建立 Google Analytics（分析）帳號"
+   },
+   "reportRecipeNameGtmCreateAccount": {
+      "message": "建立 GTM 帳號"
+   },
+   "reportRecipeNameGtmProvisionServer": {
+      "message": "佈建 GTM 伺服器容器"
+   },
+   "reportRecipeNameInstallFacebookForWoocommerce": {
+      "message": "安裝 Facebook for WooCommerce"
+   },
+   "reportRecipeNameSalesforceWebhook": {
+      "message": "設定 Salesforce CRM Webhook"
+   },
+   "reportRecipeNameSgwGtmSetup": {
+      "message": "透過 GTM 設定 Signals Gateway"
+   },
+   "reportRecipeNameShopifyProductSync": {
+      "message": "Shopify 商品同步"
+   },
+   "reportRecipeNameUpdateFacebookForWoocommerce": {
+      "message": "更新 Facebook for WooCommerce"
+   },
+   "reportStatusFailed": {
+      "message": "失敗"
+   },
+   "reportStatusSetupIncomplete": {
+      "message": "設定未完成"
+   },
+   "reportStatusSuccess": {
+      "message": "成功"
+   },
+   "reportSummaryDescription": {
+      "message": "檢視狀態、時間表，和在你的自動化體驗期間採取的動作。"
+   },
+   "reportSummaryFailureDescription": {
+      "message": "自動化程序並未成功完成。請查看時間表，以及在程序失敗前建立的任何資源。"
+   },
+   "reportSummaryHeading": {
+      "message": "摘要"
+   },
+   "reportTimelineStarted": {
+      "message": "已於 $1 開始"
+   },
+   "reportTitleFailure": {
+      "message": "自動化失敗：$1"
+   },
+   "reportTitleFlow": {
+      "message": "自動化流程摘要"
+   },
+   "reportTitleSuccess": {
+      "message": "自動化摘要：$1"
+   },
+   "required": {
+      "message": "必要"
+   },
+   "resolutionStepAddingMissingEventsTitle": {
+      "message": "新增缺少的事件"
+   },
+   "resolutionStepClickToCopy": {
+      "message": "點擊即可複製"
+   },
+   "resolutionStepConfirmNewEvents": {
+      "message": "確認新事件"
+   },
+   "resolutionStepEnableAAMEventsTitle": {
+      "message": "啟用自動進階配對"
+   },
+   "resolutionStepEnableMAMEventsTitle": {
+      "message": "設定手動進階配對"
+   },
+   "resolutionStepInvalidValueCurrencyTitle": {
+      "message": "更新值和幣別"
+   },
+   "resolutionStepLeaveTabOpen": {
+      "message": "讓此頁籤保持開啟"
+   },
+   "resolutionStepOpenEventSetupTool": {
+      "message": "開啟你網站的事件設定工具"
+   },
+   "resolutionStepOpenWebsiteCode": {
+      "message": "開啟你網站的程式碼。"
+   },
+   "resolutionStepSearchFbqInit": {
+      "message": "搜尋 **fbq('init'...)** 以找出你使用 Meta 像素的位置。"
+   },
+   "resolutionStepSearchFbqTrackPurchase": {
+      "message": "搜尋你像素追蹤的購買事件。"
+   },
+   "resolutionStepUpdateCodeBlock": {
+      "message": "更新此程式碼區塊以包含下方進階配對資料作為第三個參數。"
+   },
+   "resolutionStepUpdateCurrencyField": {
+      "message": "更新幣別欄位。"
+   },
+   "resolutionStepUpdateValueField": {
+      "message": "更新值欄位。"
+   },
+   "resolutionStepUserActionRequired": {
+      "message": "用戶必須採取動作"
+   },
+   "resolutionStepValueFieldInformation": {
+      "message": "值欄位資訊："
+   },
+   "resolutionStepValueFieldRequirement1": {
+      "message": "必須是大於 0 的數值"
+   },
+   "resolutionStepValueFieldRequirement2": {
+      "message": "可包含小數點，例如 9.99 或 9。"
+   },
+   "resolutionStepValueFieldRequirement3": {
+      "message": "請勿在幣別參數中加入任何額外的數字、特殊字元或符號。"
+   },
+   "resolutionStepsDefault": {
+      "message": "解決步驟"
+   },
+   "reviewSuggestionsEmpty": {
+      "message": "目前沒有建議事件。"
+   },
+   "reviewSuggestionsIneligible": {
+      "message": "此像素目前無法使用建議事件。"
+   },
+   "reviewSuggestionsLoading": {
+      "message": "正在載入建議事件……"
+   },
+   "ruleOperator_eq": {
+      "message": "等於"
+   },
+   "ruleOperator_gt": {
+      "message": "大於"
+   },
+   "ruleOperator_gte": {
+      "message": "大於或等於"
+   },
+   "ruleOperator_i_contains": {
+      "message": "包含"
+   },
+   "ruleOperator_i_greater_than_or_equal": {
+      "message": "大於或等於"
+   },
+   "ruleOperator_i_is_any": {
+      "message": "屬於"
+   },
+   "ruleOperator_i_less_than_or_equal": {
+      "message": "小於或等於"
+   },
+   "ruleOperator_i_not_contains": {
+      "message": "不包含"
+   },
+   "ruleOperator_lt": {
+      "message": "小於"
+   },
+   "ruleOperator_lte": {
+      "message": "小於或等於"
+   },
+   "ruleOperator_neq": {
+      "message": "不等於"
+   },
+   "ruleOperator_or": {
+      "message": "或"
+   },
+   "ruleOperator_regex_match": {
+      "message": "相符項目"
+   },
+   "screenshotGalleryDisclaimer": {
+      "message": "螢幕截圖只會儲存在你的裝置上，且會在連線階段結束後清除。"
+   },
+   "screenshotGalleryTimeDaysAgo": {
+      "message": "$1 天前"
+   },
+   "screenshotGalleryTimeHoursAgo": {
+      "message": "$1 小時前"
+   },
+   "screenshotGalleryTimeJustNow": {
+      "message": "剛剛"
+   },
+   "screenshotGalleryTimeMinutesAgo": {
+      "message": "$1 分鐘前"
+   },
+   "selector_no_options_available": {
+      "message": "沒有可用的選項"
+   },
+   "selector_no_results_found": {
+      "message": "查無結果"
+   },
+   "selector_select_placeholder": {
+      "message": "-- 選擇 --"
+   },
+   "server_container_creation_title": {
+      "message": "伺服器容器"
+   },
+   "server_container_name_label": {
+      "message": "容器名稱"
+   },
+   "server_container_tagging_url_label": {
+      "message": "代碼伺服器網址"
+   },
+   "settingsDescription": {
+      "message": "輕鬆管理你的 Meta 像素設定，並改善代你執行的方式。"
+   },
+   "settingsErrorOccurred": {
+      "message": "發生錯誤"
+   },
+   "settingsOverlayNotificationsDescription": {
+      "message": "在使用你像素的頁面顯示內容疊壓通知"
+   },
+   "settingsOverlayNotificationsTitle": {
+      "message": "疊壓通知"
+   },
+   "settingsTitle": {
+      "message": "設定"
+   },
+   "settingsWaitSpeedFast": {
+      "message": "快"
+   },
+   "settingsWaitSpeedFastDescription": {
+      "message": "不到 1 秒"
+   },
+   "settingsWaitSpeedMedium": {
+      "message": "中等"
+   },
+   "settingsWaitSpeedMediumDescription": {
+      "message": "2-3 秒"
+   },
+   "settingsWaitSpeedSlow": {
+      "message": "慢"
+   },
+   "settingsWaitSpeedSlowDescription": {
+      "message": "5 秒以上"
+   },
+   "settingsWaitTimeBetweenActionsTitle": {
+      "message": "動作間的等待時間"
+   },
+   "setupAddingAllEventsLabel": {
+      "message": "正在新增所有事件"
+   },
+   "setupAddingPixelEventsCardTitle": {
+      "message": "正在新增像素事件"
+   },
+   "setupComplete": {
+      "message": "設定完成"
+   },
+   "setupDetailsHeader": {
+      "message": "設定詳細資料"
+   },
+   "setupDetailsInfoTooltip": {
+      "message": "自動化開始後，系統會為你完成以下步驟。"
+   },
+   "setupHowItWorksDescription": {
+      "message": "Meta AI 會掃描你的網站、找出「購買」、「加到購物車」或「成為潛在顧客」等重要轉換事件，並將這些事件自動新增為像素事件，你無須編寫程式碼。"
+   },
+   "setupHowItWorksLabel": {
+      "message": "運作方式"
+   },
+   "setupPixelEventsAddedHeader": {
+      "message": "已新增像素事件"
+   },
+   "setupPixelEventsAddedSubtitle": {
+      "message": "現在你可以放心享受行銷活動成效提升。"
+   },
+   "setupPixelEventsHeader": {
+      "message": "設定像素事件"
+   },
+   "setupReturnToPreviousPage": {
+      "message": "返回上一頁"
+   },
+   "setup_failed": {
+      "message": "設定失敗"
+   },
+   "setup_requirements": {
+      "message": "設定要求"
+   },
+   "shopifyProductSyncIntroStep1SubA": {
+      "message": "開啟 Shopify 管理員登入頁面"
+   },
+   "shopifyProductSyncIntroStep1SubB": {
+      "message": "登入你商店的 Shopify 管理介面"
+   },
+   "shopifyProductSyncIntroStep1Title": {
+      "message": "登入 Shopify 管理介面"
+   },
+   "shopifyProductSyncIntroStep2SubA": {
+      "message": "點擊 **Products**（商品）"
+   },
+   "shopifyProductSyncIntroStep2SubB": {
+      "message": "點擊 **All**（全部）頁籤"
+   },
+   "shopifyProductSyncIntroStep2SubC": {
+      "message": "選擇所有商品"
+   },
+   "shopifyProductSyncIntroStep2Title": {
+      "message": "識別商品"
+   },
+   "shopifyProductSyncIntroStep3SubA": {
+      "message": "點擊 **More options**（更多選項）"
+   },
+   "shopifyProductSyncIntroStep3SubB": {
+      "message": "點擊 **Include in sales channels**（加入至銷售管道）"
+   },
+   "shopifyProductSyncIntroStep3SubC": {
+      "message": "選擇 **Facebook & Instagram**（Facebook 和 Instagram）"
+   },
+   "shopifyProductSyncIntroStep3SubD": {
+      "message": "點擊 **Include products**（納入商品）"
+   },
+   "shopifyProductSyncIntroStep3Title": {
+      "message": "納入商品"
+   },
+   "showAllEvents": {
+      "message": "顯示所有事件"
+   },
+   "showAllPixels": {
+      "message": "顯示所有像素"
+   },
+   "showAllWarnings": {
+      "message": "顯示所有警告"
+   },
+   "showLess": {
+      "message": "顯示較少"
+   },
+   "showLessEvents": {
+      "message": "顯示較少事件"
+   },
+   "showMore": {
+      "message": "顯示更多"
+   },
+   "stepResumeTooltip": {
+      "message": "請確認你已手動完成上述動作，再繼續下一步。"
+   },
+   "suggestionButtonTextLabel": {
+      "message": "按鈕文字為「$1」"
+   },
+   "suggestionExampleUrlsLabel": {
+      "message": "範例網址：$1"
+   },
+   "switcherCatalogSingular": {
+      "message": "$1 個目錄"
+   },
+   "switcherCatalogsPlural": {
+      "message": "$1 個目錄"
+   },
+   "switcherPixelsPlural": {
+      "message": "$1 個像素"
+   },
+   "switcherPixelsSingular": {
+      "message": "$1 個像素"
+   },
+   "testEventsHeader": {
+      "message": "測試事件"
+   },
+   "topActionsSectionHeader": {
+      "message": "你的首選作法"
+   },
+   "topActionsSectionSubHeader": {
+      "message": "根據你的設定"
+   },
+   "triggerEventDetection": {
+      "message": "偵測建議的事件"
+   },
+   "useMetaEventSetupToolForWeb": {
+      "message": "使用網頁版 Meta 事件設定工具"
+   },
+   "verificationFailedCancelButton": {
+      "message": "取消自動化"
+   },
+   "verificationFailedMessage": {
+      "message": "我們偵測不到此動作的狀態。如果此錯誤持續發生，你可以取消自動化，並使用手動設定繼續。"
+   },
+   "verificationFailedTitle": {
+      "message": "請再試一次"
+   },
+   "verificationFailedTryAgainButton": {
+      "message": "再試一次"
+   },
+   "verificationInProgressMessage": {
+      "message": "正在確認動作是否已完成"
+   },
+   "warningsHeader": {
+      "message": "警告"
+   },
+   "web_container_creation_title": {
+      "message": "網頁容器"
+   },
+   "web_container_name_label": {
+      "message": "容器名稱"
+   },
+   "what_we_will_create_title": {
+      "message": "我們將為你建立的資產"
+   },
+   "wooCommerceIntroSetUpForMeButton": {
+      "message": "為我設定"
+   },
+   "wooCommerceIntroStep1SubA": {
+      "message": "開啟 WordPress 管理員介面"
+   },
+   "wooCommerceIntroStep1SubB": {
+      "message": "登入 WordPress 帳號"
+   },
+   "wooCommerceIntroStep1Title": {
+      "message": "登入 WordPress"
+   },
+   "wooCommerceIntroStep2SubA": {
+      "message": "前往左側面板，選擇 **Plugins**（外掛程式），然後選擇 **Add Plugins**（新增外掛程式）"
+   },
+   "wooCommerceIntroStep2SubB": {
+      "message": "點擊 **Add Plugin**（新增外掛程式）"
+   },
+   "wooCommerceIntroStep2SubC": {
+      "message": "前往頁面頂端的搜尋列"
+   },
+   "wooCommerceIntroStep2SubD": {
+      "message": "搜尋 Meta for WooCommerce 外掛程式"
+   },
+   "wooCommerceIntroStep2SubE": {
+      "message": "捲動至 Meta for WooCommerce 外掛程式，然後點擊 **Install Now**（立即安裝）"
+   },
+   "wooCommerceIntroStep2Title": {
+      "message": "安裝外掛程式"
+   },
+   "wooCommerceIntroStep3SubA": {
+      "message": "安裝 Meta for WooCommerce 後，點擊 **Activate**（啟用）"
+   },
+   "wooCommerceIntroStep3SubB": {
+      "message": "前往左側面板的 **Plugins**（外掛程式）頁面"
+   },
+   "wooCommerceIntroStep3SubC": {
+      "message": "捲動至 Meta for WooCommerce 外掛程式，然後點擊 **Configure**（配置）"
+   },
+   "wooCommerceIntroStep3SubD": {
+      "message": "在配置畫面上，點擊 **Get started**（開始使用）"
+   },
+   "wooCommerceIntroStep3Title": {
+      "message": "啟用外掛程式"
+   },
+   "wooCommerceUpdateIntroStep2SubA": {
+      "message": "開啟「新增外掛程式」頁面"
+   },
+   "wooCommerceUpdateIntroStep2SubB": {
+      "message": "捲動至 Meta for WooCommerce 外掛程式"
+   },
+   "wooCommerceUpdateIntroStep2SubC": {
+      "message": "點擊 **Update now**（立即更新）"
+   },
+   "wooCommerceUpdateIntroStep2Title": {
+      "message": "更新外掛程式"
+   }
+}

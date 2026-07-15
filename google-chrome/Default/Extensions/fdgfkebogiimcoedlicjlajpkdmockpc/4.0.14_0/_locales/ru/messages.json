@@ -1,0 +1,3335 @@
+{
+   "aamConfirmButton": {
+      "message": "Подтвердить"
+   },
+   "aamEditButton": {
+      "message": "Редактировать"
+   },
+   "aamFieldCityStatePostal": {
+      "message": "Город, штат/регион, почтовый индекс"
+   },
+   "aamFieldCountry": {
+      "message": "Страна"
+   },
+   "aamFieldDateOfBirth": {
+      "message": "Дата рождения"
+   },
+   "aamFieldEmail": {
+      "message": "Электронный адрес"
+   },
+   "aamFieldExternalId": {
+      "message": "Внешний ID"
+   },
+   "aamFieldFirstLastName": {
+      "message": "Имя и фамилия"
+   },
+   "aamFieldGender": {
+      "message": "Пол"
+   },
+   "aamFieldPhoneNumber": {
+      "message": "Номер телефона"
+   },
+   "aamInfoDescription": {
+      "message": "Автоматический расширенный поиск совпадений использует предоставленные вашей компании данные клиентов, такие как электронные адреса или номера телефонов, для поиска совпадений между посетителями и пользователями Meta."
+   },
+   "aamNoEditPermissionTooltip": {
+      "message": "Нет разрешения на редактирование. Обратитесь к администратору"
+   },
+   "aamStepConfirmFieldsDescription": {
+      "message": "Подтвердите поля, которые вы хотите отправить"
+   },
+   "aamStepUserActionRequired": {
+      "message": "Требуется действие пользователя"
+   },
+   "aboutAdvancedMatchingForWeb": {
+      "message": "О расширенном поиске совпадений для сайтов"
+   },
+   "aboutEventSetupTool": {
+      "message": "Об инструменте настройки событий"
+   },
+   "actionAddMissingEventsCtaLabel": {
+      "message": "Настроить для меня"
+   },
+   "actionAddMissingEventsDescription": {
+      "message": "Добавьте недостающие события в конфигурацию, чтобы повысить результативность рекламы и точность измерений."
+   },
+   "actionAddMissingEventsHeader": {
+      "message": "Добавление отсутствующих событий"
+   },
+   "actionAutomatableValueLabel": {
+      "message": "Доступно для автоматизации"
+   },
+   "actionCAPIGTMProductRecommendationHeader": {
+      "message": "Передавайте данные по защищенному соединению с помощью Google Менеджера тегов"
+   },
+   "actionCAPIGTMSetupDescription": {
+      "message": "Этот инструмент оптимизирует развертывание тегов и управление ими, а также отслеживание событий, не требуя изменения кода и улучшая маркетинговые результаты."
+   },
+   "actionCAPIGTMSetupHeader": {
+      "message": "Настройка Conversions API с помощью Google Менеджера тегов"
+   },
+   "actionCAPIGeneralSetupDescription": {
+      "message": "Измеряйте больше данных на сайте и снизьте цену за результат."
+   },
+   "actionCAPIGeneralSetupHeader": {
+      "message": "Настройка Conversions API"
+   },
+   "actionCAPISalesforceCRMSetupDescription": {
+      "message": "Автоматическая настройка обеспечивает точное межсерверное отслеживание событий в режиме реального времени, чтобы улучшить статистику клиентов и маркетинговые результаты."
+   },
+   "actionCAPISalesforceCRMSetupHeader": {
+      "message": "Настройка Conversions API с помощью CRM Salesforce"
+   },
+   "actionCardDatasetTooltip": {
+      "message": "Перейдите в Events Manager для просмотра этого набора данных"
+   },
+   "actionCatalogUpsellCtaLabel": {
+      "message": "Добавить товары"
+   },
+   "actionCatalogUpsellDescription": {
+      "message": "Привлекайте новые аудитории и персонализируйте процесс покупки на основе поведения и интересов клиентов. Используйте различные рекламные форматы, чтобы заинтересовать клиентов с момента рассмотрения товара и до его покупки."
+   },
+   "actionCatalogUpsellHeader": {
+      "message": "Добавьте товары в каталог Meta, чтобы повысить результативность рекламы"
+   },
+   "actionFixInvalidValueCurrencyDescription": {
+      "message": "Исправьте недействительные параметры ценности и валюты для событий \"Покупка на сайте\", чтобы обеспечить точную отчетность и более эффективную оптимизацию кампаний."
+   },
+   "actionFixInvalidValueCurrencyHeader": {
+      "message": "Исправление недействительных параметров ценности и валюты"
+   },
+   "actionFreeCAPIGOneClickDescription": {
+      "message": "Отправляйте события пикселя на сервер автоматически — без настройки инженерных параметров и дополнительных тегов. Мы создадим подключения для вас."
+   },
+   "actionFreeCAPIGOneClickHeader": {
+      "message": "Conversions API от Meta"
+   },
+   "actionFreeCAPIGOneClickTooltip": {
+      "message": "Нажав кнопку, вы включите для этой компании передачу событий на стороне сервера на базе Meta. Позже вы сможете изменить это в Events Manager."
+   },
+   "actionFreeCAPIGOneClickValueLift": {
+      "message": "На 17,8 % ниже цена за результат"
+   },
+   "actionFreeCAPIGOneClickViewDetails": {
+      "message": "Подробнее"
+   },
+   "actionInstallFacebookForWooCommerceCtaLabel": {
+      "message": "Начать"
+   },
+   "actionInstallFacebookForWooCommercePluginDescription": {
+      "message": "Meta for WooCommerce обеспечивает синхронизацию вашего магазина с Facebook, Instagram и WhatsApp. Это сокращает потребность в администрировании и позволяет уделить больше времени развитию компании."
+   },
+   "actionInstallFacebookForWooCommercePluginHeader": {
+      "message": "Установить плагин Meta for WooCommerce"
+   },
+   "actionInstallFacebookForWooCommercePluginSubtitle": {
+      "message": "Экономьте время и показывайте подходящие товары нужной аудитории."
+   },
+   "actionSetupMamAamDescription": {
+      "message": "Расширенный поиск совпадений приносит больше конверсий вашим объявлениям и помогает охватить больше людей с помощью кампаний ремаркетинга."
+   },
+   "actionSetupMamAamHeader": {
+      "message": "Настройка расширенного поиска совпадений"
+   },
+   "actionShopifyProductSyncCtaLabel": {
+      "message": "Начать"
+   },
+   "actionShopifyProductSyncDescription": {
+      "message": "Некоторые ID контента на этой странице не соответствуют товарам в каталоге. Используйте синхронизацию товаров с Shopify, чтобы добавить отсутствующие товары."
+   },
+   "actionShopifyProductSyncHeader": {
+      "message": "Синхронизируйте отсутствующие товары с Shopify"
+   },
+   "actionSignalsGatewayGTMSetupDescription": {
+      "message": "Обеспечивает точное межсерверное отслеживание событий в режиме реального времени, чтобы улучшить статистику клиентов и маркетинговые результаты."
+   },
+   "actionSignalsGatewayGTMSetupHeader": {
+      "message": "Настройка Signals Gateway Pixel с помощью Google Менеджера тегов"
+   },
+   "actionUpdateFacebookForWooCommerceCtaLabel": {
+      "message": "Обновить плагин"
+   },
+   "actionUpdateFacebookForWooCommercePluginDescription": {
+      "message": "Обновите сейчас, чтобы получить последние улучшения и обеспечить бесперебойную синхронизацию магазина с Facebook, Instagram и WhatsApp."
+   },
+   "actionUpdateFacebookForWooCommercePluginHeader": {
+      "message": "Обновить плагин Meta for WooCommerce"
+   },
+   "actionUpdateFacebookForWooCommercePluginSubtitle": {
+      "message": "Готова новая версия вашего плагина."
+   },
+   "addMissingEventsCancel": {
+      "message": "Отмена"
+   },
+   "addMissingEventsHeader": {
+      "message": "Добавление отсутствующих событий"
+   },
+   "addMissingEventsMoreDatasets": {
+      "message": "Наборы данных: ещё $1"
+   },
+   "addMissingEventsNextSteps": {
+      "message": "Дальнейшие действия"
+   },
+   "addMissingEventsPotentialBadge": {
+      "message": "Потенциальное снижение цены за результат на 1 %"
+   },
+   "addMissingEventsSetUpForMe": {
+      "message": "Настроить для меня"
+   },
+   "addMissingEventsSubtitle": {
+      "message": "Добавьте отсутствующие события пикселя, чтобы начать отслеживать и оптимизировать события конверсии для улучшения результатов рекламы."
+   },
+   "addMissingEventsTimeEstimate": {
+      "message": "Менее (\u003C) 1 мин."
+   },
+   "add_more_label": {
+      "message": "Добавить ещё"
+   },
+   "additionalRecommendation": {
+      "message": "Дополнительная рекомендация"
+   },
+   "additionalRecommendations": {
+      "message": "Дополнительные рекомендации"
+   },
+   "agenticActionAskUserSelect": {
+      "message": "Попросить вас выбрать"
+   },
+   "agenticActionCaptureDropdown": {
+      "message": "Прочитать параметры в раскрывающемся списке из $1"
+   },
+   "agenticActionCaptureDropdownActive": {
+      "message": "Чтение параметров в раскрывающемся списке из $1"
+   },
+   "agenticActionCaptureDropdownPast": {
+      "message": "Прочитаны параметры в раскрывающемся списке из $1"
+   },
+   "agenticActionCaptureStoreAsDetail": {
+      "message": "Сохранить как: $1"
+   },
+   "agenticActionClick": {
+      "message": "Нажать на $1"
+   },
+   "agenticActionClickActive": {
+      "message": "Нажатие на $1"
+   },
+   "agenticActionClickPast": {
+      "message": "Нажат элемент $1"
+   },
+   "agenticActionCloseTab": {
+      "message": "Закрыть вкладку $1"
+   },
+   "agenticActionCloseTabActive": {
+      "message": "Закрытие вкладки $1"
+   },
+   "agenticActionCloseTabPast": {
+      "message": "Закрыта вкладка $1"
+   },
+   "agenticActionCopyMatchDetail": {
+      "message": "Шаблон: $1"
+   },
+   "agenticActionCopyMatchingText": {
+      "message": "Копировать совпадающий текст в кэш $1"
+   },
+   "agenticActionCopyMatchingTextActive": {
+      "message": "Копирование совпадающего текста в кэш $1"
+   },
+   "agenticActionCopyMatchingTextPast": {
+      "message": "Совпадающий текст скопирован в кэш $1"
+   },
+   "agenticActionCopyTextFromTarget": {
+      "message": "Копировать текст из $1 в кэш $2"
+   },
+   "agenticActionCopyTextFromTargetActive": {
+      "message": "Копирование текста из $1 в кэш $2"
+   },
+   "agenticActionCopyTextFromTargetPast": {
+      "message": "Текст скопирован из $1 в кэш $2"
+   },
+   "agenticActionCopyVisibleText": {
+      "message": "Копировать видимый текст в кэш $1"
+   },
+   "agenticActionCopyVisibleTextActive": {
+      "message": "Копирование видимого текста в кэш $1"
+   },
+   "agenticActionCopyVisibleTextPast": {
+      "message": "Видимый текст скопирован в кэш $1"
+   },
+   "agenticActionGetDropdownOptions": {
+      "message": "Прочитать варианты из $1"
+   },
+   "agenticActionGoToUrl": {
+      "message": "Перейти по ссылке $1"
+   },
+   "agenticActionHover": {
+      "message": "Наведение на $1"
+   },
+   "agenticActionNeededTitle": {
+      "message": "Требуется действие"
+   },
+   "agenticActionOpenNewTab": {
+      "message": "Открыть новую вкладку"
+   },
+   "agenticActionOpenPage": {
+      "message": "Открыть новую страницу"
+   },
+   "agenticActionOpenPageActive": {
+      "message": "Открытие новой страницы"
+   },
+   "agenticActionOpenPagePast": {
+      "message": "Открыта новая страница"
+   },
+   "agenticActionOpenRelativePath": {
+      "message": "Открыть соответствующий путь"
+   },
+   "agenticActionOpenRelativePathActive": {
+      "message": "Открытие соответствующего пути"
+   },
+   "agenticActionOpenRelativePathPast": {
+      "message": "Открыт соответствующий путь"
+   },
+   "agenticActionOpenTab": {
+      "message": "Открыть вкладку $1"
+   },
+   "agenticActionOpenTabActive": {
+      "message": "Открытие новой вкладки"
+   },
+   "agenticActionOpenTabDestinationDetail": {
+      "message": "Место назначения: $1"
+   },
+   "agenticActionOpenTabPast": {
+      "message": "Открыта новая вкладка"
+   },
+   "agenticActionPaste": {
+      "message": "Вставить в $1"
+   },
+   "agenticActionPasteSourceDetail": {
+      "message": "Источник кэша: $1"
+   },
+   "agenticActionPasteText": {
+      "message": "Вставить сохраненный текст в $1"
+   },
+   "agenticActionPasteTextActive": {
+      "message": "Вставка сохраненного текста в $1"
+   },
+   "agenticActionPasteTextPast": {
+      "message": "Вставлен сохраненный текст в $1"
+   },
+   "agenticActionReloadPage": {
+      "message": "Перезагрузить страницу"
+   },
+   "agenticActionReloadPageActive": {
+      "message": "Перезагрузка страницы"
+   },
+   "agenticActionReloadPagePast": {
+      "message": "Страница перезагружена"
+   },
+   "agenticActionScrollBottom": {
+      "message": "Прокрутить до конца"
+   },
+   "agenticActionScrollBottomActive": {
+      "message": "Прокрутка до конца страницы"
+   },
+   "agenticActionScrollBottomPast": {
+      "message": "Прокручено до конца страницы"
+   },
+   "agenticActionScrollElementPercent": {
+      "message": "Прокрутить $1 до $2 %"
+   },
+   "agenticActionScrollIntoViewDetail": {
+      "message": "Прокрутить экран перед взаимодействием с элементом вне экрана."
+   },
+   "agenticActionScrollPercent": {
+      "message": "Прокрутить до $1%"
+   },
+   "agenticActionScrollPercentActive": {
+      "message": "Прокрутка $1 до $2"
+   },
+   "agenticActionScrollPercentPage": {
+      "message": "страница"
+   },
+   "agenticActionScrollPercentPast": {
+      "message": "Прокручено $1 до $2"
+   },
+   "agenticActionScrollTo": {
+      "message": "Прокрутить до $1"
+   },
+   "agenticActionScrollToActive": {
+      "message": "Прокрутка до $1"
+   },
+   "agenticActionScrollToPast": {
+      "message": "Прокручено до $1"
+   },
+   "agenticActionScrollTop": {
+      "message": "Прокрутить вверх"
+   },
+   "agenticActionScrollTopActive": {
+      "message": "Прокрутка в начало страницы"
+   },
+   "agenticActionScrollTopPast": {
+      "message": "Прокручено в начало страницы"
+   },
+   "agenticActionSelect": {
+      "message": "Выбрать $1 в $2"
+   },
+   "agenticActionSelectActive": {
+      "message": "Выбор элемента $1 в списке $2"
+   },
+   "agenticActionSelectPast": {
+      "message": "Выбран элемент $1 в списке $2"
+   },
+   "agenticActionSfAskOpportunityPreference": {
+      "message": "Спросить об отслеживании возможностей"
+   },
+   "agenticActionSfConfirmFieldMappings": {
+      "message": "Подтвердить сопоставления полей"
+   },
+   "agenticActionSfGetFieldMappings": {
+      "message": "Получить рекомендуемые сопоставления полей"
+   },
+   "agenticActionSfMutateWebhookIntegration": {
+      "message": "Настроить интеграцию Webhooks"
+   },
+   "agenticActionSwitchTab": {
+      "message": "Перейти на вкладку $1"
+   },
+   "agenticActionSwitchTabActive": {
+      "message": "Переключение на вкладку $1"
+   },
+   "agenticActionSwitchTabPast": {
+      "message": "Переключено на вкладку $1"
+   },
+   "agenticActionTypeInto": {
+      "message": "Ввести текст в $1"
+   },
+   "agenticActionTypeIntoActive": {
+      "message": "Ввод текста в $1"
+   },
+   "agenticActionTypeIntoPast": {
+      "message": "Введено в $1"
+   },
+   "agenticAskUserSelectDescriptionFallback": {
+      "message": "Выберите вариант, чтобы продолжить."
+   },
+   "agenticAskUserSelectFieldLabel": {
+      "message": "Вариант"
+   },
+   "agenticAskUserSelectPlaceholder": {
+      "message": "Выберите вариант"
+   },
+   "agenticConnectionFailed": {
+      "message": "Не удалось подключиться повторно. Обновите страницу."
+   },
+   "agenticConnectionReconnecting": {
+      "message": "Подключение прервано. Повторное подключение… ($1/$2)"
+   },
+   "agenticDefaultWaitPrompt": {
+      "message": "Выполните запрашиваемое действие."
+   },
+   "agenticElementNameOnly": {
+      "message": "\"$1\""
+   },
+   "agenticElementNounAccordion": {
+      "message": "аккордеон"
+   },
+   "agenticElementNounBanner": {
+      "message": "баннер"
+   },
+   "agenticElementNounButton": {
+      "message": "кнопка"
+   },
+   "agenticElementNounCard": {
+      "message": "карточка"
+   },
+   "agenticElementNounCell": {
+      "message": "ячейка"
+   },
+   "agenticElementNounCheckbox": {
+      "message": "флажок"
+   },
+   "agenticElementNounChip": {
+      "message": "чип"
+   },
+   "agenticElementNounDialog": {
+      "message": "диалог"
+   },
+   "agenticElementNounDropdown": {
+      "message": "раскрывающийся список"
+   },
+   "agenticElementNounElement": {
+      "message": "элемент"
+   },
+   "agenticElementNounFileInput": {
+      "message": "входные данные файла"
+   },
+   "agenticElementNounImage": {
+      "message": "изображение"
+   },
+   "agenticElementNounInputField": {
+      "message": "Поле для ввода"
+   },
+   "agenticElementNounItem": {
+      "message": "объект"
+   },
+   "agenticElementNounLink": {
+      "message": "ссылка"
+   },
+   "agenticElementNounMenu": {
+      "message": "меню"
+   },
+   "agenticElementNounOption": {
+      "message": "вариант"
+   },
+   "agenticElementNounPanel": {
+      "message": "панель"
+   },
+   "agenticElementNounRadioButton": {
+      "message": "радиокнопка"
+   },
+   "agenticElementNounRow": {
+      "message": "ряд"
+   },
+   "agenticElementNounStep": {
+      "message": "шаг"
+   },
+   "agenticElementNounSubmitButton": {
+      "message": "Кнопка отправки"
+   },
+   "agenticElementNounTab": {
+      "message": "вкладка"
+   },
+   "agenticElementNounTextArea": {
+      "message": "текстовая область"
+   },
+   "agenticElementNounTile": {
+      "message": "плитка"
+   },
+   "agenticElementNounToggle": {
+      "message": "переключатель"
+   },
+   "agenticElementWithName": {
+      "message": "$2 \"$1\""
+   },
+   "agenticErrorApi": {
+      "message": "Не удалось подключиться к ИИ-сервису. Повторить попытку?"
+   },
+   "agenticErrorRateLimit": {
+      "message": "ИИ- сервис загружен. Подождите или повторите попытку позже."
+   },
+   "agenticErrorTimeout": {
+      "message": "ИИ работает дольше, чем ожидалось. Повторить попытку?"
+   },
+   "agenticErrorTitle": {
+      "message": "Ошибка"
+   },
+   "agenticErrorUnknown": {
+      "message": "Произошла ошибка. Повторить попытку?"
+   },
+   "agenticNavigationPageLoadFailed": {
+      "message": "Не удалось загрузить страницу. Повторная попытка…"
+   },
+   "agenticNavigationReorienting": {
+      "message": "Неожиданный переход на другую страницу. Перенаправление…"
+   },
+   "agenticPleaseCompleteAction": {
+      "message": "Выполните действие, чтобы продолжить"
+   },
+   "agenticReconnectNow": {
+      "message": "Повторно подключиться"
+   },
+   "agenticResyncWithPage": {
+      "message": "Повторно синхронизировать со страницей"
+   },
+   "agenticScrollPercentFallback": {
+      "message": "запрошенная точка"
+   },
+   "agenticTabFallbackById": {
+      "message": "вкладка $1"
+   },
+   "agenticTabFallbackSelected": {
+      "message": "выбранная вкладка"
+   },
+   "agenticThinking": {
+      "message": "Думает…"
+   },
+   "agenticTryAgain": {
+      "message": "Повторить попытку"
+   },
+   "agenticVerbClick": {
+      "message": "Нажать"
+   },
+   "agenticVerbCopyText": {
+      "message": "Копировать текст"
+   },
+   "agenticVerbEnterText": {
+      "message": "Ввести текст"
+   },
+   "agenticVerbPasteText": {
+      "message": "Вставить текст"
+   },
+   "agenticVerbReadDropdown": {
+      "message": "Считать варианты раскрывающегося списка"
+   },
+   "agenticVerbScrollToElement": {
+      "message": "Прокрутить к элементу"
+   },
+   "agenticVerbSelectOption": {
+      "message": "Выбрать вариант"
+   },
+   "agenticWaitingForAction": {
+      "message": "Ожидание действия…"
+   },
+   "allRecommendationsHeader": {
+      "message": "Все рекомендации"
+   },
+   "automatableBadge": {
+      "message": "Автоматизировать"
+   },
+   "automationFlowCompleteTitle": {
+      "message": "Настройка Google Менеджера тегов"
+   },
+   "automationSuccessFeedbackCommentPlaceholder": {
+      "message": "Необязательно: добавьте комментарий"
+   },
+   "automationSuccessFeedbackFallbackName": {
+      "message": "Автоматизация"
+   },
+   "automationSuccessFeedbackPromptTitle": {
+      "message": "Как вам этот результат?"
+   },
+   "automationSuccessFeedbackStarLabel": {
+      "message": "оценка в звездах"
+   },
+   "automationSuccessFeedbackSubmitError": {
+      "message": "Не удалось отправить отзыв"
+   },
+   "buttonLoading": {
+      "message": "Загрузка"
+   },
+   "buttonStartEventSetupTool": {
+      "message": "Настроить события"
+   },
+   "buttonTroubleshootPixel": {
+      "message": "Устранить проблемы с пикселем"
+   },
+   "cancelAutomationCancelButton": {
+      "message": "Отменить автоматизацию"
+   },
+   "cancelAutomationCancellingButton": {
+      "message": "Отмена…"
+   },
+   "cancelAutomationFromVerificationCancelButton": {
+      "message": "Отменить автоматизацию"
+   },
+   "cancelAutomationFromVerificationMessage": {
+      "message": "Нам по-прежнему не удалось подтвердить статус этого действия. Отмените автоматизацию, чтобы выполнить настройку вручную."
+   },
+   "cancelAutomationFromVerificationTitle": {
+      "message": "Отменить автоматизацию"
+   },
+   "cancelAutomationFromVerificationTryAgainButton": {
+      "message": "Попробовать снова"
+   },
+   "cancelAutomationResumeButton": {
+      "message": "Возобновить автоматизацию"
+   },
+   "cancelAutomationTitle": {
+      "message": "Вы действительно хотите закрыть и отменить автоматизацию?"
+   },
+   "cancelSetupCancelButton": {
+      "message": "Отменить настройку"
+   },
+   "cancelSetupResumeButton": {
+      "message": "Возобновить настройку"
+   },
+   "cancelSetupTitle": {
+      "message": "Вы действительно хотите закрыть и отменить настройку?"
+   },
+   "capiFieldCity": {
+      "message": "Город"
+   },
+   "capiFieldClickId": {
+      "message": "ID клика"
+   },
+   "capiFieldCountry": {
+      "message": "Страна"
+   },
+   "capiFieldDateOfBirth": {
+      "message": "Дата рождения"
+   },
+   "capiFieldEmail": {
+      "message": "Электронный адрес"
+   },
+   "capiFieldEventName": {
+      "message": "Название события"
+   },
+   "capiFieldEventTime": {
+      "message": "Время события"
+   },
+   "capiFieldExternalId": {
+      "message": "Внешний ID"
+   },
+   "capiFieldFirstName": {
+      "message": "Имя"
+   },
+   "capiFieldGender": {
+      "message": "Пол"
+   },
+   "capiFieldLastName": {
+      "message": "Фамилия"
+   },
+   "capiFieldLeadId": {
+      "message": "ID лида в Meta"
+   },
+   "capiFieldPhone": {
+      "message": "Номер телефона"
+   },
+   "capiFieldState": {
+      "message": "Штат/регион"
+   },
+   "capiFieldZipCode": {
+      "message": "Почтовый индекс"
+   },
+   "catalogConnectedTo": {
+      "message": "Подключен к $1"
+   },
+   "catalogConnections": {
+      "message": "Связи"
+   },
+   "catalogCsvHeaderHowToFix": {
+      "message": "Как устранить проблему"
+   },
+   "catalogCsvHeaderIssueType": {
+      "message": "Тип проблемы"
+   },
+   "catalogCsvHeaderMoreInfo": {
+      "message": "Дополнительная информация"
+   },
+   "catalogCsvHeaderSampleType": {
+      "message": "Пример типа"
+   },
+   "catalogCsvHeaderSampleValue": {
+      "message": "Пример значения"
+   },
+   "catalogCsvHeaderTotalReceived": {
+      "message": "Всего получено"
+   },
+   "catalogCsvHowToFixText": {
+      "message": "Подробнее о том, как добавить товары в каталог: https://www.facebook.com/business/help/384041892421495?id=725943027795860"
+   },
+   "catalogCsvMoreInfoText": {
+      "message": "Добавьте в каталог товары для этих ID контента или убедитесь, что в событиях вы отправляете правильные ID контента"
+   },
+   "catalogCsvUnmatchedEvents": {
+      "message": "Несовпадающие события"
+   },
+   "catalogEventNameAddToCart": {
+      "message": "Добавления в корзину"
+   },
+   "catalogEventNameAddToWishlist": {
+      "message": "Добавления в список желаний"
+   },
+   "catalogEventNameInitiateCheckout": {
+      "message": "События начала оформления заказа"
+   },
+   "catalogEventNameLead": {
+      "message": "Лиды"
+   },
+   "catalogEventNamePurchase": {
+      "message": "Покупки"
+   },
+   "catalogEventNameSearch": {
+      "message": "События поиска"
+   },
+   "catalogEventNameSubscribe": {
+      "message": "Платные подписки"
+   },
+   "catalogEventNameViewContent": {
+      "message": "Просмотры страницы"
+   },
+   "catalogFooterManageConnection": {
+      "message": "Управлять подключением"
+   },
+   "catalogFooterViewInCommerceManager": {
+      "message": "Посмотреть в Commerce Manager"
+   },
+   "catalogLiveMatchCount": {
+      "message": "Совпадающие товары ($1 / $2)"
+   },
+   "catalogLoadError": {
+      "message": "Не удалось загрузить данные каталога"
+   },
+   "catalogManageCatalogConnections": {
+      "message": "Управлять подключениями каталога"
+   },
+   "catalogMatchRate": {
+      "message": "Доля совпадения с каталогом $1 %"
+   },
+   "catalogMatchRateAdsImpactedBody": {
+      "message": "При доле совпадения $1 % число товаров, доступных для таргетинга рекламы, ограничено. Это может привести к уменьшению аудиторий, повышению затрат и снижению продаж."
+   },
+   "catalogMatchRateAdsImpactedFollowup": {
+      "message": "Узнайте ниже, как повысить долю совпадения."
+   },
+   "catalogMatchRateAdsImpactedTitle": {
+      "message": "Ваши объявления могут быть затронуты"
+   },
+   "catalogMatchRateByEventHeader": {
+      "message": "Совпадения товаров по событиям"
+   },
+   "catalogMatchRateDescription": {
+      "message": "взаимодействий с товарами соответствуют товарам в этом каталоге"
+   },
+   "catalogMatchRateHeader": {
+      "message": "Доля совпадения с каталогом"
+   },
+   "catalogMatchRateImproveStep1Body": {
+      "message": "Убедитесь, что все ваши товары есть в каталоге."
+   },
+   "catalogMatchRateImproveStep1Title": {
+      "message": "Проверьте синхронизированные товары"
+   },
+   "catalogMatchRateImproveStep2Body": {
+      "message": "ID товаров должны в точности соответствовать данным в вашем каталоге."
+   },
+   "catalogMatchRateImproveStep2Title": {
+      "message": "Подтвердите ID товаров"
+   },
+   "catalogMatchRateImproveStep3Body": {
+      "message": "Убедитесь, что пиксель и события конверсии работают правильно."
+   },
+   "catalogMatchRateImproveStep3Title": {
+      "message": "Подтвердите конфигурацию событий"
+   },
+   "catalogMatchRateImproveTitle": {
+      "message": "Повысьте долю совпадения товаров"
+   },
+   "catalogMatchRateLearnMore": {
+      "message": "Подробнее"
+   },
+   "catalogMatchRateMissing": {
+      "message": "Нет данных"
+   },
+   "catalogMatchRateTimeframe": {
+      "message": "Для всех подключенных сайтов за последние 28 дней"
+   },
+   "catalogMatchRateWarning": {
+      "message": "Мы рекомендуем поддерживать долю совпадения с каталогом выше 90 %."
+   },
+   "catalogMenuCopyCatalogId": {
+      "message": "Копировать ID каталога"
+   },
+   "catalogMenuGiveFeedback": {
+      "message": "Оставить отзыв"
+   },
+   "catalogMenuGoToCatalog": {
+      "message": "Перейти в каталог"
+   },
+   "catalogMenuMoreOptions": {
+      "message": "Другие параметры"
+   },
+   "catalogMoreCatalogs": {
+      "message": "Ещё более $1 каталогов"
+   },
+   "catalogOnboardingBannerLearnMore": {
+      "message": "Показать"
+   },
+   "catalogOnboardingBannerText": {
+      "message": "Теперь вы можете просматривать каталоги вместе с пикселями. Для них будут показываться те же проверки работоспособности и предупреждения."
+   },
+   "catalogPixelAssociatedWebsites": {
+      "message": "Связанные сайты"
+   },
+   "catalogPixelConnectionDetailsHeader": {
+      "message": "Информация о подключении пикселя"
+   },
+   "catalogPixelProducts": {
+      "message": "Продукты"
+   },
+   "catalogProductImageAlt": {
+      "message": "Изображение товара"
+   },
+   "catalogProductMatchedBadge": {
+      "message": "Совпадение"
+   },
+   "catalogProductNotMatchedBadge": {
+      "message": "Нет совпадения"
+   },
+   "catalogProductsSectionTitle": {
+      "message": "Товары на этой странице"
+   },
+   "catalogUnmatchedAddProductsDescription": {
+      "message": "На вашем сайте пользователи взаимодействуют с товарами, которых нет в каталогах, подключенных к вашему пикселю. Убедитесь, что все товары, доступные на вашем сайте, добавлены в каталог"
+   },
+   "catalogUnmatchedAddProductsLink": {
+      "message": "Узнайте, как добавить товары"
+   },
+   "catalogUnmatchedAddProductsTitle": {
+      "message": "Добавьте в каталог товары с взаимодействиями"
+   },
+   "catalogUnmatchedContentIdColumnHeader": {
+      "message": "ID контента"
+   },
+   "catalogUnmatchedDescription": {
+      "message": "Добавьте в каталог товары для этих ID контента или убедитесь, что в событиях вы отправляете правильные ID контента."
+   },
+   "catalogUnmatchedDownloadList": {
+      "message": "Скачать список"
+   },
+   "catalogUnmatchedOtherWaysHeader": {
+      "message": "Другие способы устранить проблему"
+   },
+   "catalogUnmatchedRecommendationsHeader": {
+      "message": "Рекомендации"
+   },
+   "catalogUnmatchedSendContentIdDescription": {
+      "message": "Убедитесь, что вы отправляете правильный ID контента, который соответствует товару из этого или другого каталога, подключенного к вашему пикселю."
+   },
+   "catalogUnmatchedSendContentIdTitle": {
+      "message": "Отправляйте соответствующий ID контента"
+   },
+   "catalogUnmatchedTitle": {
+      "message": "Некоторые ID контента не совпадают ни с одним каталогом"
+   },
+   "catalogUnmatchedTopInteractionsHeader": {
+      "message": "Самые проблемные взаимодействия"
+   },
+   "catalogUnmatchedTotalReceivedColumnHeader": {
+      "message": "Всего получено"
+   },
+   "catalogWarningsFromPixel": {
+      "message": "От $1"
+   },
+   "catalogWarningsHeader": {
+      "message": "Предупреждения"
+   },
+   "catalogWarningsUnmatchedProductsDescription": {
+      "message": "ID контента не совпадают ни с одним каталогом"
+   },
+   "catalogWarningsUnmatchedProductsHeader": {
+      "message": "Несовпадающие товары"
+   },
+   "confirmEventsToSetUpHeader": {
+      "message": "Подтвердите события, которые хотите настроить"
+   },
+   "continueButton": {
+      "message": "Продолжить"
+   },
+   "continueToNextDatasetButton": {
+      "message": "Перейти к следующему набору данных"
+   },
+   "copyToClipboardCopied": {
+      "message": "Скопировано!"
+   },
+   "copyToClipboardTitle": {
+      "message": "Копировать в буфер обмена"
+   },
+   "create_new_asset_already_added": {
+      "message": "Уже добавлен"
+   },
+   "create_new_asset_button": {
+      "message": "Создать новый"
+   },
+   "customConversionActionSourceLabel": {
+      "message": "Источник действия"
+   },
+   "customConversionEventLabel": {
+      "message": "Событие"
+   },
+   "customConversionNameLabel": {
+      "message": "Название"
+   },
+   "customConversionRulesLabel": {
+      "message": "Правила"
+   },
+   "customConversionValueFormat": {
+      "message": "$$1"
+   },
+   "customConversionValueLabel": {
+      "message": "Значение по умолчанию"
+   },
+   "datasetIdPrefix": {
+      "message": "ID: $1"
+   },
+   "datasetsAffected": {
+      "message": "Затронуто наборов данных: $1"
+   },
+   "dropdownSearchPlaceholder": {
+      "message": "Поиск"
+   },
+   "dropdownTagIdentifier": {
+      "message": "Идентификатор"
+   },
+   "dropdownTagRecommended": {
+      "message": "Рекомендуем"
+   },
+   "duplicateEventMessage": {
+      "message": "Событие \"$1\" сработало $2 раз(-а) с идентичными данными. Это может привести к ошибкам отслеживания"
+   },
+   "duplicateEventRecommendation": {
+      "message": "Проверьте установку пикселя: события не должны срабатывать непреднамеренно несколько раз. Это часто происходит, когда один и тот же код события запускается повторно или пиксель инициализируется более одного раза."
+   },
+   "emptyActionsStateDescriptionPart1": {
+      "message": "Перейдите в"
+   },
+   "emptyActionsStateDescriptionPart2": {
+      "message": ", чтобы повысить результативность"
+   },
+   "emptyActionsStateEventsManagerLink": {
+      "message": "Events Manager"
+   },
+   "emptyActionsStateTitle": {
+      "message": "Нет доступных действий"
+   },
+   "enableFreeCAPIGButton": {
+      "message": "Включить"
+   },
+   "error_generic": {
+      "message": "Произошла ошибка"
+   },
+   "eventDeduplicated": {
+      "message": "Дедуплицировано"
+   },
+   "eventDetailsAdvancedMatchingHeader": {
+      "message": "Отправленные параметры расширенного поиска совпадений"
+   },
+   "eventDetailsBrowserOnlyAriaLabel": {
+      "message": "Параметр только в данных браузера"
+   },
+   "eventDetailsBrowserOnlyBadge": {
+      "message": "Только в браузере"
+   },
+   "eventDetailsCustomParamsHeader": {
+      "message": "Пользовательские параметры"
+   },
+   "eventDetailsDpoHeader": {
+      "message": "Отправленные параметры обработки данных"
+   },
+   "eventDetailsDpoWarning": {
+      "message": "Отправлены варианты обработки данных. Специально настроенные конверсии или отзывы о каталоге могут не работать."
+   },
+   "eventDetailsEventIdLabel": {
+      "message": "ID события"
+   },
+   "eventDetailsEventInfoHeader": {
+      "message": "Информация о событии"
+   },
+   "eventDetailsFrameIFrame": {
+      "message": "IFrame"
+   },
+   "eventDetailsFrameLabel": {
+      "message": "Рамка"
+   },
+   "eventDetailsFrameWindow": {
+      "message": "Окно"
+   },
+   "eventDetailsLoadTimeLabel": {
+      "message": "Время загрузки"
+   },
+   "eventDetailsPixelCodeLabel": {
+      "message": "Код пикселя"
+   },
+   "eventDetailsPixelLocationLabel": {
+      "message": "Местоположение пикселя"
+   },
+   "eventDetailsServerOnlyAriaLabel": {
+      "message": "Параметр только в данных сервера"
+   },
+   "eventDetailsServerOnlyBadge": {
+      "message": "Только на сервере"
+   },
+   "eventDetailsSetupMethodAutomatic": {
+      "message": "Автоматически"
+   },
+   "eventDetailsSetupMethodLabel": {
+      "message": "Способ настройки"
+   },
+   "eventDetailsSetupMethodManual": {
+      "message": "Вручную"
+   },
+   "eventDetailsUrlCalledLabel": {
+      "message": "URL вызова"
+   },
+   "eventsHeader": {
+      "message": "События"
+   },
+   "eventsOnThisPageHeader": {
+      "message": "События на этой странице"
+   },
+   "extensionDescription": {
+      "message": "Помощник по пикселям Meta — это инструмент для устранения проблем, который позволяет подтвердить правильность установки пикселя."
+   },
+   "extensionName": {
+      "message": "Помощник по пикселям Meta"
+   },
+   "feedbackAddButton": {
+      "message": "Добавить"
+   },
+   "feedbackAttachScreenshots": {
+      "message": "Прикрепите скриншоты"
+   },
+   "feedbackAutomaticScreenshot": {
+      "message": "Автоматический скриншот"
+   },
+   "feedbackDeleteAttachment": {
+      "message": "Удалить вложение"
+   },
+   "feedbackDescriptionPlaceholder": {
+      "message": "Предоставьте подробный отзыв"
+   },
+   "feedbackDropdownLabel": {
+      "message": "Оставьте отзыв"
+   },
+   "feedbackErrorScreenshotLabel": {
+      "message": "Скриншот ошибки"
+   },
+   "feedbackPageDescription": {
+      "message": "Помогите нам стать лучше, сообщив о проблеме или оставив отзыв."
+   },
+   "feedbackPagePrivacyLink": {
+      "message": "Подробнее о том, как мы используем эти данные."
+   },
+   "feedbackPageTitle": {
+      "message": "Отправка отзыва"
+   },
+   "feedbackReceivedSubTitle": {
+      "message": "Благодарим за помощь в улучшении этого сервиса."
+   },
+   "feedbackReceivedTitle": {
+      "message": "Отзыв получен"
+   },
+   "feedbackReturnToPreviousPage": {
+      "message": "Вернуться на предыдущую страницу"
+   },
+   "feedbackSelectorTypeBug": {
+      "message": "Ошибка"
+   },
+   "feedbackSelectorTypeFeatureRequest": {
+      "message": "Запрос на добавление функций"
+   },
+   "feedbackSelectorTypeGeneralFeedback": {
+      "message": "Общий отзыв"
+   },
+   "feedbackSelectorTypeQuestion": {
+      "message": "Какой тип отзыва?"
+   },
+   "feedbackStoredLocally": {
+      "message": "Хранится локально"
+   },
+   "feedbackSubmitButton": {
+      "message": "Отправить"
+   },
+   "feedbackSubmitDisabledTooltip": {
+      "message": "Заполните все обязательные поля, чтобы отправить отзыв"
+   },
+   "feedbackSubmittingButton": {
+      "message": "Отправка…"
+   },
+   "feedbackTitleLabel": {
+      "message": "Заголовок отзыва"
+   },
+   "feedbackUploadButton": {
+      "message": "Загрузить"
+   },
+   "fieldItemCopyTooltip": {
+      "message": "Копировать $1"
+   },
+   "fieldItemHide": {
+      "message": "Скрыть"
+   },
+   "fieldItemShow": {
+      "message": "Показать"
+   },
+   "freeCapigL2DisableNote": {
+      "message": "Вы можете в любой момент отключить это в Events Manager."
+   },
+   "freeCapigL2ReturnHome": {
+      "message": "Вернуться на главную страницу"
+   },
+   "freeCapigL2SeeTermsLabel": {
+      "message": "Смотреть условия"
+   },
+   "freeCapigL2SetupStep1": {
+      "message": "Meta настраивает серверное подключение в фоновом режиме."
+   },
+   "freeCapigL2SetupStep2": {
+      "message": "События пикселя будут автоматически дублироваться в Conversions API"
+   },
+   "freeCapigL2SetupStep3": {
+      "message": "Вы повысили надежность отслеживания на стороне сервера!"
+   },
+   "freeCapigL2SuccessExplainerEMLink": {
+      "message": "Events Manager"
+   },
+   "freeCapigL2SuccessExplainerPrefix": {
+      "message": "Изменения вступят в силу в течение следующих 7 дней. Вы можете посмотреть и отредактировать изменения в"
+   },
+   "freeCapigL2SuccessExplainerSuffix": {
+      "message": "в любой момент."
+   },
+   "freeCapigL2SuccessTitle": {
+      "message": "Conversions API включен"
+   },
+   "freeCapigL2TermsBusinessToolsTermsLink": {
+      "message": "Условия использования инструментов для бизнеса"
+   },
+   "freeCapigL2TermsDisclosureMiddle": {
+      "message": "и"
+   },
+   "freeCapigL2TermsDisclosurePrefix": {
+      "message": "Продолжая, вы разрешаете и поручаете Meta настроить от вашего имени интеграцию Conversions API, поддерживаемую Meta. Вы также соглашаетесь с тем, что использование интеграции регулируется"
+   },
+   "freeCapigL2TermsPlatformTermsLink": {
+      "message": "Условиями платформы Meta"
+   },
+   "freeCapigOptInErrorMessage": {
+      "message": "Не удалось включить Conversions API. Повторите попытку или выполните настройку в Events Manager."
+   },
+   "freeCapigOptInLoadingLabel": {
+      "message": "Включение…"
+   },
+   "freeCapigOptInSuccessTitle": {
+      "message": "Conversions API включен!"
+   },
+   "ga_account_creation_title": {
+      "message": "Аккаунт Google Аналитики"
+   },
+   "ga_account_display_name_label": {
+      "message": "Имя пользователя аккаунта"
+   },
+   "ga_property_creation_title": {
+      "message": "Свойство Google Аналитики"
+   },
+   "ga_property_display_name_label": {
+      "message": "Название свойства"
+   },
+   "ga_property_time_zone_label": {
+      "message": "Часовой пояс"
+   },
+   "ga_stream_creation_title": {
+      "message": "Веб-поток Google Аналитики"
+   },
+   "ga_stream_display_name_label": {
+      "message": "Название потока"
+   },
+   "ga_stream_url_label": {
+      "message": "URL сайта"
+   },
+   "go_back": {
+      "message": "Назад"
+   },
+   "gtmAccountSelectorLabel": {
+      "message": "Аккаунт Google Менеджера тегов"
+   },
+   "gtmAccountSelectorPlaceholder": {
+      "message": "Выберите аккаунт"
+   },
+   "gtmChooseHostingProvider": {
+      "message": "Выберите поставщика услуг хостинга:"
+   },
+   "gtmCreateNewServerContainer": {
+      "message": "Создать новый серверный контейнер"
+   },
+   "gtmHostingGoogleBullet1": {
+      "message": "Разработчик не требуется"
+   },
+   "gtmHostingGoogleBullet2": {
+      "message": "Около 30 минут"
+   },
+   "gtmHostingGoogleBullet3": {
+      "message": "Плата за облачные ресурсы"
+   },
+   "gtmHostingGoogleBullet4": {
+      "message": "Полностью настраивается"
+   },
+   "gtmHostingGoogleDescription": {
+      "message": "Напрямую подключите Google Менеджер тегов, чтобы упростить управление тегами. Этот вариант подходит для тех, кто хочет управлять тегами с помощью нативных инструментов Google."
+   },
+   "gtmHostingGoogleLabel": {
+      "message": "Google"
+   },
+   "gtmHostingStapeBullet1": {
+      "message": "Разработчик не требуется"
+   },
+   "gtmHostingStapeBullet2": {
+      "message": "Около 15 минут"
+   },
+   "gtmHostingStapeBullet3": {
+      "message": "Доступен freemium-план"
+   },
+   "gtmHostingStapeBullet4": {
+      "message": "Плата на основе подписки"
+   },
+   "gtmHostingStapeDescription": {
+      "message": "Stape упрощает настройку серверного контейнера и управляет хостингом за вас. Доступен бесплатный уровень."
+   },
+   "gtmHostingStapeLabel": {
+      "message": "Stape"
+   },
+   "gtmInvalidUrlError": {
+      "message": "Введите действительный URL."
+   },
+   "gtmServerConnectionOptionGoogleTagManager": {
+      "message": "Google Менеджер тегов"
+   },
+   "gtmServerConnectionOptionMetaEnabledCapig": {
+      "message": "Conversions API от Meta (рекомендуется)"
+   },
+   "gtmServerConnectionOptionNone": {
+      "message": "Нет"
+   },
+   "gtmServerConnectionSelectorLabel": {
+      "message": "Подключение к серверу"
+   },
+   "gtmServerContainerLabel": {
+      "message": "Серверный контейнер"
+   },
+   "gtmServerContainerNotProvisionedWarning": {
+      "message": "Этот сервер не подготовлен"
+   },
+   "gtmServerContainerPlaceholder": {
+      "message": "Выберите серверный контейнер"
+   },
+   "gtmStepAnalyticsStream": {
+      "message": "Поток данных аналитики"
+   },
+   "gtmStepGtmAccount": {
+      "message": "Аккаунт GTM"
+   },
+   "gtmStepPreExistingTooltip": {
+      "message": "Объект существует или уже автоматизирован с помощью API."
+   },
+   "gtmStepProvisionedServerContainer": {
+      "message": "Подготовлен серверный контейнер"
+   },
+   "gtmStepPublished": {
+      "message": "Опубликовано"
+   },
+   "gtmStepServerContainer": {
+      "message": "Серверный контейнер"
+   },
+   "gtmStepWebContainer": {
+      "message": "Веб-контейнер"
+   },
+   "gtmTaggingServerUrlLabel": {
+      "message": "URL сервера тегов"
+   },
+   "gtmTaggingServerUrlPlaceholder": {
+      "message": "https://your-tagging-server.example.com"
+   },
+   "gtm_account_creation_title": {
+      "message": "Аккаунт Google Диспетчера тегов"
+   },
+   "gtm_account_name_label": {
+      "message": "Имя пользователя аккаунта"
+   },
+   "gtm_action_needed": {
+      "message": "Требуется действие"
+   },
+   "gtm_api_fetch_accounts_error": {
+      "message": "Не удалось получить аккаунты. Повторите попытку или проверьте доступ к Google Менеджеру тегов."
+   },
+   "gtm_api_fetch_containers_error": {
+      "message": "Не удалось получить контейнеры для аккаунта $1. Повторите попытку или проверьте разрешения Google Менеджера тегов."
+   },
+   "gtm_api_fetch_data_streams_error": {
+      "message": "Не удалось получить потоки данных для ресурса $1"
+   },
+   "gtm_api_fetch_ga_accounts_error": {
+      "message": "Не удалось получить аккаунты Google Аналитики"
+   },
+   "gtm_api_fetch_ga_properties_error": {
+      "message": "Не удалось получить ресурсы Google Аналитики. Повторите попытку или проверьте доступ к Google Аналитике."
+   },
+   "gtm_api_get_token_error": {
+      "message": "Не удалось получить маркер"
+   },
+   "gtm_api_invalid_token_response": {
+      "message": "Недействительный ответ с токеном"
+   },
+   "gtm_automatic_advanced_matching_label": {
+      "message": "Автоматически сопоставляйте ключевые данные клиентов с вашего сайта (например, электронный адрес и номер телефона), чтобы улучшить показ рекламы."
+   },
+   "gtm_availability_load_error": {
+      "message": "Не удалось загрузить объекты Google Диспетчера тегов"
+   },
+   "gtm_availability_no_account_error": {
+      "message": "Аккаунт Google Диспетчера тегов не найден."
+   },
+   "gtm_availability_no_web_container_error": {
+      "message": "В Диспетчере тегов Google не найдено ни одного веб-контейнера."
+   },
+   "gtm_capi_token_error": {
+      "message": "Не удалось сгенерировать маркер доступа Conversions API. Убедитесь, что вы являетесь администратором компании для этого пикселя."
+   },
+   "gtm_dataset_label": {
+      "message": "Набор данных"
+   },
+   "gtm_fetch_accounts_fallback_error": {
+      "message": "Не удалось получить аккаунты"
+   },
+   "gtm_fetch_containers_fallback_error": {
+      "message": "Не удалось получить контейнеры"
+   },
+   "gtm_fetch_google_analytics_accounts_fallback_error": {
+      "message": "Не удалось получить аккаунты Google Аналитики"
+   },
+   "gtm_fetch_google_analytics_properties_fallback_error": {
+      "message": "Не удалось получить ресурсы Google Аналитики"
+   },
+   "gtm_fetch_google_analytics_web_streams_fallback_error": {
+      "message": "Не удалось получить веб-потоки Google Аналитики"
+   },
+   "gtm_fetch_server_containers_fallback_error": {
+      "message": "Не удалось получить серверные контейнеры Google Менеджера тегов"
+   },
+   "gtm_ga4_data_stream_label": {
+      "message": "Поток данных Google Аналитики"
+   },
+   "gtm_ga4_web_stream_toggle_label": {
+      "message": "Пересылать события Google Аналитики"
+   },
+   "gtm_ga_account_label": {
+      "message": "Аккаунт Google Аналитики"
+   },
+   "gtm_ga_account_placeholder": {
+      "message": "Выберите аккаунт Google Аналитики"
+   },
+   "gtm_ga_data_stream_placeholder": {
+      "message": "Выберите поток данных"
+   },
+   "gtm_google_auth_warning_body": {
+      "message": "Похоже, во время настройки ваш сеанс Google стал неактивным. Войдите снова, чтобы продолжить с того места, где вы остановились."
+   },
+   "gtm_google_auth_warning_primary_cta": {
+      "message": "Войти"
+   },
+   "gtm_google_auth_warning_title": {
+      "message": "Чтобы продолжить, снова войдите в аккаунт Google"
+   },
+   "gtm_next_step_back_aria_label": {
+      "message": "Назад"
+   },
+   "gtm_next_step_confirm_button": {
+      "message": "Подтвердить"
+   },
+   "gtm_next_step_event_setup_description": {
+      "message": "Инструмент настройки событий позволяет выбирать события конверсии (например, покупки или добавления в корзину) прямо на страницах сайта и безопасно отправлять их Meta."
+   },
+   "gtm_next_step_event_setup_title": {
+      "message": "Отправляйте Meta ключевые события конверсии"
+   },
+   "gtm_next_step_eyebrow": {
+      "message": "Требуется действие"
+   },
+   "gtm_next_step_manual_setup_title": {
+      "message": "Настройка вручную"
+   },
+   "gtm_next_step_missing_pixel_error": {
+      "message": "Чтобы продолжить, выберите ID набора данных."
+   },
+   "gtm_next_step_missing_url_error": {
+      "message": "Введите URL сайта, чтобы продолжить."
+   },
+   "gtm_next_step_nav_title": {
+      "message": "Безопасно подключите свои данные"
+   },
+   "gtm_next_step_title": {
+      "message": "Безопасно подключите свои данные"
+   },
+   "gtm_next_step_website_url_label": {
+      "message": "URL сайта"
+   },
+   "gtm_next_step_website_url_placeholder": {
+      "message": "Укажите URL сайта"
+   },
+   "gtm_pixel_business_fetch_error": {
+      "message": "Не удалось получить информацию о пикселе $1. Возможно, у вас нет доступа к этому пикселю. Подробнее: $2"
+   },
+   "gtm_pixel_business_load_error": {
+      "message": "Не удалось загрузить набор данных $1. Убедитесь, что ID набора данных верный и что у вас есть разрешение на просмотр."
+   },
+   "gtm_pixel_business_no_business_error": {
+      "message": "Пиксель $1 не принадлежит ни одной компании. Чтобы сгенерировать маркер доступа Conversions API, компания должна заявить права на пиксель."
+   },
+   "gtm_pixel_dataset_id_label": {
+      "message": "ID набора данных"
+   },
+   "gtm_pixel_detected_on_page": {
+      "message": "Обнаружено на странице"
+   },
+   "gtm_pixel_load_more": {
+      "message": "Загрузить больше пикселей…"
+   },
+   "gtm_pixel_no_pixels_detected": {
+      "message": "На этой странице не обнаружено пикселей. Введите ID набора данных вручную."
+   },
+   "gtm_pixel_no_pixels_found": {
+      "message": "Пиксели не найдены"
+   },
+   "gtm_pixel_picker_dataset_id_numeric_error": {
+      "message": "ID набора данных должен быть числом"
+   },
+   "gtm_pixel_picker_dataset_id_placeholder": {
+      "message": "Введите ID набора данных"
+   },
+   "gtm_pixel_picker_enter_manually": {
+      "message": "Ввести вручную"
+   },
+   "gtm_pixel_search_placeholder": {
+      "message": "Поиск пикселей"
+   },
+   "gtm_pixel_select_placeholder": {
+      "message": "Выберите пиксель"
+   },
+   "gtm_pixel_your_pixels": {
+      "message": "Ваши пиксели"
+   },
+   "gtm_publish_asset_preparation_failed": {
+      "message": "Не удалось подготовить объект"
+   },
+   "gtm_publish_asset_preparation_missing_ids": {
+      "message": "Подготовка ресурсов завершена без ID, готовых к публикации"
+   },
+   "gtm_publish_automatic_advanced_matching_progress": {
+      "message": "Включение автоматического расширенного поиска совпадений…"
+   },
+   "gtm_publish_automatic_advanced_matching_warning": {
+      "message": "Не удалось включить автоматический расширенный поиск совпадений, но теги Google Менеджера тегов опубликованы."
+   },
+   "gtm_publish_completed_with_warnings_title": {
+      "message": "Опубликовано с предупреждениями"
+   },
+   "gtm_publish_confirm_button": {
+      "message": "Подтвердить"
+   },
+   "gtm_publish_create_ga_account_and_property_progress": {
+      "message": "Создание аккаунта и ресурса Google Аналитики…"
+   },
+   "gtm_publish_create_ga_property_progress": {
+      "message": "Создание ресурса Google Аналитики…"
+   },
+   "gtm_publish_create_ga_stream_progress": {
+      "message": "Создание веб-потока Google Аналитики…"
+   },
+   "gtm_publish_create_gtm_account_and_web_container_progress": {
+      "message": "Создание аккаунта Google Диспетчера тегов и веб-контейнера…"
+   },
+   "gtm_publish_create_server_container_progress": {
+      "message": "Создание серверного контейнера…"
+   },
+   "gtm_publish_create_version_error": {
+      "message": "Не удалось создать версию контейнера $1"
+   },
+   "gtm_publish_create_web_container_progress": {
+      "message": "Создание веб-контейнера…"
+   },
+   "gtm_publish_failed_title": {
+      "message": "Не удалось опубликовать"
+   },
+   "gtm_publish_fetch_pixel_business_progress": {
+      "message": "Получение бизнес-информации с помощью пикселя…"
+   },
+   "gtm_publish_free_capig_opt_in_progress": {
+      "message": "Настройка Conversions API от Meta…"
+   },
+   "gtm_publish_free_capig_opt_in_warning": {
+      "message": "Не удалось настроить Conversions API от Meta, но теги Google Менеджера тегов опубликованы."
+   },
+   "gtm_publish_ga_account_recipe_flow_error": {
+      "message": "Для создания аккаунта Google Аналитики требуется пошаговый сценарий"
+   },
+   "gtm_publish_generate_capi_token_progress": {
+      "message": "Генерируем маркер доступа Conversions API..."
+   },
+   "gtm_publish_google_tag_manager_missing_ga_measurement_id": {
+      "message": "ID измерения Google Аналитики"
+   },
+   "gtm_publish_google_tag_manager_missing_requirements": {
+      "message": "Отсутствует подключение к серверу Google Менеджера тегов: $1"
+   },
+   "gtm_publish_google_tag_manager_missing_server_container": {
+      "message": "Серверный контейнер Google Менеджера тегов"
+   },
+   "gtm_publish_google_tag_manager_missing_tagging_server_url": {
+      "message": "URL сервера тегов"
+   },
+   "gtm_publish_gtm_account_recipe_flow_error": {
+      "message": "Для создания аккаунта Google Менеджера тегов требуется пошаговый сценарий"
+   },
+   "gtm_publish_missing_ga_account_draft": {
+      "message": "Нет черновика аккаунта Google Аналитики"
+   },
+   "gtm_publish_missing_ga_account_for_property": {
+      "message": "Не выбран аккаунт Google Аналитики для создания ресурса"
+   },
+   "gtm_publish_missing_ga_property_draft": {
+      "message": "Нет черновика ресурса Google Аналитики"
+   },
+   "gtm_publish_missing_ga_property_for_stream": {
+      "message": "Не выбран ресурс Google Аналитики для создания потока"
+   },
+   "gtm_publish_missing_ga_stream_draft": {
+      "message": "Нет черновика потока Google Аналитики"
+   },
+   "gtm_publish_missing_google_auth": {
+      "message": "Не выполнена аутентификация с помощью Google"
+   },
+   "gtm_publish_missing_gtm_account_draft": {
+      "message": "Нет черновика аккаунта Google Менеджера тегов"
+   },
+   "gtm_publish_missing_gtm_account_for_server_container": {
+      "message": "Не выбран аккаунт Google Диспетчера тегов для создания серверного контейнера"
+   },
+   "gtm_publish_missing_gtm_account_for_web_container": {
+      "message": "Не выбран аккаунт Google Диспетчера тегов для создания веб-контейнера"
+   },
+   "gtm_publish_missing_pixel_id": {
+      "message": "ID набора данных не выбран"
+   },
+   "gtm_publish_missing_required_asset": {
+      "message": "Отсутствует $1. Добавьте этот объект, нажав \"Создать новый\", или выберите существующий."
+   },
+   "gtm_publish_missing_required_assets_error": {
+      "message": "Отсутствуют требуемые объекты: $1"
+   },
+   "gtm_publish_missing_requirements_title": {
+      "message": "Не выполнены требования:"
+   },
+   "gtm_publish_missing_server_container_draft": {
+      "message": "Нет черновика серверного контейнера"
+   },
+   "gtm_publish_missing_web_container_draft": {
+      "message": "Нет черновика веб-контейнера"
+   },
+   "gtm_publish_no_workspaces_error": {
+      "message": "Не найдены рабочие пространства для контейнера $1 в $2. Создайте рабочее пространство в Google Менеджере тегов и повторите попытку."
+   },
+   "gtm_publish_pixel_label": {
+      "message": "ID набора данных: $1"
+   },
+   "gtm_publish_prepare_assets_progress": {
+      "message": "Подготовка объектов…"
+   },
+   "gtm_publish_progress_complete": {
+      "message": "Публикация завершена."
+   },
+   "gtm_publish_progress_creating_datalayer_variables": {
+      "message": "Создание переменных уровня данных…"
+   },
+   "gtm_publish_progress_creating_pixel_template_tag": {
+      "message": "Создание тега шаблона пикселя…"
+   },
+   "gtm_publish_progress_creating_server_action_source": {
+      "message": "Создание переменной источника действия на стороне сервера…"
+   },
+   "gtm_publish_progress_creating_server_tag": {
+      "message": "Создание серверного тега…"
+   },
+   "gtm_publish_progress_creating_server_trigger": {
+      "message": "Создание серверного триггера..."
+   },
+   "gtm_publish_progress_creating_web_tags": {
+      "message": "Создание веб-тегов…"
+   },
+   "gtm_publish_progress_creating_web_tags_web_only": {
+      "message": "Создание веб-тегов…"
+   },
+   "gtm_publish_progress_creating_web_triggers": {
+      "message": "Создание веб-триггеров…"
+   },
+   "gtm_publish_progress_enabling_builtin_variables": {
+      "message": "Включение встроенных переменных..."
+   },
+   "gtm_publish_progress_getting_web_workspace": {
+      "message": "Получение веб-версии рабочего пространства…"
+   },
+   "gtm_publish_progress_getting_workspaces": {
+      "message": "Получение рабочих пространств…"
+   },
+   "gtm_publish_progress_importing_web_pixel_template": {
+      "message": "Импорт шаблона веб-пикселя..."
+   },
+   "gtm_publish_progress_pixel_template_complete": {
+      "message": "Опубликован шаблон пикселя."
+   },
+   "gtm_publish_progress_publishing_server_container": {
+      "message": "Публикация серверного контейнера…"
+   },
+   "gtm_publish_progress_publishing_web_container": {
+      "message": "Публикация веб-контейнера…"
+   },
+   "gtm_publish_progress_setting_up_server_template": {
+      "message": "Настройка серверного шаблона…"
+   },
+   "gtm_publish_progress_web_only_complete": {
+      "message": "Публикация только для веб-версии завершена."
+   },
+   "gtm_publish_published_button": {
+      "message": "Опубликовано"
+   },
+   "gtm_publish_publishing_button": {
+      "message": "Публикация…"
+   },
+   "gtm_publish_server_container_no_url_notice": {
+      "message": "Серверный контейнер будет создан, но серверное добавление тегов не будет опубликовано, пока не станет доступным URL сервера тегов."
+   },
+   "gtm_publish_success_message": {
+      "message": "Теги опубликованы!"
+   },
+   "gtm_publish_unsupported_draft_asset": {
+      "message": "Создание черновика $1 во время публикации пока не поддерживается"
+   },
+   "gtm_publish_web_only_notice": {
+      "message": "Серверный контейнер не выбран. Публикуется конфигурация только для сайта. Вы можете добавить и опубликовать серверный контейнер позже."
+   },
+   "gtm_reauthenticate": {
+      "message": "Выполнить повторную аутентификацию"
+   },
+   "gtm_review_setup_and_publish": {
+      "message": "Проверьте настройки и опубликуйте"
+   },
+   "gtm_setup_authenticate_button": {
+      "message": "Выполнить аутентификацию и получить аккаунты"
+   },
+   "gtm_setup_button": {
+      "message": "Настройка"
+   },
+   "gtm_setup_header_title": {
+      "message": "Безопасно подключите свои данные"
+   },
+   "gtm_setup_required_message": {
+      "message": "Чтобы продолжить, настройте веб-контейнер в Google Менеджере тегов"
+   },
+   "gtm_setup_required_primary_cta": {
+      "message": "Перейти в Google Менеджер тегов"
+   },
+   "gtm_setup_required_secondary_cta": {
+      "message": "Попробовать снова"
+   },
+   "gtm_setup_settings": {
+      "message": "Настройки"
+   },
+   "gtm_setup_summary_description": {
+      "message": "Легко настраивайте развертывание тегов и управление ими, а также эффективно отслеживайте события без изменения кода для улучшения результатов рекламы."
+   },
+   "gtm_setup_warning_loading_label": {
+      "message": "Загрузка..."
+   },
+   "gtm_web_container_label": {
+      "message": "Веб-контейнер"
+   },
+   "gtm_web_container_placeholder": {
+      "message": "Выберите веб-контейнер"
+   },
+   "guidanceEventsAffectedBadge": {
+      "message": "Затронуто событий: $1 %"
+   },
+   "guidanceMoreIssuesPlural": {
+      "message": "Ещё проблем: $1"
+   },
+   "guidanceMoreIssuesSingular": {
+      "message": "Ещё проблем: $1"
+   },
+   "guidanceViewAllButton": {
+      "message": "Посмотреть все"
+   },
+   "guidanceViewButton": {
+      "message": "Смотреть"
+   },
+   "highlightTooltipChooseAccount": {
+      "message": "Выберите аккаунт для входа"
+   },
+   "highlightTooltipClickToContinue": {
+      "message": "Нажмите здесь, чтобы продолжить"
+   },
+   "highlightTooltipSelectAll": {
+      "message": "Выбрать все"
+   },
+   "idLabel": {
+      "message": "ID: $1"
+   },
+   "islandActionFailedMessage": {
+      "message": "Выполните действие вручную, чтобы продолжить"
+   },
+   "islandActionRequiredMessage": {
+      "message": "Выполните действие, чтобы продолжить"
+   },
+   "learnAboutManualAdvancedMatching": {
+      "message": "Подробнее о ручном расширенном поиске совпадений"
+   },
+   "learnAboutValueAndCurrencyParameters": {
+      "message": "Задайте ценность и валюту в пикселе Meta"
+   },
+   "learnHowToSetupAdvancedMatchingManually": {
+      "message": "Подробнее о том, как настроить расширенный поиск совпадений вручную"
+   },
+   "learnMoreLink": {
+      "message": "Подробнее"
+   },
+   "loadingText": {
+      "message": "Загрузка…"
+   },
+   "loginPageButtonCreateAccount": {
+      "message": "Создать новый аккаунт"
+   },
+   "loginPageButtonLogin": {
+      "message": "Войти через Facebook"
+   },
+   "loginPageButtonMMALogin": {
+      "message": "Войти с управляемым аккаунтом Meta"
+   },
+   "loginPageDescription": {
+      "message": "для получения персонализированной поддержки по настройке событий"
+   },
+   "loginPageSubtitle": {
+      "message": "Вход в инструменты для бизнеса от Meta"
+   },
+   "loginPageTitle": {
+      "message": "Помощник по пикселям Meta"
+   },
+   "mamStepExampleLabel": {
+      "message": "Пример: $1"
+   },
+   "metaLogoAlt": {
+      "message": "Meta"
+   },
+   "metaSignalHelperLogoAlt": {
+      "message": "Помощник по пикселям Meta"
+   },
+   "missingEventsActiveSessionTooltip": {
+      "message": "Настройка события уже выполняется"
+   },
+   "missingEventsTabSwitchTooltip": {
+      "message": "Перейдите на вкладку, на которой вы начали настройку события"
+   },
+   "moreInformationHeader": {
+      "message": "Дополнительная информация"
+   },
+   "moreLabel": {
+      "message": "и ещё 1 долл. США"
+   },
+   "newFeaturesBannerLearnMore": {
+      "message": "Подробнее"
+   },
+   "newFeaturesBannerText": {
+      "message": "Настраивайте сложные инструменты за считаные минуты с новой функцией автоматизации."
+   },
+   "nextStepsHeader": {
+      "message": "Следующие действия"
+   },
+   "noEventsOnThisPageMessage": {
+      "message": "На этой странице нет событий. Нажмите \"Показать все события\", чтобы посмотреть события на других страницах."
+   },
+   "noPixelsFoundCardHeader": {
+      "message": "Не найдено пикселей на этой странице"
+   },
+   "onThisPageHeader": {
+      "message": "На этой странице"
+   },
+   "optionalLabel": {
+      "message": "· Необязательно"
+   },
+   "overlayActionCompletedTitle": {
+      "message": "Действие выполнено"
+   },
+   "overlayCloseButton": {
+      "message": "Закрыть"
+   },
+   "overlayDatasetCountPlural": {
+      "message": "Несколько наборов данных"
+   },
+   "overlayDatasetCountSingular": {
+      "message": "1 набор данных"
+   },
+   "overlayDescriptionPluralActions": {
+      "message": "Возможные действия: $1"
+   },
+   "overlayDescriptionPluralPixelsPluralActions": {
+      "message": "Пикселей на этой странице: $1. Доступно действий: $2."
+   },
+   "overlayDescriptionPluralPixelsSingularAction": {
+      "message": "Пикселей на этой странице: $1. Доступно действий: 1."
+   },
+   "overlayDescriptionSingularAction": {
+      "message": "Мы подобрали для вас следующую оптимизацию:"
+   },
+   "overlayDescriptionSingularPixelPluralActions": {
+      "message": "Пикселей на этой странице: 1. Доступно действий: $1."
+   },
+   "overlayDescriptionSingularPixelSingularAction": {
+      "message": "Пикселей на этой странице: 1. Доступно действий: 1."
+   },
+   "overlayFreeCapigEnabledLabel": {
+      "message": "Включено"
+   },
+   "overlayGoBackButton": {
+      "message": "Назад"
+   },
+   "overlayGreetingAfternoon": {
+      "message": "Добрый день, $1"
+   },
+   "overlayGreetingEvening": {
+      "message": "Добрый вечер, $1"
+   },
+   "overlayGreetingMorning": {
+      "message": "Доброе утро, $1"
+   },
+   "overlayGtmSetupForMeCta": {
+      "message": "Настроить для меня"
+   },
+   "overlayNotificationSettingsButton": {
+      "message": "Настройки уведомлений"
+   },
+   "overlayNotificationSettingsDescription": {
+      "message": "Выберите, как вы хотите получать уведомления об улучшении конфигурации. Настройки можно изменить в любой момент, нажав на значок колокольчика на главной странице."
+   },
+   "overlayNotificationSettingsTitle": {
+      "message": "Настройки уведомлений"
+   },
+   "overlayNotificationsToggleDescription": {
+      "message": "Показывать уведомления на страницах с вашими пикселями"
+   },
+   "overlayNotificationsToggleLabel": {
+      "message": "Уведомления"
+   },
+   "overlayTitle": {
+      "message": "Помощник по пикселям Meta"
+   },
+   "overlayToggleDescription": {
+      "message": "Показывать действия на основе вашего контекста и статуса пикселя во время просмотра."
+   },
+   "overlayToggleOff": {
+      "message": "Контекстные уведомления выключены"
+   },
+   "overlayToggleOn": {
+      "message": "Контекстные уведомления включены"
+   },
+   "overlayViewAllButton": {
+      "message": "Смотреть все"
+   },
+   "overlayViewDatasetsButton": {
+      "message": "Смотреть наборы данных"
+   },
+   "pageIssueHeaderPlural": {
+      "message": "На этой странице найдено предупреждений: $1"
+   },
+   "pageIssueHeaderSingular": {
+      "message": "На этой странице найдено предупреждение"
+   },
+   "pinExtensionBannerCta": {
+      "message": "Прикрепить на панели"
+   },
+   "pinExtensionBannerDescription": {
+      "message": "Прикрепите Meta Signal Helper на панель инструментов для быстрого доступа."
+   },
+   "pinExtensionBannerTitle": {
+      "message": "Прикрепите это расширение"
+   },
+   "pixelBackButton": {
+      "message": "Назад"
+   },
+   "pixelCopyIdTitle": {
+      "message": "Копировать ID набора данных"
+   },
+   "pixelCopyIdTooltip": {
+      "message": "Копировать ID набора данных"
+   },
+   "pixelCustomConversionBadge": {
+      "message": "Специально настроенная конверсия"
+   },
+   "pixelErrorCommonStep1": {
+      "message": "Откройте код своего сайта."
+   },
+   "pixelErrorConflictingVersionsCardTitle": {
+      "message": "Удалите старые или конфликтующие пиксели"
+   },
+   "pixelErrorConflictingVersionsExample": {
+      "message": "Пример: n.version='2.0'"
+   },
+   "pixelErrorConflictingVersionsMessage": {
+      "message": "Удалите старые или конфликтующие пиксели"
+   },
+   "pixelErrorConflictingVersionsRecommendation": {
+      "message": "На этой странице обнаружено несколько пикселей с конфликтующими версиями. Используйте только одну версию пикселя Meta."
+   },
+   "pixelErrorConflictingVersionsStep2": {
+      "message": "Выполните поиск **n.version='** в базовом коде установки пикселя"
+   },
+   "pixelErrorConflictingVersionsStep3": {
+      "message": "Убедитесь, что версии для всех пикселей совпадают"
+   },
+   "pixelErrorDuplicatePixelIdCardTitle": {
+      "message": "Удалите дублирующийся ID набора данных"
+   },
+   "pixelErrorDuplicatePixelIdMessage": {
+      "message": "Удалите дублирующийся ID набора данных"
+   },
+   "pixelErrorDuplicatePixelIdRecommendation": {
+      "message": "Обнаружен дубликат ID набора данных: $1. Чтобы избежать дублирования данных, каждый пиксель должен инициализироваться на странице только один раз."
+   },
+   "pixelErrorDuplicatePixelIdStep2": {
+      "message": "Выполните поиск **fbq('init', $1)** в базовом коде установки пикселя"
+   },
+   "pixelErrorDuplicatePixelIdStep3": {
+      "message": "Удалите дубликат **fbq('init', $1)**"
+   },
+   "pixelErrorFbqNoMethodNameCardTitle": {
+      "message": "Отсутствует название метода в вызове fbq()"
+   },
+   "pixelErrorFbqNoMethodNameExample": {
+      "message": "Пример: fbq('track', 'PageView')"
+   },
+   "pixelErrorFbqNoMethodNameMessage": {
+      "message": "Укажите аргумент для fbq{}"
+   },
+   "pixelErrorFbqNoMethodNameRecommendation": {
+      "message": "При вызове fbq() укажите название метода. Пример: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorFbqNoMethodNameStep2": {
+      "message": "Найдите вызов fbq(), в котором отсутствует название метода."
+   },
+   "pixelErrorFbqNoMethodNameStep3": {
+      "message": "Добавьте действительное название метода, например track или init в качестве первого аргумента."
+   },
+   "pixelErrorInvalidConsentActionCardTitle": {
+      "message": "Отправьте действительное подтверждение согласия"
+   },
+   "pixelErrorInvalidConsentActionMessage": {
+      "message": "Отправьте действительное подтверждение согласия"
+   },
+   "pixelErrorInvalidConsentActionRecommendation": {
+      "message": "fbq('$1', ...); — недействительное действие для fbq('consent', ...). Допустимые действия для согласия: grant и revoke. Проверьте настройки управления согласием."
+   },
+   "pixelErrorInvalidConsentActionStep2": {
+      "message": "Выполните поиск **fbq('$1', ...)**"
+   },
+   "pixelErrorInvalidConsentActionStep3": {
+      "message": "Измените название метода на **revoke** или **grant**"
+   },
+   "pixelErrorInvalidEventIdFormatCardTitle": {
+      "message": "Добавьте строковое значение для eventID"
+   },
+   "pixelErrorInvalidEventIdFormatMessage": {
+      "message": "Добавьте строковое значение для eventID"
+   },
+   "pixelErrorInvalidEventIdFormatRecommendation": {
+      "message": "Неправильный тип eventID для ID набора данных: $1 для события \"$2\". Параметр eventID должен быть строкой. Пример: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorInvalidEventIdFormatRecommendationGeneric": {
+      "message": "Неправильный тип eventID для ID набора данных: $1. Параметр eventID должен быть строкой. Пример: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'}})."
+   },
+   "pixelErrorInvalidEventIdFormatStep2": {
+      "message": "Выполните поиск **fbq('track', '$1', ..., {eventID: ...})** и проверьте, является ли eventID строкой"
+   },
+   "pixelErrorInvalidEventIdFormatStep2Generic": {
+      "message": "Выполните поиск **fbq('track', ..., {eventID: ...})** и проверьте, является ли eventID строкой"
+   },
+   "pixelErrorInvalidEventIdFormatStep3": {
+      "message": "Преобразуйте значение eventID в строку"
+   },
+   "pixelErrorInvalidFbqMethodCardTitle": {
+      "message": "Недействительный метод в вызове fbq()"
+   },
+   "pixelErrorInvalidFbqMethodExample": {
+      "message": "Действительные методы: 'init', 'track', 'trackCustom', 'trackSingle', 'trackSingleCustom'"
+   },
+   "pixelErrorInvalidFbqMethodMessage": {
+      "message": "Используйте действительные команды fbq"
+   },
+   "pixelErrorInvalidFbqMethodParameterCardTitle": {
+      "message": "Обновите формат параметра"
+   },
+   "pixelErrorInvalidFbqMethodParameterExample": {
+      "message": "Пример:  fbq('init', '123456789', {em: 'user@example.com', ph: '1234567890'}); // user_data — это объект"
+   },
+   "pixelErrorInvalidFbqMethodParameterMessage": {
+      "message": "Приведите параметры в соответствие с ожидаемым форматом"
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendation": {
+      "message": "Вызов fbq('$1', $2); с параметром \"$3\" содержит  недействительное значение \"$4\"."
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendationSimple": {
+      "message": "Недействительный параметр метода fbq()."
+   },
+   "pixelErrorInvalidFbqMethodParameterStep2": {
+      "message": "Выполните поиск **fbq('$1', $2);**"
+   },
+   "pixelErrorInvalidFbqMethodParameterStep3": {
+      "message": "Измените **$1** на действительное название параметра"
+   },
+   "pixelErrorInvalidFbqMethodRecommendation": {
+      "message": "fbq('$1', ...); — недействительная команда fbq. Используйте действительные методы fbq, например init, track, trackCustom."
+   },
+   "pixelErrorInvalidFbqMethodStep2": {
+      "message": "Найдите вызов fbq() с недействительным методом \"$1\"."
+   },
+   "pixelErrorInvalidFbqMethodStep3": {
+      "message": "Укажите действительное название метода, например track, init или trackCustom."
+   },
+   "pixelErrorInvalidJsonLdCardTitle": {
+      "message": "Обновите формат JSON-LD"
+   },
+   "pixelErrorInvalidJsonLdMessage": {
+      "message": "Убедитесь, что JSON-LD действителен и правильно отформатирован"
+   },
+   "pixelErrorInvalidJsonLdRecommendation": {
+      "message": "Не удалось обработать тег JSON-LD. Обнаружен некорректный формат JSON: \"$1\". Перед отправкой в пиксель убедитесь, что разметка JSON-LD действительна и правильно отформатирована."
+   },
+   "pixelErrorInvalidJsonLdStep2": {
+      "message": "Выполните поиск **$1**"
+   },
+   "pixelErrorInvalidJsonLdStep3": {
+      "message": "Исправьте формат и убедитесь, что это действительный JSON"
+   },
+   "pixelErrorInvalidParamCardTitle": {
+      "message": "Обновите недействительный параметр для вашего события"
+   },
+   "pixelErrorInvalidParamExample": {
+      "message": "Пример: fbq('track', 'Purchase', {currency: 'USD', value: 30.00})"
+   },
+   "pixelErrorInvalidParamFormatCardTitle": {
+      "message": "Обновите формат параметра"
+   },
+   "pixelErrorInvalidParamFormatExample": {
+      "message": "Основные параметры: value, currency, content_ids, content_type и т. д. Полный список см. на вики-странице: https://developers.facebook.com/docs/meta-pixel/reference/"
+   },
+   "pixelErrorInvalidParamFormatMessage": {
+      "message": "Обновите формат параметра"
+   },
+   "pixelErrorInvalidParamFormatRecommendation": {
+      "message": "Недействительный формат параметра для $1."
+   },
+   "pixelErrorInvalidParamFormatStep2": {
+      "message": "Выполните поиск **$1**"
+   },
+   "pixelErrorInvalidParamMessage": {
+      "message": "Удалите или обновите недействительный параметр для вашего события"
+   },
+   "pixelErrorInvalidParamRecommendation": {
+      "message": "Параметр \"$1\" недействителен для события \"$2\"."
+   },
+   "pixelErrorInvalidParamStep2": {
+      "message": "Выполните поиск **fbq('track', $1, ...)**"
+   },
+   "pixelErrorInvalidParamStep3": {
+      "message": "Удалите или обновите $1"
+   },
+   "pixelErrorInvalidPixelIdCardTitle": {
+      "message": "Добавьте действительный ID набора данных"
+   },
+   "pixelErrorInvalidPixelIdMessage": {
+      "message": "Добавьте действительный ID набора данных"
+   },
+   "pixelErrorInvalidPixelIdRecommendation": {
+      "message": "ID вашего набора данных $1 недействителен. Подтвердите правильность ID в Meta Events Manager и обновите код пикселя."
+   },
+   "pixelErrorInvalidPixelIdStep2": {
+      "message": "Выполните поиск **fbq('init', $1)** в базовом коде установки пикселя"
+   },
+   "pixelErrorInvalidPixelIdStep3": {
+      "message": "Замените \"$1\" на действительный вариант, доступный в Meta Events Manager"
+   },
+   "pixelErrorMultiplePixelsCardTitle": {
+      "message": "Объедините данные в один пиксель Meta"
+   },
+   "pixelErrorMultiplePixelsMessage": {
+      "message": "Объедините данные в один пиксель Meta"
+   },
+   "pixelErrorMultiplePixelsRecommendation": {
+      "message": "На этой странице обнаружено несколько пикселей. Это может указывать на проблемы с настройкой и затруднять отслеживание событий."
+   },
+   "pixelErrorMultiplePixelsStep2": {
+      "message": "Выполните поиск **fbq('init', ...)** в базовом коде установки пикселя"
+   },
+   "pixelErrorMultiplePixelsStep3": {
+      "message": "Удалите все пиксели, кроме одного. Обязательно обновите кампании, если использовался дублирующийся пиксель"
+   },
+   "pixelErrorNegativeEventParamCardTitle": {
+      "message": "Укажите положительное значение для параметра $1"
+   },
+   "pixelErrorNegativeEventParamMessage": {
+      "message": "Проверьте данные о событии $1"
+   },
+   "pixelErrorNegativeEventParamRecommendation": {
+      "message": "Параметр \"$1\" для события \"$2\" имеет отрицательное значение. Параметры события, такие как value, quantity и т. д., не могут быть отрицательными."
+   },
+   "pixelErrorNegativeEventParamStep2": {
+      "message": "Выполните поиск **fbq('track', $1)**"
+   },
+   "pixelErrorNegativeEventParamStep3": {
+      "message": "Замените значение положительным числом"
+   },
+   "pixelErrorNoEventIdCardTitle": {
+      "message": "Добавьте ID событий"
+   },
+   "pixelErrorNoEventIdMessage": {
+      "message": "Добавьте ID события для отслеживания и дедупликации"
+   },
+   "pixelErrorNoEventIdRecommendation": {
+      "message": "Мы обнаружили пустое или не заданное значение eventID в 4-м параметре для ID набора данных: $1. Укажите ID события. Пример: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorNoEventIdStep2": {
+      "message": "Выполните поиск **fbq('track', ..., ..., ..., {})** и найдите где 4-й параметр или значение eventID являются пустыми"
+   },
+   "pixelErrorNoEventIdStep3": {
+      "message": "Укажите eventID или удалите 4-й параметр"
+   },
+   "pixelErrorNoEventNameCardTitle": {
+      "message": "Добавьте название события"
+   },
+   "pixelErrorNoEventNameExample": {
+      "message": "Пример: fbq('track', 'AddToCart')"
+   },
+   "pixelErrorNoEventNameMessage": {
+      "message": "Добавьте название события, чтобы отслеживать его"
+   },
+   "pixelErrorNoEventNameRecommendation": {
+      "message": "Отсутствует название события. События для отслеживания должны регистрироваться с названием fbq(\"track\", eventName). Пример: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorNoEventNameStep2": {
+      "message": "Выполните поиск **fbq('track', '', ...)** или **fbq('track', ' ', ...)**"
+   },
+   "pixelErrorNoEventNameStep3": {
+      "message": "Добавьте название события"
+   },
+   "pixelErrorNonstandardEventCardTitle": {
+      "message": "Измените нестандартное событие"
+   },
+   "pixelErrorNonstandardEventMessage": {
+      "message": "Отправьте нестандартное событие с помощью trackCustom"
+   },
+   "pixelErrorNonstandardEventRecommendation": {
+      "message": "Вы отправляете нестандартное событие \"$1\". Для таких событий используйте trackCustom. Вместо этого вызовите fbq('trackCustom', ...)."
+   },
+   "pixelErrorNonstandardEventStep2": {
+      "message": "Выполните поиск **fbq('track', $1)**"
+   },
+   "pixelErrorNonstandardEventStep3": {
+      "message": "Замените на **fbq('trackCustom', $1)**"
+   },
+   "pixelErrorPiiInvalidTypeCardTitle": {
+      "message": "Удалите недействительную информацию о клиенте"
+   },
+   "pixelErrorPiiInvalidTypeExample": {
+      "message": "Пример: **em**, **ph**, **fn**, **ln**, **db**, **ge**, **ct**, **zp**, **external_id** и т. д."
+   },
+   "pixelErrorPiiInvalidTypeMessage": {
+      "message": "Удалите недействительную информацию о клиенте"
+   },
+   "pixelErrorPiiInvalidTypeRecommendation": {
+      "message": "Для параметра \"$2\" указан недействительный $1. Эти данные не будут отправляться с событиями для данного пикселя."
+   },
+   "pixelErrorPiiInvalidTypeStep2": {
+      "message": "Выполните поиск **fbq('init', $1, {$2:...})**"
+   },
+   "pixelErrorPiiInvalidTypeStep3": {
+      "message": "Обновите **$1** или укажите вместо него действительную информацию"
+   },
+   "pixelErrorPiiUnhashedPiiCardTitle": {
+      "message": "Отправьте электронные адреса в правильном поле ключа"
+   },
+   "pixelErrorPiiUnhashedPiiMessage": {
+      "message": "Отправьте электронные адреса в правильном поле ключа"
+   },
+   "pixelErrorPiiUnhashedPiiRecommendation": {
+      "message": "Похоже, значение ключа \"$1\" содержит персональные данные. Эти данные не будут отправляться с событиями для этого пикселя. Рекомендуется использовать вызов fbq('init', 'PIXEL_ID', {em: 'email@email.com', ...})."
+   },
+   "pixelErrorPiiUnhashedPiiStep2": {
+      "message": "Выполните поиск **$1** и убедитесь, что значением этого параметра не указан электронный адрес"
+   },
+   "pixelErrorPiiUnhashedPiiStep3": {
+      "message": "Измените параметр **$1** на **em**"
+   },
+   "pixelErrorRequiredParamMissingCardTitle": {
+      "message": "Добавьте отсутствующий параметр"
+   },
+   "pixelErrorRequiredParamMissingMessage": {
+      "message": "Добавьте в событие отсутствующий обязательный параметр"
+   },
+   "pixelErrorRequiredParamMissingRecommendation": {
+      "message": "Отсутствует обязательный параметр \"$1\" для события \"$2\"."
+   },
+   "pixelErrorRequiredParamMissingStep2": {
+      "message": "Выполните поиск **fbq('track', $1, ...)**"
+   },
+   "pixelErrorRequiredParamMissingStep3": {
+      "message": "Добавьте отсутствующий параметр"
+   },
+   "pixelErrorRestrictedEventCardTitle": {
+      "message": "Проверьте заблокированные события"
+   },
+   "pixelErrorRestrictedEventMessage": {
+      "message": "Откройте Events Manager и проверьте заблокированные события"
+   },
+   "pixelErrorRestrictedEventRecommendation": {
+      "message": "Вы пытаетесь отправить событие, для которого установлены ограничения. Событие заблокировано."
+   },
+   "pixelErrorRestrictedEventStep1": {
+      "message": "Откройте вкладку настроек для набора данных в Events Manager"
+   },
+   "pixelErrorRestrictedEventStep2": {
+      "message": "Откройте раздел \"Разрешения для трафика: сайты\""
+   },
+   "pixelErrorRestrictedEventStep3": {
+      "message": "Проверьте и обновите заблокированные события или прекратите отправку заблокированных событий с вашего сайта"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelCardTitle": {
+      "message": "Инициализируйте пиксель"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelMessage": {
+      "message": "Инициализируйте пиксель, прежде чем задать метаданные"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendation": {
+      "message": "Попытка установить аргумент \"$1\" для ID неинициализированного набора данных $2. Инициализируйте пиксель, прежде чем задать метаданные. Сначала вызовите fbq('init', '$3')."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendationSimple": {
+      "message": "Попытка установить метаданные для неинициализированного пикселя."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep2": {
+      "message": "Выполните поиск **fbq()**"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep3": {
+      "message": "Сначала вызовите **fbq('init', 'PIXEL_ID')**"
+   },
+   "pixelErrorSiteCodelessOptOutCardTitle": {
+      "message": "Включите бескодовую настройку событий"
+   },
+   "pixelErrorSiteCodelessOptOutMessage": {
+      "message": "Включите бескодовую настройку событий или интегрируйте пиксель вручную"
+   },
+   "pixelErrorSiteCodelessOptOutRecommendation": {
+      "message": "Не удается открыть интерфейс событий без кода для пикселя, так как сайт запретил его использование. ID набора данных: $1."
+   },
+   "pixelErrorSiteCodelessOptOutStep2": {
+      "message": "Выполните поиск **fbq('set', 'codeless', 'false', $1)**"
+   },
+   "pixelErrorSiteCodelessOptOutStep3": {
+      "message": "Удалите эту строку, чтобы повторно активировать функцию, или включите ее с помощью **fbq('set', 'codeless', 'true', $1);"
+   },
+   "pixelErrorUnableLoadFbqCardTitle": {
+      "message": "Отключите блокировщики рекламы"
+   },
+   "pixelErrorUnableLoadFbqMessage": {
+      "message": "Проверьте подключение к сети и консоль браузера"
+   },
+   "pixelErrorUnableLoadFbqRecommendation": {
+      "message": "Не удается загрузить fbq. Блокировщики рекламы также могут препятствовать загрузке пикселя."
+   },
+   "pixelErrorUnableLoadFbqStep1": {
+      "message": "Проверьте подключение к сети"
+   },
+   "pixelErrorUnableLoadFbqStep2": {
+      "message": "Убедитесь, что блокировщики рекламы выключены"
+   },
+   "pixelErrorUninitializedPixelCardTitle": {
+      "message": "Инициализируйте пиксель"
+   },
+   "pixelErrorUninitializedPixelMessage": {
+      "message": "Инициализируйте пиксель"
+   },
+   "pixelErrorUninitializedPixelRecommendation": {
+      "message": "Пиксель $1 не найден. Инициализируйте пиксель с помощью fbq('init', 'PIXEL_ID') перед вызовом других методов fbq."
+   },
+   "pixelErrorUninitializedPixelStep1": {
+      "message": "Перейдите на вкладку \"Обзор\" в Events Manager, чтобы скопировать базовый код пикселя Meta"
+   },
+   "pixelErrorUninitializedPixelStep2": {
+      "message": "Вставьте код пикселя Meta между тегами \u003Chead> и \u003C/head> на вашей веб-странице"
+   },
+   "pixelErrorUnknownErrorMessage": {
+      "message": "Произошла неизвестная ошибка пикселя"
+   },
+   "pixelErrorUnknownErrorRecommendation": {
+      "message": "Дополнительную информацию об ошибке можно найти в консоли браузера."
+   },
+   "pixelErrorUnsupportedMetadataCardTitle": {
+      "message": "Удалите или обновите неподдерживаемые поля метаданных"
+   },
+   "pixelErrorUnsupportedMetadataMessage": {
+      "message": "Удалите или обновите неподдерживаемые поля метаданных"
+   },
+   "pixelErrorUnsupportedMetadataRecommendation": {
+      "message": "Неподдерживаемый аргумент метаданных: $1. Действительные аргументы метаданных: agent, automaticMatchingConfig, codeless, trackSingleOnly, cbData.oneTrustId."
+   },
+   "pixelErrorUnsupportedMetadataStep2": {
+      "message": "Выполните поиск **fbq('set', $1)**"
+   },
+   "pixelErrorUnsupportedMetadataStep3": {
+      "message": "Замените действительным аргументом"
+   },
+   "pixelErrorUnverifiedEventCardTitle": {
+      "message": "Подтвердите события"
+   },
+   "pixelErrorUnverifiedEventMessage": {
+      "message": "Подтвердите события в Events Manager"
+   },
+   "pixelErrorUnverifiedEventRecommendation": {
+      "message": "Вы пытаетесь отправить неподтвержденное событие. Событие заблокировано. Перейдите в Events Manager, чтобы узнать больше."
+   },
+   "pixelErrorUnverifiedEventStep1": {
+      "message": "Откройте вкладку диагностики для набора данных в Events Manager"
+   },
+   "pixelErrorUnverifiedEventStep2": {
+      "message": "Подтвердите события"
+   },
+   "pixelErrorUnwantedCustomDataCardTitle": {
+      "message": "Устраните потенциальные нарушения"
+   },
+   "pixelErrorUnwantedCustomDataExample": {
+      "message": "Пример: fbq('track', 'Purchase', {...}) — удалите поля ssn, credit_card, password"
+   },
+   "pixelErrorUnwantedCustomDataMessage": {
+      "message": "Удалите поля пользовательских данных с потенциальными нарушениями"
+   },
+   "pixelErrorUnwantedCustomDataRecommendation": {
+      "message": "Параметры удалены из пользовательских данных из-за возможных нарушений. Для проверки перейдите в Events Manager."
+   },
+   "pixelErrorUnwantedCustomDataStep2": {
+      "message": "Удалите пароль или любую финансовую информацию. Дополнительные типы нарушений доступны на вики-странице"
+   },
+   "pixelErrorUnwantedEventNameCardTitle": {
+      "message": "Проверьте названия событий"
+   },
+   "pixelErrorUnwantedEventNameExample": {
+      "message": "Пример: Неправильные названия событий, такие как 'CreditCardSubmit', 'PasswordEntered', 'SSNCollected'"
+   },
+   "pixelErrorUnwantedEventNameMessage": {
+      "message": "Убедитесь, что в названии события нет запрещенной информации"
+   },
+   "pixelErrorUnwantedEventNameRecommendation": {
+      "message": "Ваше событие заблокировано из-за возможных нарушений."
+   },
+   "pixelErrorUnwantedEventNameStep2": {
+      "message": "Выполните поиск **fbq('track', ...)**"
+   },
+   "pixelErrorUnwantedEventNameStep3": {
+      "message": "Проверьте название события и убедитесь, что оно не содержит запрещенную информацию (например, пароль, номер социального страхования, данные кредитной карты и т. д.)"
+   },
+   "pixelErrorUnwantedUrlDataCardTitle": {
+      "message": "Проверьте потенциальные нарушения"
+   },
+   "pixelErrorUnwantedUrlDataExample": {
+      "message": "Пример:\n❌ Неправильные URL:\nhttps://example.com/checkout?email=user@test.com&ssn=123-45-6789\nhttps://example.com/login?password=secret123&credit_card=4111...\n\n✅ Правильные URL:\nhttps://example.com/checkout?order_id=12345\nhttps://example.com/login (без конфиденциальных параметров в запросе)"
+   },
+   "pixelErrorUnwantedUrlDataMessage": {
+      "message": "Проверьте данные URL и убедитесь, что в них нет запрещенной информации"
+   },
+   "pixelErrorUnwantedUrlDataRecommendation": {
+      "message": "Параметры запроса URL удалены из-за возможных нарушений."
+   },
+   "pixelErrorUnwantedUrlDataStep2": {
+      "message": "Проверьте URL. Чтобы исключить наличие конфиденциальной информации, проверьте как текущую страницу (dl), так и источник перехода (rl)"
+   },
+   "pixelEventCountPlural": {
+      "message": "Событий: $1"
+   },
+   "pixelEventCountSingular": {
+      "message": "$1 событие"
+   },
+   "pixelEventUnnamed": {
+      "message": "Событие (без названия)"
+   },
+   "pixelHeaderPlural": {
+      "message": "На этой странице найдено пикселей: $1"
+   },
+   "pixelHeaderSingular": {
+      "message": "На этой странице найден пиксель"
+   },
+   "pixelIdLabel": {
+      "message": "ID: $1"
+   },
+   "pixelLoadTime": {
+      "message": "$1 мс"
+   },
+   "pixelMetaPixelTitle": {
+      "message": "Пиксель Meta"
+   },
+   "pixelMissingFiresMessage": {
+      "message": "На текущей странице пиксели не сработали, но они сработали на других страницах этого сайта"
+   },
+   "pixelMissingFiresRecommendation": {
+      "message": "Добавьте на эту страницу пиксель для отслеживания событий или убедитесь, что существующие пиксели работают правильно"
+   },
+   "pixelNoEventsRecorded": {
+      "message": "Событий пока не зафиксировано"
+   },
+   "pixelNotFiringMessage": {
+      "message": "Пиксель $1 установлен, но в последнее время не срабатывал"
+   },
+   "pixelStatusActive": {
+      "message": "Активный"
+   },
+   "pixelStatusAutomaticallyDetected": {
+      "message": "Обнаружено автоматически"
+   },
+   "pixelStatusError": {
+      "message": "Ошибка"
+   },
+   "pixelStatusEventNotProcessed": {
+      "message": "Событие не обработано"
+   },
+   "pixelStatusEventReceived": {
+      "message": "Событие получено"
+   },
+   "pixelStatusInactive": {
+      "message": "Неактивный"
+   },
+   "pixelStatusReceived": {
+      "message": "Получено"
+   },
+   "pixelStatusSent": {
+      "message": "Событие отправлено"
+   },
+   "pixelStatusWarning": {
+      "message": "Предупреждение"
+   },
+   "recipeAddMoreFields": {
+      "message": "Добавить ещё"
+   },
+   "recipeCancelAutomation": {
+      "message": "Отменить автоматизацию"
+   },
+   "recipeCompleteActionToContinue": {
+      "message": "Выполните действие, чтобы продолжить"
+   },
+   "recipeErrorBackButton": {
+      "message": "Перейти на главную страницу"
+   },
+   "recipeErrorMessage": {
+      "message": "Не удалось запустить автоматизацию из-за непредвиденной ошибки. Проверьте подключение к Интернету и повторите попытку позже."
+   },
+   "recipeErrorTitle": {
+      "message": "Повторите попытку позже."
+   },
+   "recipeFailedStateDescription": {
+      "message": "При выполнении этого действия возникла проблема. Чтобы продолжить настройку, выполните его вручную."
+   },
+   "recipeFieldIdentifierLabel": {
+      "message": "Идентификатор"
+   },
+   "recipeFieldMappingInfoBoxTextLead": {
+      "message": "Чтобы продолжить, подтвердите название и время мероприятия и выберите хотя бы одно поле идентификатора (рекомендуется \"ID лида\")."
+   },
+   "recipeFieldMappingInfoBoxTextOpportunity": {
+      "message": "Чтобы продолжить, подтвердите название и время мероприятия."
+   },
+   "recipeFieldOptionalLabel": {
+      "message": "Необязательно"
+   },
+   "recipeFieldsDropdownNoResultsFound": {
+      "message": "Не найдено результатов"
+   },
+   "recipeFieldsEventNameTooltipContent": {
+      "message": "Это название сопоставляется с лидами в воронке вашей CRM. Отправляйте все этапы по мере их обновления."
+   },
+   "recipeFieldsEventNameTooltipExample": {
+      "message": "т. е."
+   },
+   "recipeFieldsEventNameTooltipExample1": {
+      "message": "Исходный лид от Meta"
+   },
+   "recipeFieldsEventNameTooltipExample2": {
+      "message": "Квалифицированный лид"
+   },
+   "recipeFieldsEventNameTooltipExample3": {
+      "message": "Возможность продажи"
+   },
+   "recipeFieldsEventNameTooltipExample4": {
+      "message": "Клиент"
+   },
+   "recipeFieldsEventNameTooltipLearnMore": {
+      "message": "Подробнее"
+   },
+   "recipeFieldsEventNameTooltipLearnMoreContinued": {
+      "message": "об интеграции конвертированных лидов."
+   },
+   "recipeFileABug": {
+      "message": "Отправить отчет об ошибке"
+   },
+   "recipeFileAnotherBug": {
+      "message": "Отправить ещё один отчет об ошибке"
+   },
+   "recipeIntroStartAutomationButton": {
+      "message": "Начать автоматизацию"
+   },
+   "recipeMaibaCallerIndicator": {
+      "message": "Вернуться к MAIBA"
+   },
+   "recipeMarkAsComplete": {
+      "message": "Отметить как выполненное"
+   },
+   "recipeMilestoneActionNeededStatus": {
+      "message": "Требуется действие"
+   },
+   "recipeMilestoneCompleteStatus": {
+      "message": "Выполнено"
+   },
+   "recipeMilestoneFailedStatus": {
+      "message": "Ошибка"
+   },
+   "recipeMilestoneInProgressStatus": {
+      "message": "Выполняется"
+   },
+   "recipeMilestonePausedStatus": {
+      "message": "Приостановлено"
+   },
+   "recipeMilestoneStepFailedSuffix": {
+      "message": "· Не удалось выполнить шаг"
+   },
+   "recipeOpportunityChoiceNo": {
+      "message": "нет"
+   },
+   "recipeOpportunityChoiceYes": {
+      "message": "да"
+   },
+   "recipeOpportunityQuestionDropdownLabel": {
+      "message": "Вы используете возможности?"
+   },
+   "recipeOpportunityQuestionInfoText": {
+      "message": "Возможности синхронизируют статус сделки в Salesforce с Meta, чтобы оптимизировать рекламу для получения реальных результатов, а не только лидов."
+   },
+   "recipeOpportunityQuestionLearnMore": {
+      "message": "Подробнее"
+   },
+   "recipeOpportunityQuestionNo": {
+      "message": "Нет"
+   },
+   "recipeOpportunityQuestionYes": {
+      "message": "Да"
+   },
+   "recipePause": {
+      "message": "Приостановить"
+   },
+   "recipeResume": {
+      "message": "Возобновить"
+   },
+   "recipeRetry": {
+      "message": "Повторить попытку"
+   },
+   "recipeReturnToMaiba": {
+      "message": "Вернуться к MAIBA"
+   },
+   "recipeReturnToTab": {
+      "message": "Вернуться на вкладку"
+   },
+   "recipeReturnToTabPrompt": {
+      "message": "Вернитесь на вкладку, где работала эта автоматизация, и нажмите \"Продолжить\"."
+   },
+   "recipeStepFailed": {
+      "message": "Ошибка"
+   },
+   "recipeStepNumber": {
+      "message": "Шаг $1"
+   },
+   "recipeStepSkipped": {
+      "message": "Пропущено"
+   },
+   "recipeStepSkippedTooltip": {
+      "message": "Этот шаг пропущен, так как в нем больше нет необходимости."
+   },
+   "recipeStepUserActionRequired": {
+      "message": "Требуется действие"
+   },
+   "recipeSummaryHeaderTitle": {
+      "message": "Сводка"
+   },
+   "recipeSwitchToActiveTabHint": {
+      "message": "Нажмите, чтобы переключиться на активную вкладку и ускорить автоматизацию."
+   },
+   "recipeThanksForFeedback": {
+      "message": "Спасибо за отзыв"
+   },
+   "recipeVerifying": {
+      "message": "Проверка…"
+   },
+   "recipeViewInEventsManager": {
+      "message": "Посмотреть в Events Manager"
+   },
+   "recipeViewReport": {
+      "message": "Смотреть сводку по автоматизации"
+   },
+   "recipeWpAdminUrlInfoText": {
+      "message": "Не удалось автоматически определить URL администратора WordPress. Введите полный URL административной панели WordPress, чтобы мы могли продолжить настройку."
+   },
+   "recipeWpAdminUrlInputLabel": {
+      "message": "Введите URL администратора WordPress (например, https://yoursite.com/wp-admin/)"
+   },
+   "recipeYourActionIsRequired": {
+      "message": "Требуется ваше действие"
+   },
+   "remove": {
+      "message": "Удалить"
+   },
+   "remove_asset_button_label": {
+      "message": "Удалить этот объект"
+   },
+   "remove_asset_button_required_label": {
+      "message": "Это обязательный объект, его нельзя удалить"
+   },
+   "reportAiGenerated": {
+      "message": "Сгенерировано с помощью ИИ"
+   },
+   "reportAutomationCountPlural": {
+      "message": "Автоматизаций: $1"
+   },
+   "reportAutomationCountSingular": {
+      "message": "Автоматизаций: $1"
+   },
+   "reportAutomationPanelDescription": {
+      "message": "Просмотрите статус, хронику и действия, выполненные в ходе автоматизации."
+   },
+   "reportAutomationSummaryDescription": {
+      "message": "Подробная разбивка данных об автоматизации. В целях конфиденциальности эта информация не будет храниться на нашей платформе."
+   },
+   "reportAutomationSummaryTitle": {
+      "message": "Сводка по автоматизации"
+   },
+   "reportCapturedDuringEmSelection": {
+      "message": "Выбор в Events Manager"
+   },
+   "reportCapturedDuringGaSetup": {
+      "message": "Настройка Google Аналитики"
+   },
+   "reportCapturedDuringGtmSetup": {
+      "message": "Настройка GTM"
+   },
+   "reportCapturedDuringSfWebhook": {
+      "message": "Интеграция Webhooks для Salesforce"
+   },
+   "reportCapturedIdsCreatedDuringSession": {
+      "message": "Созданные во время сеанса"
+   },
+   "reportCapturedIdsDescription": {
+      "message": "В ходе автоматизации был получен доступ к следующим ID."
+   },
+   "reportCapturedIdsEmpty": {
+      "message": "В ходе этой автоматизации не был получен доступ ни к одному ID."
+   },
+   "reportCapturedIdsExisting": {
+      "message": "Существующие"
+   },
+   "reportCapturedIdsHeading": {
+      "message": "ID, к которым получен доступ"
+   },
+   "reportClickToCopy": {
+      "message": "Нажмите, чтобы скопировать"
+   },
+   "reportCopied": {
+      "message": "Скопировано"
+   },
+   "reportCopyAll": {
+      "message": "Копировать все"
+   },
+   "reportDomainEventsManager": {
+      "message": "Events Manager"
+   },
+   "reportDomainGoogleAnalytics": {
+      "message": "Google Аналитика"
+   },
+   "reportDomainGoogleTagManager": {
+      "message": "Google Менеджере тегов"
+   },
+   "reportDomainSalesforce": {
+      "message": "Salesforce"
+   },
+   "reportDomainStape": {
+      "message": "Stape"
+   },
+   "reportExportPdf": {
+      "message": "Экспортировать сводку в формате PDF"
+   },
+   "reportExportPdfNote": {
+      "message": "Экспорт может занять до 45 секунд."
+   },
+   "reportFlowAutomationName": {
+      "message": "Автоматизированный сценарий"
+   },
+   "reportFlowSummaryDescription": {
+      "message": "Просмотрите статусы, хроники и действия, выполненные в ходе всех автоматизаций в этом сценарии."
+   },
+   "reportFlowSummaryHeading": {
+      "message": "Сводка по сценарию"
+   },
+   "reportIdCountPlural": {
+      "message": "Всего ID: $1"
+   },
+   "reportIdCountSingular": {
+      "message": "Всего ID: $1"
+   },
+   "reportIdLabelAdAccountId": {
+      "message": "ID рекламного аккаунта"
+   },
+   "reportIdLabelBusinessId": {
+      "message": "ID компании"
+   },
+   "reportIdLabelCustom": {
+      "message": "Пользовательский ID"
+   },
+   "reportIdLabelDatasetId": {
+      "message": "ID набора данных"
+   },
+   "reportIdLabelGaMeasurementId": {
+      "message": "ID потока данных Google Аналитики"
+   },
+   "reportIdLabelGtmAccountId": {
+      "message": "Имя аккаунта Google Менеджера тегов"
+   },
+   "reportIdLabelGtmContainerId": {
+      "message": "ID контейнера Google Менеджера тегов"
+   },
+   "reportIdLabelGtmServerContainerName": {
+      "message": "Серверный контейнер Google Менеджера тегов"
+   },
+   "reportIdLabelGtmWebContainerName": {
+      "message": "Веб-контейнер Google Менеджера тегов"
+   },
+   "reportIdLabelSgwDataPlaneUrl": {
+      "message": "URL плоскости данных Signals Gateway"
+   },
+   "reportIdLabelSgwPixelId": {
+      "message": "ID набора данных Signals Gateway"
+   },
+   "reportIdLabelWebhookIntegrationId": {
+      "message": "ID интеграции Webhooks"
+   },
+   "reportIdLabelWebhookUrl": {
+      "message": "URL Webhooks"
+   },
+   "reportInProgress": {
+      "message": "Выполняется"
+   },
+   "reportKeyScreenshotEndOfAutomation": {
+      "message": "Конец автоматизации"
+   },
+   "reportKeyScreenshotFinalState": {
+      "message": "Конечное состояние автоматизации"
+   },
+   "reportLabelActionsTaken": {
+      "message": "Выполненные действия"
+   },
+   "reportLabelAutomations": {
+      "message": "Автоматизации"
+   },
+   "reportLabelDuration": {
+      "message": "Продолжительность"
+   },
+   "reportLabelStatus": {
+      "message": "Статус"
+   },
+   "reportLabelTimeline": {
+      "message": "Хроника"
+   },
+   "reportMilestoneComplete": {
+      "message": "Выполнено"
+   },
+   "reportNavHowWeUseData": {
+      "message": "Как мы используем ваши данные"
+   },
+   "reportNavIdsAccessed": {
+      "message": "ID, к которым получен доступ"
+   },
+   "reportNavPagesVisited": {
+      "message": "Посещенные страницы и домены"
+   },
+   "reportNavPrivacySecurity": {
+      "message": "Конфиденциальность и безопасность"
+   },
+   "reportNavSummary": {
+      "message": "Сводка"
+   },
+   "reportOverviewCapiGatewayDescription": {
+      "message": "В рамках этой автоматизации был настроен шлюз Conversions API для отслеживания событий на стороне сервера. Шлюз отправляет данные о событиях напрямую с вашего сервера в систему Meta, что повышает надежность данных и качество сопоставления."
+   },
+   "reportOverviewCapiGatewayTitle": {
+      "message": "Настройка шлюза Conversions API"
+   },
+   "reportOverviewDefaultDescription": {
+      "message": "В этом отчете приводится общая информация о действиях, выполненных в ходе автоматизации."
+   },
+   "reportOverviewDefaultTitle": {
+      "message": "Автоматизация завершена"
+   },
+   "reportOverviewGtmServerDescription": {
+      "message": "В рамках этой автоматизации было настроено добавление тегов на стороне сервера через Google Менеджер тегов. Добавление тегов на стороне сервера улучшает качество данных, результативность сайта и конфиденциальность пользователей, так как теги обрабатываются на сервере, а не в браузере."
+   },
+   "reportOverviewGtmServerTitle": {
+      "message": "Настройка Google Менеджера тегов на стороне сервера"
+   },
+   "reportOverviewGtmWebDescription": {
+      "message": "В рамках этой автоматизации был создан и настроен для вашего сайта веб-контейнер Google Менеджера тегов. Контейнер позволяет управлять маркетинговыми тегами, аналитикой и пикселями отслеживания без изменения кода сайта."
+   },
+   "reportOverviewGtmWebTitle": {
+      "message": "Настройка веб-контейнера Google Менеджера тегов"
+   },
+   "reportOverviewMetaPixelDescription": {
+      "message": "В рамках этой автоматизации на вашем сайте был установлен и проверен пиксель Meta. Пиксель отслеживает действия посетителей, помогая оценивать эффективность рекламы, создавать аудитории и оптимизировать показ."
+   },
+   "reportOverviewMetaPixelTitle": {
+      "message": "Установка пикселя Meta"
+   },
+   "reportOverviewSalesforceDescription": {
+      "message": "В рамках этой автоматизации в вашем экземпляре Salesforce были настроены уведомления Webhooks Meta CRM-CAPI. Интеграция Webhooks передает события CRM из Salesforce напрямую в систему Meta. Это позволяет улучшить таргетинг и измерение рекламы, отправляя события на стороне сервера."
+   },
+   "reportOverviewSalesforceTitle": {
+      "message": "Настройка Webhooks для Salesforce CRM-CAPI"
+   },
+   "reportPagesDescription": {
+      "message": "В ходе автоматизации были посещены следующие страницы."
+   },
+   "reportPagesDescriptionShort": {
+      "message": "В ходе автоматизации были посещены следующие страницы."
+   },
+   "reportPagesEmpty": {
+      "message": "В ходе этой автоматизации не было посещено ни одной страницы."
+   },
+   "reportPagesHeading": {
+      "message": "Посещенные страницы и домены"
+   },
+   "reportRecipeNameGaCreateAccount": {
+      "message": "Создание аккаунта Google Аналитики"
+   },
+   "reportRecipeNameGtmCreateAccount": {
+      "message": "Создание аккаунта Google Менеджера тегов"
+   },
+   "reportRecipeNameGtmProvisionServer": {
+      "message": "Подготовка серверного контейнера Google Менеджера тегов"
+   },
+   "reportRecipeNameInstallFacebookForWoocommerce": {
+      "message": "Установка Facebook for WooCommerce"
+   },
+   "reportRecipeNameSalesforceWebhook": {
+      "message": "Настройка Webhook для Salesforce CRM"
+   },
+   "reportRecipeNameSgwGtmSetup": {
+      "message": "Настройка Signals Gateway с Google Менеджером тегов"
+   },
+   "reportRecipeNameShopifyProductSync": {
+      "message": "Синхронизация товаров Shopify"
+   },
+   "reportRecipeNameUpdateFacebookForWoocommerce": {
+      "message": "Обновление Facebook for WooCommerce"
+   },
+   "reportStatusFailed": {
+      "message": "Ошибка"
+   },
+   "reportStatusSetupIncomplete": {
+      "message": "Настройка не завершена"
+   },
+   "reportStatusSuccess": {
+      "message": "Успех"
+   },
+   "reportSummaryDescription": {
+      "message": "Просмотрите статусы, хроники и действия, выполненные в ходе автоматизации."
+   },
+   "reportSummaryFailureDescription": {
+      "message": "Не удалось выполнить автоматизацию. Просмотрите хронику и ресурсы, созданные до ошибки."
+   },
+   "reportSummaryHeading": {
+      "message": "Сводка"
+   },
+   "reportTimelineStarted": {
+      "message": "Начато $1"
+   },
+   "reportTitleFailure": {
+      "message": "Ошибок автоматизации: $1"
+   },
+   "reportTitleFlow": {
+      "message": "Сводка по сценарию автоматизаций"
+   },
+   "reportTitleSuccess": {
+      "message": "Сводка по автоматизации: $1"
+   },
+   "required": {
+      "message": "Обязательно"
+   },
+   "resolutionStepAddingMissingEventsTitle": {
+      "message": "Добавление отсутствующих событий"
+   },
+   "resolutionStepClickToCopy": {
+      "message": "Нажмите, чтобы скопировать"
+   },
+   "resolutionStepConfirmNewEvents": {
+      "message": "Подтвердите новые события"
+   },
+   "resolutionStepEnableAAMEventsTitle": {
+      "message": "Включение автоматического расширенного поиска совпадений"
+   },
+   "resolutionStepEnableMAMEventsTitle": {
+      "message": "Настройка ручного расширенного поиска совпадений"
+   },
+   "resolutionStepInvalidValueCurrencyTitle": {
+      "message": "Обновление ценности и валюты"
+   },
+   "resolutionStepLeaveTabOpen": {
+      "message": "Не закрывайте эту вкладку"
+   },
+   "resolutionStepOpenEventSetupTool": {
+      "message": "Откройте инструмент настройки событий для сайта"
+   },
+   "resolutionStepOpenWebsiteCode": {
+      "message": "Откройте код своего сайта."
+   },
+   "resolutionStepSearchFbqInit": {
+      "message": "Выполните поиск по запросу **fbq('init'...)**, чтобы найти фрагменты кода, где вы используете пиксель Meta."
+   },
+   "resolutionStepSearchFbqTrackPurchase": {
+      "message": "Найдите отслеживаемое пикселем событие «Покупка»."
+   },
+   "resolutionStepUpdateCodeBlock": {
+      "message": "Обновите блок кода так, чтобы он включал данные расширенного поиска совпадений ниже как третий параметр."
+   },
+   "resolutionStepUpdateCurrencyField": {
+      "message": "Обновите поле \"Валюта\"."
+   },
+   "resolutionStepUpdateValueField": {
+      "message": "Обновите поле \"Ценность\"."
+   },
+   "resolutionStepUserActionRequired": {
+      "message": "Требуется действие пользователя"
+   },
+   "resolutionStepValueFieldInformation": {
+      "message": "Информация о поле \"Ценность\":"
+   },
+   "resolutionStepValueFieldRequirement1": {
+      "message": "Должно быть числовое значение больше 0"
+   },
+   "resolutionStepValueFieldRequirement2": {
+      "message": "Может включать десятичную точку. Например: 9.99 или 9."
+   },
+   "resolutionStepValueFieldRequirement3": {
+      "message": "Не используйте в параметре валюты дополнительных цифр, специальных символов или знаков."
+   },
+   "resolutionStepsDefault": {
+      "message": "Шаги по устранению проблемы"
+   },
+   "reviewSuggestionsEmpty": {
+      "message": "Рекомендуемых событий сейчас нет."
+   },
+   "reviewSuggestionsIneligible": {
+      "message": "Рекомендуемые события пока недоступны для этого пикселя."
+   },
+   "reviewSuggestionsLoading": {
+      "message": "Загрузка рекомендуемых событий…"
+   },
+   "ruleOperator_eq": {
+      "message": "равно"
+   },
+   "ruleOperator_gt": {
+      "message": "больше, чем"
+   },
+   "ruleOperator_gte": {
+      "message": "больше или равно"
+   },
+   "ruleOperator_i_contains": {
+      "message": "содержит"
+   },
+   "ruleOperator_i_greater_than_or_equal": {
+      "message": "больше или равно"
+   },
+   "ruleOperator_i_is_any": {
+      "message": "соответствует любому из этих значений:"
+   },
+   "ruleOperator_i_less_than_or_equal": {
+      "message": "меньше или равно"
+   },
+   "ruleOperator_i_not_contains": {
+      "message": "не содержит"
+   },
+   "ruleOperator_lt": {
+      "message": "меньше, чем"
+   },
+   "ruleOperator_lte": {
+      "message": "меньше или равно"
+   },
+   "ruleOperator_neq": {
+      "message": "не равно"
+   },
+   "ruleOperator_or": {
+      "message": "или"
+   },
+   "ruleOperator_regex_match": {
+      "message": "соответствует"
+   },
+   "screenshotGalleryDisclaimer": {
+      "message": "Скриншоты сохраняются только на вашем устройстве и удаляются после завершения сеанса."
+   },
+   "screenshotGalleryTimeDaysAgo": {
+      "message": "$1 дн. назад"
+   },
+   "screenshotGalleryTimeHoursAgo": {
+      "message": "$1 ч. назад"
+   },
+   "screenshotGalleryTimeJustNow": {
+      "message": "только что"
+   },
+   "screenshotGalleryTimeMinutesAgo": {
+      "message": "$1 мин. назад"
+   },
+   "selector_no_options_available": {
+      "message": "Нет доступных вариантов"
+   },
+   "selector_no_results_found": {
+      "message": "Нет результатов"
+   },
+   "selector_select_placeholder": {
+      "message": "-- Выберите --"
+   },
+   "server_container_creation_title": {
+      "message": "Серверный контейнер"
+   },
+   "server_container_name_label": {
+      "message": "Название контейнера"
+   },
+   "server_container_tagging_url_label": {
+      "message": "URL сервера тегов"
+   },
+   "settingsDescription": {
+      "message": "Простое управление конфигурацией пикселя Meta и оптимизация его работы."
+   },
+   "settingsErrorOccurred": {
+      "message": "Произошла ошибка"
+   },
+   "settingsOverlayNotificationsDescription": {
+      "message": "Показывать контекстные уведомления-оверлеи поверх страниц, где используются ваши пиксели"
+   },
+   "settingsOverlayNotificationsTitle": {
+      "message": "Уведомления-оверлеи"
+   },
+   "settingsTitle": {
+      "message": "Настройки"
+   },
+   "settingsWaitSpeedFast": {
+      "message": "Короткое"
+   },
+   "settingsWaitSpeedFastDescription": {
+      "message": "Менее 1 секунды"
+   },
+   "settingsWaitSpeedMedium": {
+      "message": "Среднее"
+   },
+   "settingsWaitSpeedMediumDescription": {
+      "message": "2–3 секунды"
+   },
+   "settingsWaitSpeedSlow": {
+      "message": "Долгое"
+   },
+   "settingsWaitSpeedSlowDescription": {
+      "message": "Более 5 секунд"
+   },
+   "settingsWaitTimeBetweenActionsTitle": {
+      "message": "Время ожидания между действиями"
+   },
+   "setupAddingAllEventsLabel": {
+      "message": "Добавление всех событий"
+   },
+   "setupAddingPixelEventsCardTitle": {
+      "message": "Добавление событий пикселя"
+   },
+   "setupComplete": {
+      "message": "Настройка завершена"
+   },
+   "setupDetailsHeader": {
+      "message": "Информация о настройке"
+   },
+   "setupDetailsInfoTooltip": {
+      "message": "После запуска автоматизации будут выполнены указанные ниже действия."
+   },
+   "setupHowItWorksDescription": {
+      "message": "Meta AI сканирует ваш сайт, определяет ключевые события конверсии, такие как \"Покупка\", \"Добавление в корзину\" или \"Лид\", и автоматически добавляет их в качестве событий пикселя. Программирование не требуется."
+   },
+   "setupHowItWorksLabel": {
+      "message": "Как это работает"
+   },
+   "setupPixelEventsAddedHeader": {
+      "message": "События пикселя добавлены"
+   },
+   "setupPixelEventsAddedSubtitle": {
+      "message": "Теперь расслабьтесь и наблюдайте за ростом результативности своей кампании."
+   },
+   "setupPixelEventsHeader": {
+      "message": "Настройка событий пикселя"
+   },
+   "setupReturnToPreviousPage": {
+      "message": "Вернуться на предыдущую страницу"
+   },
+   "setup_failed": {
+      "message": "При настройке произошла ошибка"
+   },
+   "setup_requirements": {
+      "message": "Требования к настройке"
+   },
+   "shopifyProductSyncIntroStep1SubA": {
+      "message": "Откройте страницу входа для администратора Shopify"
+   },
+   "shopifyProductSyncIntroStep1SubB": {
+      "message": "Войдите на панель администратора Shopify для вашего магазина"
+   },
+   "shopifyProductSyncIntroStep1Title": {
+      "message": "Вход на панель администратора Shopify"
+   },
+   "shopifyProductSyncIntroStep2SubA": {
+      "message": "Нажмите **Products (Товары)**"
+   },
+   "shopifyProductSyncIntroStep2SubB": {
+      "message": "Перейдите на вкладку **All (Все)**"
+   },
+   "shopifyProductSyncIntroStep2SubC": {
+      "message": "Выберите все товары"
+   },
+   "shopifyProductSyncIntroStep2Title": {
+      "message": "Выявление товаров"
+   },
+   "shopifyProductSyncIntroStep3SubA": {
+      "message": "Нажмите **More options (Другие параметры)**"
+   },
+   "shopifyProductSyncIntroStep3SubB": {
+      "message": "Нажмите **Include in sales channels (Включить в каналы продаж)**"
+   },
+   "shopifyProductSyncIntroStep3SubC": {
+      "message": "Выберите **Facebook & Instagram**"
+   },
+   "shopifyProductSyncIntroStep3SubD": {
+      "message": "Нажмите **Include products (Добавить товары)**"
+   },
+   "shopifyProductSyncIntroStep3Title": {
+      "message": "Добавление товаров"
+   },
+   "showAllEvents": {
+      "message": "Показать все события"
+   },
+   "showAllPixels": {
+      "message": "Показать все пиксели"
+   },
+   "showAllWarnings": {
+      "message": "Показать все предупреждения"
+   },
+   "showLess": {
+      "message": "Показать меньше"
+   },
+   "showLessEvents": {
+      "message": "Показать меньше событий"
+   },
+   "showMore": {
+      "message": "Показать больше"
+   },
+   "stepResumeTooltip": {
+      "message": "Убедитесь, что вы выполнили указанное выше действие вручную, чтобы продолжить."
+   },
+   "suggestionButtonTextLabel": {
+      "message": "Текст кнопки: \"$1\""
+   },
+   "suggestionExampleUrlsLabel": {
+      "message": "Примеры URL: $1"
+   },
+   "switcherCatalogSingular": {
+      "message": "$1 каталог"
+   },
+   "switcherCatalogsPlural": {
+      "message": "Каталогов: $1"
+   },
+   "switcherPixelsPlural": {
+      "message": "Пикселей: $1"
+   },
+   "switcherPixelsSingular": {
+      "message": "$1 пиксель"
+   },
+   "testEventsHeader": {
+      "message": "Тестовые события"
+   },
+   "topActionsSectionHeader": {
+      "message": "Ваши основные действия"
+   },
+   "topActionsSectionSubHeader": {
+      "message": "На основе ваших настроек"
+   },
+   "triggerEventDetection": {
+      "message": "Обнаружить рекомендуемые события"
+   },
+   "useMetaEventSetupToolForWeb": {
+      "message": "Использовать инструмент настройки событий Meta для сайта"
+   },
+   "verificationFailedCancelButton": {
+      "message": "Отменить автоматизацию"
+   },
+   "verificationFailedMessage": {
+      "message": "Не удалось определить статус этого действия. Если ошибка не исчезнет, вы можете отменить автоматизацию и продолжить настройку вручную."
+   },
+   "verificationFailedTitle": {
+      "message": "Повторите попытку"
+   },
+   "verificationFailedTryAgainButton": {
+      "message": "Попробовать снова"
+   },
+   "verificationInProgressMessage": {
+      "message": "Проверяем, выполнено ли действие"
+   },
+   "warningsHeader": {
+      "message": "Предупреждения"
+   },
+   "web_container_creation_title": {
+      "message": "Веб-контейнер"
+   },
+   "web_container_name_label": {
+      "message": "Название контейнера"
+   },
+   "what_we_will_create_title": {
+      "message": "Объекты, которые мы создадим"
+   },
+   "wooCommerceIntroSetUpForMeButton": {
+      "message": "Настроить для меня"
+   },
+   "wooCommerceIntroStep1SubA": {
+      "message": "Откройте панель администратора WordPress"
+   },
+   "wooCommerceIntroStep1SubB": {
+      "message": "Войдите в свой аккаунт WordPress"
+   },
+   "wooCommerceIntroStep1Title": {
+      "message": "Вход в WordPress"
+   },
+   "wooCommerceIntroStep2SubA": {
+      "message": "Перейдите на панель в левой части экрана, выберите **Plugins (Плагины)**, а затем — **Add Plugins (Добавить плагины)**"
+   },
+   "wooCommerceIntroStep2SubB": {
+      "message": "Нажмите **Add Plugin (Добавить плагин)**"
+   },
+   "wooCommerceIntroStep2SubC": {
+      "message": "Перейдите к поисковой строке в верхней части страницы"
+   },
+   "wooCommerceIntroStep2SubD": {
+      "message": "Выполните поиск плагина Meta for WooCommerce"
+   },
+   "wooCommerceIntroStep2SubE": {
+      "message": "Прокрутите до плагина Meta for WooCommerce и нажмите **Install Now (Установить)**"
+   },
+   "wooCommerceIntroStep2Title": {
+      "message": "Установка плагина"
+   },
+   "wooCommerceIntroStep3SubA": {
+      "message": "После установки Meta for WooCommerce нажмите **Activate (Активировать)**"
+   },
+   "wooCommerceIntroStep3SubB": {
+      "message": "Откройте страницу **Plugins (Плагины)** на панели в левой части экрана"
+   },
+   "wooCommerceIntroStep3SubC": {
+      "message": "Прокрутите до плагина Meta for WooCommerce и нажмите **Configure (Настроить)**"
+   },
+   "wooCommerceIntroStep3SubD": {
+      "message": "На экране конфигурации нажмите **Get started (Начать)**"
+   },
+   "wooCommerceIntroStep3Title": {
+      "message": "Активация плагина"
+   },
+   "wooCommerceUpdateIntroStep2SubA": {
+      "message": "Откройте страницу \"Add Plugins (Добавление плагинов)\""
+   },
+   "wooCommerceUpdateIntroStep2SubB": {
+      "message": "Прокрутите до плагина Meta for WooCommerce"
+   },
+   "wooCommerceUpdateIntroStep2SubC": {
+      "message": "Нажмите **Update now (Обновить)**"
+   },
+   "wooCommerceUpdateIntroStep2Title": {
+      "message": "Обновление плагина"
+   }
+}

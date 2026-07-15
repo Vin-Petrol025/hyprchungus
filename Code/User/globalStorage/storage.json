@@ -1,0 +1,82 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "9ffa0d0501c7e5652d34bc80052bb71e860bfb3f51cc8687e781c8a037fc8414",
+    "telemetry.devDeviceId": "17dab67f-2160-43ae-8a38-0c75c3130053",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/dread-wing/M_Stich_final"
+            },
+            {
+                "folderUri": "file:///home/dread-wing/.config/waybar"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 42,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/dread-wing/M_Stich_final": "__default__profile__",
+            "file:///home/dread-wing/.config/waybar": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/dread-wing/.config/waybar",
+            "backupPath": "/home/dread-wing/.config/Code/Backups/dc9eafd826c0de4c1e549714077979f0",
+            "uiState": {
+                "mode": 0,
+                "x": 16,
+                "y": 10,
+                "width": 1920,
+                "height": 1080,
+                "zoomLevel": 1
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#282a36",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#f8f8f2",
+            "background": "#282a36",
+            "editorBackground": "#282a36",
+            "titleBarBackground": "#21222c",
+            "activityBarBackground": "#343746",
+            "sideBarBackground": "#21222c",
+            "statusBarBackground": "#191a21",
+            "statusBarNoFolderBackground": "#191a21"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 234,
+            "auxiliaryBarWidth": 234,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 234,
+            "auxiliaryBarWidth": 234,
+            "workspaces": {
+                "909e0ab3ecb1e85eec90e023bf75aa1b": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "53c0e3f58cc005cf0be3425c98ec1717": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

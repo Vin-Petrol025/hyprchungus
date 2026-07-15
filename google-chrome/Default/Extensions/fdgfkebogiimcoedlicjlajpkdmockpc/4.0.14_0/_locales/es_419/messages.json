@@ -1,0 +1,3248 @@
+{
+   "aamConfirmButton": {
+      "message": "Confirmar"
+   },
+   "aamEditButton": {
+      "message": "Editar"
+   },
+   "aamFieldCityStatePostal": {
+      "message": "Ciudad, estado, código postal"
+   },
+   "aamFieldCountry": {
+      "message": "País"
+   },
+   "aamFieldDateOfBirth": {
+      "message": "Fecha de nacimiento"
+   },
+   "aamFieldEmail": {
+      "message": "Correo electrónico"
+   },
+   "aamFieldExternalId": {
+      "message": "Identificador externo"
+   },
+   "aamFieldFirstLastName": {
+      "message": "Nombre y apellido"
+   },
+   "aamFieldGender": {
+      "message": "Género"
+   },
+   "aamFieldPhoneNumber": {
+      "message": "Número de teléfono"
+   },
+   "aamInfoDescription": {
+      "message": "Las coincidencias avanzadas automáticas usan los datos que los clientes proporcionaron a tu negocio (por ejemplo, direcciones de correo electrónico o números de teléfono) para buscar correspondencias entre los visitantes que también usan Meta."
+   },
+   "aamNoEditPermissionTooltip": {
+      "message": "No tienes permiso para editar. Ponte en contacto con tu administrador."
+   },
+   "aamStepConfirmFieldsDescription": {
+      "message": "Confirma los campos que quieres enviar"
+   },
+   "aamStepUserActionRequired": {
+      "message": "Acción del usuario requerida"
+   },
+   "aboutAdvancedMatchingForWeb": {
+      "message": "Información sobre las coincidencias avanzadas en sitios web"
+   },
+   "aboutEventSetupTool": {
+      "message": "Información sobre la herramienta de configuración de eventos"
+   },
+   "actionAddMissingEventsCtaLabel": {
+      "message": "Configurar para mí"
+   },
+   "actionAddMissingEventsDescription": {
+      "message": "Agrega los eventos que faltan a la configuración para mejorar fácilmente el rendimiento de tus anuncios y la precisión de la medición."
+   },
+   "actionAddMissingEventsHeader": {
+      "message": "Agrega los eventos que faltan"
+   },
+   "actionAutomatableValueLabel": {
+      "message": "Automatizable"
+   },
+   "actionCAPIGTMProductRecommendationHeader": {
+      "message": "Comparte tus datos de forma segura a través de Google Tag Manager"
+   },
+   "actionCAPIGTMSetupDescription": {
+      "message": "Esto optimiza la implementación y administración de etiquetas, lo que permite un seguimiento eficiente de los eventos sin cambios en el código para mejorar el rendimiento de marketing."
+   },
+   "actionCAPIGTMSetupHeader": {
+      "message": "Configura la API de conversiones con Google Tag Manager"
+   },
+   "actionCAPIGeneralSetupDescription": {
+      "message": "Maximiza los datos que se miden en tu sitio web y ayuda a reducir el costo por resultado."
+   },
+   "actionCAPIGeneralSetupHeader": {
+      "message": "Configura la API de conversiones"
+   },
+   "actionCAPISalesforceCRMSetupDescription": {
+      "message": "La configuración automática permite hacer sin problemas un seguimiento preciso de los eventos entre servidores en tiempo real para mejorar las estadísticas de clientes y el marketing."
+   },
+   "actionCAPISalesforceCRMSetupHeader": {
+      "message": "Configura la API de conversiones con CRM de Salesforce"
+   },
+   "actionCardDatasetTooltip": {
+      "message": "Ve al administrador de eventos para ver este conjunto de datos"
+   },
+   "actionCatalogUpsellCtaLabel": {
+      "message": "Agregar productos"
+   },
+   "actionCatalogUpsellDescription": {
+      "message": "Atrae a nuevos públicos y ofrece una experiencia de compra personalizada en función de su comportamiento e intereses. Capta la atención de los clientes desde la consideración hasta la compra con una variedad de formatos de anuncios."
+   },
+   "actionCatalogUpsellHeader": {
+      "message": "Agrega productos a un catálogo de Meta y maximiza el rendimiento de tus anuncios"
+   },
+   "actionFixInvalidValueCurrencyDescription": {
+      "message": "Corregir los parámetros de valor y divisa no válidos para los eventos de compra en el sitio web permite crear informes precisos y mejorar la optimización de la campaña."
+   },
+   "actionFixInvalidValueCurrencyHeader": {
+      "message": "Corrige los parámetros de valor y divisa no válidos"
+   },
+   "actionFreeCAPIGOneClickDescription": {
+      "message": "Envía tus eventos de píxel del servidor de forma automática, sin configuración de ingeniería ni etiquetas adicionales. Crearemos la conexión por ti."
+   },
+   "actionFreeCAPIGOneClickHeader": {
+      "message": "API de conversiones habilitada por Meta"
+   },
+   "actionFreeCAPIGOneClickTooltip": {
+      "message": "Al hacer clic, se activa la entrega de eventos del servidor alojado en Meta para este negocio. Puedes cambiar esto más adelante en el administrador de eventos."
+   },
+   "actionFreeCAPIGOneClickValueLift": {
+      "message": "Costo por resultado 17,8% más bajo"
+   },
+   "actionFreeCAPIGOneClickViewDetails": {
+      "message": "Ver detalles"
+   },
+   "actionInstallFacebookForWooCommerceCtaLabel": {
+      "message": "Empezar"
+   },
+   "actionInstallFacebookForWooCommercePluginDescription": {
+      "message": "Meta for WooCommerce mantiene tu tienda sincronizada con Facebook, Instagram y WhatsApp. Menos trabajo para ti, más tiempo para tu negocio."
+   },
+   "actionInstallFacebookForWooCommercePluginHeader": {
+      "message": "Instalar el plugin de Meta para WooCommerce"
+   },
+   "actionInstallFacebookForWooCommercePluginSubtitle": {
+      "message": "Ahorra tiempo y muestra los productos correctos a las personas adecuadas."
+   },
+   "actionSetupMamAamDescription": {
+      "message": "Las coincidencias avanzadas proporcionan más conversiones a tus anuncios para llegar a más personas con campañas de remarketing."
+   },
+   "actionSetupMamAamHeader": {
+      "message": "Configura las coincidencias avanzadas"
+   },
+   "actionShopifyProductSyncCtaLabel": {
+      "message": "Empezar"
+   },
+   "actionShopifyProductSyncDescription": {
+      "message": "Algunos identificadores de contenido de esta página no coinciden con los productos de tu catálogo. Usa la sincronización de productos de Shopify para agregar los productos que faltan."
+   },
+   "actionShopifyProductSyncHeader": {
+      "message": "Sincroniza los productos faltantes a través de Shopify"
+   },
+   "actionSignalsGatewayGTMSetupDescription": {
+      "message": "Esto permite hacer un seguimiento preciso de los eventos entre servidores en tiempo real para mejorar las estadísticas de clientes y el marketing."
+   },
+   "actionSignalsGatewayGTMSetupHeader": {
+      "message": "Configura Signals Gateway Pixel con Google Tag Manager"
+   },
+   "actionUpdateFacebookForWooCommerceCtaLabel": {
+      "message": "Actualizar plugin"
+   },
+   "actionUpdateFacebookForWooCommercePluginDescription": {
+      "message": "Actualízalo ahora para obtener las últimas mejoras y para que la tienda se siga sincronizando sin problemas con Facebook, Instagram y WhatsApp."
+   },
+   "actionUpdateFacebookForWooCommercePluginHeader": {
+      "message": "Actualizar el plugin de Meta para WooCommerce"
+   },
+   "actionUpdateFacebookForWooCommercePluginSubtitle": {
+      "message": "Hay una nueva versión de tu plugin disponible."
+   },
+   "addMissingEventsCancel": {
+      "message": "Cancelar"
+   },
+   "addMissingEventsHeader": {
+      "message": "Agrega los eventos que faltan"
+   },
+   "addMissingEventsMoreDatasets": {
+      "message": "$1 conjuntos de datos más"
+   },
+   "addMissingEventsPotentialBadge": {
+      "message": "Posible reducción del $1% en el costo por resultado"
+   },
+   "addMissingEventsSetUpForMe": {
+      "message": "Configurar para mí"
+   },
+   "addMissingEventsSubtitle": {
+      "message": "Agrega los eventos de píxel que faltan para empezar a realizar un seguimiento de los eventos de conversión y optimizarlos a fin de mejorar los resultados de los anuncios."
+   },
+   "addMissingEventsTimeEstimate": {
+      "message": "\u003C 1 min"
+   },
+   "add_more_label": {
+      "message": "Agregar más"
+   },
+   "additionalRecommendation": {
+      "message": "recomendación adicional"
+   },
+   "additionalRecommendations": {
+      "message": "recomendaciones adicionales"
+   },
+   "agenticActionAskUserSelect": {
+      "message": "Pedirte que elijas"
+   },
+   "agenticActionCaptureDropdown": {
+      "message": "Capturar opciones del menú desplegable de $1"
+   },
+   "agenticActionCaptureDropdownActive": {
+      "message": "Capturando opciones del menú desplegable de $1"
+   },
+   "agenticActionCaptureDropdownPast": {
+      "message": "Se capturaron las opciones del menú desplegable de $1"
+   },
+   "agenticActionCaptureStoreAsDetail": {
+      "message": "Almacenar como $1"
+   },
+   "agenticActionClick": {
+      "message": "Hacer clic en $1"
+   },
+   "agenticActionClickActive": {
+      "message": "Haciendo clic en $1"
+   },
+   "agenticActionClickPast": {
+      "message": "Se hizo clic en $1"
+   },
+   "agenticActionCloseTab": {
+      "message": "Cerrar pestaña $1"
+   },
+   "agenticActionCloseTabActive": {
+      "message": "Cerrando $1"
+   },
+   "agenticActionCloseTabPast": {
+      "message": "Se cerró $1"
+   },
+   "agenticActionCopyMatchDetail": {
+      "message": "Coincidencia $1"
+   },
+   "agenticActionCopyMatchingText": {
+      "message": "Copiar texto coincidente en caché $1"
+   },
+   "agenticActionCopyMatchingTextActive": {
+      "message": "Copiando el texto coincidente en caché $1"
+   },
+   "agenticActionCopyMatchingTextPast": {
+      "message": "Se copió el texto coincidente en caché $1"
+   },
+   "agenticActionCopyTextFromTarget": {
+      "message": "Copiar texto de $1 en caché $2"
+   },
+   "agenticActionCopyTextFromTargetActive": {
+      "message": "Copiando texto de $1 en caché $2"
+   },
+   "agenticActionCopyTextFromTargetPast": {
+      "message": "Se copió el texto de $1 en caché $2"
+   },
+   "agenticActionCopyVisibleText": {
+      "message": "Copiar texto visible en caché $1"
+   },
+   "agenticActionCopyVisibleTextActive": {
+      "message": "Copiando el texto visible en caché $1"
+   },
+   "agenticActionCopyVisibleTextPast": {
+      "message": "Se copió el texto visible en caché $1"
+   },
+   "agenticActionGetDropdownOptions": {
+      "message": "Leer opciones de $1"
+   },
+   "agenticActionGoToUrl": {
+      "message": "Ir a $1"
+   },
+   "agenticActionHover": {
+      "message": "Pasar el mouse por $1"
+   },
+   "agenticActionNeededTitle": {
+      "message": "Se requiere una acción"
+   },
+   "agenticActionOpenNewTab": {
+      "message": "Abrir una nueva pestaña"
+   },
+   "agenticActionOpenPage": {
+      "message": "Abrir una página nueva"
+   },
+   "agenticActionOpenPageActive": {
+      "message": "Abriendo una página nueva"
+   },
+   "agenticActionOpenPagePast": {
+      "message": "Se abrió una página nueva"
+   },
+   "agenticActionOpenRelativePath": {
+      "message": "Abrir una ruta relativa"
+   },
+   "agenticActionOpenRelativePathActive": {
+      "message": "Abriendo una ruta relativa"
+   },
+   "agenticActionOpenRelativePathPast": {
+      "message": "Se abrió una ruta relativa"
+   },
+   "agenticActionOpenTab": {
+      "message": "Abrir pestaña de $1"
+   },
+   "agenticActionOpenTabActive": {
+      "message": "Abriendo una pestaña nueva"
+   },
+   "agenticActionOpenTabDestinationDetail": {
+      "message": "Destino: $1"
+   },
+   "agenticActionOpenTabPast": {
+      "message": "Se abrió una pestaña nueva"
+   },
+   "agenticActionPaste": {
+      "message": "Pegar en $1"
+   },
+   "agenticActionPasteSourceDetail": {
+      "message": "Caché de origen: $1"
+   },
+   "agenticActionPasteText": {
+      "message": "Pegar texto guardado en $1"
+   },
+   "agenticActionPasteTextActive": {
+      "message": "Pegando el texto guardado en $1"
+   },
+   "agenticActionPasteTextPast": {
+      "message": "Se pegó el texto guardado en $1"
+   },
+   "agenticActionReloadPage": {
+      "message": "Volver a cargar la página"
+   },
+   "agenticActionReloadPageActive": {
+      "message": "Volviendo a cargar la página"
+   },
+   "agenticActionReloadPagePast": {
+      "message": "Se volvió a cargar la página"
+   },
+   "agenticActionScrollBottom": {
+      "message": "Desplazarse hasta el final"
+   },
+   "agenticActionScrollBottomActive": {
+      "message": "Desplazándose hasta la parte inferior de la página"
+   },
+   "agenticActionScrollBottomPast": {
+      "message": "Se desplazó hasta la parte inferior de la página"
+   },
+   "agenticActionScrollElementPercent": {
+      "message": "Desplazarse de $1 a $2%"
+   },
+   "agenticActionScrollIntoViewDetail": {
+      "message": "Desplázate antes de interactuar con un elemento fuera de pantalla."
+   },
+   "agenticActionScrollPercent": {
+      "message": "Desplazarse al $1%"
+   },
+   "agenticActionScrollPercentActive": {
+      "message": "Desplazando $1 hasta $2"
+   },
+   "agenticActionScrollPercentPage": {
+      "message": "la página"
+   },
+   "agenticActionScrollPercentPast": {
+      "message": "Desplazó $1 hasta $2"
+   },
+   "agenticActionScrollTo": {
+      "message": "Desplazarse a $1"
+   },
+   "agenticActionScrollToActive": {
+      "message": "Desplazándose hasta $1"
+   },
+   "agenticActionScrollToPast": {
+      "message": "Se desplazó hasta $1"
+   },
+   "agenticActionScrollTop": {
+      "message": "Desplazarse hasta el inicio"
+   },
+   "agenticActionScrollTopActive": {
+      "message": "Desplazándose hasta la parte superior de la página"
+   },
+   "agenticActionScrollTopPast": {
+      "message": "Se desplazó hasta la parte superior de la página"
+   },
+   "agenticActionSelect": {
+      "message": "Seleccionar $1 en $2"
+   },
+   "agenticActionSelectActive": {
+      "message": "Seleccionando $1 en $2"
+   },
+   "agenticActionSelectPast": {
+      "message": "Se seleccionó $1 en $2"
+   },
+   "agenticActionSfAskOpportunityPreference": {
+      "message": "Preguntar sobre el seguimiento de oportunidades"
+   },
+   "agenticActionSfConfirmFieldMappings": {
+      "message": "Confirmar asignaciones de campos"
+   },
+   "agenticActionSfGetFieldMappings": {
+      "message": "Obtener recomendaciones de asignaciones de campos"
+   },
+   "agenticActionSfMutateWebhookIntegration": {
+      "message": "Configurar integración del webhook"
+   },
+   "agenticActionSwitchTab": {
+      "message": "Cambiar a la pestaña \"$1\""
+   },
+   "agenticActionSwitchTabActive": {
+      "message": "Cambiando a $1"
+   },
+   "agenticActionSwitchTabPast": {
+      "message": "Se cambió a $1"
+   },
+   "agenticActionTypeInto": {
+      "message": "Escribir en $1"
+   },
+   "agenticActionTypeIntoActive": {
+      "message": "Escribiendo en $1"
+   },
+   "agenticActionTypeIntoPast": {
+      "message": "Se escribió en $1"
+   },
+   "agenticAskUserSelectDescriptionFallback": {
+      "message": "Selecciona una opción para continuar."
+   },
+   "agenticAskUserSelectFieldLabel": {
+      "message": "Opción"
+   },
+   "agenticAskUserSelectPlaceholder": {
+      "message": "Seleccionar una opción"
+   },
+   "agenticConnectionFailed": {
+      "message": "No se pudo volver a conectar. Actualiza la página."
+   },
+   "agenticConnectionReconnecting": {
+      "message": "Se perdió la conexión. Reconectando... ($1/$2)"
+   },
+   "agenticDefaultWaitPrompt": {
+      "message": "Completa la acción solicitada."
+   },
+   "agenticErrorApi": {
+      "message": "No es posible conectarse con el servicio de IA. ¿Reintentar?"
+   },
+   "agenticErrorRateLimit": {
+      "message": "El servicio de IA no está disponible. Espera o vuelve a intentarlo en unos minutos."
+   },
+   "agenticErrorTimeout": {
+      "message": "La IA está tardando más de lo esperado. ¿Reintentar?"
+   },
+   "agenticErrorTitle": {
+      "message": "Error"
+   },
+   "agenticErrorUnknown": {
+      "message": "Se produjo un error. ¿Reintentar?"
+   },
+   "agenticNavigationPageLoadFailed": {
+      "message": "No se pudo cargar la página. Reintentando…"
+   },
+   "agenticNavigationReorienting": {
+      "message": "Se accedió a otra página inesperadamente. Reorientando..."
+   },
+   "agenticPleaseCompleteAction": {
+      "message": "Completa la acción para continuar"
+   },
+   "agenticReconnectNow": {
+      "message": "Reconectar ahora"
+   },
+   "agenticResyncWithPage": {
+      "message": "Volver a sincronizar con la página"
+   },
+   "agenticScrollPercentFallback": {
+      "message": "el punto solicitado"
+   },
+   "agenticTabFallbackById": {
+      "message": "pestaña $1"
+   },
+   "agenticTabFallbackSelected": {
+      "message": "la pestaña seleccionada"
+   },
+   "agenticThinking": {
+      "message": "Pensando..."
+   },
+   "agenticTryAgain": {
+      "message": "Reintentar"
+   },
+   "agenticVerbClick": {
+      "message": "Hacer clic"
+   },
+   "agenticVerbCopyText": {
+      "message": "Copiar texto"
+   },
+   "agenticVerbEnterText": {
+      "message": "Ingresar texto"
+   },
+   "agenticVerbPasteText": {
+      "message": "Pegar texto"
+   },
+   "agenticVerbReadDropdown": {
+      "message": "Leer opciones del menú desplegable"
+   },
+   "agenticVerbScrollToElement": {
+      "message": "Desplazarse hasta el elemento"
+   },
+   "agenticVerbSelectOption": {
+      "message": "Seleccionar opción"
+   },
+   "agenticWaitingForAction": {
+      "message": "Esperando tu acción…"
+   },
+   "allRecommendationsHeader": {
+      "message": "Todas las recomendaciones"
+   },
+   "automatableBadge": {
+      "message": "Automatizar"
+   },
+   "automationFlowCompleteTitle": {
+      "message": "Configurar Google Tag Manager"
+   },
+   "automationSuccessFeedbackCommentPlaceholder": {
+      "message": "Opcional: agrega un comentario"
+   },
+   "automationSuccessFeedbackFallbackName": {
+      "message": "Automatización"
+   },
+   "automationSuccessFeedbackPromptTitle": {
+      "message": "¿Qué te pareció este resultado?"
+   },
+   "automationSuccessFeedbackStarLabel": {
+      "message": "calificación con estrellas"
+   },
+   "automationSuccessFeedbackSubmitError": {
+      "message": "Error al enviar los comentarios"
+   },
+   "buttonLoading": {
+      "message": "Cargando"
+   },
+   "buttonStartEventSetupTool": {
+      "message": "Configurar eventos"
+   },
+   "buttonTroubleshootPixel": {
+      "message": "Solucionar problema del píxel"
+   },
+   "cancelAutomationCancelButton": {
+      "message": "Cancelar automatización"
+   },
+   "cancelAutomationCancellingButton": {
+      "message": "Cancelando..."
+   },
+   "cancelAutomationFromVerificationCancelButton": {
+      "message": "Cancelar automatización"
+   },
+   "cancelAutomationFromVerificationMessage": {
+      "message": "Aún no pudimos verificar el estado de esta acción. Cancela la automatización para configurarla manualmente."
+   },
+   "cancelAutomationFromVerificationTitle": {
+      "message": "Cancelar automatización"
+   },
+   "cancelAutomationFromVerificationTryAgainButton": {
+      "message": "Intentar de nuevo"
+   },
+   "cancelAutomationResumeButton": {
+      "message": "Reanudar automatización"
+   },
+   "cancelAutomationTitle": {
+      "message": "¿Confirmas que quieres cerrar y cancelar la automatización?"
+   },
+   "cancelSetupCancelButton": {
+      "message": "Cancelar configuración"
+   },
+   "cancelSetupResumeButton": {
+      "message": "Reanudar configuración"
+   },
+   "cancelSetupTitle": {
+      "message": "¿Confirmas que quieres cerrar y cancelar la configuración?"
+   },
+   "capiFieldCity": {
+      "message": "Ciudad"
+   },
+   "capiFieldClickId": {
+      "message": "Identificador de clic"
+   },
+   "capiFieldCountry": {
+      "message": "País"
+   },
+   "capiFieldDateOfBirth": {
+      "message": "Fecha de nacimiento"
+   },
+   "capiFieldEmail": {
+      "message": "Correo electrónico"
+   },
+   "capiFieldEventName": {
+      "message": "Nombre del evento"
+   },
+   "capiFieldEventTime": {
+      "message": "Fecha/hora del evento"
+   },
+   "capiFieldExternalId": {
+      "message": "Identificador externo"
+   },
+   "capiFieldFirstName": {
+      "message": "Nombre"
+   },
+   "capiFieldGender": {
+      "message": "Sexo"
+   },
+   "capiFieldLastName": {
+      "message": "Apellido"
+   },
+   "capiFieldLeadId": {
+      "message": "Identificador de cliente potencial de Meta"
+   },
+   "capiFieldPhone": {
+      "message": "Número de teléfono"
+   },
+   "capiFieldState": {
+      "message": "Estado"
+   },
+   "capiFieldZipCode": {
+      "message": "Código postal"
+   },
+   "catalogConnectedTo": {
+      "message": "Conectado a $1"
+   },
+   "catalogConnections": {
+      "message": "Conexiones"
+   },
+   "catalogCsvHeaderHowToFix": {
+      "message": "Cómo solucionarlo"
+   },
+   "catalogCsvHeaderIssueType": {
+      "message": "Tipo de problema"
+   },
+   "catalogCsvHeaderMoreInfo": {
+      "message": "Más información"
+   },
+   "catalogCsvHeaderSampleType": {
+      "message": "Tipo de muestra"
+   },
+   "catalogCsvHeaderSampleValue": {
+      "message": "Valor de muestra"
+   },
+   "catalogCsvHeaderTotalReceived": {
+      "message": "Total recibido"
+   },
+   "catalogCsvHowToFixText": {
+      "message": "Obtén información sobre cómo agregar productos a tu catálogo: https://www.facebook.com/business/help/384041892421495?id=725943027795860"
+   },
+   "catalogCsvMoreInfoText": {
+      "message": "Agrega los productos de estos identificadores de contenido a tu catálogo o asegúrate de enviar los identificadores de contenido correctos en tus eventos"
+   },
+   "catalogCsvUnmatchedEvents": {
+      "message": "Eventos no coincidentes"
+   },
+   "catalogEventNameAddToCart": {
+      "message": "Artículos agregados al carrito"
+   },
+   "catalogEventNameAddToWishlist": {
+      "message": "Artículos agregados a la lista de deseos"
+   },
+   "catalogEventNameInitiateCheckout": {
+      "message": "Pagos iniciados"
+   },
+   "catalogEventNameLead": {
+      "message": "Clientes potenciales"
+   },
+   "catalogEventNamePurchase": {
+      "message": "Compras"
+   },
+   "catalogEventNameSearch": {
+      "message": "Búsquedas"
+   },
+   "catalogEventNameSubscribe": {
+      "message": "Suscripciones"
+   },
+   "catalogEventNameViewContent": {
+      "message": "Visitas a la página"
+   },
+   "catalogFooterManageConnection": {
+      "message": "Administrar conexión"
+   },
+   "catalogFooterViewInCommerceManager": {
+      "message": "Ver en el administrador de ventas"
+   },
+   "catalogLiveMatchCount": {
+      "message": "$1 / $2 productos con coincidencias"
+   },
+   "catalogLoadError": {
+      "message": "Error al cargar los datos del catálogo"
+   },
+   "catalogManageCatalogConnections": {
+      "message": "Administrar conexiones del catálogo"
+   },
+   "catalogMatchRate": {
+      "message": "Proporción de coincidencias del catálogo del $1%"
+   },
+   "catalogMatchRateAdsImpactedBody": {
+      "message": "Con una proporción del $1%, los productos que tienes disponibles para la segmentación de anuncios son limitados. Esto podría generar públicos más reducidos, costos más altos y menos ventas."
+   },
+   "catalogMatchRateAdsImpactedFollowup": {
+      "message": "Consulta a continuación cómo mejorar la proporción de coincidencias."
+   },
+   "catalogMatchRateAdsImpactedTitle": {
+      "message": "Tus anuncios pueden verse afectados"
+   },
+   "catalogMatchRateByEventHeader": {
+      "message": "Coincidencias de productos por evento"
+   },
+   "catalogMatchRateDescription": {
+      "message": "de interacciones con productos que coinciden con los productos de este catálogo"
+   },
+   "catalogMatchRateHeader": {
+      "message": "Proporción de coincidencias del catálogo"
+   },
+   "catalogMatchRateImproveStep1Body": {
+      "message": "Asegúrate de que todos tus productos estén incluidos en el catálogo."
+   },
+   "catalogMatchRateImproveStep1Title": {
+      "message": "Revisa los productos sincronizados"
+   },
+   "catalogMatchRateImproveStep2Body": {
+      "message": "Los identificadores de productos deben coincidir exactamente con los de tu catálogo."
+   },
+   "catalogMatchRateImproveStep2Title": {
+      "message": "Verifica los identificadores de productos"
+   },
+   "catalogMatchRateImproveStep3Body": {
+      "message": "Asegúrate de que el píxel y los eventos de conversión funcionen correctamente."
+   },
+   "catalogMatchRateImproveStep3Title": {
+      "message": "Verifica la configuración de los eventos"
+   },
+   "catalogMatchRateImproveTitle": {
+      "message": "Mejora la proporción de coincidencias de tus productos"
+   },
+   "catalogMatchRateLearnMore": {
+      "message": "Más información"
+   },
+   "catalogMatchRateMissing": {
+      "message": "Sin datos"
+   },
+   "catalogMatchRateTimeframe": {
+      "message": "En todos los sitios web conectados en los últimos 28 días"
+   },
+   "catalogMatchRateWarning": {
+      "message": "Recomendamos mantener la proporción de coincidencias del catálogo por encima del 90%."
+   },
+   "catalogMenuCopyCatalogId": {
+      "message": "Copiar identificador del catálogo"
+   },
+   "catalogMenuGiveFeedback": {
+      "message": "Enviar comentarios"
+   },
+   "catalogMenuGoToCatalog": {
+      "message": "Ir al catálogo"
+   },
+   "catalogMenuMoreOptions": {
+      "message": "Más opciones"
+   },
+   "catalogMoreCatalogs": {
+      "message": "$1 catálogos más"
+   },
+   "catalogOnboardingBannerLearnMore": {
+      "message": "Muéstrame"
+   },
+   "catalogOnboardingBannerText": {
+      "message": "Ahora puedes ver los catálogos junto a tus píxeles, con las mismas comprobaciones de estado y advertencias."
+   },
+   "catalogPixelAssociatedWebsites": {
+      "message": "Sitios web asociados"
+   },
+   "catalogPixelConnectionDetailsHeader": {
+      "message": "Detalles de la conexión del píxel"
+   },
+   "catalogPixelProducts": {
+      "message": "Productos"
+   },
+   "catalogProductImageAlt": {
+      "message": "Imagen del producto"
+   },
+   "catalogProductMatchedBadge": {
+      "message": "Coincide"
+   },
+   "catalogProductNotMatchedBadge": {
+      "message": "No coincide"
+   },
+   "catalogProductsSectionTitle": {
+      "message": "Productos en esta página"
+   },
+   "catalogUnmatchedAddProductsDescription": {
+      "message": "Las personas están interactuando con productos en tu sitio web que no coinciden con ningún catálogo conectado a tu píxel. Asegúrate de agregar a tu catálogo todos los productos del sitio web."
+   },
+   "catalogUnmatchedAddProductsLink": {
+      "message": "Descubre cómo agregar productos"
+   },
+   "catalogUnmatchedAddProductsTitle": {
+      "message": "Agrega productos con interacción al catálogo"
+   },
+   "catalogUnmatchedContentIdColumnHeader": {
+      "message": "Identificador de contenido"
+   },
+   "catalogUnmatchedDescription": {
+      "message": "Agrega los productos de estos identificadores de contenido a tu catálogo o asegúrate de enviar los identificadores de contenido correctos en tus eventos."
+   },
+   "catalogUnmatchedDownloadList": {
+      "message": "Descargar lista"
+   },
+   "catalogUnmatchedOtherWaysHeader": {
+      "message": "Otras formas de solucionar este problema"
+   },
+   "catalogUnmatchedRecommendationsHeader": {
+      "message": "Recomendaciones"
+   },
+   "catalogUnmatchedSendContentIdDescription": {
+      "message": "Comprueba que envías el identificador de contenido correcto que corresponde a un producto de este catálogo o de algún catálogo conectado a tu píxel."
+   },
+   "catalogUnmatchedSendContentIdTitle": {
+      "message": "Envía el identificador de contenido correspondiente"
+   },
+   "catalogUnmatchedTitle": {
+      "message": "Algunos identificadores de contenido no coinciden con ningún catálogo"
+   },
+   "catalogUnmatchedTopInteractionsHeader": {
+      "message": "Interacciones destacadas con problemas"
+   },
+   "catalogUnmatchedTotalReceivedColumnHeader": {
+      "message": "Total recibido"
+   },
+   "catalogWarningsFromPixel": {
+      "message": "De $1"
+   },
+   "catalogWarningsHeader": {
+      "message": "Advertencias"
+   },
+   "catalogWarningsUnmatchedProductsDescription": {
+      "message": "Identificadores de contenido que no coinciden con ningún catálogo"
+   },
+   "catalogWarningsUnmatchedProductsHeader": {
+      "message": "Productos sin coincidencias"
+   },
+   "confirmEventsToSetUpHeader": {
+      "message": "Confirma los eventos que quieres configurar"
+   },
+   "continueButton": {
+      "message": "Continuar"
+   },
+   "continueToNextDatasetButton": {
+      "message": "Continuar con el siguiente conjunto de datos"
+   },
+   "copyToClipboardCopied": {
+      "message": "Copiado"
+   },
+   "copyToClipboardTitle": {
+      "message": "Copiar en el portapapeles"
+   },
+   "create_new_asset_already_added": {
+      "message": "Ya se agregó"
+   },
+   "create_new_asset_button": {
+      "message": "Crear nuevos"
+   },
+   "customConversionActionSourceLabel": {
+      "message": "Origen de acción"
+   },
+   "customConversionEventLabel": {
+      "message": "Evento"
+   },
+   "customConversionNameLabel": {
+      "message": "Nombre"
+   },
+   "customConversionRulesLabel": {
+      "message": "Reglas"
+   },
+   "customConversionValueFormat": {
+      "message": "$$1"
+   },
+   "customConversionValueLabel": {
+      "message": "Valor predeterminado"
+   },
+   "datasetIdPrefix": {
+      "message": "Identificador: $1"
+   },
+   "datasetsAffected": {
+      "message": "$1 conjuntos de datos afectados"
+   },
+   "dropdownSearchPlaceholder": {
+      "message": "Buscar"
+   },
+   "dropdownTagIdentifier": {
+      "message": "Identificador"
+   },
+   "dropdownTagRecommended": {
+      "message": "Recomendado"
+   },
+   "duplicateEventMessage": {
+      "message": "El evento \"$1\" se activó $2 veces con datos idénticos, lo que puede provocar errores de seguimiento"
+   },
+   "duplicateEventRecommendation": {
+      "message": "Revisa la implementación de tu píxel para asegurarte de que los eventos no se estén activando varias veces de manera no intencional. Esto sucede a menudo cuando se ejecuta el mismo código de evento varias veces o cuando el píxel se inicializa más de una vez."
+   },
+   "emptyActionsStateDescriptionPart1": {
+      "message": "Visita el"
+   },
+   "emptyActionsStateDescriptionPart2": {
+      "message": "para buscar oportunidades de rendimiento"
+   },
+   "emptyActionsStateEventsManagerLink": {
+      "message": "Administrador de eventos"
+   },
+   "emptyActionsStateTitle": {
+      "message": "No hay acciones disponibles"
+   },
+   "enableFreeCAPIGButton": {
+      "message": "Activar"
+   },
+   "error_generic": {
+      "message": "Se produjo un error"
+   },
+   "eventDeduplicated": {
+      "message": "Deduplicado"
+   },
+   "eventDetailsAdvancedMatchingHeader": {
+      "message": "Parámetros de coincidencias avanzadas enviados"
+   },
+   "eventDetailsBrowserOnlyAriaLabel": {
+      "message": "Parámetro solo en los datos del navegador"
+   },
+   "eventDetailsBrowserOnlyBadge": {
+      "message": "Solo en navegador"
+   },
+   "eventDetailsCustomParamsHeader": {
+      "message": "Parámetros personalizados"
+   },
+   "eventDetailsDpoHeader": {
+      "message": "Parámetros de tratamiento de datos enviados"
+   },
+   "eventDetailsDpoWarning": {
+      "message": "Debido a que se envían las opciones de procesamiento de datos, es posible que no funcionen las conversiones personalizadas ni los comentarios del catálogo."
+   },
+   "eventDetailsEventIdLabel": {
+      "message": "Identificador del evento"
+   },
+   "eventDetailsEventInfoHeader": {
+      "message": "Información del evento"
+   },
+   "eventDetailsFrameIFrame": {
+      "message": "IFrame"
+   },
+   "eventDetailsFrameLabel": {
+      "message": "Marco"
+   },
+   "eventDetailsFrameWindow": {
+      "message": "Ventana"
+   },
+   "eventDetailsLoadTimeLabel": {
+      "message": "Tiempo de carga"
+   },
+   "eventDetailsPixelCodeLabel": {
+      "message": "Código del píxel"
+   },
+   "eventDetailsPixelLocationLabel": {
+      "message": "Ubicación del píxel"
+   },
+   "eventDetailsServerOnlyAriaLabel": {
+      "message": "Parámetro solo en los datos del servidor"
+   },
+   "eventDetailsServerOnlyBadge": {
+      "message": "Solo en servidor"
+   },
+   "eventDetailsSetupMethodAutomatic": {
+      "message": "Automático"
+   },
+   "eventDetailsSetupMethodLabel": {
+      "message": "Método de configuración"
+   },
+   "eventDetailsSetupMethodManual": {
+      "message": "Manual"
+   },
+   "eventDetailsUrlCalledLabel": {
+      "message": "URL llamada"
+   },
+   "eventsHeader": {
+      "message": "Eventos"
+   },
+   "eventsOnThisPageHeader": {
+      "message": "Eventos en esta página"
+   },
+   "extensionDescription": {
+      "message": "El asistente para píxeles de Meta es una herramienta de solución de problemas que te ayuda a validar la implementación del píxel."
+   },
+   "extensionName": {
+      "message": "Asistente para píxeles de Meta"
+   },
+   "feedbackAddButton": {
+      "message": "Agregar"
+   },
+   "feedbackAttachScreenshots": {
+      "message": "Adjuntar capturas de pantalla"
+   },
+   "feedbackAutomaticScreenshot": {
+      "message": "Captura de pantalla automática"
+   },
+   "feedbackDeleteAttachment": {
+      "message": "Eliminar archivo adjunto"
+   },
+   "feedbackDescriptionPlaceholder": {
+      "message": "Explica los comentarios en detalle"
+   },
+   "feedbackDropdownLabel": {
+      "message": "Enviar comentarios"
+   },
+   "feedbackErrorScreenshotLabel": {
+      "message": "Captura de pantalla de error"
+   },
+   "feedbackPageDescription": {
+      "message": "Repórtanos problemas y envía comentarios para ayudarnos a mejorar."
+   },
+   "feedbackPagePrivacyLink": {
+      "message": "Consulta cómo usamos estos datos."
+   },
+   "feedbackPageTitle": {
+      "message": "Envía comentarios"
+   },
+   "feedbackReceivedSubTitle": {
+      "message": "Gracias por mejorar esta experiencia."
+   },
+   "feedbackReceivedTitle": {
+      "message": "Comentarios recibidos"
+   },
+   "feedbackReturnToPreviousPage": {
+      "message": "Volver a la página anterior"
+   },
+   "feedbackSelectorTypeBug": {
+      "message": "Error"
+   },
+   "feedbackSelectorTypeFeatureRequest": {
+      "message": "Solicitud de función"
+   },
+   "feedbackSelectorTypeGeneralFeedback": {
+      "message": "Comentarios generales"
+   },
+   "feedbackSelectorTypeQuestion": {
+      "message": "¿Qué tipo de comentarios?"
+   },
+   "feedbackStoredLocally": {
+      "message": "Almacenado localmente"
+   },
+   "feedbackSubmitButton": {
+      "message": "Enviar"
+   },
+   "feedbackSubmitDisabledTooltip": {
+      "message": "Completa todos los campos obligatorios para enviar comentarios"
+   },
+   "feedbackSubmittingButton": {
+      "message": "Enviando..."
+   },
+   "feedbackTitleLabel": {
+      "message": "Título de los comentarios"
+   },
+   "feedbackUploadButton": {
+      "message": "Subir"
+   },
+   "fieldItemCopyTooltip": {
+      "message": "Copiar $1"
+   },
+   "fieldItemHide": {
+      "message": "Ocultar"
+   },
+   "fieldItemShow": {
+      "message": "Mostrar"
+   },
+   "freeCapigL2DisableNote": {
+      "message": "Puedes desactivar esta opción cuando quieras en el administrador de eventos."
+   },
+   "freeCapigL2ReturnHome": {
+      "message": "Volver al inicio"
+   },
+   "freeCapigL2SeeTermsLabel": {
+      "message": "Ver condiciones"
+   },
+   "freeCapigL2SetupStep1": {
+      "message": "Meta configura la conexión del servidor en segundo plano."
+   },
+   "freeCapigL2SetupStep2": {
+      "message": "Los eventos del píxel se reflejarán en la API de conversiones automáticamente."
+   },
+   "freeCapigL2SetupStep3": {
+      "message": "Aprovecha la mayor confiabilidad que ofrece el seguimiento en el servidor."
+   },
+   "freeCapigL2SuccessExplainerEMLink": {
+      "message": "administrador de eventos"
+   },
+   "freeCapigL2SuccessExplainerPrefix": {
+      "message": "Los cambios se aplicarán en los próximos 7 días. Puedes explorar y editar los cambios en el"
+   },
+   "freeCapigL2SuccessExplainerSuffix": {
+      "message": "cuando quieras."
+   },
+   "freeCapigL2SuccessTitle": {
+      "message": "API de conversiones activada"
+   },
+   "freeCapigL2TermsBusinessToolsTermsLink": {
+      "message": "Condiciones de las herramientas empresariales"
+   },
+   "freeCapigL2TermsDisclosureMiddle": {
+      "message": "y"
+   },
+   "freeCapigL2TermsDisclosurePrefix": {
+      "message": "Al continuar, autorizas e instas a Meta a configurar una integración de la API de conversiones habilitada para Meta en tu nombre y aceptas que el uso que hagas de la integración estará sujeto a las"
+   },
+   "freeCapigL2TermsPlatformTermsLink": {
+      "message": "Condiciones de la plataforma de Meta"
+   },
+   "freeCapigOptInErrorMessage": {
+      "message": "No se pudo activar la API de conversiones. Vuelve a intentarlo o configúrala desde el administrador de eventos."
+   },
+   "freeCapigOptInLoadingLabel": {
+      "message": "Activando…"
+   },
+   "freeCapigOptInSuccessTitle": {
+      "message": "API de conversiones activada"
+   },
+   "ga_account_creation_title": {
+      "message": "Cuenta de Google Analytics"
+   },
+   "ga_account_display_name_label": {
+      "message": "Nombre de la cuenta"
+   },
+   "ga_property_creation_title": {
+      "message": "Propiedad de Google Analytics"
+   },
+   "ga_property_display_name_label": {
+      "message": "Nombre de la propiedad"
+   },
+   "ga_property_time_zone_label": {
+      "message": "Zona horaria"
+   },
+   "ga_stream_creation_title": {
+      "message": "Flujo de datos de la web de Google Analytics"
+   },
+   "ga_stream_display_name_label": {
+      "message": "Nombre del stream"
+   },
+   "ga_stream_url_label": {
+      "message": "URL del sitio web"
+   },
+   "go_back": {
+      "message": "Volver"
+   },
+   "gtmAccountSelectorLabel": {
+      "message": "Cuenta de Google Tag Manager"
+   },
+   "gtmAccountSelectorPlaceholder": {
+      "message": "Seleccionar una cuenta"
+   },
+   "gtmChooseHostingProvider": {
+      "message": "Elige un proveedor de alojamiento:"
+   },
+   "gtmCreateNewServerContainer": {
+      "message": "Crear nuevo contenedor del servidor"
+   },
+   "gtmHostingGoogleBullet1": {
+      "message": "No se necesita un desarrollador"
+   },
+   "gtmHostingGoogleBullet2": {
+      "message": "Alrededor de 30 minutos"
+   },
+   "gtmHostingGoogleBullet3": {
+      "message": "Recursos en la nube con costo"
+   },
+   "gtmHostingGoogleBullet4": {
+      "message": "Totalmente personalizable"
+   },
+   "gtmHostingGoogleDescription": {
+      "message": "Integra Google Tag Manager directamente para optimizar y administrar las etiquetas. Esta opción es ideal para quienes quieren administrar las etiquetas con las herramientas nativas de Google."
+   },
+   "gtmHostingGoogleLabel": {
+      "message": "Google"
+   },
+   "gtmHostingStapeBullet1": {
+      "message": "No se necesita un desarrollador"
+   },
+   "gtmHostingStapeBullet2": {
+      "message": "Alrededor de 15 minutos"
+   },
+   "gtmHostingStapeBullet3": {
+      "message": "Plan freemium disponible"
+   },
+   "gtmHostingStapeBullet4": {
+      "message": "Precios basados en suscripciones"
+   },
+   "gtmHostingStapeDescription": {
+      "message": "Stape simplifica la configuración del contenedor de servidor y gestiona el alojamiento por ti. Cuenta con una versión gratis disponible."
+   },
+   "gtmHostingStapeLabel": {
+      "message": "Stape"
+   },
+   "gtmInvalidUrlError": {
+      "message": "Ingresa una URL válida."
+   },
+   "gtmServerConnectionOptionGoogleTagManager": {
+      "message": "Google Tag Manager"
+   },
+   "gtmServerConnectionOptionMetaEnabledCapig": {
+      "message": "API de conversiones habilitada por Meta (opción recomendada)"
+   },
+   "gtmServerConnectionOptionNone": {
+      "message": "Ninguna"
+   },
+   "gtmServerConnectionSelectorLabel": {
+      "message": "Conexión del servidor"
+   },
+   "gtmServerContainerLabel": {
+      "message": "Contenedor del servidor"
+   },
+   "gtmServerContainerNotProvisionedWarning": {
+      "message": "Este servidor no está aprovisionado"
+   },
+   "gtmServerContainerPlaceholder": {
+      "message": "Selecciona un contenedor de servidor"
+   },
+   "gtmStepAnalyticsStream": {
+      "message": "Flujo de Analytics"
+   },
+   "gtmStepGtmAccount": {
+      "message": "Cuenta de GTM"
+   },
+   "gtmStepPreExistingTooltip": {
+      "message": "Este activo ya existía o se automatizó mediante la API."
+   },
+   "gtmStepProvisionedServerContainer": {
+      "message": "Contenedor del servidor aprovisionado"
+   },
+   "gtmStepPublished": {
+      "message": "Publicado"
+   },
+   "gtmStepServerContainer": {
+      "message": "Contenedor del servidor"
+   },
+   "gtmStepWebContainer": {
+      "message": "Contenedor web"
+   },
+   "gtmTaggingServerUrlLabel": {
+      "message": "URL del servidor de etiquetado"
+   },
+   "gtmTaggingServerUrlPlaceholder": {
+      "message": "https://your-tagging-server.example.com"
+   },
+   "gtm_account_creation_title": {
+      "message": "Cuenta de Google Tag Manager"
+   },
+   "gtm_account_name_label": {
+      "message": "Nombre de la cuenta"
+   },
+   "gtm_action_needed": {
+      "message": "Se requiere una acción"
+   },
+   "gtm_api_fetch_accounts_error": {
+      "message": "Error al recuperar las cuentas. Vuelve a intentarlo o comprueba tu acceso a Google Tag Manager."
+   },
+   "gtm_api_fetch_containers_error": {
+      "message": "Error al recuperar los contenedores de la cuenta $1. Vuelve a intentarlo o revisa tus permisos de Google Tag Manager."
+   },
+   "gtm_api_fetch_data_streams_error": {
+      "message": "Error al recuperar los flujos de datos de la propiedad $1"
+   },
+   "gtm_api_fetch_ga_accounts_error": {
+      "message": "Error al recuperar las cuentas de Google Analytics"
+   },
+   "gtm_api_fetch_ga_properties_error": {
+      "message": "Error al recuperar las propiedades de Google Analytics. Vuelve a intentarlo o comprueba tu acceso a Google Analytics."
+   },
+   "gtm_api_get_token_error": {
+      "message": "Error al obtener el token"
+   },
+   "gtm_api_invalid_token_response": {
+      "message": "Respuesta de token no válida"
+   },
+   "gtm_automatic_advanced_matching_label": {
+      "message": "Buscar automáticamente coincidencias con los datos clave de los clientes, como el correo electrónico y el número de teléfono, en tu sitio web para mejorar la entrega de anuncios."
+   },
+   "gtm_availability_load_error": {
+      "message": "Error al cargar los activos de Google Tag Manager"
+   },
+   "gtm_availability_no_account_error": {
+      "message": "No se encontró ninguna cuenta de Google Tag Manager."
+   },
+   "gtm_availability_no_web_container_error": {
+      "message": "No se encontró ningún contenedor web en Google Tag Manager."
+   },
+   "gtm_capi_token_error": {
+      "message": "Error al generar el token de acceso de la API de conversiones. Comprueba que eres administrador del negocio de este píxel."
+   },
+   "gtm_dataset_label": {
+      "message": "Conjunto de datos"
+   },
+   "gtm_fetch_accounts_fallback_error": {
+      "message": "Error al recuperar las cuentas"
+   },
+   "gtm_fetch_containers_fallback_error": {
+      "message": "Error al recuperar los contenedores"
+   },
+   "gtm_fetch_google_analytics_accounts_fallback_error": {
+      "message": "Error al recuperar las cuentas de Google Analytics"
+   },
+   "gtm_fetch_google_analytics_properties_fallback_error": {
+      "message": "Error al recuperar las propiedades de Google Analytics"
+   },
+   "gtm_fetch_google_analytics_web_streams_fallback_error": {
+      "message": "Error al recuperar los flujos de datos de la web de Google Analytics"
+   },
+   "gtm_fetch_server_containers_fallback_error": {
+      "message": "Error al recuperar los contenedores de servidor de Google Tag Manager"
+   },
+   "gtm_ga4_data_stream_label": {
+      "message": "Flujo de datos de Google Analytics"
+   },
+   "gtm_ga4_web_stream_toggle_label": {
+      "message": "Reenviar eventos de Google Analytics"
+   },
+   "gtm_ga_account_label": {
+      "message": "Cuenta de Google Analytics"
+   },
+   "gtm_ga_account_placeholder": {
+      "message": "Selecciona una cuenta de Google Analytics"
+   },
+   "gtm_ga_data_stream_placeholder": {
+      "message": "Selecciona un flujo de datos"
+   },
+   "gtm_google_auth_warning_body": {
+      "message": "Parece que tu sesión de Google quedó inactiva durante la configuración. Vuelve a iniciar sesión para continuar desde donde la dejaste."
+   },
+   "gtm_google_auth_warning_primary_cta": {
+      "message": "Iniciar sesión"
+   },
+   "gtm_google_auth_warning_title": {
+      "message": "Inicia sesión en Google para continuar"
+   },
+   "gtm_next_step_back_aria_label": {
+      "message": "Atrás"
+   },
+   "gtm_next_step_confirm_button": {
+      "message": "Confirmar"
+   },
+   "gtm_next_step_event_setup_description": {
+      "message": "La herramienta de configuración de eventos te permite seleccionar eventos de conversión, como compras o artículos agregados al carrito, directamente desde las páginas de tu sitio web y enviárselos de manera segura a Meta."
+   },
+   "gtm_next_step_event_setup_title": {
+      "message": "Envía eventos de conversión clave a Meta"
+   },
+   "gtm_next_step_eyebrow": {
+      "message": "Se requiere una acción"
+   },
+   "gtm_next_step_manual_setup_title": {
+      "message": "Configuración manual"
+   },
+   "gtm_next_step_missing_pixel_error": {
+      "message": "Selecciona un identificador de conjunto de datos para continuar"
+   },
+   "gtm_next_step_missing_url_error": {
+      "message": "Ingresa la URL de un sitio web para continuar"
+   },
+   "gtm_next_step_nav_title": {
+      "message": "Conecta tus datos de forma segura"
+   },
+   "gtm_next_step_title": {
+      "message": "Conecta tus datos de forma segura"
+   },
+   "gtm_next_step_website_url_label": {
+      "message": "URL del sitio web"
+   },
+   "gtm_next_step_website_url_placeholder": {
+      "message": "Ingresa la URL del sitio web"
+   },
+   "gtm_pixel_business_fetch_error": {
+      "message": "No se puede obtener la información del píxel $1. Es posible que no tengas permiso para acceder a este píxel. Detalles: $2"
+   },
+   "gtm_pixel_business_load_error": {
+      "message": "No se pudo cargar el conjunto de datos $1. Comprueba que el identificador del conjunto de datos sea correcto y que tengas permiso para verlo."
+   },
+   "gtm_pixel_business_no_business_error": {
+      "message": "El píxel $1 no tiene un negocio propietario. Un negocio debe reclamar el píxel para generar un token de acceso de la API de conversiones."
+   },
+   "gtm_pixel_dataset_id_label": {
+      "message": "Identificador del conjunto de datos"
+   },
+   "gtm_pixel_detected_on_page": {
+      "message": "Detectados en la página"
+   },
+   "gtm_pixel_load_more": {
+      "message": "Cargar más píxeles..."
+   },
+   "gtm_pixel_no_pixels_detected": {
+      "message": "No se detectó ningún píxel en esta página. Ingresa un identificador de conjunto de datos manualmente."
+   },
+   "gtm_pixel_no_pixels_found": {
+      "message": "No se encontraron píxeles"
+   },
+   "gtm_pixel_picker_dataset_id_numeric_error": {
+      "message": "El identificador del conjunto de datos debe ser un valor numérico"
+   },
+   "gtm_pixel_picker_dataset_id_placeholder": {
+      "message": "Ingresa el identificador del conjunto de datos"
+   },
+   "gtm_pixel_picker_enter_manually": {
+      "message": "Ingresar manualmente"
+   },
+   "gtm_pixel_search_placeholder": {
+      "message": "Busca píxeles"
+   },
+   "gtm_pixel_select_placeholder": {
+      "message": "Selecciona un píxel"
+   },
+   "gtm_pixel_your_pixels": {
+      "message": "Tus píxeles"
+   },
+   "gtm_publish_asset_preparation_failed": {
+      "message": "Error en la preparación de activos"
+   },
+   "gtm_publish_asset_preparation_missing_ids": {
+      "message": "Se completó la preparación de los activos, pero no se incluyeron los identificadores listos para publicación"
+   },
+   "gtm_publish_automatic_advanced_matching_progress": {
+      "message": "Activando coincidencias avanzadas automáticas…"
+   },
+   "gtm_publish_automatic_advanced_matching_warning": {
+      "message": "No se pudieron activar las coincidencias avanzadas automáticas, pero se publicaron las etiquetas de Google Tag Manager."
+   },
+   "gtm_publish_completed_with_warnings_title": {
+      "message": "Publicación realizada con advertencias"
+   },
+   "gtm_publish_confirm_button": {
+      "message": "Confirmar"
+   },
+   "gtm_publish_create_ga_account_and_property_progress": {
+      "message": "Creando cuenta y propiedad de Google Analytics..."
+   },
+   "gtm_publish_create_ga_property_progress": {
+      "message": "Creando propiedad de Google Analytics…"
+   },
+   "gtm_publish_create_ga_stream_progress": {
+      "message": "Creando flujo de datos de la web de Google Analytics…"
+   },
+   "gtm_publish_create_gtm_account_and_web_container_progress": {
+      "message": "Creando cuenta de Google Tag Manager y contenedor web..."
+   },
+   "gtm_publish_create_server_container_progress": {
+      "message": "Creando contenedor de servidor..."
+   },
+   "gtm_publish_create_version_error": {
+      "message": "Error al crear la versión del contenedor $1"
+   },
+   "gtm_publish_create_web_container_progress": {
+      "message": "Creando contenedor web…"
+   },
+   "gtm_publish_failed_title": {
+      "message": "Error al publicar"
+   },
+   "gtm_publish_fetch_pixel_business_progress": {
+      "message": "Recuperando información comercial del píxel…"
+   },
+   "gtm_publish_free_capig_opt_in_progress": {
+      "message": "Configurando API de conversiones habilitada por Meta..."
+   },
+   "gtm_publish_free_capig_opt_in_warning": {
+      "message": "No se pudo configurar la API de conversiones habilitada por Meta, pero se publicaron las etiquetas de Google Tag Manager."
+   },
+   "gtm_publish_ga_account_recipe_flow_error": {
+      "message": "La creación de cuentas de Google Analytics debe hacerse por medio de un proceso guiado"
+   },
+   "gtm_publish_generate_capi_token_progress": {
+      "message": "Generando token de acceso de la API de conversiones..."
+   },
+   "gtm_publish_google_tag_manager_missing_ga_measurement_id": {
+      "message": "Identificador de medición de Google Analytics"
+   },
+   "gtm_publish_google_tag_manager_missing_requirements": {
+      "message": "Falta la conexión del servidor de Google Tag Manager: $1"
+   },
+   "gtm_publish_google_tag_manager_missing_server_container": {
+      "message": "Contenedor del servidor de Google Tag Manager"
+   },
+   "gtm_publish_google_tag_manager_missing_tagging_server_url": {
+      "message": "URL del servidor de etiquetado"
+   },
+   "gtm_publish_gtm_account_recipe_flow_error": {
+      "message": "La creación de cuentas de Google Tag Manager debe hacerse por medio de un proceso guiado"
+   },
+   "gtm_publish_missing_ga_account_draft": {
+      "message": "No hay borradores de cuentas de Google Analytics"
+   },
+   "gtm_publish_missing_ga_account_for_property": {
+      "message": "No se seleccionó ninguna cuenta de Google Analytics para crear la propiedad"
+   },
+   "gtm_publish_missing_ga_property_draft": {
+      "message": "No hay borradores de propiedades de Google Analytics"
+   },
+   "gtm_publish_missing_ga_property_for_stream": {
+      "message": "No se seleccionó ninguna propiedad de Google Analytics para crear el flujo"
+   },
+   "gtm_publish_missing_ga_stream_draft": {
+      "message": "No hay borradores de flujos de Google Analytics"
+   },
+   "gtm_publish_missing_google_auth": {
+      "message": "No autenticado con Google"
+   },
+   "gtm_publish_missing_gtm_account_draft": {
+      "message": "No hay borradores de cuentas de Google Tag Manager"
+   },
+   "gtm_publish_missing_gtm_account_for_server_container": {
+      "message": "No se seleccionó ninguna cuenta de Google Tag Manager para crear el contenedor de servidor"
+   },
+   "gtm_publish_missing_gtm_account_for_web_container": {
+      "message": "No se seleccionó ninguna cuenta de Google Tag Manager para crear el contenedor web"
+   },
+   "gtm_publish_missing_pixel_id": {
+      "message": "No se seleccionó ningún identificador del conjunto de datos"
+   },
+   "gtm_publish_missing_required_asset": {
+      "message": "Falta $1. Agrégalo a través de \"Crear nuevo\" o selecciona uno existente."
+   },
+   "gtm_publish_missing_required_assets_error": {
+      "message": "Faltan activos obligatorios: $1"
+   },
+   "gtm_publish_missing_requirements_title": {
+      "message": "Faltan requisitos:"
+   },
+   "gtm_publish_missing_server_container_draft": {
+      "message": "No hay borradores de contenedores de servidor"
+   },
+   "gtm_publish_missing_web_container_draft": {
+      "message": "No hay borradores de contenedores web"
+   },
+   "gtm_publish_no_workspaces_error": {
+      "message": "No se encontraron espacios de trabajo para el contenedor $1 en $2. Crea un espacio de trabajo en Google Tag Manager y vuelve a intentarlo."
+   },
+   "gtm_publish_pixel_label": {
+      "message": "Identificador del conjunto de datos: $1"
+   },
+   "gtm_publish_prepare_assets_progress": {
+      "message": "Preparando activos…"
+   },
+   "gtm_publish_progress_complete": {
+      "message": "Se completó la publicación."
+   },
+   "gtm_publish_progress_creating_datalayer_variables": {
+      "message": "Creando variables de capas de datos..."
+   },
+   "gtm_publish_progress_creating_pixel_template_tag": {
+      "message": "Creando etiqueta de plantilla de píxel..."
+   },
+   "gtm_publish_progress_creating_server_action_source": {
+      "message": "Creando variable de origen de acción del servidor..."
+   },
+   "gtm_publish_progress_creating_server_tag": {
+      "message": "Creando etiqueta del servidor..."
+   },
+   "gtm_publish_progress_creating_server_trigger": {
+      "message": "Creando activador del servidor..."
+   },
+   "gtm_publish_progress_creating_web_tags": {
+      "message": "Creando etiquetas web..."
+   },
+   "gtm_publish_progress_creating_web_tags_web_only": {
+      "message": "Creando etiquetas web..."
+   },
+   "gtm_publish_progress_creating_web_triggers": {
+      "message": "Creando activadores web..."
+   },
+   "gtm_publish_progress_enabling_builtin_variables": {
+      "message": "Activando variables integradas..."
+   },
+   "gtm_publish_progress_getting_web_workspace": {
+      "message": "Obteniendo espacio de trabajo web..."
+   },
+   "gtm_publish_progress_getting_workspaces": {
+      "message": "Obteniendo espacios de trabajo..."
+   },
+   "gtm_publish_progress_importing_web_pixel_template": {
+      "message": "Importando plantilla de píxel web..."
+   },
+   "gtm_publish_progress_pixel_template_complete": {
+      "message": "Se completó la publicación de la plantilla del píxel."
+   },
+   "gtm_publish_progress_publishing_server_container": {
+      "message": "Publicando contenedor de servidor..."
+   },
+   "gtm_publish_progress_publishing_web_container": {
+      "message": "Publicando contenedor web..."
+   },
+   "gtm_publish_progress_setting_up_server_template": {
+      "message": "Configurando plantilla del servidor..."
+   },
+   "gtm_publish_progress_web_only_complete": {
+      "message": "Se completó la publicación solo para eventos web."
+   },
+   "gtm_publish_published_button": {
+      "message": "Publicadas"
+   },
+   "gtm_publish_publishing_button": {
+      "message": "Publicando…"
+   },
+   "gtm_publish_server_container_no_url_notice": {
+      "message": "Se creará el contenedor de servidor, pero no se publicará el etiquetado en el servidor hasta que haya una URL del servidor de etiquetado disponible."
+   },
+   "gtm_publish_success_message": {
+      "message": "Las etiquetas se publicaron correctamente."
+   },
+   "gtm_publish_unsupported_draft_asset": {
+      "message": "Aún no se admite la creación de borrador de $1 durante la publicación"
+   },
+   "gtm_publish_web_only_notice": {
+      "message": "No se seleccionó ningún contenedor web. Se publicará solo la configuración para eventos web. Podrás agregar y publicar el contenedor web más tarde."
+   },
+   "gtm_reauthenticate": {
+      "message": "Volver a autenticar"
+   },
+   "gtm_review_setup_and_publish": {
+      "message": "Revisa y publica la configuración"
+   },
+   "gtm_setup_authenticate_button": {
+      "message": "Autenticar y recuperar cuentas"
+   },
+   "gtm_setup_button": {
+      "message": "Configurar"
+   },
+   "gtm_setup_header_title": {
+      "message": "Conecta tus datos de forma segura"
+   },
+   "gtm_setup_required_message": {
+      "message": "Debes configurar un contenedor web en Google Tag Manager para continuar"
+   },
+   "gtm_setup_required_primary_cta": {
+      "message": "Ir a Google Tag Manager"
+   },
+   "gtm_setup_required_secondary_cta": {
+      "message": "Intentar de nuevo"
+   },
+   "gtm_setup_settings": {
+      "message": "Opciones de configuración"
+   },
+   "gtm_setup_summary_description": {
+      "message": "Permite implementar y administrar etiquetas fácilmente, y realizar un seguimiento eficaz de los eventos sin código para obtener mejores resultados publicitarios."
+   },
+   "gtm_setup_warning_loading_label": {
+      "message": "Cargando..."
+   },
+   "gtm_web_container_label": {
+      "message": "Contenedor web"
+   },
+   "gtm_web_container_placeholder": {
+      "message": "Selecciona un contenedor web"
+   },
+   "guidanceEventsAffectedBadge": {
+      "message": "$1% de eventos afectados"
+   },
+   "guidanceMoreIssuesPlural": {
+      "message": "$1 problemas más"
+   },
+   "guidanceMoreIssuesSingular": {
+      "message": "$1 problema más"
+   },
+   "guidanceViewAllButton": {
+      "message": "Ver todo"
+   },
+   "guidanceViewButton": {
+      "message": "Ver"
+   },
+   "highlightTooltipChooseAccount": {
+      "message": "Elige una cuenta para iniciar sesión"
+   },
+   "highlightTooltipClickToContinue": {
+      "message": "Haz clic aquí para continuar"
+   },
+   "highlightTooltipSelectAll": {
+      "message": "Seleccionar todo"
+   },
+   "idLabel": {
+      "message": "Identificador: $1"
+   },
+   "islandActionFailedMessage": {
+      "message": "Completa la acción manualmente para continuar"
+   },
+   "islandActionRequiredMessage": {
+      "message": "Completa la acción para continuar"
+   },
+   "learnAboutManualAdvancedMatching": {
+      "message": "Más información sobre las coincidencias avanzadas manuales"
+   },
+   "learnAboutValueAndCurrencyParameters": {
+      "message": "Establece el valor y la divisa en el píxel de Meta"
+   },
+   "learnHowToSetupAdvancedMatchingManually": {
+      "message": "Cómo configurar las coincidencias avanzadas de forma manual"
+   },
+   "learnMoreLink": {
+      "message": "Más información"
+   },
+   "loadingText": {
+      "message": "Cargando..."
+   },
+   "loginPageButtonCreateAccount": {
+      "message": "Crear cuenta nueva"
+   },
+   "loginPageButtonLogin": {
+      "message": "Iniciar sesión con Facebook"
+   },
+   "loginPageButtonMMALogin": {
+      "message": "Iniciar sesión con cuenta de Meta administrada"
+   },
+   "loginPageDescription": {
+      "message": "para recibir ayuda personalizada con la configuración de eventos"
+   },
+   "loginPageSubtitle": {
+      "message": "Inicia sesión en las herramientas empresariales de Meta"
+   },
+   "loginPageTitle": {
+      "message": "Asistente para píxeles de Meta"
+   },
+   "mamStepExampleLabel": {
+      "message": "Ejemplo: $1"
+   },
+   "metaLogoAlt": {
+      "message": "Meta"
+   },
+   "metaSignalHelperLogoAlt": {
+      "message": "Asistente para píxeles de Meta"
+   },
+   "missingEventsActiveSessionTooltip": {
+      "message": "La configuración del evento ya está en curso"
+   },
+   "missingEventsTabSwitchTooltip": {
+      "message": "Vuelve a la pestaña donde empezaste la configuración del evento"
+   },
+   "moreInformationHeader": {
+      "message": "Más información"
+   },
+   "moreLabel": {
+      "message": "+$1 más"
+   },
+   "newFeaturesBannerLearnMore": {
+      "message": "Más información"
+   },
+   "newFeaturesBannerText": {
+      "message": "Hay una nueva función de automatización disponible que te permite configurar herramientas complejas en minutos."
+   },
+   "nextStepsHeader": {
+      "message": "Próximos pasos"
+   },
+   "noEventsOnThisPageMessage": {
+      "message": "No hay eventos en esta página. Haz clic en \"Mostrar todos los eventos\" para ver eventos de otras páginas."
+   },
+   "noPixelsFoundCardHeader": {
+      "message": "No se encontró ningún píxel en esta página"
+   },
+   "onThisPageHeader": {
+      "message": "En esta página"
+   },
+   "optionalLabel": {
+      "message": "· Opcional"
+   },
+   "overlayActionCompletedTitle": {
+      "message": "Acción completada"
+   },
+   "overlayCloseButton": {
+      "message": "Cerrar"
+   },
+   "overlayDatasetCountPlural": {
+      "message": "Varios conjuntos de datos"
+   },
+   "overlayDatasetCountSingular": {
+      "message": "1 conjunto de datos"
+   },
+   "overlayDescriptionPluralActions": {
+      "message": "$1 acciones que puedes realizar"
+   },
+   "overlayDescriptionPluralPixelsPluralActions": {
+      "message": "Hay $1 píxeles en esta página y $2 acciones que puedes realizar."
+   },
+   "overlayDescriptionPluralPixelsSingularAction": {
+      "message": "Hay $1 píxeles en esta página y 1 acción que puedes realizar."
+   },
+   "overlayDescriptionSingularAction": {
+      "message": "Encontramos una optimización para ti:"
+   },
+   "overlayDescriptionSingularPixelPluralActions": {
+      "message": "Hay 1 píxel en esta página y $1 acciones que puedes realizar."
+   },
+   "overlayDescriptionSingularPixelSingularAction": {
+      "message": "Hay 1 píxel en esta página y 1 acción que puedes realizar."
+   },
+   "overlayFreeCapigEnabledLabel": {
+      "message": "Activada"
+   },
+   "overlayGoBackButton": {
+      "message": "Atrás"
+   },
+   "overlayGreetingAfternoon": {
+      "message": "Buenas tardes, $1"
+   },
+   "overlayGreetingEvening": {
+      "message": "Buenas noches, $1"
+   },
+   "overlayGreetingMorning": {
+      "message": "Buenos días, $1"
+   },
+   "overlayGtmSetupForMeCta": {
+      "message": "Configurar por mí"
+   },
+   "overlayNotificationSettingsButton": {
+      "message": "Configuración de las notificaciones"
+   },
+   "overlayNotificationSettingsDescription": {
+      "message": "Elige cómo quieres recibir las notificaciones relacionadas con mejoras de la configuración. Puedes cambiar esta opción cuando quieras desde el ícono de campana de la página de inicio."
+   },
+   "overlayNotificationSettingsTitle": {
+      "message": "Configuración de las notificaciones"
+   },
+   "overlayNotificationsToggleDescription": {
+      "message": "Mostrar notificaciones en las páginas con tus píxeles"
+   },
+   "overlayNotificationsToggleLabel": {
+      "message": "Notificaciones"
+   },
+   "overlayTitle": {
+      "message": "Asistente para píxeles de Meta"
+   },
+   "overlayToggleDescription": {
+      "message": "Muestra acciones basadas en tu contexto y en el estado del píxel mientras exploras."
+   },
+   "overlayToggleOff": {
+      "message": "Las notificaciones contextuales están desactivadas"
+   },
+   "overlayToggleOn": {
+      "message": "Las notificaciones contextuales están activadas"
+   },
+   "overlayViewAllButton": {
+      "message": "Ver todo"
+   },
+   "overlayViewDatasetsButton": {
+      "message": "Ver conjuntos de datos"
+   },
+   "pageIssueHeaderPlural": {
+      "message": "Se encontraron $1 advertencias en esta página"
+   },
+   "pageIssueHeaderSingular": {
+      "message": "Se encontró una advertencia en esta página"
+   },
+   "pinExtensionBannerCta": {
+      "message": "Fijar a la barra de herramientas"
+   },
+   "pinExtensionBannerDescription": {
+      "message": "Fija Meta Signal Helper a tu barra de herramientas para un acceso rápido."
+   },
+   "pinExtensionBannerTitle": {
+      "message": "Fijar esta extensión"
+   },
+   "pixelBackButton": {
+      "message": "Volver"
+   },
+   "pixelCopyIdTitle": {
+      "message": "Copia el identificador del conjunto de datos"
+   },
+   "pixelCopyIdTooltip": {
+      "message": "Copiar identificador del conjunto de datos"
+   },
+   "pixelCustomConversionBadge": {
+      "message": "Conversión personalizada"
+   },
+   "pixelErrorCommonStep1": {
+      "message": "Abre el código de tu sitio web."
+   },
+   "pixelErrorConflictingVersionsCardTitle": {
+      "message": "Elimina los píxeles anteriores o en conflicto"
+   },
+   "pixelErrorConflictingVersionsExample": {
+      "message": "Ejemplo: n.version='2.0'"
+   },
+   "pixelErrorConflictingVersionsMessage": {
+      "message": "Elimina los píxeles anteriores o en conflicto"
+   },
+   "pixelErrorConflictingVersionsRecommendation": {
+      "message": "Se detectaron varios píxeles con versiones en conflicto en esta página. Usa solo una versión del píxel de Meta."
+   },
+   "pixelErrorConflictingVersionsStep2": {
+      "message": "Busca **n.version='** en el código base de instalación del píxel"
+   },
+   "pixelErrorConflictingVersionsStep3": {
+      "message": "Asegúrate de que todas las versiones sean iguales para todos los píxeles"
+   },
+   "pixelErrorDuplicatePixelIdCardTitle": {
+      "message": "Elimina el identificador del conjunto de datos duplicado"
+   },
+   "pixelErrorDuplicatePixelIdMessage": {
+      "message": "Elimina el identificador del conjunto de datos duplicado"
+   },
+   "pixelErrorDuplicatePixelIdRecommendation": {
+      "message": "Tienes un identificador del conjunto de datos duplicado: $1. Cada píxel solo debe inicializarse una vez por página para evitar datos duplicados."
+   },
+   "pixelErrorDuplicatePixelIdStep2": {
+      "message": "Busca **fbq('init', $1)** en el código base de instalación del píxel"
+   },
+   "pixelErrorDuplicatePixelIdStep3": {
+      "message": "Elimina el evento **fbq('init', $1)** duplicado"
+   },
+   "pixelErrorFbqNoMethodNameCardTitle": {
+      "message": "Falta el nombre del método en la llamada fbq()"
+   },
+   "pixelErrorFbqNoMethodNameExample": {
+      "message": "Ejemplo: fbq('track', 'PageView')"
+   },
+   "pixelErrorFbqNoMethodNameMessage": {
+      "message": "Proporciona un argumento para fbq{}"
+   },
+   "pixelErrorFbqNoMethodNameRecommendation": {
+      "message": "Proporciona un nombre de método al llamar a fbq(). Por ejemplo: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorFbqNoMethodNameStep2": {
+      "message": "Busca la llamada fbq() a la que le falta un nombre de método."
+   },
+   "pixelErrorFbqNoMethodNameStep3": {
+      "message": "Agrega un nombre de método válido, como \"track\" o \"init\", como primer argumento."
+   },
+   "pixelErrorInvalidConsentActionCardTitle": {
+      "message": "Envía una acción de consentimiento válida"
+   },
+   "pixelErrorInvalidConsentActionMessage": {
+      "message": "Envía una acción de consentimiento válida"
+   },
+   "pixelErrorInvalidConsentActionRecommendation": {
+      "message": "\"fbq('$1', ...);\" no es una acción fbq('consent',...) válida. Las acciones de consentimiento válidas son \"grant\" y \"revoke\". Comprueba la implementación de la administración del consentimiento."
+   },
+   "pixelErrorInvalidConsentActionStep2": {
+      "message": "Busca **fbq('$1', ...)**"
+   },
+   "pixelErrorInvalidConsentActionStep3": {
+      "message": "Actualiza el nombre del método a **revoke** o **grant**"
+   },
+   "pixelErrorInvalidEventIdFormatCardTitle": {
+      "message": "Agrega un valor de cadena para eventID"
+   },
+   "pixelErrorInvalidEventIdFormatMessage": {
+      "message": "Agrega un valor de cadena para eventID"
+   },
+   "pixelErrorInvalidEventIdFormatRecommendation": {
+      "message": "Tipo de identificador de evento incorrecto para el identificador del conjunto de datos: $1 para el evento \"$2\". El parámetro \"eventID\" debe ser una cadena. Por ejemplo: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorInvalidEventIdFormatRecommendationGeneric": {
+      "message": "Tipo de identificador de evento incorrecto para el identificador del conjunto de datos: $1. El parámetro \"eventID\" debe ser una cadena. Por ejemplo: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorInvalidEventIdFormatStep2": {
+      "message": "Busca **fbq('track', '$1', ..., {eventID: ...})** y comprueba si \"eventID\" es una cadena"
+   },
+   "pixelErrorInvalidEventIdFormatStep2Generic": {
+      "message": "Busca **fbq('track', ..., {eventID: ...})** y comprueba si \"eventID\" es una cadena"
+   },
+   "pixelErrorInvalidEventIdFormatStep3": {
+      "message": "Convierte el valor de \"eventID\" a un tipo de cadena"
+   },
+   "pixelErrorInvalidFbqMethodCardTitle": {
+      "message": "Método no válido en la llamada fbq()"
+   },
+   "pixelErrorInvalidFbqMethodExample": {
+      "message": "Métodos válidos: \"init\", \"track\", \"trackCustom\", \"trackSingle\", \"trackSingleCustom\""
+   },
+   "pixelErrorInvalidFbqMethodMessage": {
+      "message": "Usa comandos fbq válidos"
+   },
+   "pixelErrorInvalidFbqMethodParameterCardTitle": {
+      "message": "Actualiza el formato del parámetro"
+   },
+   "pixelErrorInvalidFbqMethodParameterExample": {
+      "message": "Ejemplo: fbq('init', '123456789', {em: 'user@example.com', ph: '1234567890'}); // user_data debe ser un objeto"
+   },
+   "pixelErrorInvalidFbqMethodParameterMessage": {
+      "message": "Asigna el formato esperado a los parámetros"
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendation": {
+      "message": "La llamada a \"fbq('$1', $2);\" con el parámetro \"$3\" tiene un valor \"$4\" no válido."
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendationSimple": {
+      "message": "El parámetro del método fbq() no es válido."
+   },
+   "pixelErrorInvalidFbqMethodParameterStep2": {
+      "message": "Busca **fbq('$1', $2);**"
+   },
+   "pixelErrorInvalidFbqMethodParameterStep3": {
+      "message": "Actualiza **$1** a un nombre de parámetro válido"
+   },
+   "pixelErrorInvalidFbqMethodRecommendation": {
+      "message": "\"fbq('$1', ...);\" no es un comando fbq válido. Usa métodos fbq válidos, como \"init\", \"track\" o \"trackCustom\"."
+   },
+   "pixelErrorInvalidFbqMethodStep2": {
+      "message": "Busca la llamada fbq() con el método no válido \"$1\"."
+   },
+   "pixelErrorInvalidFbqMethodStep3": {
+      "message": "Reemplaza el nombre del método por uno válido, como \"track\", \"init\" o \"trackCustom\"."
+   },
+   "pixelErrorInvalidJsonLdCardTitle": {
+      "message": "Actualiza el formato JSON-LD"
+   },
+   "pixelErrorInvalidJsonLdMessage": {
+      "message": "Asegúrate de que JSON-LD tenga el formato correcto y sea válido"
+   },
+   "pixelErrorInvalidJsonLdRecommendation": {
+      "message": "No se puede analizar la etiqueta JSON-LD. Se encontró un JSON con formato incorrecto: \"$1\". Asegúrate de que el marcado JSON-LD tenga el formato correcto y sea válido antes de enviarlo al píxel."
+   },
+   "pixelErrorInvalidJsonLdStep2": {
+      "message": "Busca **$1**"
+   },
+   "pixelErrorInvalidJsonLdStep3": {
+      "message": "Corrige el formato y asegúrate de que el archivo JSON sea válido"
+   },
+   "pixelErrorInvalidParamCardTitle": {
+      "message": "Actualiza el parámetro no válido de tu evento"
+   },
+   "pixelErrorInvalidParamExample": {
+      "message": "Ejemplo: fbq('track', 'Purchase', {currency: 'USD', value: 30.00})"
+   },
+   "pixelErrorInvalidParamFormatCardTitle": {
+      "message": "Actualiza el formato del parámetro"
+   },
+   "pixelErrorInvalidParamFormatExample": {
+      "message": "Parámetros comunes: value, currency, content_ids, content_type, etc. Lista completa en wiki: https://developers.facebook.com/docs/meta-pixel/reference/"
+   },
+   "pixelErrorInvalidParamFormatMessage": {
+      "message": "Actualiza el formato del parámetro"
+   },
+   "pixelErrorInvalidParamFormatRecommendation": {
+      "message": "Formato de parámetro no válido para $1."
+   },
+   "pixelErrorInvalidParamFormatStep2": {
+      "message": "Busca **$1**"
+   },
+   "pixelErrorInvalidParamMessage": {
+      "message": "Elimina o actualiza el parámetro no válido para tu evento"
+   },
+   "pixelErrorInvalidParamRecommendation": {
+      "message": "El parámetro \"$1\" no es válido para el evento \"$2\"."
+   },
+   "pixelErrorInvalidParamStep2": {
+      "message": "Busca **fbq('track', $1, ...)**"
+   },
+   "pixelErrorInvalidParamStep3": {
+      "message": "Elimina o actualiza $1"
+   },
+   "pixelErrorInvalidPixelIdCardTitle": {
+      "message": "Agrega un identificador del conjunto de datos válido"
+   },
+   "pixelErrorInvalidPixelIdMessage": {
+      "message": "Agrega un identificador del conjunto de datos válido"
+   },
+   "pixelErrorInvalidPixelIdRecommendation": {
+      "message": "El identificador del conjunto de datos $1 no es válido. Verifica que el identificador sea correcto en el administrador de eventos de Meta y actualiza el código del píxel."
+   },
+   "pixelErrorInvalidPixelIdStep2": {
+      "message": "Busca **fbq('init', $1)** en el código base de instalación del píxel"
+   },
+   "pixelErrorInvalidPixelIdStep3": {
+      "message": "Reemplaza \"$1\" por un identificador válido que se encuentre en el administrador de eventos de Meta"
+   },
+   "pixelErrorMultiplePixelsCardTitle": {
+      "message": "Consolida en un solo píxel de Meta"
+   },
+   "pixelErrorMultiplePixelsMessage": {
+      "message": "Consolida en un solo píxel de Meta"
+   },
+   "pixelErrorMultiplePixelsRecommendation": {
+      "message": "Se detectaron varios píxeles en esta página. La presencia de varios píxeles puede indicar problemas de configuración y evitar un seguimiento óptimo de los eventos."
+   },
+   "pixelErrorMultiplePixelsStep2": {
+      "message": "Busca **fbq('init', ...)** en el código base de instalación del píxel"
+   },
+   "pixelErrorMultiplePixelsStep3": {
+      "message": "Elimina todos los píxeles menos uno y asegúrate de actualizar tus campañas si se usa un píxel duplicado"
+   },
+   "pixelErrorNegativeEventParamCardTitle": {
+      "message": "Agrega un valor positivo a $1"
+   },
+   "pixelErrorNegativeEventParamMessage": {
+      "message": "Comprueba los datos de tu evento de $1"
+   },
+   "pixelErrorNegativeEventParamRecommendation": {
+      "message": "El parámetro \"$1\" es negativo para el evento \"$2\". Los parámetros del evento, como value, quantity, etc., no deben ser negativos."
+   },
+   "pixelErrorNegativeEventParamStep2": {
+      "message": "Busca **fbq('track', $1)**"
+   },
+   "pixelErrorNegativeEventParamStep3": {
+      "message": "Actualiza el valor a un número positivo"
+   },
+   "pixelErrorNoEventIdCardTitle": {
+      "message": "Agrega identificadores de evento"
+   },
+   "pixelErrorNoEventIdMessage": {
+      "message": "Incluye un identificador de evento para el seguimiento y la deduplicación"
+   },
+   "pixelErrorNoEventIdRecommendation": {
+      "message": "Detectamos un identificador de evento nulo o vacío en el cuarto parámetro para el identificador del conjunto de datos: $1. Incluye un identificador de evento. Por ejemplo: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorNoEventIdStep2": {
+      "message": "Busca **fbq('track', ..., ..., ..., {})** e identifica dónde el cuarto parámetro o \"eventID\" está vacío"
+   },
+   "pixelErrorNoEventIdStep3": {
+      "message": "Especifica el identificador de evento o elimina el cuarto parámetro"
+   },
+   "pixelErrorNoEventNameCardTitle": {
+      "message": "Agrega un nombre de evento"
+   },
+   "pixelErrorNoEventNameExample": {
+      "message": "Ejemplo: fbq('track', 'AddToCart')"
+   },
+   "pixelErrorNoEventNameMessage": {
+      "message": "Agrega un nombre para hacer el seguimiento de tu evento"
+   },
+   "pixelErrorNoEventNameRecommendation": {
+      "message": "Falta el nombre del evento. Los eventos de seguimiento deben registrarse con un nombre de evento fbq(\"track\", eventName). Por ejemplo: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorNoEventNameStep2": {
+      "message": "Busca **fbq('track', '', ...)** o **fbq('track', ' ', ...)**"
+   },
+   "pixelErrorNoEventNameStep3": {
+      "message": "Agrega el nombre del evento"
+   },
+   "pixelErrorNonstandardEventCardTitle": {
+      "message": "Actualiza tu evento no estándar"
+   },
+   "pixelErrorNonstandardEventMessage": {
+      "message": "Envía tu evento no estándar con trackCustom"
+   },
+   "pixelErrorNonstandardEventRecommendation": {
+      "message": "Estás enviando un evento no estándar \"$1\". Envía estos eventos mediante \"trackCustom\". Llama a fbq('trackCustom', ...) en su lugar."
+   },
+   "pixelErrorNonstandardEventStep2": {
+      "message": "Busca **fbq('track', $1)**"
+   },
+   "pixelErrorNonstandardEventStep3": {
+      "message": "Reemplaza el evento por **fbq('trackCustom', $1)**"
+   },
+   "pixelErrorPiiInvalidTypeCardTitle": {
+      "message": "Elimina la información de cliente no válida"
+   },
+   "pixelErrorPiiInvalidTypeExample": {
+      "message": "Ejemplo: **em**, **ph**, **fn**, **ln**, **db**, **ge**, **ct**, **zp**, **external_id**, etc."
+   },
+   "pixelErrorPiiInvalidTypeMessage": {
+      "message": "Elimina la información de cliente no válida"
+   },
+   "pixelErrorPiiInvalidTypeRecommendation": {
+      "message": "Se especificó un valor no válido de $1 para \"$2\". Estos datos no se enviarán con ningún evento para este píxel."
+   },
+   "pixelErrorPiiInvalidTypeStep2": {
+      "message": "Busca **fbq('init', $1, {$2:...})**"
+   },
+   "pixelErrorPiiInvalidTypeStep3": {
+      "message": "Actualiza **$1** o reemplázalo por información válida"
+   },
+   "pixelErrorPiiUnhashedPiiCardTitle": {
+      "message": "Envía correos electrónicos con el campo de clave correcto"
+   },
+   "pixelErrorPiiUnhashedPiiMessage": {
+      "message": "Envía correos electrónicos con el campo de clave correcto"
+   },
+   "pixelErrorPiiUnhashedPiiRecommendation": {
+      "message": "Parece que el valor de la clave \"$1\" es información de identificación personal. Estos datos no se enviarán con ningún evento para este píxel. El método recomendado es llamar a fbq('init', 'PIXEL_ID', {em: 'email@email.com', ...})."
+   },
+   "pixelErrorPiiUnhashedPiiStep2": {
+      "message": "Busca **$1** y comprueba si algún valor está configurado como correo electrónico"
+   },
+   "pixelErrorPiiUnhashedPiiStep3": {
+      "message": "Actualiza **$1** a **em**"
+   },
+   "pixelErrorRequiredParamMissingCardTitle": {
+      "message": "Agrega el parámetro que falta"
+   },
+   "pixelErrorRequiredParamMissingMessage": {
+      "message": "Agrega a tu evento el parámetro obligatorio que falta"
+   },
+   "pixelErrorRequiredParamMissingRecommendation": {
+      "message": "Falta el parámetro obligatorio \"$1\" para el evento \"$2\"."
+   },
+   "pixelErrorRequiredParamMissingStep2": {
+      "message": "Busca **fbq('track', $1, ...)**"
+   },
+   "pixelErrorRequiredParamMissingStep3": {
+      "message": "Agrega el parámetro que falta"
+   },
+   "pixelErrorRestrictedEventCardTitle": {
+      "message": "Revisa los eventos bloqueados"
+   },
+   "pixelErrorRestrictedEventMessage": {
+      "message": "Visita el administrador de eventos para revisar los eventos bloqueados"
+   },
+   "pixelErrorRestrictedEventRecommendation": {
+      "message": "Estás intentando enviar un evento restringido. Se suprimió el evento."
+   },
+   "pixelErrorRestrictedEventStep1": {
+      "message": "Ve a la pestaña \"Configuración\" del conjunto de datos del administrador de eventos"
+   },
+   "pixelErrorRestrictedEventStep2": {
+      "message": "Ve a Permisos de tráfico > Sitios web"
+   },
+   "pixelErrorRestrictedEventStep3": {
+      "message": "Revisa y actualiza los eventos bloqueados, o deja de enviar eventos bloqueados desde tu sitio web"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelCardTitle": {
+      "message": "Inicia tu píxel"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelMessage": {
+      "message": "Inicia el píxel antes de configurar los metadatos"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendation": {
+      "message": "Se está intentando configurar el argumento $1 para el identificador del conjunto de datos no inicializado $2. Inicializa el píxel antes de configurar los metadatos. Llama primero a fbq('init', '$3')."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendationSimple": {
+      "message": "Estás intentando establecer metadatos en un píxel no inicializado."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep2": {
+      "message": "Busca **fbq()**"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep3": {
+      "message": "Llama primero a **fbq('init', 'PIXEL_ID')**"
+   },
+   "pixelErrorSiteCodelessOptOutCardTitle": {
+      "message": "Activa la configuración de eventos sin código"
+   },
+   "pixelErrorSiteCodelessOptOutMessage": {
+      "message": "Activa la configuración de eventos sin código o usa la integración manual del píxel"
+   },
+   "pixelErrorSiteCodelessOptOutRecommendation": {
+      "message": "No se puede abrir la interfaz de eventos sin código para el píxel porque el sitio la desactivó. Identificador del conjunto de datos: $1."
+   },
+   "pixelErrorSiteCodelessOptOutStep2": {
+      "message": "Busca **fbq('set', 'codeless', 'false', $1)**"
+   },
+   "pixelErrorSiteCodelessOptOutStep3": {
+      "message": "Elimina esta línea para volver a activarlo o actívalo explícitamente mediante **fbq('set', 'codeless', 'true', $1);"
+   },
+   "pixelErrorUnableLoadFbqCardTitle": {
+      "message": "Elimina los bloqueadores de anuncios"
+   },
+   "pixelErrorUnableLoadFbqMessage": {
+      "message": "Comprueba la conexión de red y la consola del navegador"
+   },
+   "pixelErrorUnableLoadFbqRecommendation": {
+      "message": "No se puede cargar fbq. Los bloqueadores de anuncios también pueden evitar que se cargue el píxel."
+   },
+   "pixelErrorUnableLoadFbqStep1": {
+      "message": "Revisa la conexión de red"
+   },
+   "pixelErrorUnableLoadFbqStep2": {
+      "message": "Asegúrate de que los bloqueadores de anuncios estén desactivados"
+   },
+   "pixelErrorUninitializedPixelCardTitle": {
+      "message": "Inicia el píxel"
+   },
+   "pixelErrorUninitializedPixelMessage": {
+      "message": "Inicia el píxel"
+   },
+   "pixelErrorUninitializedPixelRecommendation": {
+      "message": "No se encontró el píxel $1. Inicializa el píxel con fbq('init', 'PIXEL_ID') antes de llamar a otros métodos fbq."
+   },
+   "pixelErrorUninitializedPixelStep1": {
+      "message": "Ve a la pestaña \"Información general\" del administrador de eventos para copiar el código base del píxel de Meta"
+   },
+   "pixelErrorUninitializedPixelStep2": {
+      "message": "Pega el código del píxel de Meta entre las etiquetas \u003Chead> y \u003C/head> de tu página web"
+   },
+   "pixelErrorUnknownErrorMessage": {
+      "message": "Se produjo un error desconocido del píxel"
+   },
+   "pixelErrorUnknownErrorRecommendation": {
+      "message": "Consulta la consola del navegador para obtener más información sobre este error."
+   },
+   "pixelErrorUnsupportedMetadataCardTitle": {
+      "message": "Elimina o actualiza los campos de metadatos no admitidos"
+   },
+   "pixelErrorUnsupportedMetadataMessage": {
+      "message": "Elimina o actualiza los campos de metadatos no admitidos"
+   },
+   "pixelErrorUnsupportedMetadataRecommendation": {
+      "message": "Argumento de metadatos no admitido: $1. Los argumentos de metadatos válidos son \"agent\", \"automaticMatchingConfig\", \"codeless\", \"trackSingleOnly\" y \"cbData.oneTrustId\"."
+   },
+   "pixelErrorUnsupportedMetadataStep2": {
+      "message": "Busca **fbq('set', $1)**"
+   },
+   "pixelErrorUnsupportedMetadataStep3": {
+      "message": "Reemplaza el argumento por uno válido"
+   },
+   "pixelErrorUnverifiedEventCardTitle": {
+      "message": "Verifica tus eventos"
+   },
+   "pixelErrorUnverifiedEventMessage": {
+      "message": "Verifica tus eventos en el administrador de eventos"
+   },
+   "pixelErrorUnverifiedEventRecommendation": {
+      "message": "Estás intentando enviar un evento no verificado. El evento se suprimió. Ve al administrador de eventos para obtener más información."
+   },
+   "pixelErrorUnverifiedEventStep1": {
+      "message": "Ve a la pestaña \"Diagnóstico\" del conjunto de datos del administrador de eventos"
+   },
+   "pixelErrorUnverifiedEventStep2": {
+      "message": "Verifica los eventos"
+   },
+   "pixelErrorUnwantedCustomDataCardTitle": {
+      "message": "Elimina las posibles infracciones"
+   },
+   "pixelErrorUnwantedCustomDataExample": {
+      "message": "Ejemplo: fbq('track', 'Purchase', {...}) - Eliminar campos ssn, credit_card, password"
+   },
+   "pixelErrorUnwantedCustomDataMessage": {
+      "message": "Elimina los campos de datos personalizados con posibles infracciones"
+   },
+   "pixelErrorUnwantedCustomDataRecommendation": {
+      "message": "Se eliminaron parámetros de los datos personalizados debido a posibles infracciones. Ve al administrador de eventos para revisarlos."
+   },
+   "pixelErrorUnwantedCustomDataStep2": {
+      "message": "Elimina la contraseña o cualquier información financiera. Consulta más tipos de infracciones en la wiki"
+   },
+   "pixelErrorUnwantedEventNameCardTitle": {
+      "message": "Revisa los nombres de los eventos"
+   },
+   "pixelErrorUnwantedEventNameExample": {
+      "message": "Ejemplo: nombres de eventos incorrectos como \"CreditCardSubmit\", \"PasswordEntered\", \"SSNCollected\""
+   },
+   "pixelErrorUnwantedEventNameMessage": {
+      "message": "Asegúrate de que el nombre del evento no incluya información prohibida"
+   },
+   "pixelErrorUnwantedEventNameRecommendation": {
+      "message": "Se bloqueó tu evento debido a posibles infracciones."
+   },
+   "pixelErrorUnwantedEventNameStep2": {
+      "message": "Busca **fbq('track', ...)**"
+   },
+   "pixelErrorUnwantedEventNameStep3": {
+      "message": "Revisa el nombre del evento para asegurarte de que no incluya información prohibida (por ejemplo, contraseña, número de la seguridad social, tarjeta de crédito, etc.)"
+   },
+   "pixelErrorUnwantedUrlDataCardTitle": {
+      "message": "Revisa las posibles infracciones"
+   },
+   "pixelErrorUnwantedUrlDataExample": {
+      "message": "Ejemplo:\n❌ URL incorrectas:\nhttps://example.com/checkout?email=user@test.com&ssn=123-45-6789\nhttps://example.com/login?password=secret123&credit_card=4111...\n\n✅ URL correctas:\nhttps://example.com/checkout?order_id=12345\nhttps://example.com/login (sin parámetros de consulta confidenciales)"
+   },
+   "pixelErrorUnwantedUrlDataMessage": {
+      "message": "Revisa los datos de la URL para asegurarte de que no incluyan información prohibida"
+   },
+   "pixelErrorUnwantedUrlDataRecommendation": {
+      "message": "Se eliminaron los parámetros de consulta de la URL debido a posibles infracciones."
+   },
+   "pixelErrorUnwantedUrlDataStep2": {
+      "message": "Audita tus URL: revisa tanto la página actual (dl) como la de referencia (rl) para asegurarte de que no haya información confidencial"
+   },
+   "pixelEventCountPlural": {
+      "message": "$1 eventos"
+   },
+   "pixelEventCountSingular": {
+      "message": "$1 evento"
+   },
+   "pixelEventUnnamed": {
+      "message": "Evento (sin nombre)"
+   },
+   "pixelHeaderPlural": {
+      "message": "Se encontraron $1 píxeles en esta página"
+   },
+   "pixelHeaderSingular": {
+      "message": "Se encontró un píxel en esta página"
+   },
+   "pixelIdLabel": {
+      "message": "Identificador: $1"
+   },
+   "pixelLoadTime": {
+      "message": "$1 ms"
+   },
+   "pixelMetaPixelTitle": {
+      "message": "Píxel de Meta"
+   },
+   "pixelMissingFiresMessage": {
+      "message": "No se activó ningún píxel en la página actual, pero sí en otras páginas de este sitio web"
+   },
+   "pixelMissingFiresRecommendation": {
+      "message": "Agrega eventos de seguimiento del píxel a esta página o comprueba que los píxeles existentes funcionen correctamente"
+   },
+   "pixelNoEventsRecorded": {
+      "message": "Aún no se registraron eventos"
+   },
+   "pixelNotFiringMessage": {
+      "message": "El píxel $1 está instalado pero no se activó recientemente"
+   },
+   "pixelStatusActive": {
+      "message": "Activo"
+   },
+   "pixelStatusAutomaticallyDetected": {
+      "message": "Detectado automáticamente"
+   },
+   "pixelStatusError": {
+      "message": "Error"
+   },
+   "pixelStatusEventNotProcessed": {
+      "message": "Evento no procesado"
+   },
+   "pixelStatusEventReceived": {
+      "message": "Evento recibido"
+   },
+   "pixelStatusInactive": {
+      "message": "Inactivo"
+   },
+   "pixelStatusReceived": {
+      "message": "Recibido"
+   },
+   "pixelStatusSent": {
+      "message": "Evento enviado"
+   },
+   "pixelStatusWarning": {
+      "message": "Advertencia"
+   },
+   "recipeAddMoreFields": {
+      "message": "Agregar más"
+   },
+   "recipeCancelAutomation": {
+      "message": "Cancela la automatización"
+   },
+   "recipeCompleteActionToContinue": {
+      "message": "Completa la acción para continuar"
+   },
+   "recipeErrorBackButton": {
+      "message": "Ir a la página de inicio"
+   },
+   "recipeErrorMessage": {
+      "message": "No pudimos iniciar la automatización debido a un problema inesperado. Comprueba tu conexión a internet y vuelve a intentarlo más tarde."
+   },
+   "recipeErrorTitle": {
+      "message": "Vuelve a intentarlo más tarde."
+   },
+   "recipeFailedStateDescription": {
+      "message": "Se produjo un problema al completar esta acción. Deberás completarla manualmente para continuar con la configuración."
+   },
+   "recipeFieldIdentifierLabel": {
+      "message": "Identificador"
+   },
+   "recipeFieldMappingInfoBoxTextLead": {
+      "message": "Para continuar, confirma el nombre y la hora del evento y elige al menos un campo de identificador (se recomienda el identificador de cliente potencial)."
+   },
+   "recipeFieldMappingInfoBoxTextOpportunity": {
+      "message": "Para continuar, confirma el nombre y la hora del evento."
+   },
+   "recipeFieldOptionalLabel": {
+      "message": "Opcional"
+   },
+   "recipeFieldsDropdownNoResultsFound": {
+      "message": "No se encontraron resultados"
+   },
+   "recipeFieldsEventNameTooltipContent": {
+      "message": "Este nombre se asigna a los clientes potenciales en el embudo de CRM. Envía todas las etapas a medida que se actualizan."
+   },
+   "recipeFieldsEventNameTooltipExample": {
+      "message": "es decir"
+   },
+   "recipeFieldsEventNameTooltipExample1": {
+      "message": "Cliente potencial sin procesar de Meta"
+   },
+   "recipeFieldsEventNameTooltipExample2": {
+      "message": "Cliente potencial calificado para marketing"
+   },
+   "recipeFieldsEventNameTooltipExample3": {
+      "message": "Oportunidad de venta"
+   },
+   "recipeFieldsEventNameTooltipExample4": {
+      "message": "Cliente"
+   },
+   "recipeFieldsEventNameTooltipLearnMore": {
+      "message": "Más información"
+   },
+   "recipeFieldsEventNameTooltipLearnMoreContinued": {
+      "message": "sobre cómo integrar los clientes potenciales de conversión."
+   },
+   "recipeFileABug": {
+      "message": "Reportar un error"
+   },
+   "recipeFileAnotherBug": {
+      "message": "Reportar otro error"
+   },
+   "recipeIntroStartAutomationButton": {
+      "message": "Iniciar automatización"
+   },
+   "recipeMaibaCallerIndicator": {
+      "message": "Volver a MAIBA"
+   },
+   "recipeMarkAsComplete": {
+      "message": "Marcar como completado"
+   },
+   "recipeMilestoneActionNeededStatus": {
+      "message": "Acción necesaria"
+   },
+   "recipeMilestoneCompleteStatus": {
+      "message": "Finalizado"
+   },
+   "recipeMilestoneFailedStatus": {
+      "message": "Error"
+   },
+   "recipeMilestoneInProgressStatus": {
+      "message": "En curso"
+   },
+   "recipeMilestonePausedStatus": {
+      "message": "En pausa"
+   },
+   "recipeMilestoneStepFailedSuffix": {
+      "message": "· Error en el paso"
+   },
+   "recipeOpportunityChoiceNo": {
+      "message": "no"
+   },
+   "recipeOpportunityChoiceYes": {
+      "message": "sí"
+   },
+   "recipeOpportunityQuestionDropdownLabel": {
+      "message": "¿Usas oportunidades?"
+   },
+   "recipeOpportunityQuestionInfoText": {
+      "message": "Las oportunidades sincronizan el estado de los acuerdos de Salesforce con Meta para que los anuncios puedan optimizarse en función de los ingresos reales, no solo de los clientes potenciales."
+   },
+   "recipeOpportunityQuestionLearnMore": {
+      "message": "Más información"
+   },
+   "recipeOpportunityQuestionNo": {
+      "message": "No"
+   },
+   "recipeOpportunityQuestionYes": {
+      "message": "Sí"
+   },
+   "recipePause": {
+      "message": "Pausar"
+   },
+   "recipeResume": {
+      "message": "Reanudar"
+   },
+   "recipeRetry": {
+      "message": "Reintentar"
+   },
+   "recipeReturnToMaiba": {
+      "message": "Volver a MAIBA"
+   },
+   "recipeReturnToTab": {
+      "message": "Volver a la pestaña"
+   },
+   "recipeReturnToTabPrompt": {
+      "message": "Regresa a la pestaña donde se estaba ejecutando esta automatización y haz clic en \"Continuar\"."
+   },
+   "recipeStepFailed": {
+      "message": "Error"
+   },
+   "recipeStepNumber": {
+      "message": "Paso $1"
+   },
+   "recipeStepSkipped": {
+      "message": "Omitido"
+   },
+   "recipeStepSkippedTooltip": {
+      "message": "Este paso se omitió porque se determinó que ya no es necesario."
+   },
+   "recipeStepUserActionRequired": {
+      "message": "Acción necesaria"
+   },
+   "recipeSummaryHeaderTitle": {
+      "message": "Resumen"
+   },
+   "recipeSwitchToActiveTabHint": {
+      "message": "Haz clic para cambiar a la pestaña activa y agilizar la automatización."
+   },
+   "recipeThanksForFeedback": {
+      "message": "Gracias por enviar comentarios"
+   },
+   "recipeVerifying": {
+      "message": "Verificando..."
+   },
+   "recipeViewInEventsManager": {
+      "message": "Ver en el administrador de eventos"
+   },
+   "recipeViewReport": {
+      "message": "Ver resumen de automatización"
+   },
+   "recipeWpAdminUrlInfoText": {
+      "message": "No pudimos detectar automáticamente tu URL de administrador de WordPress. Ingresa la URL completa del panel de administración de WordPress para que podamos continuar con la configuración."
+   },
+   "recipeWpAdminUrlInputLabel": {
+      "message": "Ingresa la URL de administrador de WordPress (p. ej., https://tusitioweb.com/wp-admin/)"
+   },
+   "recipeYourActionIsRequired": {
+      "message": "Se requiere una acción de tu parte"
+   },
+   "remove": {
+      "message": "Eliminar"
+   },
+   "remove_asset_button_label": {
+      "message": "Eliminar este recurso"
+   },
+   "remove_asset_button_required_label": {
+      "message": "Este recurso es obligatorio y no se puede eliminar"
+   },
+   "reportAiGenerated": {
+      "message": "Generado con IA"
+   },
+   "reportAutomationCountPlural": {
+      "message": "$1 automatizaciones"
+   },
+   "reportAutomationCountSingular": {
+      "message": "$1 automatización"
+   },
+   "reportAutomationPanelDescription": {
+      "message": "Revisa el estado, la cronología y las acciones que se realizaron durante esta automatización."
+   },
+   "reportAutomationSummaryDescription": {
+      "message": "Desglose detallado de tu experiencia de automatización. Por tu privacidad, no se almacenará en nuestra plataforma."
+   },
+   "reportAutomationSummaryTitle": {
+      "message": "Resumen de automatización"
+   },
+   "reportCapturedDuringEmSelection": {
+      "message": "Selección en el administrador de eventos"
+   },
+   "reportCapturedDuringGaSetup": {
+      "message": "Configuración de Google Analytics"
+   },
+   "reportCapturedDuringGtmSetup": {
+      "message": "Configuración de GTM"
+   },
+   "reportCapturedDuringSfWebhook": {
+      "message": "Integración de webhooks de Salesforce"
+   },
+   "reportCapturedIdsCreatedDuringSession": {
+      "message": "Creados durante la sesión"
+   },
+   "reportCapturedIdsDescription": {
+      "message": "Se accedió a los siguientes identificadores durante la automatización."
+   },
+   "reportCapturedIdsEmpty": {
+      "message": "No se accedió a ningún identificador durante esta automatización."
+   },
+   "reportCapturedIdsExisting": {
+      "message": "Preexistentes"
+   },
+   "reportCapturedIdsHeading": {
+      "message": "Identificadores a los que se accedió"
+   },
+   "reportClickToCopy": {
+      "message": "Haz clic para copiar"
+   },
+   "reportCopied": {
+      "message": "Copiado"
+   },
+   "reportCopyAll": {
+      "message": "Copiar todo"
+   },
+   "reportDomainEventsManager": {
+      "message": "Administrador de eventos"
+   },
+   "reportDomainGoogleAnalytics": {
+      "message": "Google Analytics"
+   },
+   "reportDomainGoogleTagManager": {
+      "message": "Google Tag Manager"
+   },
+   "reportDomainSalesforce": {
+      "message": "Salesforce"
+   },
+   "reportDomainStape": {
+      "message": "Stape"
+   },
+   "reportExportPdf": {
+      "message": "Exportar resumen como PDF"
+   },
+   "reportExportPdfNote": {
+      "message": "La exportación puede tardar hasta 45 s."
+   },
+   "reportFlowAutomationName": {
+      "message": "Flujo de automatización"
+   },
+   "reportFlowSummaryDescription": {
+      "message": "Revisa los estados, las cronologías y las acciones que se realizaron en todas las automatizaciones de este flujo."
+   },
+   "reportFlowSummaryHeading": {
+      "message": "Resumen del flujo"
+   },
+   "reportIdCountPlural": {
+      "message": "$1 identificadores"
+   },
+   "reportIdCountSingular": {
+      "message": "$1 identificador"
+   },
+   "reportIdLabelAdAccountId": {
+      "message": "Identificador de cuenta publicitaria"
+   },
+   "reportIdLabelBusinessId": {
+      "message": "Identificador del negocio"
+   },
+   "reportIdLabelCustom": {
+      "message": "Identificador personalizado"
+   },
+   "reportIdLabelDatasetId": {
+      "message": "Identificador del conjunto de datos"
+   },
+   "reportIdLabelGaMeasurementId": {
+      "message": "Identificador de medición de Google Analytics"
+   },
+   "reportIdLabelGtmAccountId": {
+      "message": "Nombre de la cuenta de Google Tag Manager"
+   },
+   "reportIdLabelGtmContainerId": {
+      "message": "Identificador del contenedor de Google Tag Manager"
+   },
+   "reportIdLabelGtmServerContainerName": {
+      "message": "Contenedor del servidor de Google Tag Manager"
+   },
+   "reportIdLabelGtmWebContainerName": {
+      "message": "Contenedor web de Google Tag Manager"
+   },
+   "reportIdLabelSgwDataPlaneUrl": {
+      "message": "URL del plano de datos de Signals Gateway"
+   },
+   "reportIdLabelSgwPixelId": {
+      "message": "Identificador del conjunto de datos de Signals Gateway"
+   },
+   "reportIdLabelWebhookIntegrationId": {
+      "message": "Identificador de la integración del webhook"
+   },
+   "reportIdLabelWebhookUrl": {
+      "message": "URL del webhook"
+   },
+   "reportInProgress": {
+      "message": "En curso"
+   },
+   "reportKeyScreenshotEndOfAutomation": {
+      "message": "Fin de la automatización"
+   },
+   "reportKeyScreenshotFinalState": {
+      "message": "Estado final de automatización"
+   },
+   "reportLabelActionsTaken": {
+      "message": "Acciones realizadas"
+   },
+   "reportLabelAutomations": {
+      "message": "Automatizaciones"
+   },
+   "reportLabelDuration": {
+      "message": "Duración"
+   },
+   "reportLabelStatus": {
+      "message": "Estado"
+   },
+   "reportLabelTimeline": {
+      "message": "Cronología"
+   },
+   "reportMilestoneComplete": {
+      "message": "Completado"
+   },
+   "reportNavHowWeUseData": {
+      "message": "Cómo usamos tus datos"
+   },
+   "reportNavIdsAccessed": {
+      "message": "Identificadores a los que se accedió"
+   },
+   "reportNavPagesVisited": {
+      "message": "Páginas y dominios visitados"
+   },
+   "reportNavPrivacySecurity": {
+      "message": "Privacidad y seguridad"
+   },
+   "reportNavSummary": {
+      "message": "Resumen"
+   },
+   "reportOverviewCapiGatewayDescription": {
+      "message": "Esta automatización configuró el gateway de la API de conversiones para realizar un seguimiento de los eventos en el servidor. El gateway envía los datos de los eventos directamente desde tu servidor a Meta, lo que mejora la confiabilidad de los datos y la calidad de las coincidencias."
+   },
+   "reportOverviewCapiGatewayTitle": {
+      "message": "Configuración del gateway de la API de conversiones"
+   },
+   "reportOverviewDefaultDescription": {
+      "message": "Este informe resume las acciones que se realizaron durante el proceso de automatización."
+   },
+   "reportOverviewDefaultTitle": {
+      "message": "Automatización completa"
+   },
+   "reportOverviewGtmServerDescription": {
+      "message": "Esta automatización configuró el etiquetado en el servidor a través de Google Tag Manager. El etiquetado en el servidor mejora la calidad de los datos, el rendimiento del sitio y la privacidad de los usuarios, ya que procesa las etiquetas en un servidor en lugar de hacerlo en el navegador."
+   },
+   "reportOverviewGtmServerTitle": {
+      "message": "Configuración en el servidor de Google Tag Manager"
+   },
+   "reportOverviewGtmWebDescription": {
+      "message": "Esta automatización configuró un contenedor web de Google Tag Manager para tu sitio web. El contenedor te permite administrar etiquetas de marketing, estadísticas y píxeles de seguimiento sin modificar el código de tu sitio."
+   },
+   "reportOverviewGtmWebTitle": {
+      "message": "Configuración del contenedor web de Google Tag Manager"
+   },
+   "reportOverviewMetaPixelDescription": {
+      "message": "Esta automatización instaló y verificó el píxel de Meta en tu sitio web. El píxel realiza un seguimiento de la actividad de los visitantes para ayudarte a medir la eficacia de los anuncios, crear públicos y optimizar la entrega de anuncios."
+   },
+   "reportOverviewMetaPixelTitle": {
+      "message": "Instalación del píxel de Meta"
+   },
+   "reportOverviewSalesforceDescription": {
+      "message": "Esta automatización configuró los webhooks de la API de conversiones para CRM de Meta en tu instancia de Salesforce. La integración de webhooks envía los eventos de CRM desde Salesforce directamente a Meta, lo que permite mejorar la segmentación y medición de anuncios mediante los eventos compartidos desde el servidor."
+   },
+   "reportOverviewSalesforceTitle": {
+      "message": "Configuración de webhooks de la API de conversiones para CRM de Salesforce"
+   },
+   "reportPagesDescription": {
+      "message": "Se visitaron las siguientes páginas durante tu experiencia de automatización."
+   },
+   "reportPagesDescriptionShort": {
+      "message": "Se visitaron las siguientes páginas durante la automatización."
+   },
+   "reportPagesEmpty": {
+      "message": "No se visitó ninguna página durante esta automatización."
+   },
+   "reportPagesHeading": {
+      "message": "Páginas y dominios visitados"
+   },
+   "reportRecipeNameGaCreateAccount": {
+      "message": "Crear cuenta de Google Analytics"
+   },
+   "reportRecipeNameGtmCreateAccount": {
+      "message": "Crear cuenta de GTM"
+   },
+   "reportRecipeNameGtmProvisionServer": {
+      "message": "Aprovisionar contenedor de servidor de GTM"
+   },
+   "reportRecipeNameInstallFacebookForWoocommerce": {
+      "message": "Instalar Facebook para WooCommerce"
+   },
+   "reportRecipeNameSalesforceWebhook": {
+      "message": "Configurar webhook de CRM de Salesforce"
+   },
+   "reportRecipeNameSgwGtmSetup": {
+      "message": "Configurar Signals Gateway con GTM"
+   },
+   "reportRecipeNameShopifyProductSync": {
+      "message": "Sincronización de productos de Shopify"
+   },
+   "reportRecipeNameUpdateFacebookForWoocommerce": {
+      "message": "Actualizar Facebook para WooCommerce"
+   },
+   "reportStatusFailed": {
+      "message": "Error"
+   },
+   "reportStatusSetupIncomplete": {
+      "message": "Configuración incompleta"
+   },
+   "reportStatusSuccess": {
+      "message": "Listo"
+   },
+   "reportSummaryDescription": {
+      "message": "Revisa los estados, las cronologías y las acciones que se realizaron durante tu automatización."
+   },
+   "reportSummaryFailureDescription": {
+      "message": "La automatización no se completó correctamente. Revisa la cronología y los recursos creados antes de que se produjera el error."
+   },
+   "reportSummaryHeading": {
+      "message": "Resumen"
+   },
+   "reportTimelineStarted": {
+      "message": "Empezó el $1"
+   },
+   "reportTitleFailure": {
+      "message": "Error de automatización: $1"
+   },
+   "reportTitleFlow": {
+      "message": "Resumen del flujo de automatización"
+   },
+   "reportTitleSuccess": {
+      "message": "Resumen de automatización: $1"
+   },
+   "required": {
+      "message": "Obligatorio"
+   },
+   "resolutionStepAddingMissingEventsTitle": {
+      "message": "Agrega los eventos que faltan"
+   },
+   "resolutionStepClickToCopy": {
+      "message": "Haz clic para copiar"
+   },
+   "resolutionStepConfirmNewEvents": {
+      "message": "Confirma los eventos nuevos"
+   },
+   "resolutionStepEnableAAMEventsTitle": {
+      "message": "Activa las coincidencias avanzadas automáticas"
+   },
+   "resolutionStepEnableMAMEventsTitle": {
+      "message": "Configura las coincidencias avanzadas manuales"
+   },
+   "resolutionStepInvalidValueCurrencyTitle": {
+      "message": "Actualiza el valor y la divisa"
+   },
+   "resolutionStepLeaveTabOpen": {
+      "message": "Deja esta pestaña abierta"
+   },
+   "resolutionStepOpenEventSetupTool": {
+      "message": "Abre la herramienta de configuración de eventos para tu sitio web"
+   },
+   "resolutionStepOpenWebsiteCode": {
+      "message": "Abre el código de tu sitio web."
+   },
+   "resolutionStepSearchFbqInit": {
+      "message": "Busca**fbq('init'...)** para identificar los lugares donde estás usando el píxel de Meta."
+   },
+   "resolutionStepSearchFbqTrackPurchase": {
+      "message": "Busca el evento de compra registrado de tu píxel."
+   },
+   "resolutionStepUpdateCodeBlock": {
+      "message": "Actualiza el bloque de código para incluir los datos de coincidencias avanzadas a continuación como el tercer parámetro."
+   },
+   "resolutionStepUpdateCurrencyField": {
+      "message": "Actualiza el campo de divisa."
+   },
+   "resolutionStepUpdateValueField": {
+      "message": "Actualiza el campo de valor."
+   },
+   "resolutionStepUserActionRequired": {
+      "message": "Acción del usuario requerida"
+   },
+   "resolutionStepValueFieldInformation": {
+      "message": "Información del campo de valor:"
+   },
+   "resolutionStepValueFieldRequirement1": {
+      "message": "Debe ser un valor numérico superior a 0"
+   },
+   "resolutionStepValueFieldRequirement2": {
+      "message": "Puede incluir la coma de decimal. Por ejemplo, 9,99 o 9."
+   },
+   "resolutionStepValueFieldRequirement3": {
+      "message": "No incluyas números, caracteres especiales ni símbolos adicionales en el parámetro de divisa."
+   },
+   "resolutionStepsDefault": {
+      "message": "Pasos de resolución"
+   },
+   "reviewSuggestionsEmpty": {
+      "message": "No hay eventos sugeridos en este momento."
+   },
+   "reviewSuggestionsIneligible": {
+      "message": "Los eventos sugeridos aún no están disponibles para este píxel."
+   },
+   "reviewSuggestionsLoading": {
+      "message": "Cargando eventos sugeridos…"
+   },
+   "ruleOperator_eq": {
+      "message": "es igual a"
+   },
+   "ruleOperator_gt": {
+      "message": "es mayor que"
+   },
+   "ruleOperator_gte": {
+      "message": "es mayor o igual que"
+   },
+   "ruleOperator_i_contains": {
+      "message": "contiene"
+   },
+   "ruleOperator_i_greater_than_or_equal": {
+      "message": "es mayor o igual que"
+   },
+   "ruleOperator_i_is_any": {
+      "message": "es cualquiera de"
+   },
+   "ruleOperator_i_less_than_or_equal": {
+      "message": "es menor o igual que"
+   },
+   "ruleOperator_i_not_contains": {
+      "message": "no contiene"
+   },
+   "ruleOperator_lt": {
+      "message": "es menor que"
+   },
+   "ruleOperator_lte": {
+      "message": "es menor o igual que"
+   },
+   "ruleOperator_neq": {
+      "message": "no es igual que"
+   },
+   "ruleOperator_or": {
+      "message": "o"
+   },
+   "ruleOperator_regex_match": {
+      "message": "coincide con"
+   },
+   "screenshotGalleryDisclaimer": {
+      "message": "Las capturas de pantalla solo se guardan en tu dispositivo y se borran cuando finaliza la sesión."
+   },
+   "screenshotGalleryTimeDaysAgo": {
+      "message": "Hace $1 d"
+   },
+   "screenshotGalleryTimeHoursAgo": {
+      "message": "Hace $1 h"
+   },
+   "screenshotGalleryTimeJustNow": {
+      "message": "Hace un momento"
+   },
+   "screenshotGalleryTimeMinutesAgo": {
+      "message": "Hace $1 min"
+   },
+   "selector_no_options_available": {
+      "message": "No hay opciones disponibles"
+   },
+   "selector_no_results_found": {
+      "message": "No se encontraron resultados"
+   },
+   "selector_select_placeholder": {
+      "message": "-- Seleccionar --"
+   },
+   "server_container_creation_title": {
+      "message": "Contenedor del servidor"
+   },
+   "server_container_name_label": {
+      "message": "Nombre del contenedor"
+   },
+   "server_container_tagging_url_label": {
+      "message": "URL del servidor de etiquetado"
+   },
+   "settingsDescription": {
+      "message": "Administra fácilmente la configuración del píxel de Meta y optimiza cómo funciona para ti."
+   },
+   "settingsErrorOccurred": {
+      "message": "Se produjo un error"
+   },
+   "settingsOverlayNotificationsDescription": {
+      "message": "Muestra notificaciones contextuales superpuestas en páginas con tus píxeles"
+   },
+   "settingsOverlayNotificationsTitle": {
+      "message": "Notificaciones superpuestas"
+   },
+   "settingsTitle": {
+      "message": "Configuración"
+   },
+   "settingsWaitSpeedFast": {
+      "message": "Rápido"
+   },
+   "settingsWaitSpeedFastDescription": {
+      "message": "Menos de 1 segundo"
+   },
+   "settingsWaitSpeedMedium": {
+      "message": "Moderado"
+   },
+   "settingsWaitSpeedMediumDescription": {
+      "message": "De 2 a 3 segundos"
+   },
+   "settingsWaitSpeedSlow": {
+      "message": "Lento"
+   },
+   "settingsWaitSpeedSlowDescription": {
+      "message": "Más de 5 segundos"
+   },
+   "settingsWaitTimeBetweenActionsTitle": {
+      "message": "Tiempo de espera entre acciones"
+   },
+   "setupAddingAllEventsLabel": {
+      "message": "Agregando todos los eventos"
+   },
+   "setupAddingPixelEventsCardTitle": {
+      "message": "Agregando eventos del píxel"
+   },
+   "setupComplete": {
+      "message": "Configuración completada"
+   },
+   "setupDetailsHeader": {
+      "message": "Información de configuración"
+   },
+   "setupDetailsInfoTooltip": {
+      "message": "Cuando comience la automatización, se completarán los siguientes pasos por ti."
+   },
+   "setupHowItWorksDescription": {
+      "message": "Meta AI analiza tu sitio web, identifica los eventos de conversión clave, como compras, artículos agregados al carrito o clientes potenciales, y los agrega automáticamente como eventos del píxel, sin necesidad de código."
+   },
+   "setupHowItWorksLabel": {
+      "message": "Cómo funciona"
+   },
+   "setupPixelEventsAddedHeader": {
+      "message": "Se agregaron los eventos del píxel"
+   },
+   "setupPixelEventsAddedSubtitle": {
+      "message": "Ahora puedes relajarte y disfrutar de la mejora del rendimiento de tu campaña."
+   },
+   "setupPixelEventsHeader": {
+      "message": "Configura eventos del píxel"
+   },
+   "setupReturnToPreviousPage": {
+      "message": "Volver a la página anterior"
+   },
+   "setup_failed": {
+      "message": "No se pudo realizar la configuración"
+   },
+   "setup_requirements": {
+      "message": "Requisitos de configuración"
+   },
+   "shopifyProductSyncIntroStep1SubA": {
+      "message": "Abre la página de inicio de sesión de administrador de Shopify."
+   },
+   "shopifyProductSyncIntroStep1SubB": {
+      "message": "Inicia sesión en el administrador de Shopify de tu tienda."
+   },
+   "shopifyProductSyncIntroStep1Title": {
+      "message": "Inicia sesión en el administrador de Shopify"
+   },
+   "shopifyProductSyncIntroStep2SubA": {
+      "message": "Haz clic en **Products** (Productos)."
+   },
+   "shopifyProductSyncIntroStep2SubB": {
+      "message": "Haz clic en la pestaña **All** (Todo)."
+   },
+   "shopifyProductSyncIntroStep2SubC": {
+      "message": "Selecciona todos los productos."
+   },
+   "shopifyProductSyncIntroStep2Title": {
+      "message": "Identifica los productos"
+   },
+   "shopifyProductSyncIntroStep3SubA": {
+      "message": "Haz clic en **More options** (Más opciones)."
+   },
+   "shopifyProductSyncIntroStep3SubB": {
+      "message": "Haz clic en **Include in sales channels** (Incluir en canales de ventas)."
+   },
+   "shopifyProductSyncIntroStep3SubC": {
+      "message": "Selecciona **Facebook & Instagram**."
+   },
+   "shopifyProductSyncIntroStep3SubD": {
+      "message": "Haz clic en **Include products** (Incluir productos)."
+   },
+   "shopifyProductSyncIntroStep3Title": {
+      "message": "Incluye productos"
+   },
+   "showAllEvents": {
+      "message": "Mostrar todos los eventos"
+   },
+   "showAllPixels": {
+      "message": "Mostrar todos los píxeles"
+   },
+   "showAllWarnings": {
+      "message": "Mostrar todas las advertencias"
+   },
+   "showLess": {
+      "message": "Mostrar menos"
+   },
+   "showLessEvents": {
+      "message": "Mostrar menos eventos"
+   },
+   "showMore": {
+      "message": "Mostrar más"
+   },
+   "stepResumeTooltip": {
+      "message": "Asegúrate de completar la acción que se indica arriba de forma manual antes de continuar."
+   },
+   "suggestionButtonTextLabel": {
+      "message": "El texto del botón es \"$1\""
+   },
+   "suggestionExampleUrlsLabel": {
+      "message": "Ejemplos de URL: $1"
+   },
+   "switcherCatalogSingular": {
+      "message": "$1 catálogo"
+   },
+   "switcherCatalogsPlural": {
+      "message": "$1 catálogos"
+   },
+   "switcherPixelsPlural": {
+      "message": "$1 píxeles"
+   },
+   "switcherPixelsSingular": {
+      "message": "$1 píxel"
+   },
+   "testEventsHeader": {
+      "message": "Eventos de prueba"
+   },
+   "topActionsSectionHeader": {
+      "message": "Tus acciones principales"
+   },
+   "topActionsSectionSubHeader": {
+      "message": "Según tu configuración"
+   },
+   "triggerEventDetection": {
+      "message": "Detecta eventos sugeridos"
+   },
+   "useMetaEventSetupToolForWeb": {
+      "message": "Usa la herramienta de configuración de eventos de Meta para la web"
+   },
+   "verificationFailedCancelButton": {
+      "message": "Cancelar automatización"
+   },
+   "verificationFailedMessage": {
+      "message": "No pudimos detectar el estado de esta acción. Si el error persiste, puedes cancelar la automatización y continuar con la configuración manual."
+   },
+   "verificationFailedTitle": {
+      "message": "Vuelve a intentarlo"
+   },
+   "verificationFailedTryAgainButton": {
+      "message": "Intentar de nuevo"
+   },
+   "verificationInProgressMessage": {
+      "message": "Comprobando si se completó la acción"
+   },
+   "warningsHeader": {
+      "message": "Advertencias"
+   },
+   "web_container_creation_title": {
+      "message": "Contenedor web"
+   },
+   "web_container_name_label": {
+      "message": "Nombre del contenedor"
+   },
+   "what_we_will_create_title": {
+      "message": "Qué crearemos para ti"
+   },
+   "wooCommerceIntroSetUpForMeButton": {
+      "message": "Configurar para mí"
+   },
+   "wooCommerceIntroStep1SubA": {
+      "message": "Abre el panel para administradores de WordPress."
+   },
+   "wooCommerceIntroStep1SubB": {
+      "message": "Inicia sesión en tu cuenta de WordPress."
+   },
+   "wooCommerceIntroStep1Title": {
+      "message": "Inicia sesión en WordPress"
+   },
+   "wooCommerceIntroStep2SubA": {
+      "message": "Ve al panel de la izquierda, selecciona **Plugins** y, luego, **Add plugins** (Agregar plugins)."
+   },
+   "wooCommerceIntroStep2SubB": {
+      "message": "Haz clic en **Add Plugin** (Agregar plugin)."
+   },
+   "wooCommerceIntroStep2SubC": {
+      "message": "Ve a la barra de búsqueda en la parte superior de la página."
+   },
+   "wooCommerceIntroStep2SubD": {
+      "message": "Busca el plugin de Meta para WooCommerce."
+   },
+   "wooCommerceIntroStep2SubE": {
+      "message": "Desplázate hasta el plugin de Meta para WooCommerce y haz clic en **Install Now** (Instalar ahora)."
+   },
+   "wooCommerceIntroStep2Title": {
+      "message": "Instala el plugin"
+   },
+   "wooCommerceIntroStep3SubA": {
+      "message": "Una vez instalado Meta para WooCommerce, haz clic en **Activate** (Activar)."
+   },
+   "wooCommerceIntroStep3SubB": {
+      "message": "Ve a la página **Plugins** en el panel de la izquierda."
+   },
+   "wooCommerceIntroStep3SubC": {
+      "message": "Desplázate hasta el plugin de Meta para WooCommerce y haz clic en **Configure** (Configurar)."
+   },
+   "wooCommerceIntroStep3SubD": {
+      "message": "En la pantalla de configuración, haz clic en **Get started** (Empezar)."
+   },
+   "wooCommerceIntroStep3Title": {
+      "message": "Activa el plugin"
+   },
+   "wooCommerceUpdateIntroStep2SubA": {
+      "message": "Abre la página \"Add plugins\" (Agregar plugins)."
+   },
+   "wooCommerceUpdateIntroStep2SubB": {
+      "message": "Desplázate hasta el plugin de Meta para WooCommerce."
+   },
+   "wooCommerceUpdateIntroStep2SubC": {
+      "message": "Haz clic en **Update now** (Actualizar ahora)."
+   },
+   "wooCommerceUpdateIntroStep2Title": {
+      "message": "Actualiza el plugin"
+   }
+}

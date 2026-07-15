@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Report Frame</title>
+  </head>
+  <body>
+    <script>
+      window.addEventListener('message', function (event) {
+        // Only accept messages from our parent (report-viewer.html). Without this,
+        // any window that gets a handle to this frame could inject HTML.
+        if (event.source !== window.parent) return;
+        var data = event.data;
+        if (!data || data.type !== 'sbe-report-html' || typeof data.html !== 'string') return;
+        if (typeof data.anchor === 'string' && /^[A-Za-z0-9_-]+$/.test(data.anchor)) {
+          window.location.hash = data.anchor;
+        }
+        document.open();
+        document.write(data.html);
+        document.close();
+      });
+      parent.postMessage({ type: 'sbe-report-frame-ready' }, '*');
+    </script>
+  </body>
+</html>

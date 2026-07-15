@@ -1,0 +1,3335 @@
+{
+   "aamConfirmButton": {
+      "message": "Xác nhận"
+   },
+   "aamEditButton": {
+      "message": "Chỉnh sửa"
+   },
+   "aamFieldCityStatePostal": {
+      "message": "Tỉnh/thành phố, tiểu bang, mã ZIP/mã bưu chính"
+   },
+   "aamFieldCountry": {
+      "message": "Quốc gia"
+   },
+   "aamFieldDateOfBirth": {
+      "message": "Ngày sinh"
+   },
+   "aamFieldEmail": {
+      "message": "Email"
+   },
+   "aamFieldExternalId": {
+      "message": "ID bên ngoài"
+   },
+   "aamFieldFirstLastName": {
+      "message": "Họ và tên"
+   },
+   "aamFieldGender": {
+      "message": "Giới tính"
+   },
+   "aamFieldPhoneNumber": {
+      "message": "Số điện thoại"
+   },
+   "aamInfoDescription": {
+      "message": "Tính năng So khớp nâng cao tự động sử dụng dữ liệu khách hàng đã cung cấp cho doanh nghiệp của bạn (ví dụ: email hoặc số điện thoại) để so khớp khách truy cập cũng dùng Meta."
+   },
+   "aamNoEditPermissionTooltip": {
+      "message": "Không có quyền chỉnh sửa. Hãy liên hệ với quản trị viên"
+   },
+   "aamStepConfirmFieldsDescription": {
+      "message": "Xác nhận các trường bạn muốn gửi"
+   },
+   "aamStepUserActionRequired": {
+      "message": "Cần hành động của người dùng"
+   },
+   "aboutAdvancedMatchingForWeb": {
+      "message": "Giới thiệu về tính năng so khớp nâng cao cho web"
+   },
+   "aboutEventSetupTool": {
+      "message": "Giới thiệu về công cụ thiết lập sự kiện"
+   },
+   "actionAddMissingEventsCtaLabel": {
+      "message": "Thiết lập cho tôi"
+   },
+   "actionAddMissingEventsDescription": {
+      "message": "Dễ dàng nâng cao hiệu quả quảng cáo và độ chính xác khi đo lường bằng cách bổ sung sự kiện còn thiếu vào cách thiết lập."
+   },
+   "actionAddMissingEventsHeader": {
+      "message": "Thêm sự kiện bị thiếu"
+   },
+   "actionAutomatableValueLabel": {
+      "message": "Có thể tự động hóa"
+   },
+   "actionCAPIGTMProductRecommendationHeader": {
+      "message": "Chia sẻ dữ liệu một cách an toàn thông qua Trình quản lý thẻ của Google"
+   },
+   "actionCAPIGTMSetupDescription": {
+      "message": "Cách làm này tinh giản quy trình triển khai và quản lý thẻ, qua đó tạo điều kiện theo dõi sự kiện hiệu quả mà không cần thay đổi mã để cải thiện hiệu quả marketing."
+   },
+   "actionCAPIGTMSetupHeader": {
+      "message": "Thiết lập API Chuyển đổi với Trình quản lý thẻ của Google"
+   },
+   "actionCAPIGeneralSetupDescription": {
+      "message": "Tận dụng tối đa dữ liệu đo được trên trang web và góp phần giảm chi phí trên mỗi kết quả."
+   },
+   "actionCAPIGeneralSetupHeader": {
+      "message": "Thiết lập API Chuyển đổi"
+   },
+   "actionCAPISalesforceCRMSetupDescription": {
+      "message": "Với cách thiết lập tự động, bạn có thể dễ dàng theo dõi chính xác, theo thời gian thực các sự kiện giữa những máy chủ, nhằm có được thông tin chi tiết về khách hàng và hoạt động marketing hiệu quả hơn."
+   },
+   "actionCAPISalesforceCRMSetupHeader": {
+      "message": "Thiết lập API Chuyển đổi với Salesforce CRM"
+   },
+   "actionCardDatasetTooltip": {
+      "message": "Đi đến Trình quản lý sự kiện để xem tập dữ liệu này"
+   },
+   "actionCatalogUpsellCtaLabel": {
+      "message": "Thêm sản phẩm"
+   },
+   "actionCatalogUpsellDescription": {
+      "message": "Thu hút đối tượng mới và mang đến trải nghiệm mua sắm phù hợp với từng người dựa trên mối quan tâm cũng như hành vi của họ. Khuyến khích khách hàng đi từ giai đoạn cân nhắc đến mua hàng bằng nhiều định dạng quảng cáo."
+   },
+   "actionCatalogUpsellHeader": {
+      "message": "Thêm sản phẩm vào danh mục trên Meta và thúc đẩy tối đa hiệu quả quảng cáo"
+   },
+   "actionFixInvalidValueCurrencyDescription": {
+      "message": "Khi sửa thông số giá trị và đơn vị tiền tệ không hợp lệ cho sự kiện mua hàng trên trang web, bạn có thể báo cáo chính xác và tối ưu hóa chiến dịch một cách hiệu quả hơn."
+   },
+   "actionFixInvalidValueCurrencyHeader": {
+      "message": "Khắc phục thông số giá trị và đơn vị tiền tệ không hợp lệ"
+   },
+   "actionFreeCAPIGOneClickDescription": {
+      "message": "Tự động gửi sự kiện pixel ở phía máy chủ - không cần thiết lập kỹ thuật, không cần thẻ bổ sung. Chúng tôi sẽ tạo kết nối cho bạn."
+   },
+   "actionFreeCAPIGOneClickHeader": {
+      "message": "API Chuyển đổi do Meta hỗ trợ"
+   },
+   "actionFreeCAPIGOneClickTooltip": {
+      "message": "Khi bạn nhấp vào, hệ thống sẽ bật hoạt động phân phối sự kiện phía máy chủ do Meta lưu trữ cho doanh nghiệp này. Bạn có thể thay đổi lựa chọn này sau trong Trình quản lý sự kiện."
+   },
+   "actionFreeCAPIGOneClickValueLift": {
+      "message": "Chi phí trên mỗi kết quả giảm 17,8%"
+   },
+   "actionFreeCAPIGOneClickViewDetails": {
+      "message": "Xem chi tiết"
+   },
+   "actionInstallFacebookForWooCommerceCtaLabel": {
+      "message": "Bắt đầu"
+   },
+   "actionInstallFacebookForWooCommercePluginDescription": {
+      "message": "Meta for WooCommerce đảm bảo cửa hàng của bạn luôn đồng bộ với Facebook, Instagram và WhatsApp. Bạn giảm được công việc quản trị và có thêm thời gian cho hoạt động kinh doanh."
+   },
+   "actionInstallFacebookForWooCommercePluginHeader": {
+      "message": "Cài đặt plugin Meta for WooCommerce"
+   },
+   "actionInstallFacebookForWooCommercePluginSubtitle": {
+      "message": "Tiết kiệm thời gian và hiển thị sản phẩm phù hợp với đúng người."
+   },
+   "actionSetupMamAamDescription": {
+      "message": "Tính năng So khớp nâng cao mang đến nhiều lượt chuyển đổi hơn cho quảng cáo để tiếp cận thêm nhiều người thông qua chiến dịch tiếp thị lại."
+   },
+   "actionSetupMamAamHeader": {
+      "message": "Thiết lập tính năng So khớp nâng cao"
+   },
+   "actionShopifyProductSyncCtaLabel": {
+      "message": "Bắt đầu"
+   },
+   "actionShopifyProductSyncDescription": {
+      "message": "Một số ID nội dung trên trang này không so khớp được với sản phẩm trong danh mục của bạn. Hãy dùng tính năng đồng bộ sản phẩm trên Shopify để thêm sản phẩm còn thiếu."
+   },
+   "actionShopifyProductSyncHeader": {
+      "message": "Đồng bộ sản phẩm còn thiếu từ Shopify"
+   },
+   "actionSignalsGatewayGTMSetupDescription": {
+      "message": "Nhờ vậy, bạn có thể dễ dàng theo dõi chính xác, theo thời gian thực các sự kiện giữa những máy chủ, nhằm có được thông tin chi tiết về khách hàng và hoạt động marketing hiệu quả hơn."
+   },
+   "actionSignalsGatewayGTMSetupHeader": {
+      "message": "Thiết lập Signals Gateway Pixel với Trình quản lý thẻ của Google"
+   },
+   "actionUpdateFacebookForWooCommerceCtaLabel": {
+      "message": "Cập nhật plugin"
+   },
+   "actionUpdateFacebookForWooCommercePluginDescription": {
+      "message": "Cập nhật ngay để tận hưởng những điểm cải thiện mới nhất, cũng như đảm bảo cửa hàng của bạn đồng bộ liền mạch với Facebook, Instagram và WhatsApp."
+   },
+   "actionUpdateFacebookForWooCommercePluginHeader": {
+      "message": "Cập nhật plugin Meta for WooCommerce"
+   },
+   "actionUpdateFacebookForWooCommercePluginSubtitle": {
+      "message": "Plugin đã có phiên bản mới."
+   },
+   "addMissingEventsCancel": {
+      "message": "Hủy"
+   },
+   "addMissingEventsHeader": {
+      "message": "Thêm sự kiện bị thiếu"
+   },
+   "addMissingEventsMoreDatasets": {
+      "message": "$1 tập dữ liệu khác"
+   },
+   "addMissingEventsNextSteps": {
+      "message": "Bước tiếp theo"
+   },
+   "addMissingEventsPotentialBadge": {
+      "message": "CPR có thể giảm 1%"
+   },
+   "addMissingEventsSetUpForMe": {
+      "message": "Thiết lập cho tôi"
+   },
+   "addMissingEventsSubtitle": {
+      "message": "Thêm sự kiện pixel còn thiếu để bắt đầu theo dõi và tối ưu hóa sự kiện chuyển đổi nhằm cải thiện kết quả quảng cáo."
+   },
+   "addMissingEventsTimeEstimate": {
+      "message": "\u003C 1 phút"
+   },
+   "add_more_label": {
+      "message": "Thêm tài sản khác"
+   },
+   "additionalRecommendation": {
+      "message": "đề xuất khác"
+   },
+   "additionalRecommendations": {
+      "message": "đề xuất khác"
+   },
+   "agenticActionAskUserSelect": {
+      "message": "Yêu cầu bạn chọn"
+   },
+   "agenticActionCaptureDropdown": {
+      "message": "Lấy lựa chọn trong menu thả xuống từ $1"
+   },
+   "agenticActionCaptureDropdownActive": {
+      "message": "Đang lấy lựa chọn trong menu thả xuống từ $1"
+   },
+   "agenticActionCaptureDropdownPast": {
+      "message": "Đã lấy lựa chọn trong menu thả xuống từ $1"
+   },
+   "agenticActionCaptureStoreAsDetail": {
+      "message": "Lưu trữ dưới dạng $1"
+   },
+   "agenticActionClick": {
+      "message": "Nhấp vào $1"
+   },
+   "agenticActionClickActive": {
+      "message": "Đang nhấp vào $1"
+   },
+   "agenticActionClickPast": {
+      "message": "Đã nhấp vào $1"
+   },
+   "agenticActionCloseTab": {
+      "message": "Đóng tab $1"
+   },
+   "agenticActionCloseTabActive": {
+      "message": "Đang đóng $1"
+   },
+   "agenticActionCloseTabPast": {
+      "message": "Đã đóng $1"
+   },
+   "agenticActionCopyMatchDetail": {
+      "message": "So khớp $1"
+   },
+   "agenticActionCopyMatchingText": {
+      "message": "Sao chép văn bản khớp vào bộ nhớ đệm $1"
+   },
+   "agenticActionCopyMatchingTextActive": {
+      "message": "Đang sao chép văn bản khớp vào bộ nhớ đệm $1"
+   },
+   "agenticActionCopyMatchingTextPast": {
+      "message": "Đã sao chép văn bản khớp vào bộ nhớ đệm $1"
+   },
+   "agenticActionCopyTextFromTarget": {
+      "message": "Sao chép văn bản từ $1 vào bộ nhớ đệm $2"
+   },
+   "agenticActionCopyTextFromTargetActive": {
+      "message": "Đang sao chép văn bản từ $1 vào bộ nhớ đệm $2"
+   },
+   "agenticActionCopyTextFromTargetPast": {
+      "message": "Đã sao chép văn bản từ $1 vào bộ nhớ đệm $2"
+   },
+   "agenticActionCopyVisibleText": {
+      "message": "Sao chép văn bản hiển thị vào bộ nhớ đệm $1"
+   },
+   "agenticActionCopyVisibleTextActive": {
+      "message": "Đang sao chép văn bản hiển thị vào bộ nhớ đệm $1"
+   },
+   "agenticActionCopyVisibleTextPast": {
+      "message": "Đã sao chép văn bản hiển thị vào bộ nhớ đệm $1"
+   },
+   "agenticActionGetDropdownOptions": {
+      "message": "Đọc lựa chọn từ $1"
+   },
+   "agenticActionGoToUrl": {
+      "message": "Đi đến $1"
+   },
+   "agenticActionHover": {
+      "message": "Di chuột qua $1"
+   },
+   "agenticActionNeededTitle": {
+      "message": "Cần hành động"
+   },
+   "agenticActionOpenNewTab": {
+      "message": "Mở tab mới"
+   },
+   "agenticActionOpenPage": {
+      "message": "Mở trang mới"
+   },
+   "agenticActionOpenPageActive": {
+      "message": "Đang mở trang mới"
+   },
+   "agenticActionOpenPagePast": {
+      "message": "Đã mở trang mới"
+   },
+   "agenticActionOpenRelativePath": {
+      "message": "Mở đường dẫn liên quan"
+   },
+   "agenticActionOpenRelativePathActive": {
+      "message": "Đang mở đường dẫn liên quan"
+   },
+   "agenticActionOpenRelativePathPast": {
+      "message": "Đã mở đường dẫn liên quan"
+   },
+   "agenticActionOpenTab": {
+      "message": "Mở tab đến $1"
+   },
+   "agenticActionOpenTabActive": {
+      "message": "Đang mở tab mới"
+   },
+   "agenticActionOpenTabDestinationDetail": {
+      "message": "Đích đến: $1"
+   },
+   "agenticActionOpenTabPast": {
+      "message": "Đã mở một tab mới"
+   },
+   "agenticActionPaste": {
+      "message": "Dán vào $1"
+   },
+   "agenticActionPasteSourceDetail": {
+      "message": "Bộ nhớ đệm nguồn: $1"
+   },
+   "agenticActionPasteText": {
+      "message": "Dán văn bản đã lưu vào $1"
+   },
+   "agenticActionPasteTextActive": {
+      "message": "Đang dán văn bản đã lưu vào $1"
+   },
+   "agenticActionPasteTextPast": {
+      "message": "Đã dán văn bản đã lưu vào $1"
+   },
+   "agenticActionReloadPage": {
+      "message": "Tải lại trang"
+   },
+   "agenticActionReloadPageActive": {
+      "message": "Đang tải lại trang"
+   },
+   "agenticActionReloadPagePast": {
+      "message": "Đã tải lại trang"
+   },
+   "agenticActionScrollBottom": {
+      "message": "Cuộn xuống cuối"
+   },
+   "agenticActionScrollBottomActive": {
+      "message": "Đang cuộn xuống cuối trang"
+   },
+   "agenticActionScrollBottomPast": {
+      "message": "Đã cuộn xuống cuối trang"
+   },
+   "agenticActionScrollElementPercent": {
+      "message": "Cuộn $1 đến $2%"
+   },
+   "agenticActionScrollIntoViewDetail": {
+      "message": "Cuộn trước khi tương tác với thành phần nằm ngoài màn hình."
+   },
+   "agenticActionScrollPercent": {
+      "message": "Cuộn đến $1%"
+   },
+   "agenticActionScrollPercentActive": {
+      "message": "Đang cuộn $1 đến $2"
+   },
+   "agenticActionScrollPercentPage": {
+      "message": "trang"
+   },
+   "agenticActionScrollPercentPast": {
+      "message": "Đã cuộn $1 đến $2"
+   },
+   "agenticActionScrollTo": {
+      "message": "Cuộn đến $1"
+   },
+   "agenticActionScrollToActive": {
+      "message": "Đang cuộn đến $1"
+   },
+   "agenticActionScrollToPast": {
+      "message": "Đã cuộn đến $1"
+   },
+   "agenticActionScrollTop": {
+      "message": "Cuộn lên đầu"
+   },
+   "agenticActionScrollTopActive": {
+      "message": "Đang cuộn lên đầu trang"
+   },
+   "agenticActionScrollTopPast": {
+      "message": "Đã cuộn lên đầu trang"
+   },
+   "agenticActionSelect": {
+      "message": "Chọn $1 trong $2"
+   },
+   "agenticActionSelectActive": {
+      "message": "Đang chọn $1 trong $2"
+   },
+   "agenticActionSelectPast": {
+      "message": "Đã chọn $1 trong $2"
+   },
+   "agenticActionSfAskOpportunityPreference": {
+      "message": "Hỏi về việc theo dõi Cơ hội"
+   },
+   "agenticActionSfConfirmFieldMappings": {
+      "message": "Xác nhận cách ánh xạ trường thông tin"
+   },
+   "agenticActionSfGetFieldMappings": {
+      "message": "Nhận thông tin đối ghép trường được đề xuất"
+   },
+   "agenticActionSfMutateWebhookIntegration": {
+      "message": "Thiết lập tiện ích tích hợp webhook"
+   },
+   "agenticActionSwitchTab": {
+      "message": "Chuyển sang tab $1"
+   },
+   "agenticActionSwitchTabActive": {
+      "message": "Đang chuyển sang $1"
+   },
+   "agenticActionSwitchTabPast": {
+      "message": "Đã chuyển sang $1"
+   },
+   "agenticActionTypeInto": {
+      "message": "Nhập vào $1"
+   },
+   "agenticActionTypeIntoActive": {
+      "message": "Đang nhập vào $1"
+   },
+   "agenticActionTypeIntoPast": {
+      "message": "Đã nhập vào $1"
+   },
+   "agenticAskUserSelectDescriptionFallback": {
+      "message": "Chọn một lựa chọn để tiếp tục."
+   },
+   "agenticAskUserSelectFieldLabel": {
+      "message": "Lựa chọn"
+   },
+   "agenticAskUserSelectPlaceholder": {
+      "message": "Chọn một mục"
+   },
+   "agenticConnectionFailed": {
+      "message": "Không kết nối lại được. Vui lòng làm mới trang."
+   },
+   "agenticConnectionReconnecting": {
+      "message": "Mất kết nối. Đang kết nối lại... ($1/$2)"
+   },
+   "agenticDefaultWaitPrompt": {
+      "message": "Hãy hoàn tất hành động theo yêu cầu."
+   },
+   "agenticElementNameOnly": {
+      "message": "\"$1\""
+   },
+   "agenticElementNounAccordion": {
+      "message": "khối có thể thu gọn/mở rộng"
+   },
+   "agenticElementNounBanner": {
+      "message": "biểu ngữ"
+   },
+   "agenticElementNounButton": {
+      "message": "nút"
+   },
+   "agenticElementNounCard": {
+      "message": "thẻ"
+   },
+   "agenticElementNounCell": {
+      "message": "ô"
+   },
+   "agenticElementNounCheckbox": {
+      "message": "ô để đánh dấu"
+   },
+   "agenticElementNounChip": {
+      "message": "viên"
+   },
+   "agenticElementNounDialog": {
+      "message": "hộp thoại"
+   },
+   "agenticElementNounDropdown": {
+      "message": "menu thả xuống"
+   },
+   "agenticElementNounElement": {
+      "message": "thành phần"
+   },
+   "agenticElementNounFileInput": {
+      "message": "mục tải file lên"
+   },
+   "agenticElementNounImage": {
+      "message": "hình ảnh"
+   },
+   "agenticElementNounInputField": {
+      "message": "Trường thông tin đầu vào"
+   },
+   "agenticElementNounItem": {
+      "message": "mục"
+   },
+   "agenticElementNounLink": {
+      "message": "liên kết"
+   },
+   "agenticElementNounMenu": {
+      "message": "menu"
+   },
+   "agenticElementNounOption": {
+      "message": "lựa chọn"
+   },
+   "agenticElementNounPanel": {
+      "message": "bảng"
+   },
+   "agenticElementNounRadioButton": {
+      "message": "nút radio"
+   },
+   "agenticElementNounRow": {
+      "message": "hàng"
+   },
+   "agenticElementNounStep": {
+      "message": "bước"
+   },
+   "agenticElementNounSubmitButton": {
+      "message": "Nút Gửi"
+   },
+   "agenticElementNounTab": {
+      "message": "tab"
+   },
+   "agenticElementNounTextArea": {
+      "message": "khu vực văn bản"
+   },
+   "agenticElementNounTile": {
+      "message": "ô"
+   },
+   "agenticElementNounToggle": {
+      "message": "bật/tắt"
+   },
+   "agenticElementWithName": {
+      "message": "$2 \"$1\""
+   },
+   "agenticErrorApi": {
+      "message": "Không kết nối được với dịch vụ AI. Thử lại?"
+   },
+   "agenticErrorRateLimit": {
+      "message": "Dịch vụ AI đang bận. Vui lòng chờ hoặc thử lại sau giây lát."
+   },
+   "agenticErrorTimeout": {
+      "message": "AI cần nhiều thời gian hơn dự kiến. Thử lại?"
+   },
+   "agenticErrorTitle": {
+      "message": "Lỗi"
+   },
+   "agenticErrorUnknown": {
+      "message": "Đã xảy ra lỗi. Thử lại?"
+   },
+   "agenticNavigationPageLoadFailed": {
+      "message": "Không tải được trang. Đang thử lại..."
+   },
+   "agenticNavigationReorienting": {
+      "message": "Trang đã bất ngờ chuyển hướng. Đang định hướng lại..."
+   },
+   "agenticPleaseCompleteAction": {
+      "message": "Hãy hoàn tất hành động để tiếp tục"
+   },
+   "agenticReconnectNow": {
+      "message": "Kết nối lại ngay"
+   },
+   "agenticResyncWithPage": {
+      "message": "Đồng bộ lại với trang"
+   },
+   "agenticScrollPercentFallback": {
+      "message": "điểm được yêu cầu"
+   },
+   "agenticTabFallbackById": {
+      "message": "tab $1"
+   },
+   "agenticTabFallbackSelected": {
+      "message": "tab đã chọn"
+   },
+   "agenticThinking": {
+      "message": "Đang nghĩ..."
+   },
+   "agenticTryAgain": {
+      "message": "Thử lại"
+   },
+   "agenticVerbClick": {
+      "message": "Nhấp"
+   },
+   "agenticVerbCopyText": {
+      "message": "Sao chép văn bản"
+   },
+   "agenticVerbEnterText": {
+      "message": "Nhập văn bản"
+   },
+   "agenticVerbPasteText": {
+      "message": "Dán văn bản"
+   },
+   "agenticVerbReadDropdown": {
+      "message": "Đọc lựa chọn trong menu thả xuống"
+   },
+   "agenticVerbScrollToElement": {
+      "message": "Cuộn đến thành phần"
+   },
+   "agenticVerbSelectOption": {
+      "message": "Chọn mục"
+   },
+   "agenticWaitingForAction": {
+      "message": "Đang chờ bạn hành động…"
+   },
+   "allRecommendationsHeader": {
+      "message": "Tất cả đề xuất"
+   },
+   "automatableBadge": {
+      "message": "Tự động hóa"
+   },
+   "automationFlowCompleteTitle": {
+      "message": "Thiết lập Trình quản lý thẻ của Google"
+   },
+   "automationSuccessFeedbackCommentPlaceholder": {
+      "message": "Không bắt buộc: thêm bình luận"
+   },
+   "automationSuccessFeedbackFallbackName": {
+      "message": "Quy trình tự động hóa"
+   },
+   "automationSuccessFeedbackPromptTitle": {
+      "message": "Kết quả này ra sao?"
+   },
+   "automationSuccessFeedbackStarLabel": {
+      "message": "đánh giá theo sao"
+   },
+   "automationSuccessFeedbackSubmitError": {
+      "message": "Không gửi được ý kiến đóng góp"
+   },
+   "buttonLoading": {
+      "message": "Đang tải"
+   },
+   "buttonStartEventSetupTool": {
+      "message": "Thiết lập sự kiện"
+   },
+   "buttonTroubleshootPixel": {
+      "message": "Khắc phục sự cố pixel"
+   },
+   "cancelAutomationCancelButton": {
+      "message": "Hủy tự động hóa"
+   },
+   "cancelAutomationCancellingButton": {
+      "message": "Đang hủy..."
+   },
+   "cancelAutomationFromVerificationCancelButton": {
+      "message": "Hủy quy trình tự động hóa"
+   },
+   "cancelAutomationFromVerificationMessage": {
+      "message": "Chúng tôi vẫn chưa xác minh được trạng thái của hành động này. Hãy hủy quy trình tự động hóa để tự thiết lập."
+   },
+   "cancelAutomationFromVerificationTitle": {
+      "message": "Hủy quy trình tự động hóa"
+   },
+   "cancelAutomationFromVerificationTryAgainButton": {
+      "message": "Thử lại"
+   },
+   "cancelAutomationResumeButton": {
+      "message": "Tiếp tục tự động hóa"
+   },
+   "cancelAutomationTitle": {
+      "message": "Bạn có chắc chắn muốn đóng và hủy tự động hóa không?"
+   },
+   "cancelSetupCancelButton": {
+      "message": "Hủy thiết lập"
+   },
+   "cancelSetupResumeButton": {
+      "message": "Tiếp tục thiết lập"
+   },
+   "cancelSetupTitle": {
+      "message": "Bạn có chắc chắn muốn đóng và hủy thiết lập không?"
+   },
+   "capiFieldCity": {
+      "message": "Thành phố"
+   },
+   "capiFieldClickId": {
+      "message": "ID lượt click"
+   },
+   "capiFieldCountry": {
+      "message": "Quốc gia"
+   },
+   "capiFieldDateOfBirth": {
+      "message": "Ngày sinh"
+   },
+   "capiFieldEmail": {
+      "message": "Email"
+   },
+   "capiFieldEventName": {
+      "message": "Tên sự kiện"
+   },
+   "capiFieldEventTime": {
+      "message": "Thời gian diễn ra sự kiện"
+   },
+   "capiFieldExternalId": {
+      "message": "ID bên ngoài"
+   },
+   "capiFieldFirstName": {
+      "message": "Tên"
+   },
+   "capiFieldGender": {
+      "message": "Giới tính"
+   },
+   "capiFieldLastName": {
+      "message": "Họ"
+   },
+   "capiFieldLeadId": {
+      "message": "ID khách hàng tiềm năng trên Meta"
+   },
+   "capiFieldPhone": {
+      "message": "Số điện thoại"
+   },
+   "capiFieldState": {
+      "message": "Tiểu bang"
+   },
+   "capiFieldZipCode": {
+      "message": "Mã ZIP"
+   },
+   "catalogConnectedTo": {
+      "message": "Đã kết nối với $1"
+   },
+   "catalogConnections": {
+      "message": "Kết nối"
+   },
+   "catalogCsvHeaderHowToFix": {
+      "message": "Cách sửa lỗi"
+   },
+   "catalogCsvHeaderIssueType": {
+      "message": "Loại vấn đề"
+   },
+   "catalogCsvHeaderMoreInfo": {
+      "message": "Thông tin khác"
+   },
+   "catalogCsvHeaderSampleType": {
+      "message": "Loại mẫu"
+   },
+   "catalogCsvHeaderSampleValue": {
+      "message": "Giá trị mẫu"
+   },
+   "catalogCsvHeaderTotalReceived": {
+      "message": "Tổng số đã nhận"
+   },
+   "catalogCsvHowToFixText": {
+      "message": "Tìm hiểu cách thêm sản phẩm vào danh mục: https://www.facebook.com/business/help/384041892421495?id=725943027795860"
+   },
+   "catalogCsvMoreInfoText": {
+      "message": "Thêm sản phẩm cho ID nội dung này trong danh mục hoặc đảm bảo rằng bạn đang gửi đúng ID nội dung trong sự kiện của mình"
+   },
+   "catalogCsvUnmatchedEvents": {
+      "message": "Sự kiện không khớp"
+   },
+   "catalogEventNameAddToCart": {
+      "message": "Thêm vào giỏ hàng"
+   },
+   "catalogEventNameAddToWishlist": {
+      "message": "Thêm vào danh sách mong ước"
+   },
+   "catalogEventNameInitiateCheckout": {
+      "message": "Bắt đầu thanh toán"
+   },
+   "catalogEventNameLead": {
+      "message": "Tìm kiếm khách hàng tiềm năng"
+   },
+   "catalogEventNamePurchase": {
+      "message": "Mua hàng"
+   },
+   "catalogEventNameSearch": {
+      "message": "Tìm kiếm"
+   },
+   "catalogEventNameSubscribe": {
+      "message": "Đăng ký"
+   },
+   "catalogEventNameViewContent": {
+      "message": "Lượt xem trang"
+   },
+   "catalogFooterManageConnection": {
+      "message": "Quản lý kết nối"
+   },
+   "catalogFooterViewInCommerceManager": {
+      "message": "Xem trong Công cụ quản lý thương mại"
+   },
+   "catalogLiveMatchCount": {
+      "message": "Đã so khớp $1/$2 sản phẩm"
+   },
+   "catalogLoadError": {
+      "message": "Không tải được dữ liệu danh mục"
+   },
+   "catalogManageCatalogConnections": {
+      "message": "Quản lý kết nối danh mục"
+   },
+   "catalogMatchRate": {
+      "message": "Tỷ lệ khớp với danh mục $1%"
+   },
+   "catalogMatchRateAdsImpactedBody": {
+      "message": "Với tỷ lệ $1%, bạn sẽ có ít sản phẩm để nhắm mục tiêu quảng cáo. Yếu tố này có thể khiến đối tượng có quy mô nhỏ hơn, chi phí cao hơn và doanh số thấp hơn."
+   },
+   "catalogMatchRateAdsImpactedFollowup": {
+      "message": "Xem phần bên dưới để biết cách cải thiện tỷ lệ khớp."
+   },
+   "catalogMatchRateAdsImpactedTitle": {
+      "message": "Quảng cáo của bạn có thể chịu tác động"
+   },
+   "catalogMatchRateByEventHeader": {
+      "message": "Sản phẩm khớp theo sự kiện"
+   },
+   "catalogMatchRateDescription": {
+      "message": "số lượt tương tác với sản phẩm khớp với sản phẩm trong danh mục này"
+   },
+   "catalogMatchRateHeader": {
+      "message": "Tỷ lệ khớp với danh mục"
+   },
+   "catalogMatchRateImproveStep1Body": {
+      "message": "Đảm bảo tất cả sản phẩm đều có trong danh mục."
+   },
+   "catalogMatchRateImproveStep1Title": {
+      "message": "Xem lại sản phẩm đã đồng bộ"
+   },
+   "catalogMatchRateImproveStep2Body": {
+      "message": "ID sản phẩm phải khớp chính xác với danh mục."
+   },
+   "catalogMatchRateImproveStep2Title": {
+      "message": "Xác minh ID sản phẩm"
+   },
+   "catalogMatchRateImproveStep3Body": {
+      "message": "Đảm bảo sự kiện chuyển đổi và pixel đang hoạt động đúng cách."
+   },
+   "catalogMatchRateImproveStep3Title": {
+      "message": "Xác minh thiết lập sự kiện"
+   },
+   "catalogMatchRateImproveTitle": {
+      "message": "Cải thiện tỷ lệ khớp của sản phẩm"
+   },
+   "catalogMatchRateLearnMore": {
+      "message": "Tìm hiểu thêm"
+   },
+   "catalogMatchRateMissing": {
+      "message": "Thiếu"
+   },
+   "catalogMatchRateTimeframe": {
+      "message": "Trên tất cả các trang web đã kết nối trong 28 ngày qua"
+   },
+   "catalogMatchRateWarning": {
+      "message": "Bạn nên duy trì tỷ lệ khớp với danh mục ở mức trên 90%."
+   },
+   "catalogMenuCopyCatalogId": {
+      "message": "Sao chép ID danh mục"
+   },
+   "catalogMenuGiveFeedback": {
+      "message": "Đóng góp ý kiến"
+   },
+   "catalogMenuGoToCatalog": {
+      "message": "Đi đến danh mục"
+   },
+   "catalogMenuMoreOptions": {
+      "message": "Lựa chọn khác"
+   },
+   "catalogMoreCatalogs": {
+      "message": "Hơn $1 danh mục"
+   },
+   "catalogOnboardingBannerLearnMore": {
+      "message": "Cho tôi xem"
+   },
+   "catalogOnboardingBannerText": {
+      "message": "Giờ đây, bạn có thể xem danh mục kèm pixel, với cùng thông tin kiểm tra sự cố và cảnh báo."
+   },
+   "catalogPixelAssociatedWebsites": {
+      "message": "Trang web đã liên kết"
+   },
+   "catalogPixelConnectionDetailsHeader": {
+      "message": "Chi tiết kết nối Pixel"
+   },
+   "catalogPixelProducts": {
+      "message": "Sản phẩm"
+   },
+   "catalogProductImageAlt": {
+      "message": "Hình ảnh sản phẩm"
+   },
+   "catalogProductMatchedBadge": {
+      "message": "Khớp"
+   },
+   "catalogProductNotMatchedBadge": {
+      "message": "Không khớp"
+   },
+   "catalogProductsSectionTitle": {
+      "message": "Sản phẩm trên trang này"
+   },
+   "catalogUnmatchedAddProductsDescription": {
+      "message": "Các sản phẩm mọi người đang tương tác trên trang web của bạn không khớp với bất kỳ danh mục nào kết nối với Pixel. Hãy nhớ thêm mọi sản phẩm trên trang web vào danh mục"
+   },
+   "catalogUnmatchedAddProductsLink": {
+      "message": "Tìm hiểu cách thêm sản phẩm"
+   },
+   "catalogUnmatchedAddProductsTitle": {
+      "message": "Thêm sản phẩm có lượt tương tác vào danh mục"
+   },
+   "catalogUnmatchedContentIdColumnHeader": {
+      "message": "ID nội dung"
+   },
+   "catalogUnmatchedDescription": {
+      "message": "Hãy thêm sản phẩm cho các ID nội dung này trong danh mục của bạn hoặc đảm bảo rằng bạn đang gửi đúng ID nội dung trong sự kiện của mình."
+   },
+   "catalogUnmatchedDownloadList": {
+      "message": "Tải danh sách xuống"
+   },
+   "catalogUnmatchedOtherWaysHeader": {
+      "message": "Cách khác để khắc phục vấn đề này"
+   },
+   "catalogUnmatchedRecommendationsHeader": {
+      "message": "Đề xuất"
+   },
+   "catalogUnmatchedSendContentIdDescription": {
+      "message": "Hãy kiểm tra để đảm bảo rằng bạn đang gửi đúng ID nội dung tương ứng với sản phẩm trong danh mục này hoặc bất kỳ danh mục nào kết nối với pixel của bạn."
+   },
+   "catalogUnmatchedSendContentIdTitle": {
+      "message": "Gửi ID nội dung tương ứng"
+   },
+   "catalogUnmatchedTitle": {
+      "message": "Một số ID nội dung không khớp với bất kỳ danh mục nào"
+   },
+   "catalogUnmatchedTopInteractionsHeader": {
+      "message": "Các hoạt động tương tác hàng đầu có vấn đề"
+   },
+   "catalogUnmatchedTotalReceivedColumnHeader": {
+      "message": "Tổng số đã nhận"
+   },
+   "catalogWarningsFromPixel": {
+      "message": "Từ $1"
+   },
+   "catalogWarningsHeader": {
+      "message": "Cảnh báo"
+   },
+   "catalogWarningsUnmatchedProductsDescription": {
+      "message": "ID nội dung không khớp với bất kỳ danh mục nào"
+   },
+   "catalogWarningsUnmatchedProductsHeader": {
+      "message": "Sản phẩm không khớp"
+   },
+   "confirmEventsToSetUpHeader": {
+      "message": "Xác nhận các sự kiện bạn muốn thiết lập"
+   },
+   "continueButton": {
+      "message": "Tiếp tục"
+   },
+   "continueToNextDatasetButton": {
+      "message": "Chuyển sang tập dữ liệu tiếp theo"
+   },
+   "copyToClipboardCopied": {
+      "message": "Đã sao chép!"
+   },
+   "copyToClipboardTitle": {
+      "message": "Sao chép vào bộ nhớ tạm"
+   },
+   "create_new_asset_already_added": {
+      "message": "Đã được thêm"
+   },
+   "create_new_asset_button": {
+      "message": "Tạo mới"
+   },
+   "customConversionActionSourceLabel": {
+      "message": "Nguồn hành động"
+   },
+   "customConversionEventLabel": {
+      "message": "Sự kiện"
+   },
+   "customConversionNameLabel": {
+      "message": "Tên"
+   },
+   "customConversionRulesLabel": {
+      "message": "Quy tắc"
+   },
+   "customConversionValueFormat": {
+      "message": "$$1"
+   },
+   "customConversionValueLabel": {
+      "message": "Giá trị mặc định"
+   },
+   "datasetIdPrefix": {
+      "message": "ID: $1"
+   },
+   "datasetsAffected": {
+      "message": "$1 tập dữ liệu bị ảnh hưởng"
+   },
+   "dropdownSearchPlaceholder": {
+      "message": "Tìm kiếm"
+   },
+   "dropdownTagIdentifier": {
+      "message": "Mã nhận dạng"
+   },
+   "dropdownTagRecommended": {
+      "message": "Được đề xuất"
+   },
+   "duplicateEventMessage": {
+      "message": "Sự kiện \"$1\" đã kích hoạt $2 lần với cùng một dữ liệu. Trường hợp này có thể gây ra lỗi theo dõi."
+   },
+   "duplicateEventRecommendation": {
+      "message": "Hãy kiểm tra cách triển khai pixel để đảm bảo sự kiện không bị kích hoạt nhiều lần ngoài dự kiến. Trường hợp này thường xảy ra khi cùng một mã sự kiện chạy nhiều lần hoặc pixel được khởi tạo nhiều lần."
+   },
+   "emptyActionsStateDescriptionPart1": {
+      "message": "Truy cập"
+   },
+   "emptyActionsStateDescriptionPart2": {
+      "message": "để tìm cơ hội cải thiện hiệu quả"
+   },
+   "emptyActionsStateEventsManagerLink": {
+      "message": "Trình quản lý sự kiện"
+   },
+   "emptyActionsStateTitle": {
+      "message": "Không có hành động nào"
+   },
+   "enableFreeCAPIGButton": {
+      "message": "Bật"
+   },
+   "error_generic": {
+      "message": "Đã xảy ra lỗi"
+   },
+   "eventDeduplicated": {
+      "message": "Đã bỏ trùng lặp"
+   },
+   "eventDetailsAdvancedMatchingHeader": {
+      "message": "Đã gửi thông số so khớp nâng cao"
+   },
+   "eventDetailsBrowserOnlyAriaLabel": {
+      "message": "Thông số chỉ có trong dữ liệu trình duyệt"
+   },
+   "eventDetailsBrowserOnlyBadge": {
+      "message": "Chỉ trình duyệt"
+   },
+   "eventDetailsCustomParamsHeader": {
+      "message": "Thông số tùy chỉnh"
+   },
+   "eventDetailsDpoHeader": {
+      "message": "Đã gửi thông số xử lý dữ liệu"
+   },
+   "eventDetailsDpoWarning": {
+      "message": "Do bạn đã gửi Lựa chọn xử lý dữ liệu nên tính năng chuyển đổi tùy chỉnh hoặc ý kiến đóng góp về danh mục có thể không hoạt động."
+   },
+   "eventDetailsEventIdLabel": {
+      "message": "ID sự kiện"
+   },
+   "eventDetailsEventInfoHeader": {
+      "message": "Thông tin sự kiện"
+   },
+   "eventDetailsFrameIFrame": {
+      "message": "IFrame"
+   },
+   "eventDetailsFrameLabel": {
+      "message": "Khung"
+   },
+   "eventDetailsFrameWindow": {
+      "message": "Cửa sổ"
+   },
+   "eventDetailsLoadTimeLabel": {
+      "message": "Thời gian tải"
+   },
+   "eventDetailsPixelCodeLabel": {
+      "message": "Mã pixel"
+   },
+   "eventDetailsPixelLocationLabel": {
+      "message": "Vị trí pixel"
+   },
+   "eventDetailsServerOnlyAriaLabel": {
+      "message": "Thông số chỉ có trong dữ liệu trên máy chủ"
+   },
+   "eventDetailsServerOnlyBadge": {
+      "message": "Chỉ máy chủ"
+   },
+   "eventDetailsSetupMethodAutomatic": {
+      "message": "Tự động"
+   },
+   "eventDetailsSetupMethodLabel": {
+      "message": "Phương thức thiết lập"
+   },
+   "eventDetailsSetupMethodManual": {
+      "message": "Thủ công"
+   },
+   "eventDetailsUrlCalledLabel": {
+      "message": "Đã gọi URL"
+   },
+   "eventsHeader": {
+      "message": "Sự kiện"
+   },
+   "eventsOnThisPageHeader": {
+      "message": "Sự kiện trên trang này"
+   },
+   "extensionDescription": {
+      "message": "Trình trợ giúp Meta Pixel là công cụ khắc phục sự cố để bạn xác thực quá trình triển khai pixel."
+   },
+   "extensionName": {
+      "message": "Trình trợ giúp Meta Pixel"
+   },
+   "feedbackAddButton": {
+      "message": "Thêm"
+   },
+   "feedbackAttachScreenshots": {
+      "message": "Đính kèm ảnh chụp màn hình"
+   },
+   "feedbackAutomaticScreenshot": {
+      "message": "Ảnh chụp màn hình tự động"
+   },
+   "feedbackDeleteAttachment": {
+      "message": "Xóa file đính kèm"
+   },
+   "feedbackDescriptionPlaceholder": {
+      "message": "Vui lòng mô tả chi tiết ý kiến đóng góp"
+   },
+   "feedbackDropdownLabel": {
+      "message": "Đóng góp ý kiến"
+   },
+   "feedbackErrorScreenshotLabel": {
+      "message": "Ảnh chụp màn hình lỗi"
+   },
+   "feedbackPageDescription": {
+      "message": "Hãy báo cáo vấn đề hoặc chia sẻ ý kiến đóng góp để chúng tôi cải thiện."
+   },
+   "feedbackPagePrivacyLink": {
+      "message": "Xem cách chúng tôi dùng dữ liệu này."
+   },
+   "feedbackPageTitle": {
+      "message": "Đóng góp ý kiến"
+   },
+   "feedbackReceivedSubTitle": {
+      "message": "Cảm ơn bạn đã cải thiện trải nghiệm này."
+   },
+   "feedbackReceivedTitle": {
+      "message": "Đã nhận được ý kiến đóng góp"
+   },
+   "feedbackReturnToPreviousPage": {
+      "message": "Quay lại trang trước"
+   },
+   "feedbackSelectorTypeBug": {
+      "message": "Lỗi"
+   },
+   "feedbackSelectorTypeFeatureRequest": {
+      "message": "Yêu cầu tính năng"
+   },
+   "feedbackSelectorTypeGeneralFeedback": {
+      "message": "Ý kiến đóng góp chung"
+   },
+   "feedbackSelectorTypeQuestion": {
+      "message": "Loại ý kiến đóng góp nào?"
+   },
+   "feedbackStoredLocally": {
+      "message": "Được lưu trữ cục bộ"
+   },
+   "feedbackSubmitButton": {
+      "message": "Gửi"
+   },
+   "feedbackSubmitDisabledTooltip": {
+      "message": "Vui lòng điền vào mọi trường bắt buộc để gửi ý kiến đóng góp"
+   },
+   "feedbackSubmittingButton": {
+      "message": "Đang gửi..."
+   },
+   "feedbackTitleLabel": {
+      "message": "Tiêu đề ý kiến đóng góp"
+   },
+   "feedbackUploadButton": {
+      "message": "Tải lên"
+   },
+   "fieldItemCopyTooltip": {
+      "message": "Sao chép $1"
+   },
+   "fieldItemHide": {
+      "message": "Ẩn"
+   },
+   "fieldItemShow": {
+      "message": "Hiển thị"
+   },
+   "freeCapigL2DisableNote": {
+      "message": "Bạn có thể tắt lựa chọn này bất cứ lúc nào trong Trình quản lý sự kiện."
+   },
+   "freeCapigL2ReturnHome": {
+      "message": "Quay lại trang chủ"
+   },
+   "freeCapigL2SeeTermsLabel": {
+      "message": "Xem điều khoản"
+   },
+   "freeCapigL2SetupStep1": {
+      "message": "Meta thiết lập kết nối phía máy chủ trong nền."
+   },
+   "freeCapigL2SetupStep2": {
+      "message": "Sự kiện pixel sẽ tự động phản chiếu với API Chuyển đổi"
+   },
+   "freeCapigL2SetupStep3": {
+      "message": "Hưởng lợi từ độ tin cậy cao hơn của hoạt động theo dõi phía máy chủ!"
+   },
+   "freeCapigL2SuccessExplainerEMLink": {
+      "message": "Trình quản lý sự kiện"
+   },
+   "freeCapigL2SuccessExplainerPrefix": {
+      "message": "Các thay đổi sẽ có hiệu lực trong vòng 7 ngày tới. Khám phá và chỉnh sửa các thay đổi trong"
+   },
+   "freeCapigL2SuccessExplainerSuffix": {
+      "message": "bất cứ lúc nào."
+   },
+   "freeCapigL2SuccessTitle": {
+      "message": "Đã bật API Chuyển đổi"
+   },
+   "freeCapigL2TermsBusinessToolsTermsLink": {
+      "message": "Điều khoản về công cụ kinh doanh"
+   },
+   "freeCapigL2TermsDisclosureMiddle": {
+      "message": "và"
+   },
+   "freeCapigL2TermsDisclosurePrefix": {
+      "message": "Bằng cách tiếp tục, bạn cho phép và yêu cầu Meta thay mặt bạn thiết lập tiện ích tích hợp API Chuyển đổi được Meta hỗ trợ, cũng như đồng ý sử dụng tiện ích tích hợp này theo"
+   },
+   "freeCapigL2TermsPlatformTermsLink": {
+      "message": "Điều khoản về nền tảng"
+   },
+   "freeCapigOptInErrorMessage": {
+      "message": "Không bật được API Chuyển đổi. Vui lòng thử lại hoặc thiết lập qua Trình quản lý sự kiện."
+   },
+   "freeCapigOptInLoadingLabel": {
+      "message": "Đang bật…"
+   },
+   "freeCapigOptInSuccessTitle": {
+      "message": "Đã bật API Chuyển đổi!"
+   },
+   "ga_account_creation_title": {
+      "message": "Tài khoản Google Analytics"
+   },
+   "ga_account_display_name_label": {
+      "message": "Tên tài khoản"
+   },
+   "ga_property_creation_title": {
+      "message": "Tài sản Google Analytics"
+   },
+   "ga_property_display_name_label": {
+      "message": "Tên tài sản"
+   },
+   "ga_property_time_zone_label": {
+      "message": "Múi giờ"
+   },
+   "ga_stream_creation_title": {
+      "message": "Luồng dữ liệu web Google Analytics"
+   },
+   "ga_stream_display_name_label": {
+      "message": "Tên luồng"
+   },
+   "ga_stream_url_label": {
+      "message": "URL trang web"
+   },
+   "go_back": {
+      "message": "Quay lại"
+   },
+   "gtmAccountSelectorLabel": {
+      "message": "Tài khoản Trình quản lý thẻ của Google"
+   },
+   "gtmAccountSelectorPlaceholder": {
+      "message": "Chọn tài khoản"
+   },
+   "gtmChooseHostingProvider": {
+      "message": "Chọn nhà cung cấp dịch vụ lưu trữ:"
+   },
+   "gtmCreateNewServerContainer": {
+      "message": "Tạo vùng chứa máy chủ mới"
+   },
+   "gtmHostingGoogleBullet1": {
+      "message": "Không cần nhà phát triển"
+   },
+   "gtmHostingGoogleBullet2": {
+      "message": "Khoảng 30 phút"
+   },
+   "gtmHostingGoogleBullet3": {
+      "message": "Trả phí nguồn lực đám mây"
+   },
+   "gtmHostingGoogleBullet4": {
+      "message": "Có thể tùy chỉnh hoàn toàn"
+   },
+   "gtmHostingGoogleDescription": {
+      "message": "Trực tiếp tích hợp Trình quản lý thẻ của Google để tinh giản và quản lý thẻ. Đây là giải pháp lý tưởng dành cho những người muốn quản lý hoạt động gắn thẻ bằng công cụ gốc của Google."
+   },
+   "gtmHostingGoogleLabel": {
+      "message": "Google"
+   },
+   "gtmHostingStapeBullet1": {
+      "message": "Không cần nhà phát triển"
+   },
+   "gtmHostingStapeBullet2": {
+      "message": "Khoảng 15 phút"
+   },
+   "gtmHostingStapeBullet3": {
+      "message": "Có gói kết hợp tính phí và miễn phí"
+   },
+   "gtmHostingStapeBullet4": {
+      "message": "Giá theo gói đăng ký"
+   },
+   "gtmHostingStapeDescription": {
+      "message": "Stape tinh giản quy trình thiết lập vùng lưu trữ máy chủ và xử lý hoạt động lưu trữ cho bạn. Bạn sẽ có gói miễn phí."
+   },
+   "gtmHostingStapeLabel": {
+      "message": "Stape"
+   },
+   "gtmInvalidUrlError": {
+      "message": "Vui lòng nhập URL hợp lệ."
+   },
+   "gtmServerConnectionOptionGoogleTagManager": {
+      "message": "Trình quản lý thẻ của Google"
+   },
+   "gtmServerConnectionOptionMetaEnabledCapig": {
+      "message": "API Chuyển đổi do Meta hỗ trợ (Khuyên dùng)"
+   },
+   "gtmServerConnectionOptionNone": {
+      "message": "Không có"
+   },
+   "gtmServerConnectionSelectorLabel": {
+      "message": "Kết nối máy chủ"
+   },
+   "gtmServerContainerLabel": {
+      "message": "Vùng chứa máy chủ"
+   },
+   "gtmServerContainerNotProvisionedWarning": {
+      "message": "Máy chủ này chưa được cung cấp"
+   },
+   "gtmServerContainerPlaceholder": {
+      "message": "Chọn vùng chứa máy chủ"
+   },
+   "gtmStepAnalyticsStream": {
+      "message": "Luồng phân tích"
+   },
+   "gtmStepGtmAccount": {
+      "message": "Tài khoản GTM"
+   },
+   "gtmStepPreExistingTooltip": {
+      "message": "Tài sản này đã tồn tại hoặc được tự động hóa thông qua API."
+   },
+   "gtmStepProvisionedServerContainer": {
+      "message": "Vùng chứa máy chủ được cung cấp"
+   },
+   "gtmStepPublished": {
+      "message": "Đã đăng"
+   },
+   "gtmStepServerContainer": {
+      "message": "Vùng chứa máy chủ"
+   },
+   "gtmStepWebContainer": {
+      "message": "Vùng chứa web"
+   },
+   "gtmTaggingServerUrlLabel": {
+      "message": "URL máy chủ gắn thẻ"
+   },
+   "gtmTaggingServerUrlPlaceholder": {
+      "message": "https://your-tagging-server.example.com"
+   },
+   "gtm_account_creation_title": {
+      "message": "Tài khoản Trình quản lý thẻ của Google"
+   },
+   "gtm_account_name_label": {
+      "message": "Tên tài khoản"
+   },
+   "gtm_action_needed": {
+      "message": "Cần hành động"
+   },
+   "gtm_api_fetch_accounts_error": {
+      "message": "Không tìm nạp được tài khoản. Hãy thử lại hoặc kiểm tra quyền truy cập Trình quản lý thẻ của Google."
+   },
+   "gtm_api_fetch_containers_error": {
+      "message": "Không thể tìm nạp vùng chứa cho tài khoản $1. Hãy thử lại hoặc kiểm tra quyền đối với Trình quản lý thẻ của Google."
+   },
+   "gtm_api_fetch_data_streams_error": {
+      "message": "Không tìm nạp được luồng dữ liệu cho tài sản $1"
+   },
+   "gtm_api_fetch_ga_accounts_error": {
+      "message": "Không tìm nạp được tài khoản Google Analytics"
+   },
+   "gtm_api_fetch_ga_properties_error": {
+      "message": "Không tìm nạp được tài sản Google Analytics. Hãy thử lại hoặc kiểm tra quyền truy cập Google Analytics của bạn."
+   },
+   "gtm_api_get_token_error": {
+      "message": "Không lấy được mã"
+   },
+   "gtm_api_invalid_token_response": {
+      "message": "Phản hồi mã không hợp lệ"
+   },
+   "gtm_automatic_advanced_matching_label": {
+      "message": "Tự động so khớp thông tin chính về khách hàng (ví dụ: email và số điện thoại) từ trang web của bạn để cải thiện hoạt động phân phối quảng cáo."
+   },
+   "gtm_availability_load_error": {
+      "message": "Không tải được tài sản Trình quản lý thẻ của Google"
+   },
+   "gtm_availability_no_account_error": {
+      "message": "Không tìm thấy tài khoản Trình quản lý thẻ của Google."
+   },
+   "gtm_availability_no_web_container_error": {
+      "message": "Không tìm thấy vùng chứa web nào trong Trình quản lý thẻ của Google."
+   },
+   "gtm_capi_token_error": {
+      "message": "Không tạo được mã truy cập API Chuyển đổi. Hãy đảm bảo rằng bạn là quản trị viên doanh nghiệp của pixel này."
+   },
+   "gtm_dataset_label": {
+      "message": "Tập dữ liệu"
+   },
+   "gtm_fetch_accounts_fallback_error": {
+      "message": "Không tìm nạp được tài khoản"
+   },
+   "gtm_fetch_containers_fallback_error": {
+      "message": "Không tìm nạp được vùng chứa"
+   },
+   "gtm_fetch_google_analytics_accounts_fallback_error": {
+      "message": "Không tìm nạp được tài khoản Google Analytics"
+   },
+   "gtm_fetch_google_analytics_properties_fallback_error": {
+      "message": "Không tìm nạp được tài sản Google Analytics"
+   },
+   "gtm_fetch_google_analytics_web_streams_fallback_error": {
+      "message": "Không tìm nạp được luồng dữ liệu web của Google Analytics"
+   },
+   "gtm_fetch_server_containers_fallback_error": {
+      "message": "Không tìm nạp được vùng chứa máy chủ trong Trình quản lý thẻ của Google"
+   },
+   "gtm_ga4_data_stream_label": {
+      "message": "Luồng dữ liệu Google Analytics"
+   },
+   "gtm_ga4_web_stream_toggle_label": {
+      "message": "Chuyển tiếp sự kiện trên Google Analytics"
+   },
+   "gtm_ga_account_label": {
+      "message": "Tài khoản Google Analytics"
+   },
+   "gtm_ga_account_placeholder": {
+      "message": "Chọn tài khoản Google Analytics"
+   },
+   "gtm_ga_data_stream_placeholder": {
+      "message": "Chọn luồng dữ liệu"
+   },
+   "gtm_google_auth_warning_body": {
+      "message": "Có vẻ như phiên Google của bạn đã ngừng hoạt động trong quá trình thiết lập. Hãy đăng nhập lại để tiếp tục từ phần bạn đã dừng."
+   },
+   "gtm_google_auth_warning_primary_cta": {
+      "message": "Đăng nhập"
+   },
+   "gtm_google_auth_warning_title": {
+      "message": "Vui lòng đăng nhập lại vào Google để tiếp tục"
+   },
+   "gtm_next_step_back_aria_label": {
+      "message": "Quay lại"
+   },
+   "gtm_next_step_confirm_button": {
+      "message": "Xác nhận"
+   },
+   "gtm_next_step_event_setup_description": {
+      "message": "Với công cụ Thiết lập sự kiện, bạn có thể chọn sự kiện chuyển đổi (ví dụ: lượt mua hoặc lượt thêm vào giỏ hàng) ngay từ trang web và gửi thông tin này cho Meta một cách an toàn."
+   },
+   "gtm_next_step_event_setup_title": {
+      "message": "Gửi sự kiện chuyển đổi chính cho Meta"
+   },
+   "gtm_next_step_eyebrow": {
+      "message": "Cần hành động"
+   },
+   "gtm_next_step_manual_setup_title": {
+      "message": "Thiết lập thủ công"
+   },
+   "gtm_next_step_missing_pixel_error": {
+      "message": "Chọn ID tập dữ liệu để tiếp tục"
+   },
+   "gtm_next_step_missing_url_error": {
+      "message": "Nhập URL trang web để tiếp tục"
+   },
+   "gtm_next_step_nav_title": {
+      "message": "Kết nối dữ liệu một cách bảo mật"
+   },
+   "gtm_next_step_title": {
+      "message": "Kết nối dữ liệu một cách bảo mật"
+   },
+   "gtm_next_step_website_url_label": {
+      "message": "URL trang web"
+   },
+   "gtm_next_step_website_url_placeholder": {
+      "message": "Nhập URL của trang web"
+   },
+   "gtm_pixel_business_fetch_error": {
+      "message": "Không tìm nạp được thông tin pixel cho pixel $1. Có thể bạn không có quyền truy cập pixel này. Chi tiết: $2"
+   },
+   "gtm_pixel_business_load_error": {
+      "message": "Không tải được tập dữ liệu $1. Hãy kiểm tra để đảm bảo ID tập dữ liệu là chính xác và bạn có quyền xem."
+   },
+   "gtm_pixel_business_no_business_error": {
+      "message": "Pixel $1 chưa có doanh nghiệp sở hữu. Pixel phải được doanh nghiệp xác nhận quyền sở hữu thì mới có thể tạo mã truy cập API Chuyển đổi."
+   },
+   "gtm_pixel_dataset_id_label": {
+      "message": "ID tập dữ liệu"
+   },
+   "gtm_pixel_detected_on_page": {
+      "message": "Đã phát hiện trên trang"
+   },
+   "gtm_pixel_load_more": {
+      "message": "Tải thêm pixel..."
+   },
+   "gtm_pixel_no_pixels_detected": {
+      "message": "Không phát hiện thấy pixel nào trên trang này. Hãy nhập ID tập dữ liệu theo cách thủ công."
+   },
+   "gtm_pixel_no_pixels_found": {
+      "message": "Không tìm thấy pixel nào"
+   },
+   "gtm_pixel_picker_dataset_id_numeric_error": {
+      "message": "ID tập dữ liệu phải là số"
+   },
+   "gtm_pixel_picker_dataset_id_placeholder": {
+      "message": "Nhập ID tập dữ liệu"
+   },
+   "gtm_pixel_picker_enter_manually": {
+      "message": "Nhập thủ công"
+   },
+   "gtm_pixel_search_placeholder": {
+      "message": "Tìm kiếm pixel"
+   },
+   "gtm_pixel_select_placeholder": {
+      "message": "Chọn pixel"
+   },
+   "gtm_pixel_your_pixels": {
+      "message": "Pixel của bạn"
+   },
+   "gtm_publish_asset_preparation_failed": {
+      "message": "Không chuẩn bị được tài sản"
+   },
+   "gtm_publish_asset_preparation_missing_ids": {
+      "message": "Đã chuẩn bị xong tài sản nhưng không có ID sẵn sàng đăng"
+   },
+   "gtm_publish_automatic_advanced_matching_progress": {
+      "message": "Đang bật tính năng so khớp nâng cao tự động..."
+   },
+   "gtm_publish_automatic_advanced_matching_warning": {
+      "message": "Không bật được tính năng so khớp nâng cao tự động, nhưng đã đăng thẻ trong Trình quản lý thẻ của Google."
+   },
+   "gtm_publish_completed_with_warnings_title": {
+      "message": "Đã đăng kèm theo cảnh báo"
+   },
+   "gtm_publish_confirm_button": {
+      "message": "Xác nhận"
+   },
+   "gtm_publish_create_ga_account_and_property_progress": {
+      "message": "Đang tạo tài khoản và tài sản Google Analytics..."
+   },
+   "gtm_publish_create_ga_property_progress": {
+      "message": "Đang tạo tài sản Google Analytics..."
+   },
+   "gtm_publish_create_ga_stream_progress": {
+      "message": "Đang tạo luồng dữ liệu web Google Analytics..."
+   },
+   "gtm_publish_create_gtm_account_and_web_container_progress": {
+      "message": "Đang tạo tài khoản Trình quản lý thẻ của Google và vùng chứa web..."
+   },
+   "gtm_publish_create_server_container_progress": {
+      "message": "Đang tạo vùng chứa máy chủ..."
+   },
+   "gtm_publish_create_version_error": {
+      "message": "Không tạo được phiên bản vùng chứa $1"
+   },
+   "gtm_publish_create_web_container_progress": {
+      "message": "Đang tạo vùng chứa web..."
+   },
+   "gtm_publish_failed_title": {
+      "message": "Không đăng được"
+   },
+   "gtm_publish_fetch_pixel_business_progress": {
+      "message": "Đang tìm nạp thông tin doanh nghiệp từ pixel..."
+   },
+   "gtm_publish_free_capig_opt_in_progress": {
+      "message": "Đang thiết lập API Chuyển đổi do Meta hỗ trợ..."
+   },
+   "gtm_publish_free_capig_opt_in_warning": {
+      "message": "Không thiết lập được API Chuyển đổi do Meta hỗ trợ, nhưng đã đăng thẻ trong Trình quản lý thẻ của Google."
+   },
+   "gtm_publish_ga_account_recipe_flow_error": {
+      "message": "Quy trình tạo tài khoản Google Analytics cần được thực hiện theo công thức"
+   },
+   "gtm_publish_generate_capi_token_progress": {
+      "message": "Đang tạo mã truy cập API Chuyển đổi..."
+   },
+   "gtm_publish_google_tag_manager_missing_ga_measurement_id": {
+      "message": "ID đo lường Google Analytics"
+   },
+   "gtm_publish_google_tag_manager_missing_requirements": {
+      "message": "Thiếu kết nối máy chủ Trình quản lý thẻ Google: $1"
+   },
+   "gtm_publish_google_tag_manager_missing_server_container": {
+      "message": "Vùng chứa máy chủ trong Trình quản lý thẻ của Google"
+   },
+   "gtm_publish_google_tag_manager_missing_tagging_server_url": {
+      "message": "URL máy chủ gắn thẻ"
+   },
+   "gtm_publish_gtm_account_recipe_flow_error": {
+      "message": "Quy trình tạo tài khoản Trình quản lý thẻ của Google cần được thực hiện theo công thức"
+   },
+   "gtm_publish_missing_ga_account_draft": {
+      "message": "Không có bản nháp tài khoản Google Analytics"
+   },
+   "gtm_publish_missing_ga_account_for_property": {
+      "message": "Chưa chọn tài khoản Google Analytics để tạo tài sản"
+   },
+   "gtm_publish_missing_ga_property_draft": {
+      "message": "Không có bản nháp tài sản Google Analytics"
+   },
+   "gtm_publish_missing_ga_property_for_stream": {
+      "message": "Chưa chọn tài sản Google Analytics để tạo luồng"
+   },
+   "gtm_publish_missing_ga_stream_draft": {
+      "message": "Không có bản nháp luồng của Google Analytics"
+   },
+   "gtm_publish_missing_google_auth": {
+      "message": "Chưa xác thực với Google"
+   },
+   "gtm_publish_missing_gtm_account_draft": {
+      "message": "Không có bản nháp tài khoản Trình quản lý thẻ của Google"
+   },
+   "gtm_publish_missing_gtm_account_for_server_container": {
+      "message": "Chưa chọn tài khoản Trình quản lý thẻ của Google để tạo vùng chứa máy chủ"
+   },
+   "gtm_publish_missing_gtm_account_for_web_container": {
+      "message": "Chưa chọn tài khoản Trình quản lý thẻ của Google để tạo vùng chứa web"
+   },
+   "gtm_publish_missing_pixel_id": {
+      "message": "Chưa chọn ID tập dữ liệu"
+   },
+   "gtm_publish_missing_required_asset": {
+      "message": "Thiếu $1. Thêm $1 bằng cách \"Tạo mới\" hoặc chọn $1 hiện có."
+   },
+   "gtm_publish_missing_required_assets_error": {
+      "message": "Thiếu tài sản bắt buộc: $1"
+   },
+   "gtm_publish_missing_requirements_title": {
+      "message": "Yêu cầu chưa đáp ứng:"
+   },
+   "gtm_publish_missing_server_container_draft": {
+      "message": "Không có bản nháp vùng chứa máy chủ"
+   },
+   "gtm_publish_missing_web_container_draft": {
+      "message": "Không có bản nháp vùng chứa web"
+   },
+   "gtm_publish_no_workspaces_error": {
+      "message": "Không tìm thấy không gian làm việc nào cho vùng chứa $1 tại $2. Hãy tạo không gian làm việc trong Trình quản lý thẻ của Google rồi thử lại."
+   },
+   "gtm_publish_pixel_label": {
+      "message": "ID tập dữ liệu: $1"
+   },
+   "gtm_publish_prepare_assets_progress": {
+      "message": "Đang chuẩn bị tài sản..."
+   },
+   "gtm_publish_progress_complete": {
+      "message": "Đã đăng xong."
+   },
+   "gtm_publish_progress_creating_datalayer_variables": {
+      "message": "Đang tạo biến lớp dữ liệu..."
+   },
+   "gtm_publish_progress_creating_pixel_template_tag": {
+      "message": "Đang tạo thẻ mẫu pixel..."
+   },
+   "gtm_publish_progress_creating_server_action_source": {
+      "message": "Đang tạo biến nguồn hành động phía máy chủ..."
+   },
+   "gtm_publish_progress_creating_server_tag": {
+      "message": "Đang tạo thẻ phía máy chủ..."
+   },
+   "gtm_publish_progress_creating_server_trigger": {
+      "message": "Đang tạo điều kiện kích hoạt phía máy chủ..."
+   },
+   "gtm_publish_progress_creating_web_tags": {
+      "message": "Đang tạo thẻ web..."
+   },
+   "gtm_publish_progress_creating_web_tags_web_only": {
+      "message": "Đang tạo thẻ web..."
+   },
+   "gtm_publish_progress_creating_web_triggers": {
+      "message": "Đang tạo điều kiện kích hoạt trên web..."
+   },
+   "gtm_publish_progress_enabling_builtin_variables": {
+      "message": "Đang bật biến tích hợp..."
+   },
+   "gtm_publish_progress_getting_web_workspace": {
+      "message": "Đang tìm nạp không gian làm việc trên web..."
+   },
+   "gtm_publish_progress_getting_workspaces": {
+      "message": "Đang tìm nạp không gian làm việc..."
+   },
+   "gtm_publish_progress_importing_web_pixel_template": {
+      "message": "Đang nhập mẫu pixel cho web..."
+   },
+   "gtm_publish_progress_pixel_template_complete": {
+      "message": "Đã đăng xong mẫu pixel."
+   },
+   "gtm_publish_progress_publishing_server_container": {
+      "message": "Đang đăng vùng chứa máy chủ..."
+   },
+   "gtm_publish_progress_publishing_web_container": {
+      "message": "Đang đăng vùng chứa web..."
+   },
+   "gtm_publish_progress_setting_up_server_template": {
+      "message": "Đang thiết lập mẫu phía máy chủ..."
+   },
+   "gtm_publish_progress_web_only_complete": {
+      "message": "Đã đăng xong cách thiết lập chỉ dành cho web."
+   },
+   "gtm_publish_published_button": {
+      "message": "Đã đăng"
+   },
+   "gtm_publish_publishing_button": {
+      "message": "Đang đăng..."
+   },
+   "gtm_publish_server_container_no_url_notice": {
+      "message": "Vùng chứa máy chủ sẽ được tạo nhưng tính năng gắn thẻ phía máy chủ sẽ không được đăng cho đến khi có URL máy chủ gắn thẻ."
+   },
+   "gtm_publish_success_message": {
+      "message": "Đã đăng thẻ!"
+   },
+   "gtm_publish_unsupported_draft_asset": {
+      "message": "Chưa hỗ trợ tạo bản nháp $1 trong quá trình đăng"
+   },
+   "gtm_publish_web_only_notice": {
+      "message": "Chưa chọn vùng chứa máy chủ nào. Đang đăng cách thiết lập chỉ dành cho web. Bạn có thể thêm và đăng vùng chứa máy chủ vào lúc khác."
+   },
+   "gtm_reauthenticate": {
+      "message": "Xác thực lại"
+   },
+   "gtm_review_setup_and_publish": {
+      "message": "Xem lại cách thiết lập và đăng"
+   },
+   "gtm_setup_authenticate_button": {
+      "message": "Xác thực và tìm nạp tài khoản"
+   },
+   "gtm_setup_button": {
+      "message": "Thiết lập"
+   },
+   "gtm_setup_header_title": {
+      "message": "Kết nối dữ liệu một cách bảo mật"
+   },
+   "gtm_setup_required_message": {
+      "message": "Để tiếp tục, bạn phải thiết lập vùng chứa web trong Trình quản lý thẻ của Google"
+   },
+   "gtm_setup_required_primary_cta": {
+      "message": "Đi đến Trình quản lý thẻ của Google"
+   },
+   "gtm_setup_required_secondary_cta": {
+      "message": "Thử lại"
+   },
+   "gtm_setup_settings": {
+      "message": "Cài đặt thiết lập"
+   },
+   "gtm_setup_summary_description": {
+      "message": "Hỗ trợ liền mạch khả năng triển khai và quản lý thẻ, theo dõi sự kiện hiệu quả mà không cần mã, từ đó mang lại kết quả quảng cáo tốt hơn."
+   },
+   "gtm_setup_warning_loading_label": {
+      "message": "Đang tải..."
+   },
+   "gtm_web_container_label": {
+      "message": "Vùng chứa web"
+   },
+   "gtm_web_container_placeholder": {
+      "message": "Chọn vùng chứa web"
+   },
+   "guidanceEventsAffectedBadge": {
+      "message": "$1% số sự kiện bị ảnh hưởng"
+   },
+   "guidanceMoreIssuesPlural": {
+      "message": "$1 vấn đề khác"
+   },
+   "guidanceMoreIssuesSingular": {
+      "message": "$1 vấn đề khác"
+   },
+   "guidanceViewAllButton": {
+      "message": "Xem tất cả"
+   },
+   "guidanceViewButton": {
+      "message": "Xem"
+   },
+   "highlightTooltipChooseAccount": {
+      "message": "Chọn tài khoản để đăng nhập"
+   },
+   "highlightTooltipClickToContinue": {
+      "message": "Nhấp vào đây để tiếp tục"
+   },
+   "highlightTooltipSelectAll": {
+      "message": "Chọn tất cả"
+   },
+   "idLabel": {
+      "message": "ID: $1"
+   },
+   "islandActionFailedMessage": {
+      "message": "Hãy hoàn tất hành động theo cách thủ công để tiếp tục"
+   },
+   "islandActionRequiredMessage": {
+      "message": "Hãy hoàn tất hành động để tiếp tục"
+   },
+   "learnAboutManualAdvancedMatching": {
+      "message": "Tìm hiểu về tính năng So khớp nâng cao thủ công"
+   },
+   "learnAboutValueAndCurrencyParameters": {
+      "message": "Thiết lập giá trị và đơn vị tiền tệ trong Meta Pixel"
+   },
+   "learnHowToSetupAdvancedMatchingManually": {
+      "message": "Tìm hiểu cách thiết lập tính năng so khớp nâng cao thủ công"
+   },
+   "learnMoreLink": {
+      "message": "Tìm hiểu thêm"
+   },
+   "loadingText": {
+      "message": "Đang tải..."
+   },
+   "loginPageButtonCreateAccount": {
+      "message": "Tạo tài khoản mới"
+   },
+   "loginPageButtonLogin": {
+      "message": "Đăng nhập bằng Facebook"
+   },
+   "loginPageButtonMMALogin": {
+      "message": "Đăng nhập bằng tài khoản Meta được quản lý"
+   },
+   "loginPageDescription": {
+      "message": "để nhận hỗ trợ riêng về cách thiết lập sự kiện"
+   },
+   "loginPageSubtitle": {
+      "message": "Đăng nhập vào công cụ kinh doanh của Meta"
+   },
+   "loginPageTitle": {
+      "message": "Trình trợ giúp Meta Pixel"
+   },
+   "mamStepExampleLabel": {
+      "message": "Ví dụ: $1"
+   },
+   "metaLogoAlt": {
+      "message": "Meta"
+   },
+   "metaSignalHelperLogoAlt": {
+      "message": "Trình trợ giúp Meta Pixel"
+   },
+   "missingEventsActiveSessionTooltip": {
+      "message": "Đang thiết lập sự kiện"
+   },
+   "missingEventsTabSwitchTooltip": {
+      "message": "Vui lòng chuyển về tab mà bạn đã bắt đầu thiết lập sự kiện"
+   },
+   "moreInformationHeader": {
+      "message": "Thông tin khác"
+   },
+   "moreLabel": {
+      "message": "$1 mục khác"
+   },
+   "newFeaturesBannerLearnMore": {
+      "message": "Tìm hiểu thêm"
+   },
+   "newFeaturesBannerText": {
+      "message": "Với tính năng tự động hóa mới, bạn có thể thiết lập công cụ phức tạp chỉ trong vài phút."
+   },
+   "nextStepsHeader": {
+      "message": "Các bước tiếp theo"
+   },
+   "noEventsOnThisPageMessage": {
+      "message": "Không có sự kiện nào trên trang này. Hãy nhấp vào \"Hiển thị tất cả sự kiện\" để xem sự kiện từ các trang khác."
+   },
+   "noPixelsFoundCardHeader": {
+      "message": "Không tìm thấy Pixel trên trang này"
+   },
+   "onThisPageHeader": {
+      "message": "Trên trang này"
+   },
+   "optionalLabel": {
+      "message": "· Không bắt buộc"
+   },
+   "overlayActionCompletedTitle": {
+      "message": "Đã hoàn tất hành động"
+   },
+   "overlayCloseButton": {
+      "message": "Đóng"
+   },
+   "overlayDatasetCountPlural": {
+      "message": "Nhiều tập dữ liệu"
+   },
+   "overlayDatasetCountSingular": {
+      "message": "1 tập dữ liệu"
+   },
+   "overlayDescriptionPluralActions": {
+      "message": "$1 hành động bạn có thể thực hiện"
+   },
+   "overlayDescriptionPluralPixelsPluralActions": {
+      "message": "Trang này có $1 pixel và bạn có thể thực hiện $2 hành động."
+   },
+   "overlayDescriptionPluralPixelsSingularAction": {
+      "message": "Trang này có $1 pixel và bạn có thể thực hiện 1 hành động."
+   },
+   "overlayDescriptionSingularAction": {
+      "message": "Chúng tôi đã tìm thấy một cách tối ưu hóa cho bạn:"
+   },
+   "overlayDescriptionSingularPixelPluralActions": {
+      "message": "Trang này có 1 pixel và bạn có thể thực hiện $1 hành động."
+   },
+   "overlayDescriptionSingularPixelSingularAction": {
+      "message": "Trang này có 1 pixel và bạn có thể thực hiện 1 hành động."
+   },
+   "overlayFreeCapigEnabledLabel": {
+      "message": "Đã bật"
+   },
+   "overlayGoBackButton": {
+      "message": "Quay lại"
+   },
+   "overlayGreetingAfternoon": {
+      "message": "Buổi chiều vui vẻ nhé, $1"
+   },
+   "overlayGreetingEvening": {
+      "message": "Buổi tối vui vẻ nhé, $1"
+   },
+   "overlayGreetingMorning": {
+      "message": "Buổi sáng vui vẻ nhé, $1"
+   },
+   "overlayGtmSetupForMeCta": {
+      "message": "Thiết lập cho tôi"
+   },
+   "overlayNotificationSettingsButton": {
+      "message": "Cài đặt thông báo"
+   },
+   "overlayNotificationSettingsDescription": {
+      "message": "Chọn cách bạn nhận thông báo liên quan đến việc cải thiện cách thiết lập. Bạn cũng có thể thay đổi điều này bất cứ lúc nào trên trang chủ bằng cách nhấp vào biểu tượng chuông."
+   },
+   "overlayNotificationSettingsTitle": {
+      "message": "Cài đặt thông báo"
+   },
+   "overlayNotificationsToggleDescription": {
+      "message": "Hiển thị thông báo trên trang có pixel của bạn"
+   },
+   "overlayNotificationsToggleLabel": {
+      "message": "Thông báo"
+   },
+   "overlayTitle": {
+      "message": "Trình trợ giúp Meta Pixel"
+   },
+   "overlayToggleDescription": {
+      "message": "Hiển thị hành động dựa trên ngữ cảnh và trạng thái Pixel khi bạn lướt xem."
+   },
+   "overlayToggleOff": {
+      "message": "Đã tắt thông báo theo ngữ cảnh"
+   },
+   "overlayToggleOn": {
+      "message": "Đã bật thông báo theo ngữ cảnh"
+   },
+   "overlayViewAllButton": {
+      "message": "Xem tất cả"
+   },
+   "overlayViewDatasetsButton": {
+      "message": "Xem tập dữ liệu"
+   },
+   "pageIssueHeaderPlural": {
+      "message": "Đã tìm thấy $1 cảnh báo trên trang này"
+   },
+   "pageIssueHeaderSingular": {
+      "message": "Có cảnh báo trên trang này"
+   },
+   "pinExtensionBannerCta": {
+      "message": "Ghim vào thanh công cụ"
+   },
+   "pinExtensionBannerDescription": {
+      "message": "Hãy ghim Trình trợ giúp tín hiệu của Meta lên thanh công cụ để truy cập nhanh."
+   },
+   "pinExtensionBannerTitle": {
+      "message": "Ghim tiện ích mở rộng này"
+   },
+   "pixelBackButton": {
+      "message": "Quay trở lại"
+   },
+   "pixelCopyIdTitle": {
+      "message": "Sao chép ID tập dữ liệu"
+   },
+   "pixelCopyIdTooltip": {
+      "message": "Sao chép ID tập dữ liệu"
+   },
+   "pixelCustomConversionBadge": {
+      "message": "Chuyển đổi tùy chỉnh"
+   },
+   "pixelErrorCommonStep1": {
+      "message": "Mở mã trang web của bạn."
+   },
+   "pixelErrorConflictingVersionsCardTitle": {
+      "message": "Gỡ pixel cũ hoặc pixel có xung đột"
+   },
+   "pixelErrorConflictingVersionsExample": {
+      "message": "Ví dụ: n.version='2.0'"
+   },
+   "pixelErrorConflictingVersionsMessage": {
+      "message": "Gỡ pixel cũ hoặc pixel có xung đột"
+   },
+   "pixelErrorConflictingVersionsRecommendation": {
+      "message": "Đã phát hiện thấy nhiều pixel có phiên bản xung đột trên trang này. Bạn chỉ nên dùng 1 phiên bản của Meta Pixel."
+   },
+   "pixelErrorConflictingVersionsStep2": {
+      "message": "Tìm kiếm **n.version='** trong mã cơ sở cài đặt pixel"
+   },
+   "pixelErrorConflictingVersionsStep3": {
+      "message": "Đảm bảo tất cả pixel có cùng phiên bản"
+   },
+   "pixelErrorDuplicatePixelIdCardTitle": {
+      "message": "Gỡ ID tập dữ liệu trùng lặp"
+   },
+   "pixelErrorDuplicatePixelIdMessage": {
+      "message": "Gỡ ID tập dữ liệu trùng lặp"
+   },
+   "pixelErrorDuplicatePixelIdRecommendation": {
+      "message": "Bạn có ID tập dữ liệu trùng lặp: $1. Mỗi pixel chỉ được khởi tạo 1 lần trên mỗi trang để tránh dữ liệu trùng lặp."
+   },
+   "pixelErrorDuplicatePixelIdStep2": {
+      "message": "Tìm kiếm **fbq('init', $1)** trong mã cơ sở cài đặt pixel"
+   },
+   "pixelErrorDuplicatePixelIdStep3": {
+      "message": "Gỡ **fbq('init', $1)** trùng lặp"
+   },
+   "pixelErrorFbqNoMethodNameCardTitle": {
+      "message": "Thiếu tên phương thức trong lệnh gọi fbq()"
+   },
+   "pixelErrorFbqNoMethodNameExample": {
+      "message": "Ví dụ: fbq('track', 'PageView')"
+   },
+   "pixelErrorFbqNoMethodNameMessage": {
+      "message": "Cung cấp đối số cho fbq{}"
+   },
+   "pixelErrorFbqNoMethodNameRecommendation": {
+      "message": "Cung cấp tên phương thức khi gọi fbq(). Ví dụ: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorFbqNoMethodNameStep2": {
+      "message": "Tìm lệnh gọi fbq() thiếu tên phương thức."
+   },
+   "pixelErrorFbqNoMethodNameStep3": {
+      "message": "Thêm tên phương thức hợp lệ như \"track\" hoặc \"init\" làm đối số đầu tiên."
+   },
+   "pixelErrorInvalidConsentActionCardTitle": {
+      "message": "Gửi hành động chấp thuận hợp lệ"
+   },
+   "pixelErrorInvalidConsentActionMessage": {
+      "message": "Gửi hành động chấp thuận hợp lệ"
+   },
+   "pixelErrorInvalidConsentActionRecommendation": {
+      "message": "\"fbq('$1', ...);\" không phải là hành động fbq(\"consent\",...) hợp lệ. Hành động chấp thuận hợp lệ là \"grant\" và \"revoke\". Hãy kiểm tra cách triển khai quản lý chấp thuận."
+   },
+   "pixelErrorInvalidConsentActionStep2": {
+      "message": "Tìm kiếm **fbq('$1', ...)**"
+   },
+   "pixelErrorInvalidConsentActionStep3": {
+      "message": "Cập nhật tên phương thức thành **revoke** hoặc **grant**"
+   },
+   "pixelErrorInvalidEventIdFormatCardTitle": {
+      "message": "Thêm giá trị chuỗi cho eventID"
+   },
+   "pixelErrorInvalidEventIdFormatMessage": {
+      "message": "Thêm giá trị chuỗi cho eventID"
+   },
+   "pixelErrorInvalidEventIdFormatRecommendation": {
+      "message": "Kiểu eventID không chính xác cho ID tập dữ liệu: $1 cho sự kiện \"$2\". Thông số eventID phải là chuỗi. Ví dụ: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorInvalidEventIdFormatRecommendationGeneric": {
+      "message": "Kiểu eventID không chính xác cho ID tập dữ liệu: $1. Thông số eventID phải là chuỗi. Ví dụ: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'}})."
+   },
+   "pixelErrorInvalidEventIdFormatStep2": {
+      "message": "Tìm kiếm **fbq('track', '$1', ..., {eventID: ...})** rồi kiểm tra xem eventID có phải là chuỗi không"
+   },
+   "pixelErrorInvalidEventIdFormatStep2Generic": {
+      "message": "Tìm kiếm **fbq('track', ..., {eventID: ...})** rồi kiểm tra xem eventID có phải là chuỗi không"
+   },
+   "pixelErrorInvalidEventIdFormatStep3": {
+      "message": "Chuyển giá trị eventID thành kiểu chuỗi"
+   },
+   "pixelErrorInvalidFbqMethodCardTitle": {
+      "message": "Phương thức không hợp lệ trong lệnh gọi fbq()"
+   },
+   "pixelErrorInvalidFbqMethodExample": {
+      "message": "Phương thức hợp lệ: \"init\", \"track\", \"trackCustom\", \"trackSingle\", \"trackSingleCustom\""
+   },
+   "pixelErrorInvalidFbqMethodMessage": {
+      "message": "Dùng lệnh fbq hợp lệ"
+   },
+   "pixelErrorInvalidFbqMethodParameterCardTitle": {
+      "message": "Cập nhật định dạng thông số"
+   },
+   "pixelErrorInvalidFbqMethodParameterExample": {
+      "message": "Ví dụ: fbq('init', '123456789', {em: 'user@example.com', ph: '1234567890'}); // user_data phải là đối tượng"
+   },
+   "pixelErrorInvalidFbqMethodParameterMessage": {
+      "message": "So khớp thông số với định dạng mong muốn"
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendation": {
+      "message": "Lệnh gọi \"fbq('$1', $2);\" với thông số \"$3\" có giá trị \"$4\" không hợp lệ."
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendationSimple": {
+      "message": "Thông số phương thức fbq() không hợp lệ."
+   },
+   "pixelErrorInvalidFbqMethodParameterStep2": {
+      "message": "Tìm kiếm **fbq('$1', $2);**"
+   },
+   "pixelErrorInvalidFbqMethodParameterStep3": {
+      "message": "Cập nhật **$1** thành tên thông số hợp lệ"
+   },
+   "pixelErrorInvalidFbqMethodRecommendation": {
+      "message": "\"fbq('$1', ...);\" không phải là lệnh fbq hợp lệ. Hãy dùng phương thức fbq hợp lệ như \"init\", \"track\", \"trackCustom\"."
+   },
+   "pixelErrorInvalidFbqMethodStep2": {
+      "message": "Tìm lệnh gọi fbq() bằng phương thức không hợp lệ '$1'."
+   },
+   "pixelErrorInvalidFbqMethodStep3": {
+      "message": "Hãy thay bằng tên phương thức hợp lệ, chẳng hạn như \"track\", \"init\" hoặc \"trackCustom\"."
+   },
+   "pixelErrorInvalidJsonLdCardTitle": {
+      "message": "Cập nhật định dạng JSON-LD"
+   },
+   "pixelErrorInvalidJsonLdMessage": {
+      "message": "Đảm bảo JSON-LD được định dạng đúng và hợp lệ"
+   },
+   "pixelErrorInvalidJsonLdRecommendation": {
+      "message": "Không thể phân tích cú pháp thẻ JSON-LD. Đã tìm thấy JSON bị sai định dạng: \"$1\". Hãy đảm bảo phần đánh dấu JSON-LD đúng định dạng và hợp lệ trước khi gửi cho pixel."
+   },
+   "pixelErrorInvalidJsonLdStep2": {
+      "message": "Tìm kiếm **$1**"
+   },
+   "pixelErrorInvalidJsonLdStep3": {
+      "message": "Định dạng chính xác và đảm bảo đó là file JSON hợp lệ"
+   },
+   "pixelErrorInvalidParamCardTitle": {
+      "message": "Cập nhật thông số không hợp lệ cho sự kiện"
+   },
+   "pixelErrorInvalidParamExample": {
+      "message": "Ví dụ: fbq('track', 'Purchase', {currency: 'USD', value: 30.00})"
+   },
+   "pixelErrorInvalidParamFormatCardTitle": {
+      "message": "Cập nhật định dạng thông số"
+   },
+   "pixelErrorInvalidParamFormatExample": {
+      "message": "Các thông số thường gặp: giá trị, đơn vị tiền tệ, content_ids, content_type, v.v. Danh sách đầy đủ có trên wiki: https://developers.facebook.com/docs/meta-pixel/reference/"
+   },
+   "pixelErrorInvalidParamFormatMessage": {
+      "message": "Cập nhật định dạng thông số"
+   },
+   "pixelErrorInvalidParamFormatRecommendation": {
+      "message": "Định dạng thông số không hợp lệ cho $1."
+   },
+   "pixelErrorInvalidParamFormatStep2": {
+      "message": "Tìm kiếm **$1**"
+   },
+   "pixelErrorInvalidParamMessage": {
+      "message": "Gỡ hoặc cập nhật thông số không hợp lệ cho sự kiện"
+   },
+   "pixelErrorInvalidParamRecommendation": {
+      "message": "Thông số \"$1\" không hợp lệ đối với sự kiện \"$2\"."
+   },
+   "pixelErrorInvalidParamStep2": {
+      "message": "Tìm kiếm **fbq('track', $1, ...)**"
+   },
+   "pixelErrorInvalidParamStep3": {
+      "message": "Gỡ hoặc cập nhật $1"
+   },
+   "pixelErrorInvalidPixelIdCardTitle": {
+      "message": "Thêm ID tập dữ liệu hợp lệ"
+   },
+   "pixelErrorInvalidPixelIdMessage": {
+      "message": "Thêm ID tập dữ liệu hợp lệ"
+   },
+   "pixelErrorInvalidPixelIdRecommendation": {
+      "message": "ID Dataset $1 không hợp lệ. Hãy xác minh xem ID này có đúng trong Trình quản lý sự kiện trên Meta hay không và cập nhật mã pixel."
+   },
+   "pixelErrorInvalidPixelIdStep2": {
+      "message": "Tìm kiếm **fbq('init', $1)** trong mã cơ sở cài đặt pixel"
+   },
+   "pixelErrorInvalidPixelIdStep3": {
+      "message": "Thay \"$1\" bằng thông số hợp lệ có trong Trình quản lý sự kiện trên Meta"
+   },
+   "pixelErrorMultiplePixelsCardTitle": {
+      "message": "Hợp nhất thành một Meta Pixel"
+   },
+   "pixelErrorMultiplePixelsMessage": {
+      "message": "Hợp nhất thành một Meta Pixel"
+   },
+   "pixelErrorMultiplePixelsRecommendation": {
+      "message": "Đã phát hiện thấy nhiều pixel trên trang này. Nhiều pixel có thể cho thấy vấn đề về thiết lập và cản trở hoạt động theo dõi sự kiện liền mạch."
+   },
+   "pixelErrorMultiplePixelsStep2": {
+      "message": "Tìm kiếm **fbq('init', ...)** trong mã cơ sở cài đặt pixel"
+   },
+   "pixelErrorMultiplePixelsStep3": {
+      "message": "Hãy gỡ tất cả pixel, trừ 1 pixel và đừng quên cập nhật chiến dịch nếu bạn đang dùng pixel trùng lặp"
+   },
+   "pixelErrorNegativeEventParamCardTitle": {
+      "message": "Thêm giá trị dương vào $1 USD"
+   },
+   "pixelErrorNegativeEventParamMessage": {
+      "message": "Kiểm tra dữ liệu sự kiện $1"
+   },
+   "pixelErrorNegativeEventParamRecommendation": {
+      "message": "Thông số \"$1\" có giá trị âm cho sự kiện \"$2\". Các thông số sự kiện như giá trị, số lượng, v.v. không được có giá trị âm."
+   },
+   "pixelErrorNegativeEventParamStep2": {
+      "message": "Tìm kiếm **fbq('track', $1)**"
+   },
+   "pixelErrorNegativeEventParamStep3": {
+      "message": "Cập nhật giá trị thành số dương"
+   },
+   "pixelErrorNoEventIdCardTitle": {
+      "message": "Thêm ID sự kiện"
+   },
+   "pixelErrorNoEventIdMessage": {
+      "message": "Bao gồm ID sự kiện để theo dõi và bỏ trùng lặp"
+   },
+   "pixelErrorNoEventIdRecommendation": {
+      "message": "Chúng tôi phát hiện eventID chưa có hoặc để trống từ thông số thứ 4 của ID tập dữ liệu: $1. Hãy thêm ID sự kiện. Ví dụ: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorNoEventIdStep2": {
+      "message": "Tìm kiếm **fbq('track', ..., ..., ..., {})** rồi tìm vị trí để trống thông số thứ 4 hoặc eventID"
+   },
+   "pixelErrorNoEventIdStep3": {
+      "message": "Nêu rõ eventID hoặc gỡ thông số thứ 4"
+   },
+   "pixelErrorNoEventNameCardTitle": {
+      "message": "Thêm tên sự kiện"
+   },
+   "pixelErrorNoEventNameExample": {
+      "message": "Ví dụ: fbq('track', 'AddToCart')"
+   },
+   "pixelErrorNoEventNameMessage": {
+      "message": "Thêm tên sự kiện để theo dõi sự kiện"
+   },
+   "pixelErrorNoEventNameRecommendation": {
+      "message": "Thiếu tên sự kiện. Các sự kiện theo dõi phải được ghi với tên sự kiện fbq(\"track\", eventName). Ví dụ: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorNoEventNameStep2": {
+      "message": "Tìm kiếm **fbq('track', '', ...)** hoặc **fbq('track', ' ', ...)**"
+   },
+   "pixelErrorNoEventNameStep3": {
+      "message": "Thêm tên sự kiện"
+   },
+   "pixelErrorNonstandardEventCardTitle": {
+      "message": "Cập nhật sự kiện không tiêu chuẩn"
+   },
+   "pixelErrorNonstandardEventMessage": {
+      "message": "Gửi sự kiện không theo tiêu chuẩn bằng trackCustom"
+   },
+   "pixelErrorNonstandardEventRecommendation": {
+      "message": "Bạn đang gửi sự kiện không theo tiêu chuẩn \"$1\". Hãy gửi những sự kiện này bằng cách dùng trackCustom. Bạn nên gọi fbq('trackCustom', ...)."
+   },
+   "pixelErrorNonstandardEventStep2": {
+      "message": "Tìm kiếm **fbq('track', $1)**"
+   },
+   "pixelErrorNonstandardEventStep3": {
+      "message": "Thay bằng **fbq('trackCustom', $1)**"
+   },
+   "pixelErrorPiiInvalidTypeCardTitle": {
+      "message": "Gỡ thông tin khách hàng không hợp lệ"
+   },
+   "pixelErrorPiiInvalidTypeExample": {
+      "message": "Ví dụ: **em**, **ph**, **fn**, **ln**, **db**, **ge**, **ct**, **zp**, **external_id**, v.v."
+   },
+   "pixelErrorPiiInvalidTypeMessage": {
+      "message": "Gỡ thông tin khách hàng không hợp lệ"
+   },
+   "pixelErrorPiiInvalidTypeRecommendation": {
+      "message": "Bạn đã chỉ định $1 không hợp lệ cho \"$2\". Hệ thống sẽ không gửi dữ liệu này cùng bất kỳ sự kiện nào cho Pixel này."
+   },
+   "pixelErrorPiiInvalidTypeStep2": {
+      "message": "Tìm kiếm **fbq('init', $1, {$2:...})**"
+   },
+   "pixelErrorPiiInvalidTypeStep3": {
+      "message": "Cập nhật **$1** hoặc thay bằng thông tin hợp lệ"
+   },
+   "pixelErrorPiiUnhashedPiiCardTitle": {
+      "message": "Gửi email với trường khóa chính xác"
+   },
+   "pixelErrorPiiUnhashedPiiMessage": {
+      "message": "Gửi email với trường khóa chính xác"
+   },
+   "pixelErrorPiiUnhashedPiiRecommendation": {
+      "message": "Có vẻ giá trị của khóa \"$1\" là PII. Hệ thống sẽ không gửi dữ liệu này cùng bất kỳ sự kiện nào cho Pixel này. Bạn nên gọi fbq('init', 'PIXEL_ID', {em: 'email@email.com', ...})."
+   },
+   "pixelErrorPiiUnhashedPiiStep2": {
+      "message": "Tìm kiếm **$1** và xem có giá trị nào được đặt cho email không"
+   },
+   "pixelErrorPiiUnhashedPiiStep3": {
+      "message": "Cập nhật **$1** thành **em**"
+   },
+   "pixelErrorRequiredParamMissingCardTitle": {
+      "message": "Thêm thông số bị thiếu"
+   },
+   "pixelErrorRequiredParamMissingMessage": {
+      "message": "Thêm thông số bắt buộc còn thiếu vào sự kiện"
+   },
+   "pixelErrorRequiredParamMissingRecommendation": {
+      "message": "Sự kiện \"$2\" thiếu thông số bắt buộc \"$1\"."
+   },
+   "pixelErrorRequiredParamMissingStep2": {
+      "message": "Tìm kiếm **fbq('track', $1, ...)**"
+   },
+   "pixelErrorRequiredParamMissingStep3": {
+      "message": "Thêm thông số bị thiếu"
+   },
+   "pixelErrorRestrictedEventCardTitle": {
+      "message": "Xem lại sự kiện bị chặn"
+   },
+   "pixelErrorRestrictedEventMessage": {
+      "message": "Truy cập vào Trình quản lý sự kiện để xem lại sự kiện bị chặn"
+   },
+   "pixelErrorRestrictedEventRecommendation": {
+      "message": "Bạn đang cố gửi một sự kiện bị hạn chế. Sự kiện này đã bị ngăn chặn."
+   },
+   "pixelErrorRestrictedEventStep1": {
+      "message": "Đi đến tab Cài đặt của tập dữ liệu trong Trình quản lý sự kiện"
+   },
+   "pixelErrorRestrictedEventStep2": {
+      "message": "Đi đến phần Quyền đối với lưu lượng truy cập > Trang web"
+   },
+   "pixelErrorRestrictedEventStep3": {
+      "message": "Xem lại và cập nhật sự kiện bị chặn hoặc ngừng gửi sự kiện bị chặn từ trang web"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelCardTitle": {
+      "message": "Khởi tạo Pixel"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelMessage": {
+      "message": "Khởi tạo pixel trước khi đặt siêu dữ liệu"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendation": {
+      "message": "Cố thiết lập đối số $1 cho ID tập dữ liệu chưa khởi tạo $2. Hãy khởi tạo pixel trước khi thiết lập siêu dữ liệu. Trước tiên, hãy gọi fbq('init', '$3')."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendationSimple": {
+      "message": "Cố đặt siêu dữ liệu trên pixel chưa khởi tạo."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep2": {
+      "message": "Tìm kiếm **fbq()**"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep3": {
+      "message": "Trước tiên, hãy gọi **fbq('init', 'PIXEL_ID')**"
+   },
+   "pixelErrorSiteCodelessOptOutCardTitle": {
+      "message": "Bật quy trình thiết lập sự kiện không cần mã"
+   },
+   "pixelErrorSiteCodelessOptOutMessage": {
+      "message": "Bật quy trình thiết lập sự kiện không cần mã hoặc dùng cách tích hợp pixel thủ công"
+   },
+   "pixelErrorSiteCodelessOptOutRecommendation": {
+      "message": "Không thể mở giao diện Sự kiện không có mã cho pixel vì trang web đã chọn không tham gia. ID tập dữ liệu: $1."
+   },
+   "pixelErrorSiteCodelessOptOutStep2": {
+      "message": "Tìm kiếm **fbq('set', 'codeless', 'false', $1)**"
+   },
+   "pixelErrorSiteCodelessOptOutStep3": {
+      "message": "Remove this line to re-enable it or explicitly enable it **fbq('set', 'codeless', 'true', $1);"
+   },
+   "pixelErrorUnableLoadFbqCardTitle": {
+      "message": "Gỡ công cụ chặn quảng cáo"
+   },
+   "pixelErrorUnableLoadFbqMessage": {
+      "message": "Kiểm tra kết nối mạng và bảng điều khiển trình duyệt"
+   },
+   "pixelErrorUnableLoadFbqRecommendation": {
+      "message": "Không thể tải fbq. Công cụ chặn quảng cáo cũng có thể ngăn tải pixel."
+   },
+   "pixelErrorUnableLoadFbqStep1": {
+      "message": "Hãy kiểm tra kết nối mạng"
+   },
+   "pixelErrorUnableLoadFbqStep2": {
+      "message": "Đảm bảo bạn đã tắt công cụ chặn quảng cáo"
+   },
+   "pixelErrorUninitializedPixelCardTitle": {
+      "message": "Khởi tạo pixel"
+   },
+   "pixelErrorUninitializedPixelMessage": {
+      "message": "Khởi tạo pixel"
+   },
+   "pixelErrorUninitializedPixelRecommendation": {
+      "message": "Không tìm thấy Pixel $1. Hãy khởi tạo pixel với fbq('init', 'PIXEL_ID') trước khi gọi các phương thức fbq khác."
+   },
+   "pixelErrorUninitializedPixelStep1": {
+      "message": "Đi đến tab Tổng quan của Trình quản lý sự kiện để sao chép mã cơ sở của Meta pixel"
+   },
+   "pixelErrorUninitializedPixelStep2": {
+      "message": "Dán mã Meta Pixel vào giữa thẻ `\u003Chead>` và `\u003C/head>` trên trang web"
+   },
+   "pixelErrorUnknownErrorMessage": {
+      "message": "Đã xảy ra lỗi pixel không xác định"
+   },
+   "pixelErrorUnknownErrorRecommendation": {
+      "message": "Hãy kiểm tra bảng điều khiển trình duyệt để biết thêm chi tiết về lỗi này."
+   },
+   "pixelErrorUnsupportedMetadataCardTitle": {
+      "message": "Gỡ hoặc cập nhật trường siêu dữ liệu không được hỗ trợ"
+   },
+   "pixelErrorUnsupportedMetadataMessage": {
+      "message": "Gỡ hoặc cập nhật trường siêu dữ liệu không được hỗ trợ"
+   },
+   "pixelErrorUnsupportedMetadataRecommendation": {
+      "message": "Đối số siêu dữ liệu không được hỗ trợ: $1. Đối số siêu dữ liệu hợp lệ là \"agent\", \"automaticMatchingConfig\", \"codeless\", \"trackSingleOnly\", \"cbData.oneTrustId\"."
+   },
+   "pixelErrorUnsupportedMetadataStep2": {
+      "message": "Tìm kiếm **fbq('set', $1)**"
+   },
+   "pixelErrorUnsupportedMetadataStep3": {
+      "message": "Thay bằng đối số hợp lệ"
+   },
+   "pixelErrorUnverifiedEventCardTitle": {
+      "message": "Xác minh sự kiện"
+   },
+   "pixelErrorUnverifiedEventMessage": {
+      "message": "Xác minh sự kiện trong Trình quản lý sự kiện"
+   },
+   "pixelErrorUnverifiedEventRecommendation": {
+      "message": "Bạn đang cố gửi sự kiện chưa xác minh. Sự kiện này đã bị chặn. Hãy truy cập Trình quản lý sự kiện để tìm hiểu thêm."
+   },
+   "pixelErrorUnverifiedEventStep1": {
+      "message": "Đi đến tab Chẩn đoán của tập dữ liệu trong Trình quản lý sự kiện"
+   },
+   "pixelErrorUnverifiedEventStep2": {
+      "message": "Xác minh sự kiện"
+   },
+   "pixelErrorUnwantedCustomDataCardTitle": {
+      "message": "Gỡ dữ liệu có khả năng vi phạm"
+   },
+   "pixelErrorUnwantedCustomDataExample": {
+      "message": "Ví dụ: fbq('track', 'Purchase', {...}) - Gỡ các trường ssn, credit_card, mật khẩu"
+   },
+   "pixelErrorUnwantedCustomDataMessage": {
+      "message": "Gỡ trường dữ liệu tùy chỉnh có nguy cơ vi phạm"
+   },
+   "pixelErrorUnwantedCustomDataRecommendation": {
+      "message": "Đã gỡ thông số khỏi dữ liệu tùy chỉnh do có khả năng vi phạm. Hãy đi đến Trình quản lý sự kiện để xem lại."
+   },
+   "pixelErrorUnwantedCustomDataStep2": {
+      "message": "Gỡ mật khẩu hoặc bất kỳ thông tin tài chính nào, kiểm tra các loại vi phạm khác trong wiki"
+   },
+   "pixelErrorUnwantedEventNameCardTitle": {
+      "message": "Xem lại tên sự kiện"
+   },
+   "pixelErrorUnwantedEventNameExample": {
+      "message": "Ví dụ: Tên sự kiện sai như \"CreditCardSubmit\", \"PasswordEntered\", \"SSNCollected\""
+   },
+   "pixelErrorUnwantedEventNameMessage": {
+      "message": "Đảm bảo tên sự kiện không chứa thông tin bị cấm"
+   },
+   "pixelErrorUnwantedEventNameRecommendation": {
+      "message": "Sự kiện của bạn đã bị chặn do có khả năng vi phạm."
+   },
+   "pixelErrorUnwantedEventNameStep2": {
+      "message": "Tìm kiếm **fbq('track', ...)**"
+   },
+   "pixelErrorUnwantedEventNameStep3": {
+      "message": "Xem lại tên sự kiện để đảm bảo không chứa thông tin bị cấm (ví dụ: mật khẩu, SSN, thẻ tín dụng, v.v.)"
+   },
+   "pixelErrorUnwantedUrlDataCardTitle": {
+      "message": "Xem lại dữ liệu có khả năng vi phạm"
+   },
+   "pixelErrorUnwantedUrlDataExample": {
+      "message": "Ví dụ:\n❌ URL sai:\nhttps://example.com/checkout?email=user@test.com&ssn=123-45-6789\\nhttps://example.com/login?password=secret123&credit_card=4111...\n\n✅ URL đúng:\nhttps://example.com/checkout?order_id=12345\nhttps://example.com/login (không có thông số truy vấn nhạy cảm)"
+   },
+   "pixelErrorUnwantedUrlDataMessage": {
+      "message": "Xem lại dữ liệu URL để đảm bảo không có URL nào chứa thông tin bị cấm"
+   },
+   "pixelErrorUnwantedUrlDataRecommendation": {
+      "message": "Đã gỡ thông số truy vấn URL do có khả năng vi phạm."
+   },
+   "pixelErrorUnwantedUrlDataStep2": {
+      "message": "Kiểm tra URL - Kiểm tra cả trang hiện tại (dl) và nguồn giới thiệu (rl) để đảm bảo không có thông tin nhạy cảm"
+   },
+   "pixelEventCountPlural": {
+      "message": "$1 sự kiện"
+   },
+   "pixelEventCountSingular": {
+      "message": "$1 sự kiện"
+   },
+   "pixelEventUnnamed": {
+      "message": "Sự kiện (chưa đặt tên)"
+   },
+   "pixelHeaderPlural": {
+      "message": "Đã tìm thấy $1 pixel trên trang này"
+   },
+   "pixelHeaderSingular": {
+      "message": "Đã tìm thấy Pixel trên trang này"
+   },
+   "pixelIdLabel": {
+      "message": "ID: $1"
+   },
+   "pixelLoadTime": {
+      "message": "$1 mili giây"
+   },
+   "pixelMetaPixelTitle": {
+      "message": "Meta Pixel"
+   },
+   "pixelMissingFiresMessage": {
+      "message": "Chưa có pixel nào kích hoạt trên trang hiện tại, nhưng pixel đã kích hoạt trên các trang khác của trang web này"
+   },
+   "pixelMissingFiresRecommendation": {
+      "message": "Cân nhắc thêm sự kiện theo dõi bằng pixel vào trang này hoặc kiểm tra xem pixel hiện tại có hoạt động đúng cách hay không"
+   },
+   "pixelNoEventsRecorded": {
+      "message": "Chưa ghi lại sự kiện nào"
+   },
+   "pixelNotFiringMessage": {
+      "message": "Pixel $1 đã cài đặt nhưng chưa kích hoạt gần đây"
+   },
+   "pixelStatusActive": {
+      "message": "Đang hoạt động"
+   },
+   "pixelStatusAutomaticallyDetected": {
+      "message": "Tự động phát hiện"
+   },
+   "pixelStatusError": {
+      "message": "Lỗi"
+   },
+   "pixelStatusEventNotProcessed": {
+      "message": "Sự kiện chưa được xử lý"
+   },
+   "pixelStatusEventReceived": {
+      "message": "Đã nhận được sự kiện"
+   },
+   "pixelStatusInactive": {
+      "message": "Không hoạt động"
+   },
+   "pixelStatusReceived": {
+      "message": "Đã nhận"
+   },
+   "pixelStatusSent": {
+      "message": "Đã gửi sự kiện"
+   },
+   "pixelStatusWarning": {
+      "message": "Cảnh báo"
+   },
+   "recipeAddMoreFields": {
+      "message": "Thêm trường khác"
+   },
+   "recipeCancelAutomation": {
+      "message": "Hủy tự động hóa"
+   },
+   "recipeCompleteActionToContinue": {
+      "message": "Hoàn tất hành động để tiếp tục"
+   },
+   "recipeErrorBackButton": {
+      "message": "Đi đến trang chủ"
+   },
+   "recipeErrorMessage": {
+      "message": "Chúng tôi không thể bắt đầu quy trình tự động hóa do vấn đề ngoài dự kiến. Hãy kiểm tra kết nối Internet, rồi thử lại sau."
+   },
+   "recipeErrorTitle": {
+      "message": "Vui lòng thử lại sau."
+   },
+   "recipeFailedStateDescription": {
+      "message": "Đã xảy ra lỗi khi hoàn tất hành động này. Bạn sẽ cần hoàn tất hành động này theo cách thủ công để tiếp tục thiết lập."
+   },
+   "recipeFieldIdentifierLabel": {
+      "message": "Mã nhận dạng"
+   },
+   "recipeFieldMappingInfoBoxTextLead": {
+      "message": "Để tiếp tục, hãy xác nhận Tên sự kiện, Thời gian diễn ra sự kiện và chọn ít nhất 1 trường mã nhận dạng (Nên chọn ID khách hàng tiềm năng)."
+   },
+   "recipeFieldMappingInfoBoxTextOpportunity": {
+      "message": "Để tiếp tục, hãy xác nhận Tên sự kiện và Thời gian diễn ra sự kiện."
+   },
+   "recipeFieldOptionalLabel": {
+      "message": "Không bắt buộc"
+   },
+   "recipeFieldsDropdownNoResultsFound": {
+      "message": "Không tìm thấy kết quả nào"
+   },
+   "recipeFieldsEventNameTooltipContent": {
+      "message": "Tên này ánh xạ đến khách hàng tiềm năng trong phễu CRM. Gửi tất cả các giai đoạn khi có cập nhật."
+   },
+   "recipeFieldsEventNameTooltipExample": {
+      "message": "cụ thể"
+   },
+   "recipeFieldsEventNameTooltipExample1": {
+      "message": "Dữ liệu thô về khách hàng tiềm năng từ Meta"
+   },
+   "recipeFieldsEventNameTooltipExample2": {
+      "message": "Khách hàng tiềm năng đủ điều kiện marketing"
+   },
+   "recipeFieldsEventNameTooltipExample3": {
+      "message": "Cơ hội bán hàng"
+   },
+   "recipeFieldsEventNameTooltipExample4": {
+      "message": "Khách hàng"
+   },
+   "recipeFieldsEventNameTooltipLearnMore": {
+      "message": "Tìm hiểu thêm"
+   },
+   "recipeFieldsEventNameTooltipLearnMoreContinued": {
+      "message": "giới thiệu về cách tích hợp khách hàng tiềm năng chuyển đổi."
+   },
+   "recipeFileABug": {
+      "message": "Báo cáo lỗi"
+   },
+   "recipeFileAnotherBug": {
+      "message": "Báo cáo lỗi khác"
+   },
+   "recipeIntroStartAutomationButton": {
+      "message": "Bắt đầu quy trình tự động hóa"
+   },
+   "recipeMaibaCallerIndicator": {
+      "message": "Quay lại MAIBA"
+   },
+   "recipeMarkAsComplete": {
+      "message": "Đánh dấu là hoàn tất"
+   },
+   "recipeMilestoneActionNeededStatus": {
+      "message": "Cần hành động"
+   },
+   "recipeMilestoneCompleteStatus": {
+      "message": "Hoàn tất"
+   },
+   "recipeMilestoneFailedStatus": {
+      "message": "Không thành công"
+   },
+   "recipeMilestoneInProgressStatus": {
+      "message": "Đang tiến hành"
+   },
+   "recipeMilestonePausedStatus": {
+      "message": "Đã tạm dừng"
+   },
+   "recipeMilestoneStepFailedSuffix": {
+      "message": "· Không thực hiện được bước"
+   },
+   "recipeOpportunityChoiceNo": {
+      "message": "không"
+   },
+   "recipeOpportunityChoiceYes": {
+      "message": "có"
+   },
+   "recipeOpportunityQuestionDropdownLabel": {
+      "message": "Bạn có dùng cơ hội không?"
+   },
+   "recipeOpportunityQuestionInfoText": {
+      "message": "Cơ hội đồng bộ trạng thái giao dịch trên Salesforce với Meta để quảng cáo tối ưu hóa cho kết quả doanh thu thực, thay vì chỉ tối ưu hóa cho khách hàng tiềm năng."
+   },
+   "recipeOpportunityQuestionLearnMore": {
+      "message": "Tìm hiểu thêm"
+   },
+   "recipeOpportunityQuestionNo": {
+      "message": "Không"
+   },
+   "recipeOpportunityQuestionYes": {
+      "message": "Có"
+   },
+   "recipePause": {
+      "message": "Tạm dừng"
+   },
+   "recipeResume": {
+      "message": "Tiếp tục"
+   },
+   "recipeRetry": {
+      "message": "Thử lại"
+   },
+   "recipeReturnToMaiba": {
+      "message": "Quay lại MAIBA"
+   },
+   "recipeReturnToTab": {
+      "message": "Quay lại tab"
+   },
+   "recipeReturnToTabPrompt": {
+      "message": "Quay lại tab mà quy trình tự động hóa này đang chạy, rồi nhấp vào Tiếp tục."
+   },
+   "recipeStepFailed": {
+      "message": "Không thành công"
+   },
+   "recipeStepNumber": {
+      "message": "Bước $1"
+   },
+   "recipeStepSkipped": {
+      "message": "Đã bỏ qua"
+   },
+   "recipeStepSkippedTooltip": {
+      "message": "Bước này đã bị bỏ qua vì không cần thiết nữa."
+   },
+   "recipeStepUserActionRequired": {
+      "message": "Cần hành động"
+   },
+   "recipeSummaryHeaderTitle": {
+      "message": "Tóm tắt"
+   },
+   "recipeSwitchToActiveTabHint": {
+      "message": "Nhấp để chuyển sang tab đang hoạt động nhằm tăng tốc quy trình tự động hóa."
+   },
+   "recipeThanksForFeedback": {
+      "message": "Cảm ơn bạn đã đóng góp ý kiến"
+   },
+   "recipeVerifying": {
+      "message": "Đang xác minh..."
+   },
+   "recipeViewInEventsManager": {
+      "message": "Xem trong Trình quản lý sự kiện"
+   },
+   "recipeViewReport": {
+      "message": "Xem tóm tắt quy trình tự động hóa"
+   },
+   "recipeWpAdminUrlInfoText": {
+      "message": "Chúng tôi không thể tự động phát hiện URL đến bảng điều khiển quản trị WordPress của bạn. Vui lòng nhập URL đầy đủ đến bảng điều khiển quản trị WordPress để chúng tôi có thể tiếp tục thiết lập."
+   },
+   "recipeWpAdminUrlInputLabel": {
+      "message": "Nhập URL đến bảng điều khiển quản trị WordPress của bạn (ví dụ: https://yoursite.com /wp-admin/)"
+   },
+   "recipeYourActionIsRequired": {
+      "message": "Bạn cần hành động"
+   },
+   "remove": {
+      "message": "Gỡ"
+   },
+   "remove_asset_button_label": {
+      "message": "Gỡ tài sản này"
+   },
+   "remove_asset_button_required_label": {
+      "message": "Tài sản này là bắt buộc nên không thể gỡ"
+   },
+   "reportAiGenerated": {
+      "message": "Do AI tạo"
+   },
+   "reportAutomationCountPlural": {
+      "message": "$1 quy trình tự động hóa"
+   },
+   "reportAutomationCountSingular": {
+      "message": "$1 quy trình tự động hóa"
+   },
+   "reportAutomationPanelDescription": {
+      "message": "Xem lại trạng thái, mốc thời gian và hành động được thực hiện trong quy trình tự động hóa này."
+   },
+   "reportAutomationSummaryDescription": {
+      "message": "Số liệu chia nhỏ chi tiết về trải nghiệm tự động hóa. Để bảo vệ quyền riêng tư của bạn, chúng tôi sẽ không lưu trữ số liệu này trên nền tảng của mình."
+   },
+   "reportAutomationSummaryTitle": {
+      "message": "Tóm tắt quy trình tự động hóa"
+   },
+   "reportCapturedDuringEmSelection": {
+      "message": "Lựa chọn trong Trình quản lý sự kiện"
+   },
+   "reportCapturedDuringGaSetup": {
+      "message": "Thiết lập Google Analytics"
+   },
+   "reportCapturedDuringGtmSetup": {
+      "message": "Thiết lập GTM"
+   },
+   "reportCapturedDuringSfWebhook": {
+      "message": "Tiện ích tích hợp webhook cho Salesforce"
+   },
+   "reportCapturedIdsCreatedDuringSession": {
+      "message": "Được tạo trong phiên của bạn"
+   },
+   "reportCapturedIdsDescription": {
+      "message": "Sau đây là các ID được truy cập trong quá trình tự động hóa."
+   },
+   "reportCapturedIdsEmpty": {
+      "message": "Không có ID nào được truy cập trong quy trình tự động hóa này."
+   },
+   "reportCapturedIdsExisting": {
+      "message": "Hiện có"
+   },
+   "reportCapturedIdsHeading": {
+      "message": "ID đã truy cập"
+   },
+   "reportClickToCopy": {
+      "message": "Nhấp để sao chép"
+   },
+   "reportCopied": {
+      "message": "Đã sao chép"
+   },
+   "reportCopyAll": {
+      "message": "Sao chép tất cả"
+   },
+   "reportDomainEventsManager": {
+      "message": "Trình quản lý sự kiện"
+   },
+   "reportDomainGoogleAnalytics": {
+      "message": "Google Analytics"
+   },
+   "reportDomainGoogleTagManager": {
+      "message": "Trình quản lý thẻ của Google"
+   },
+   "reportDomainSalesforce": {
+      "message": "Salesforce"
+   },
+   "reportDomainStape": {
+      "message": "Stape"
+   },
+   "reportExportPdf": {
+      "message": "Xuất bản tóm tắt dưới dạng PDF"
+   },
+   "reportExportPdfNote": {
+      "message": "Quá trình xuất có thể cần tối đa 45 giây."
+   },
+   "reportFlowAutomationName": {
+      "message": "Quy trình tự động hóa"
+   },
+   "reportFlowSummaryDescription": {
+      "message": "Xem xét trạng thái, mốc thời gian và hành động đã thực hiện trên tất cả quy trình tự động hóa trong quy trình này."
+   },
+   "reportFlowSummaryHeading": {
+      "message": "Tóm tắt quy trình"
+   },
+   "reportIdCountPlural": {
+      "message": "$1 ID"
+   },
+   "reportIdCountSingular": {
+      "message": "$1 ID"
+   },
+   "reportIdLabelAdAccountId": {
+      "message": "ID tài khoản quảng cáo"
+   },
+   "reportIdLabelBusinessId": {
+      "message": "ID doanh nghiệp"
+   },
+   "reportIdLabelCustom": {
+      "message": "ID tùy chỉnh"
+   },
+   "reportIdLabelDatasetId": {
+      "message": "ID tập dữ liệu"
+   },
+   "reportIdLabelGaMeasurementId": {
+      "message": "ID đo lường trong Google Analytics"
+   },
+   "reportIdLabelGtmAccountId": {
+      "message": "Tên tài khoản Trình quản lý thẻ của Google"
+   },
+   "reportIdLabelGtmContainerId": {
+      "message": "ID vùng chứa trong Trình quản lý thẻ của Google"
+   },
+   "reportIdLabelGtmServerContainerName": {
+      "message": "Vùng chứa máy chủ trong Trình quản lý thẻ của Google"
+   },
+   "reportIdLabelGtmWebContainerName": {
+      "message": "Vùng chứa web trong Trình quản lý thẻ của Google"
+   },
+   "reportIdLabelSgwDataPlaneUrl": {
+      "message": "URL mặt phẳng dữ liệu của Signals Gateway"
+   },
+   "reportIdLabelSgwPixelId": {
+      "message": "ID tập dữ liệu Signals Gateway"
+   },
+   "reportIdLabelWebhookIntegrationId": {
+      "message": "ID tiện ích tích hợp webhook"
+   },
+   "reportIdLabelWebhookUrl": {
+      "message": "URL webhook"
+   },
+   "reportInProgress": {
+      "message": "Đang tiến hành"
+   },
+   "reportKeyScreenshotEndOfAutomation": {
+      "message": "Kết thúc quy trình tự động hóa"
+   },
+   "reportKeyScreenshotFinalState": {
+      "message": "Trạng thái tự động hóa cuối cùng"
+   },
+   "reportLabelActionsTaken": {
+      "message": "Số hành động đã thực hiện"
+   },
+   "reportLabelAutomations": {
+      "message": "Quy trình tự động hóa"
+   },
+   "reportLabelDuration": {
+      "message": "Khoảng thời gian"
+   },
+   "reportLabelStatus": {
+      "message": "Trạng thái"
+   },
+   "reportLabelTimeline": {
+      "message": "Dòng thời gian"
+   },
+   "reportMilestoneComplete": {
+      "message": "Hoàn tất"
+   },
+   "reportNavHowWeUseData": {
+      "message": "Cách chúng tôi sử dụng dữ liệu của bạn"
+   },
+   "reportNavIdsAccessed": {
+      "message": "ID đã truy cập"
+   },
+   "reportNavPagesVisited": {
+      "message": "Trang và miền đã truy cập"
+   },
+   "reportNavPrivacySecurity": {
+      "message": "Quyền riêng tư và bảo mật"
+   },
+   "reportNavSummary": {
+      "message": "Tóm tắt"
+   },
+   "reportOverviewCapiGatewayDescription": {
+      "message": "Quy trình tự động hóa này đã đặt cấu hình Cổng API Chuyển đổi để theo dõi sự kiện phía máy chủ. Cổng này sẽ gửi trực tiếp dữ liệu sự kiện từ máy chủ của bạn đến Meta, nhằm cải thiện độ tin cậy của dữ liệu và chất lượng so khớp."
+   },
+   "reportOverviewCapiGatewayTitle": {
+      "message": "Thiết lập Cổng API Chuyển đổi"
+   },
+   "reportOverviewDefaultDescription": {
+      "message": "Báo cáo này tóm tắt các hành động đã thực hiện trong quy trình tự động hóa."
+   },
+   "reportOverviewDefaultTitle": {
+      "message": "Đã hoàn tất tự động hóa"
+   },
+   "reportOverviewGtmServerDescription": {
+      "message": "Quy trình tự động hóa này đã đặt cấu hình tính năng gắn thẻ phía máy chủ thông qua Trình quản lý thẻ của Google. Tính năng gắn thẻ phía máy chủ sẽ xử lý thẻ trên máy chủ thay vì trong trình duyệt, từ đó cải thiện chất lượng dữ liệu, hiệu quả của trang web và quyền riêng tư của người dùng."
+   },
+   "reportOverviewGtmServerTitle": {
+      "message": "Cách thiết lập phía máy chủ của Trình quản lý thẻ của Google"
+   },
+   "reportOverviewGtmWebDescription": {
+      "message": "Quy trình tự động hóa này thiết lập vùng chứa web Trình quản lý thẻ của Google và đặt cấu hình vùng chứa đó cho trang web của bạn. Với vùng chứa này, bạn có thể quản lý thẻ marketing, dữ liệu phân tích và pixel theo dõi mà không cần sửa đổi mã trang web."
+   },
+   "reportOverviewGtmWebTitle": {
+      "message": "Thiết lập vùng chứa web trong Trình quản lý thẻ của Google"
+   },
+   "reportOverviewMetaPixelDescription": {
+      "message": "Quy trình tự động hóa này đã cài đặt và xác minh Meta Pixel trên trang web của bạn. Pixel theo dõi hoạt động của khách truy cập để bạn đo lường hiệu quả quảng cáo, tạo đối tượng và tối ưu hóa hoạt động phân phối quảng cáo."
+   },
+   "reportOverviewMetaPixelTitle": {
+      "message": "Cài đặt Meta Pixel"
+   },
+   "reportOverviewSalesforceDescription": {
+      "message": "Quy trình tự động hóa này đã đặt cấu hình webhook Meta CRM-CAPI trong phiên bản Salesforce của bạn. Tiện ích tích hợp webhook sẽ gửi thẳng sự kiện CRM từ Salesforce đến Meta, qua đó cải thiện khả năng nhắm mục tiêu và đo lường quảng cáo thông qua hoạt động chia sẻ sự kiện phía máy chủ."
+   },
+   "reportOverviewSalesforceTitle": {
+      "message": "Thiết lập webhook cho CRM-CAPI của Salesforce"
+   },
+   "reportPagesDescription": {
+      "message": "Trong trải nghiệm tự động hóa, hệ thống đã truy cập vào các trang sau."
+   },
+   "reportPagesDescriptionShort": {
+      "message": "Trong quy trình tự động hóa, hệ thống đã truy cập vào các trang sau."
+   },
+   "reportPagesEmpty": {
+      "message": "Không có trang nào được truy cập trong quy trình tự động hóa này."
+   },
+   "reportPagesHeading": {
+      "message": "Miền và trang đã truy cập"
+   },
+   "reportRecipeNameGaCreateAccount": {
+      "message": "Tạo tài khoản Google Analytics"
+   },
+   "reportRecipeNameGtmCreateAccount": {
+      "message": "Tạo tài khoản GTM"
+   },
+   "reportRecipeNameGtmProvisionServer": {
+      "message": "Cung cấp vùng chứa máy chủ GTM"
+   },
+   "reportRecipeNameInstallFacebookForWoocommerce": {
+      "message": "Cài đặt Facebook cho WooCommerce"
+   },
+   "reportRecipeNameSalesforceWebhook": {
+      "message": "Thiết lập webhook cho CRM Salesforce"
+   },
+   "reportRecipeNameSgwGtmSetup": {
+      "message": "Thiết lập Signals Gateway với GTM"
+   },
+   "reportRecipeNameShopifyProductSync": {
+      "message": "Đồng bộ sản phẩm trên Shopify"
+   },
+   "reportRecipeNameUpdateFacebookForWoocommerce": {
+      "message": "Cập nhật Facebook for WooCommerce"
+   },
+   "reportStatusFailed": {
+      "message": "Không thành công"
+   },
+   "reportStatusSetupIncomplete": {
+      "message": "Chưa hoàn tất quy trình thiết lập"
+   },
+   "reportStatusSuccess": {
+      "message": "Thành công"
+   },
+   "reportSummaryDescription": {
+      "message": "Xem lại trạng thái, mốc thời gian và hành động được thực hiện trong trải nghiệm tự động hóa."
+   },
+   "reportSummaryFailureDescription": {
+      "message": "Quy trình tự động hóa không hoàn tất thành công. Hãy xem lại dòng thời gian và mọi nguồn lực đã tạo trước khi xảy ra lỗi."
+   },
+   "reportSummaryHeading": {
+      "message": "Tóm tắt"
+   },
+   "reportTimelineStarted": {
+      "message": "Đã bắt đầu $1"
+   },
+   "reportTitleFailure": {
+      "message": "Quy trình tự động hóa không thành công: $1"
+   },
+   "reportTitleFlow": {
+      "message": "Tóm tắt quy trình tự động hóa"
+   },
+   "reportTitleSuccess": {
+      "message": "Tóm tắt quy trình tự động hóa: $1"
+   },
+   "required": {
+      "message": "Bắt buộc"
+   },
+   "resolutionStepAddingMissingEventsTitle": {
+      "message": "Thêm sự kiện bị thiếu"
+   },
+   "resolutionStepClickToCopy": {
+      "message": "Nhấp để sao chép"
+   },
+   "resolutionStepConfirmNewEvents": {
+      "message": "Xác nhận sự kiện mới"
+   },
+   "resolutionStepEnableAAMEventsTitle": {
+      "message": "Bật tính năng So khớp nâng cao tự động"
+   },
+   "resolutionStepEnableMAMEventsTitle": {
+      "message": "Thiết lập tính năng So khớp nâng cao thủ công"
+   },
+   "resolutionStepInvalidValueCurrencyTitle": {
+      "message": "Cập nhật giá trị và đơn vị tiền tệ"
+   },
+   "resolutionStepLeaveTabOpen": {
+      "message": "Cứ để mở tab này"
+   },
+   "resolutionStepOpenEventSetupTool": {
+      "message": "Mở Công cụ thiết lập sự kiện cho trang web"
+   },
+   "resolutionStepOpenWebsiteCode": {
+      "message": "Mở mã trang web của bạn."
+   },
+   "resolutionStepSearchFbqInit": {
+      "message": "Tìm kiếm **fbq('init'...)** để tìm những nơi bạn đang sử dụng Meta Pixel."
+   },
+   "resolutionStepSearchFbqTrackPurchase": {
+      "message": "Tìm kiếm sự kiện mua hàng được theo dõi của Pixel."
+   },
+   "resolutionStepUpdateCodeBlock": {
+      "message": "Cập nhật khối mã để đưa dữ liệu so khớp nâng cao ở bên dưới vào làm thông số thứ ba."
+   },
+   "resolutionStepUpdateCurrencyField": {
+      "message": "Cập nhật trường đơn vị tiền tệ."
+   },
+   "resolutionStepUpdateValueField": {
+      "message": "Cập nhật trường giá trị."
+   },
+   "resolutionStepUserActionRequired": {
+      "message": "Cần hành động của người dùng"
+   },
+   "resolutionStepValueFieldInformation": {
+      "message": "Thông tin trong trường giá trị:"
+   },
+   "resolutionStepValueFieldRequirement1": {
+      "message": "Phải là một giá trị số lớn hơn 0"
+   },
+   "resolutionStepValueFieldRequirement2": {
+      "message": "Có thể bao gồm dấu thập phân. Ví dụ: 9,99 hoặc 9."
+   },
+   "resolutionStepValueFieldRequirement3": {
+      "message": "Không nhập thêm số, ký tự đặc biệt hoặc biểu tượng vào thông số đơn vị tiền tệ."
+   },
+   "resolutionStepsDefault": {
+      "message": "Bước giải quyết"
+   },
+   "reviewSuggestionsEmpty": {
+      "message": "Hiện không có sự kiện gợi ý nào."
+   },
+   "reviewSuggestionsIneligible": {
+      "message": "Chưa có sự kiện gợi ý cho pixel này."
+   },
+   "reviewSuggestionsLoading": {
+      "message": "Đang tải sự kiện gợi ý…"
+   },
+   "ruleOperator_eq": {
+      "message": "bằng"
+   },
+   "ruleOperator_gt": {
+      "message": "lớn hơn"
+   },
+   "ruleOperator_gte": {
+      "message": "lớn hơn hoặc bằng"
+   },
+   "ruleOperator_i_contains": {
+      "message": "chứa"
+   },
+   "ruleOperator_i_greater_than_or_equal": {
+      "message": "lớn hơn hoặc bằng"
+   },
+   "ruleOperator_i_is_any": {
+      "message": "là bất kỳ giá trị nào trong"
+   },
+   "ruleOperator_i_less_than_or_equal": {
+      "message": "nhỏ hơn hoặc bằng"
+   },
+   "ruleOperator_i_not_contains": {
+      "message": "không chứa"
+   },
+   "ruleOperator_lt": {
+      "message": "nhỏ hơn"
+   },
+   "ruleOperator_lte": {
+      "message": "nhỏ hơn hoặc bằng"
+   },
+   "ruleOperator_neq": {
+      "message": "không bằng"
+   },
+   "ruleOperator_or": {
+      "message": "hoặc"
+   },
+   "ruleOperator_regex_match": {
+      "message": "khớp"
+   },
+   "screenshotGalleryDisclaimer": {
+      "message": "Hệ thống sẽ chỉ lưu ảnh chụp màn hình trên thiết bị của bạn và xóa ảnh này khi phiên kết thúc."
+   },
+   "screenshotGalleryTimeDaysAgo": {
+      "message": "$1 ngày trước"
+   },
+   "screenshotGalleryTimeHoursAgo": {
+      "message": "$1 giờ trước"
+   },
+   "screenshotGalleryTimeJustNow": {
+      "message": "vừa xong"
+   },
+   "screenshotGalleryTimeMinutesAgo": {
+      "message": "$1 phút trước"
+   },
+   "selector_no_options_available": {
+      "message": "Không có lựa chọn nào"
+   },
+   "selector_no_results_found": {
+      "message": "Không tìm thấy kết quả nào"
+   },
+   "selector_select_placeholder": {
+      "message": "-- Chọn --"
+   },
+   "server_container_creation_title": {
+      "message": "Vùng chứa máy chủ"
+   },
+   "server_container_name_label": {
+      "message": "Tên vùng chứa"
+   },
+   "server_container_tagging_url_label": {
+      "message": "URL máy chủ gắn thẻ"
+   },
+   "settingsDescription": {
+      "message": "Dễ dàng quản lý cấu hình Meta Pixel và tối ưu hóa cách hoạt động thay mặt bạn."
+   },
+   "settingsErrorOccurred": {
+      "message": "Đã xảy ra lỗi"
+   },
+   "settingsOverlayNotificationsDescription": {
+      "message": "Hiển thị thông báo lớp phủ theo ngữ cảnh trên các trang có pixel của bạn"
+   },
+   "settingsOverlayNotificationsTitle": {
+      "message": "Thông báo lớp phủ"
+   },
+   "settingsTitle": {
+      "message": "Cài đặt"
+   },
+   "settingsWaitSpeedFast": {
+      "message": "Nhanh"
+   },
+   "settingsWaitSpeedFastDescription": {
+      "message": "Chưa đến 1 giây"
+   },
+   "settingsWaitSpeedMedium": {
+      "message": "Trung bình"
+   },
+   "settingsWaitSpeedMediumDescription": {
+      "message": "2-3 giây"
+   },
+   "settingsWaitSpeedSlow": {
+      "message": "Chậm"
+   },
+   "settingsWaitSpeedSlowDescription": {
+      "message": "5 giây trở lên"
+   },
+   "settingsWaitTimeBetweenActionsTitle": {
+      "message": "Thời gian chờ giữa các hành động"
+   },
+   "setupAddingAllEventsLabel": {
+      "message": "Đang thêm tất cả sự kiện"
+   },
+   "setupAddingPixelEventsCardTitle": {
+      "message": "Đang thêm sự kiện Pixel"
+   },
+   "setupComplete": {
+      "message": "Đã thiết lập xong"
+   },
+   "setupDetailsHeader": {
+      "message": "Chi tiết về cách thiết lập"
+   },
+   "setupDetailsInfoTooltip": {
+      "message": "Khi quy trình tự động hóa bắt đầu, hệ thống sẽ hoàn tất các bước sau cho bạn."
+   },
+   "setupHowItWorksDescription": {
+      "message": "Meta AI sẽ quét trang web của bạn, xác định các sự kiện chuyển đổi chính (như Giao dịch mua, Lượt thêm vào giỏ hàng hoặc Khách hàng tiềm năng) và tự động thêm dưới dạng sự kiện Pixel mà không cần bạn phải viết mã."
+   },
+   "setupHowItWorksLabel": {
+      "message": "Cách hoạt động"
+   },
+   "setupPixelEventsAddedHeader": {
+      "message": "Đã thêm sự kiện Pixel"
+   },
+   "setupPixelEventsAddedSubtitle": {
+      "message": "Giờ đây, bạn có thể yên tâm và tận hưởng sự cải thiện về hiệu quả chiến dịch."
+   },
+   "setupPixelEventsHeader": {
+      "message": "Thiết lập sự kiện Pixel"
+   },
+   "setupReturnToPreviousPage": {
+      "message": "Quay lại trang trước"
+   },
+   "setup_failed": {
+      "message": "Không thiết lập được"
+   },
+   "setup_requirements": {
+      "message": "Yêu cầu khi thiết lập"
+   },
+   "shopifyProductSyncIntroStep1SubA": {
+      "message": "Mở trang đăng nhập phần quản trị Shopify"
+   },
+   "shopifyProductSyncIntroStep1SubB": {
+      "message": "Đăng nhập phần quản trị Shopify của cửa hàng"
+   },
+   "shopifyProductSyncIntroStep1Title": {
+      "message": "Đăng nhập phần quản trị Shopify"
+   },
+   "shopifyProductSyncIntroStep2SubA": {
+      "message": "Nhấp vào **Products** (Sản phẩm)"
+   },
+   "shopifyProductSyncIntroStep2SubB": {
+      "message": "Nhấp vào tab **All** (Tất cả)"
+   },
+   "shopifyProductSyncIntroStep2SubC": {
+      "message": "Chọn tất cả sản phẩm"
+   },
+   "shopifyProductSyncIntroStep2Title": {
+      "message": "Xác định sản phẩm"
+   },
+   "shopifyProductSyncIntroStep3SubA": {
+      "message": "Nhấp vào **More options** (Lựa chọn khác)"
+   },
+   "shopifyProductSyncIntroStep3SubB": {
+      "message": "Nhấp vào **Include in sales channels** (Thêm vào kênh bán hàng)"
+   },
+   "shopifyProductSyncIntroStep3SubC": {
+      "message": "Chọn **Facebook & Instagram** (Facebook và Instagram)"
+   },
+   "shopifyProductSyncIntroStep3SubD": {
+      "message": "Nhấp vào **Include products** (Thêm sản phẩm)"
+   },
+   "shopifyProductSyncIntroStep3Title": {
+      "message": "Thêm sản phẩm"
+   },
+   "showAllEvents": {
+      "message": "Hiển thị mọi sự kiện"
+   },
+   "showAllPixels": {
+      "message": "Hiển thị tất cả pixel"
+   },
+   "showAllWarnings": {
+      "message": "Hiển thị tất cả cảnh báo"
+   },
+   "showLess": {
+      "message": "Ẩn bớt"
+   },
+   "showLessEvents": {
+      "message": "Ẩn bớt sự kiện"
+   },
+   "showMore": {
+      "message": "Xem thêm"
+   },
+   "stepResumeTooltip": {
+      "message": "Trước khi tiếp tục, hãy đảm bảo bạn đã tự mình hoàn tất hành động nêu trên."
+   },
+   "suggestionButtonTextLabel": {
+      "message": "Văn bản trên nút là \"$1\""
+   },
+   "suggestionExampleUrlsLabel": {
+      "message": "URL ví dụ: $1"
+   },
+   "switcherCatalogSingular": {
+      "message": "$1 danh mục"
+   },
+   "switcherCatalogsPlural": {
+      "message": "$1 danh mục"
+   },
+   "switcherPixelsPlural": {
+      "message": "$1 pixel"
+   },
+   "switcherPixelsSingular": {
+      "message": "$1 pixel"
+   },
+   "testEventsHeader": {
+      "message": "Sự kiện thử nghiệm"
+   },
+   "topActionsSectionHeader": {
+      "message": "Hành động hiệu quả nhất của bạn"
+   },
+   "topActionsSectionSubHeader": {
+      "message": "Dựa trên cách thiết lập của bạn"
+   },
+   "triggerEventDetection": {
+      "message": "Phát hiện sự kiện gợi ý"
+   },
+   "useMetaEventSetupToolForWeb": {
+      "message": "Dùng công cụ thiết lập sự kiện trên Meta cho web"
+   },
+   "verificationFailedCancelButton": {
+      "message": "Hủy tự động hóa"
+   },
+   "verificationFailedMessage": {
+      "message": "Chúng tôi không thể phát hiện trạng thái của hành động này. Nếu lỗi này vẫn tiếp diễn, bạn có thể hủy quy trình tự động hóa và tiếp tục thiết lập theo cách thủ công."
+   },
+   "verificationFailedTitle": {
+      "message": "Vui lòng thử lại"
+   },
+   "verificationFailedTryAgainButton": {
+      "message": "Thử lại lần nữa"
+   },
+   "verificationInProgressMessage": {
+      "message": "Đang kiểm tra xem hành động đã hoàn tất chưa"
+   },
+   "warningsHeader": {
+      "message": "Cảnh báo"
+   },
+   "web_container_creation_title": {
+      "message": "Vùng chứa web"
+   },
+   "web_container_name_label": {
+      "message": "Tên vùng chứa"
+   },
+   "what_we_will_create_title": {
+      "message": "Những gì chúng tôi sẽ tạo cho bạn"
+   },
+   "wooCommerceIntroSetUpForMeButton": {
+      "message": "Thiết lập cho tôi"
+   },
+   "wooCommerceIntroStep1SubA": {
+      "message": "Mở Bảng điều khiển quản trị WordPress"
+   },
+   "wooCommerceIntroStep1SubB": {
+      "message": "Đăng nhập tài khoản WordPress của bạn"
+   },
+   "wooCommerceIntroStep1Title": {
+      "message": "Đăng nhập WordPress"
+   },
+   "wooCommerceIntroStep2SubA": {
+      "message": "Đi đến bảng điều khiển bên trái, chọn **Plugins** (Plugin) rồi chọn **Add Plugins** (Thêm plugin)"
+   },
+   "wooCommerceIntroStep2SubB": {
+      "message": "Nhấp vào **Add Plugin** (Thêm plugin)"
+   },
+   "wooCommerceIntroStep2SubC": {
+      "message": "Đi đến thanh tìm kiếm ở đầu trang"
+   },
+   "wooCommerceIntroStep2SubD": {
+      "message": "Tìm kiếm plugin Meta for WooCommerce"
+   },
+   "wooCommerceIntroStep2SubE": {
+      "message": "Cuộn đến plugin Meta for WooCommerce và nhấp vào **Install Now** (Cài đặt ngay)"
+   },
+   "wooCommerceIntroStep2Title": {
+      "message": "Cài đặt plugin"
+   },
+   "wooCommerceIntroStep3SubA": {
+      "message": "Sau khi cài đặt xong Meta for WooCommerce, nhấp vào **Activate** (Kích hoạt)"
+   },
+   "wooCommerceIntroStep3SubB": {
+      "message": "Đi đến trang **Plugins** (Plugin) ở bảng điều khiển bên trái"
+   },
+   "wooCommerceIntroStep3SubC": {
+      "message": "Cuộn đến plugin Meta for WooCommerce và nhấp vào **Configure** (Đặt cấu hình)"
+   },
+   "wooCommerceIntroStep3SubD": {
+      "message": "Trên màn hình cấu hình, nhấp vào **Get started** (Bắt đầu)"
+   },
+   "wooCommerceIntroStep3Title": {
+      "message": "Kích hoạt plugin"
+   },
+   "wooCommerceUpdateIntroStep2SubA": {
+      "message": "Mở trang Add Plugins (Thêm plugin)"
+   },
+   "wooCommerceUpdateIntroStep2SubB": {
+      "message": "Cuộn đến plugin Meta for WooCommerce"
+   },
+   "wooCommerceUpdateIntroStep2SubC": {
+      "message": "Nhấp vào **Update now** (Cập nhật ngay)"
+   },
+   "wooCommerceUpdateIntroStep2Title": {
+      "message": "Cập nhật plugin"
+   }
+}

@@ -1,0 +1,3332 @@
+{
+   "aamConfirmButton": {
+      "message": "Підтвердити"
+   },
+   "aamEditButton": {
+      "message": "Редагувати"
+   },
+   "aamFieldCityStatePostal": {
+      "message": "Місто, штат, поштовий індекс"
+   },
+   "aamFieldCountry": {
+      "message": "Країна"
+   },
+   "aamFieldDateOfBirth": {
+      "message": "Дата народження"
+   },
+   "aamFieldEmail": {
+      "message": "Електронна адреса"
+   },
+   "aamFieldExternalId": {
+      "message": "Зовнішній ідентифікатор"
+   },
+   "aamFieldFirstLastName": {
+      "message": "Ім’я і прізвище"
+   },
+   "aamFieldGender": {
+      "message": "Стать"
+   },
+   "aamFieldPhoneNumber": {
+      "message": "Номер телефону"
+   },
+   "aamInfoDescription": {
+      "message": "Функція «Автоматичний розширений пошук збігів» зіставляє відвідувачів, які також використовують Meta, на основі даних клієнтів, наданих вашій компанії (наприклад, електронних адрес або номерів телефонів)."
+   },
+   "aamNoEditPermissionTooltip": {
+      "message": "Немає дозволу на редагування, зверніться до адміністратора"
+   },
+   "aamStepConfirmFieldsDescription": {
+      "message": "Підтвердьте поля, які ви хочете надіслати"
+   },
+   "aamStepUserActionRequired": {
+      "message": "Необхідні дії користувача"
+   },
+   "aboutAdvancedMatchingForWeb": {
+      "message": "Про функцію розширеного пошуку збігів для сайтів"
+   },
+   "aboutEventSetupTool": {
+      "message": "Про інструмент налаштування подій"
+   },
+   "actionAddMissingEventsCtaLabel": {
+      "message": "Налаштувати для мене"
+   },
+   "actionAddMissingEventsDescription": {
+      "message": "Додайте в конфігурацію відсутні події, щоб підвищити результативність реклами й точність вимірювання."
+   },
+   "actionAddMissingEventsHeader": {
+      "message": "Додати відсутні події"
+   },
+   "actionAutomatableValueLabel": {
+      "message": "Доступно для автоматизації"
+   },
+   "actionCAPIGTMProductRecommendationHeader": {
+      "message": "Безпечно передавайте дані через Менеджер тегів Google"
+   },
+   "actionCAPIGTMSetupDescription": {
+      "message": "Це оптимізує розгортання тегів і керування ними, а також забезпечує ефективне відстеження подій без змін коду для кращої результативності маркетингу."
+   },
+   "actionCAPIGTMSetupHeader": {
+      "message": "Налаштуйте API Conversions за допомогою Менеджера тегів Google"
+   },
+   "actionCAPIGeneralSetupDescription": {
+      "message": "Вимірюйте максимум даних на сайті й знижуйте ціну за результат."
+   },
+   "actionCAPIGeneralSetupHeader": {
+      "message": "Налаштуйте API Conversions"
+   },
+   "actionCAPISalesforceCRMSetupDescription": {
+      "message": "Автоматичне налаштування забезпечує точне міжсерверне відстеження подій у реальному часі, що покращує статистику клієнтів і маркетингові результати."
+   },
+   "actionCAPISalesforceCRMSetupHeader": {
+      "message": "Налаштуйте API Conversions за допомогою Salesforce CRM"
+   },
+   "actionCardDatasetTooltip": {
+      "message": "Перейдіть в Events Manager, щоб переглянути цей набір даних"
+   },
+   "actionCatalogUpsellCtaLabel": {
+      "message": "Додати товари"
+   },
+   "actionCatalogUpsellDescription": {
+      "message": "Залучайте нову аудиторію і створюйте персоналізований досвід покупок на основі її поведінки й зацікавлень. Взаємодійте з клієнтами на різних етапах прийняття рішення про покупку за допомогою різноманітних форматів реклами."
+   },
+   "actionCatalogUpsellHeader": {
+      "message": "Додайте товари в каталог Meta, щоб збільшити результативність реклами"
+   },
+   "actionFixInvalidValueCurrencyDescription": {
+      "message": "Виправте недійсні параметри вартості й валюти для подій «Купівля на сайті», щоб отримувати точні звіти та краще оптимізувати кампанії."
+   },
+   "actionFixInvalidValueCurrencyHeader": {
+      "message": "Виправте недійсні параметри вартості й валюти"
+   },
+   "actionFreeCAPIGOneClickDescription": {
+      "message": "Автоматично надсилайте події пікселя на стороні сервера – жодних технічних налаштувань або додаткових тегів. Ми створимо підключення за вас."
+   },
+   "actionFreeCAPIGOneClickHeader": {
+      "message": "API Conversions від Meta"
+   },
+   "actionFreeCAPIGOneClickTooltip": {
+      "message": "Якщо натиснути цей параметр, буде ввімкнено доставку подій на стороні сервера, розміщеного в Meta, для цієї компанії. Ви можете в будь-який момент змінити це налаштування в Events Manager."
+   },
+   "actionFreeCAPIGOneClickValueLift": {
+      "message": "На 17,8% нижча ціна за результат"
+   },
+   "actionFreeCAPIGOneClickViewDetails": {
+      "message": "Переглянути інформацію"
+   },
+   "actionInstallFacebookForWooCommerceCtaLabel": {
+      "message": "Почати"
+   },
+   "actionInstallFacebookForWooCommercePluginDescription": {
+      "message": "Meta for WooCommerce синхронізує ваш магазин із Facebook, Instagram і WhatsApp. Ви витрачатимете менше часу на адміністрування, а більше – на розвиток компанії."
+   },
+   "actionInstallFacebookForWooCommercePluginHeader": {
+      "message": "Установити плагін Meta for WooCommerce"
+   },
+   "actionInstallFacebookForWooCommercePluginSubtitle": {
+      "message": "Заощаджуйте час і показуйте рекламу потрібних товарів цільовій аудиторії."
+   },
+   "actionSetupMamAamDescription": {
+      "message": "Розширений пошук збігів забезпечує вашій рекламі більше конверсій і допомагає охопити більше людей за допомогою ремаркетингових кампаній."
+   },
+   "actionSetupMamAamHeader": {
+      "message": "Налаштувати розширений пошук збігів"
+   },
+   "actionShopifyProductSyncCtaLabel": {
+      "message": "Почати"
+   },
+   "actionShopifyProductSyncDescription": {
+      "message": "Деякі ідентифікатори контенту на цій сторінці не можна зіставити з товарами у вашому каталозі. Використайте синхронізацію товарів Shopify, щоб додати відсутні товари."
+   },
+   "actionShopifyProductSyncHeader": {
+      "message": "Синхронізуйте відсутні товари із Shopify"
+   },
+   "actionSignalsGatewayGTMSetupDescription": {
+      "message": "Це забезпечує точне міжсерверне відстеження подій у реальному часі, що покращує статистику клієнтів і маркетингові результати."
+   },
+   "actionSignalsGatewayGTMSetupHeader": {
+      "message": "Налаштуйте Signals Gateway Pixel за допомогою Менеджера тегів Google"
+   },
+   "actionUpdateFacebookForWooCommerceCtaLabel": {
+      "message": "Оновити плагін"
+   },
+   "actionUpdateFacebookForWooCommercePluginDescription": {
+      "message": "Виконайте оновлення зараз, щоб отримати останні покращення та продовжити безперешкодну синхронізацію магазину з Facebook, Instagram і WhatsApp."
+   },
+   "actionUpdateFacebookForWooCommercePluginHeader": {
+      "message": "Оновити плагін Meta for WooCommerce"
+   },
+   "actionUpdateFacebookForWooCommercePluginSubtitle": {
+      "message": "Нова версія плагіна готова."
+   },
+   "addMissingEventsCancel": {
+      "message": "Скасувати"
+   },
+   "addMissingEventsHeader": {
+      "message": "Додати відсутні події"
+   },
+   "addMissingEventsMoreDatasets": {
+      "message": "Набори даних: ще $1"
+   },
+   "addMissingEventsNextSteps": {
+      "message": "Наступні кроки"
+   },
+   "addMissingEventsPotentialBadge": {
+      "message": "Потенційне зниження ціни за результат на $1%"
+   },
+   "addMissingEventsSetUpForMe": {
+      "message": "Налаштувати для мене"
+   },
+   "addMissingEventsSubtitle": {
+      "message": "Додайте відсутні події пікселя, щоб почати відстежувати й оптимізувати події конверсії та покращити результати реклами."
+   },
+   "addMissingEventsTimeEstimate": {
+      "message": "Менше (\u003C) 1 хв"
+   },
+   "add_more_label": {
+      "message": "Додати ще"
+   },
+   "additionalRecommendation": {
+      "message": "додаткова рекомендація"
+   },
+   "additionalRecommendations": {
+      "message": "додаткові рекомендації"
+   },
+   "agenticActionAskUserSelect": {
+      "message": "Попросити вас вибрати"
+   },
+   "agenticActionCaptureDropdown": {
+      "message": "Зчитати варіанти розкривного списку з елемента «$1»"
+   },
+   "agenticActionCaptureDropdownActive": {
+      "message": "Зчитування варіантів із розкривного списку «$1»"
+   },
+   "agenticActionCaptureDropdownPast": {
+      "message": "Зчитано варіанти розкривного списку з елемента «$1»"
+   },
+   "agenticActionCaptureStoreAsDetail": {
+      "message": "Зберегти як $1"
+   },
+   "agenticActionClick": {
+      "message": "Натиснути $1"
+   },
+   "agenticActionClickActive": {
+      "message": "Натискання елемента «$1»"
+   },
+   "agenticActionClickPast": {
+      "message": "Натиснуто елемент «$1»"
+   },
+   "agenticActionCloseTab": {
+      "message": "Закрити вкладку $1"
+   },
+   "agenticActionCloseTabActive": {
+      "message": "Закриття вкладки «$1»"
+   },
+   "agenticActionCloseTabPast": {
+      "message": "Закрито вкладку «$1»"
+   },
+   "agenticActionCopyMatchDetail": {
+      "message": "Збіг: $1"
+   },
+   "agenticActionCopyMatchingText": {
+      "message": "Копіювати відповідний текст у кеш $1"
+   },
+   "agenticActionCopyMatchingTextActive": {
+      "message": "Копіювання відповідного тексту в кеш $1"
+   },
+   "agenticActionCopyMatchingTextPast": {
+      "message": "Відповідний текст скопійовано в кеш $1"
+   },
+   "agenticActionCopyTextFromTarget": {
+      "message": "Копіювати текст із $1 у кеш $2"
+   },
+   "agenticActionCopyTextFromTargetActive": {
+      "message": "Копіювання тексту з елемента $1 у кеш $2"
+   },
+   "agenticActionCopyTextFromTargetPast": {
+      "message": "Текст скопійовано з елемента $1 у кеш $2"
+   },
+   "agenticActionCopyVisibleText": {
+      "message": "Копіювати видимий текст у кеш $1"
+   },
+   "agenticActionCopyVisibleTextActive": {
+      "message": "Копіювання видимого тексту в кеш $1"
+   },
+   "agenticActionCopyVisibleTextPast": {
+      "message": "Видимий текст скопійовано в кеш $1"
+   },
+   "agenticActionGetDropdownOptions": {
+      "message": "Отримати варіанти з $1"
+   },
+   "agenticActionGoToUrl": {
+      "message": "Перейти до $1"
+   },
+   "agenticActionNeededTitle": {
+      "message": "Потрібна дія"
+   },
+   "agenticActionOpenNewTab": {
+      "message": "Відкрити нову вкладку"
+   },
+   "agenticActionOpenPage": {
+      "message": "Відкрити нову сторінку"
+   },
+   "agenticActionOpenPageActive": {
+      "message": "Відкриття нової сторінки"
+   },
+   "agenticActionOpenPagePast": {
+      "message": "Відкрито нову сторінку"
+   },
+   "agenticActionOpenRelativePath": {
+      "message": "Відкрити відносний шлях"
+   },
+   "agenticActionOpenRelativePathActive": {
+      "message": "Відкриття відносного шляху"
+   },
+   "agenticActionOpenRelativePathPast": {
+      "message": "Відкрито відносний шлях"
+   },
+   "agenticActionOpenTab": {
+      "message": "Відкрити вкладку за посиланням $1"
+   },
+   "agenticActionOpenTabActive": {
+      "message": "Відкриття нової вкладки"
+   },
+   "agenticActionOpenTabDestinationDetail": {
+      "message": "Місце призначення: $1"
+   },
+   "agenticActionOpenTabPast": {
+      "message": "Відкрито нову вкладку"
+   },
+   "agenticActionPaste": {
+      "message": "Вставити в $1"
+   },
+   "agenticActionPasteSourceDetail": {
+      "message": "Вихідний кеш: $1"
+   },
+   "agenticActionPasteText": {
+      "message": "Вставити збережений текст в елемент «$1»"
+   },
+   "agenticActionPasteTextActive": {
+      "message": "Вставлення збереженого тексту в елемент «$1»"
+   },
+   "agenticActionPasteTextPast": {
+      "message": "Збережений текст вставлено в елемент «$1»"
+   },
+   "agenticActionReloadPage": {
+      "message": "Перезавантажити сторінку"
+   },
+   "agenticActionReloadPageActive": {
+      "message": "Перезавантаження сторінки"
+   },
+   "agenticActionReloadPagePast": {
+      "message": "Сторінку перезавантажено"
+   },
+   "agenticActionScrollBottom": {
+      "message": "Прокрутити вниз"
+   },
+   "agenticActionScrollBottomActive": {
+      "message": "Прокручування до кінця сторінки"
+   },
+   "agenticActionScrollBottomPast": {
+      "message": "Сторінку прокручено вниз"
+   },
+   "agenticActionScrollElementPercent": {
+      "message": "Прокрутити $1 до $2%"
+   },
+   "agenticActionScrollIntoViewDetail": {
+      "message": "Прокрутіть, перш ніж взаємодіяти з елементом за межами екрана."
+   },
+   "agenticActionScrollPercent": {
+      "message": "Прокрутити до $1%"
+   },
+   "agenticActionScrollPercentActive": {
+      "message": "Прокручування елемента «$1» до $2"
+   },
+   "agenticActionScrollPercentPage": {
+      "message": "сторінка"
+   },
+   "agenticActionScrollPercentPast": {
+      "message": "Виконано прокручування елемента «$1» до $2"
+   },
+   "agenticActionScrollTo": {
+      "message": "Прокрутити до $1"
+   },
+   "agenticActionScrollToActive": {
+      "message": "Прокручування до елемента «$1»"
+   },
+   "agenticActionScrollToPast": {
+      "message": "Виконано прокручування до елемента «$1»"
+   },
+   "agenticActionScrollTop": {
+      "message": "Прокрутити вгору"
+   },
+   "agenticActionScrollTopActive": {
+      "message": "Прокручування на початок сторінки"
+   },
+   "agenticActionScrollTopPast": {
+      "message": "Сторінку прокручено вгору"
+   },
+   "agenticActionSelect": {
+      "message": "Вибрати «$1» у полі «$2»"
+   },
+   "agenticActionSelectActive": {
+      "message": "Вибір варіанта «$1» у списку «$2»"
+   },
+   "agenticActionSelectPast": {
+      "message": "Вибрано варіант «$1» у списку «$2»"
+   },
+   "agenticActionSfAskOpportunityPreference": {
+      "message": "Запитайте про відстеження можливостей"
+   },
+   "agenticActionSfConfirmFieldMappings": {
+      "message": "Підтвердити зіставлення полів"
+   },
+   "agenticActionSfGetFieldMappings": {
+      "message": "Отримати рекомендації щодо зіставлення полів"
+   },
+   "agenticActionSfMutateWebhookIntegration": {
+      "message": "Налаштування інтеграції Webhooks"
+   },
+   "agenticActionSwitchTab": {
+      "message": "Перейти на вкладку $1"
+   },
+   "agenticActionSwitchTabActive": {
+      "message": "Перехід на вкладку «$1»"
+   },
+   "agenticActionSwitchTabPast": {
+      "message": "Виконано перехід на вкладку «$1»"
+   },
+   "agenticActionTypeInto": {
+      "message": "Ввести текст у $1"
+   },
+   "agenticActionTypeIntoActive": {
+      "message": "Введення тексту в елемент «$1»"
+   },
+   "agenticActionTypeIntoPast": {
+      "message": "Введено текст в елемент «$1»"
+   },
+   "agenticAskUserSelectDescriptionFallback": {
+      "message": "Виберіть варіант, щоб продовжити."
+   },
+   "agenticAskUserSelectFieldLabel": {
+      "message": "Варіант"
+   },
+   "agenticAskUserSelectPlaceholder": {
+      "message": "Виберіть варіант"
+   },
+   "agenticConnectionFailed": {
+      "message": "Не вдається повторно підключитися. Оновіть сторінку."
+   },
+   "agenticConnectionReconnecting": {
+      "message": "З’єднання втрачено. Повторне підключення… ($1/$2)"
+   },
+   "agenticDefaultWaitPrompt": {
+      "message": "Виконайте потрібну дію."
+   },
+   "agenticElementNameOnly": {
+      "message": "«$1»"
+   },
+   "agenticElementNounAccordion": {
+      "message": "складаний список"
+   },
+   "agenticElementNounBanner": {
+      "message": "банер"
+   },
+   "agenticElementNounButton": {
+      "message": "кнопку"
+   },
+   "agenticElementNounCard": {
+      "message": "картку"
+   },
+   "agenticElementNounCell": {
+      "message": "клітинку"
+   },
+   "agenticElementNounCheckbox": {
+      "message": "прапорець"
+   },
+   "agenticElementNounChip": {
+      "message": "чип"
+   },
+   "agenticElementNounDialog": {
+      "message": "діалогове вікно"
+   },
+   "agenticElementNounDropdown": {
+      "message": "розкривний список"
+   },
+   "agenticElementNounElement": {
+      "message": "елемент"
+   },
+   "agenticElementNounFileInput": {
+      "message": "вхідні дані файлу"
+   },
+   "agenticElementNounImage": {
+      "message": "зображення"
+   },
+   "agenticElementNounInputField": {
+      "message": "поле введення"
+   },
+   "agenticElementNounItem": {
+      "message": "об’єкт"
+   },
+   "agenticElementNounLink": {
+      "message": "посилання"
+   },
+   "agenticElementNounMenu": {
+      "message": "меню"
+   },
+   "agenticElementNounOption": {
+      "message": "варіант"
+   },
+   "agenticElementNounPanel": {
+      "message": "панель"
+   },
+   "agenticElementNounRadioButton": {
+      "message": "кнопку вибору"
+   },
+   "agenticElementNounRow": {
+      "message": "рядок"
+   },
+   "agenticElementNounStep": {
+      "message": "крок"
+   },
+   "agenticElementNounSubmitButton": {
+      "message": "кнопку «Надіслати»"
+   },
+   "agenticElementNounTab": {
+      "message": "вкладку"
+   },
+   "agenticElementNounTextArea": {
+      "message": "текстову область"
+   },
+   "agenticElementNounTile": {
+      "message": "плитку"
+   },
+   "agenticElementNounToggle": {
+      "message": "перемикач"
+   },
+   "agenticElementWithName": {
+      "message": "$2 «$1»"
+   },
+   "agenticErrorApi": {
+      "message": "Не вдається підключитися до служби ШІ. Повторити спробу?"
+   },
+   "agenticErrorRateLimit": {
+      "message": "Служба ШІ зайнята. Зачекайте або повторіть спробу пізніше."
+   },
+   "agenticErrorTimeout": {
+      "message": "ШІ працює довше, ніж очікувалося. Повторити спробу?"
+   },
+   "agenticErrorTitle": {
+      "message": "Помилка"
+   },
+   "agenticErrorUnknown": {
+      "message": "Сталася помилка. Повторити спробу?"
+   },
+   "agenticNavigationPageLoadFailed": {
+      "message": "Не вдалося завантажити сторінку. Повторна спроба…"
+   },
+   "agenticNavigationReorienting": {
+      "message": "Неочікувана навігація на сторінці. Зміна орієнтування…"
+   },
+   "agenticPleaseCompleteAction": {
+      "message": "Виконайте дію, щоб продовжити"
+   },
+   "agenticReconnectNow": {
+      "message": "Підключитися повторно"
+   },
+   "agenticResyncWithPage": {
+      "message": "Повторно синхронізувати зі сторінкою"
+   },
+   "agenticScrollPercentFallback": {
+      "message": "запитана точка"
+   },
+   "agenticTabFallbackById": {
+      "message": "вкладка $1"
+   },
+   "agenticTabFallbackSelected": {
+      "message": "вибрана вкладка"
+   },
+   "agenticThinking": {
+      "message": "Міркування…"
+   },
+   "agenticTryAgain": {
+      "message": "Повторити спробу"
+   },
+   "agenticVerbClick": {
+      "message": "Натиснути"
+   },
+   "agenticVerbCopyText": {
+      "message": "Копіювати текст"
+   },
+   "agenticVerbEnterText": {
+      "message": "Ввести текст"
+   },
+   "agenticVerbPasteText": {
+      "message": "Вставити текст"
+   },
+   "agenticVerbReadDropdown": {
+      "message": "Отримати варіанти з розкривного меню"
+   },
+   "agenticVerbScrollToElement": {
+      "message": "Прокрутити до елемента"
+   },
+   "agenticVerbSelectOption": {
+      "message": "Виберіть варіант"
+   },
+   "agenticWaitingForAction": {
+      "message": "Очікується ваша дія…"
+   },
+   "allRecommendationsHeader": {
+      "message": "Усі рекомендації"
+   },
+   "automatableBadge": {
+      "message": "Автоматизувати"
+   },
+   "automationFlowCompleteTitle": {
+      "message": "Налаштування Менеджера тегів Google"
+   },
+   "automationSuccessFeedbackCommentPlaceholder": {
+      "message": "Необов’язково: додайте коментар"
+   },
+   "automationSuccessFeedbackFallbackName": {
+      "message": "Автоматизація"
+   },
+   "automationSuccessFeedbackPromptTitle": {
+      "message": "Наскільки ви задоволені результатом?"
+   },
+   "automationSuccessFeedbackStarLabel": {
+      "message": "кількість зірок"
+   },
+   "automationSuccessFeedbackSubmitError": {
+      "message": "Не вдалося надіслати відгук"
+   },
+   "buttonLoading": {
+      "message": "Завантаження"
+   },
+   "buttonStartEventSetupTool": {
+      "message": "Налаштувати події"
+   },
+   "buttonTroubleshootPixel": {
+      "message": "Усунути проблеми з пікселем"
+   },
+   "cancelAutomationCancelButton": {
+      "message": "Скасувати автоматизацію"
+   },
+   "cancelAutomationCancellingButton": {
+      "message": "Скасування…"
+   },
+   "cancelAutomationFromVerificationCancelButton": {
+      "message": "Скасувати автоматизацію"
+   },
+   "cancelAutomationFromVerificationMessage": {
+      "message": "Нам усе ще не вдається перевірити статус цієї дії. Скасуйте автоматизацію і налаштуйте все вручну."
+   },
+   "cancelAutomationFromVerificationTitle": {
+      "message": "Скасувати автоматизацію"
+   },
+   "cancelAutomationFromVerificationTryAgainButton": {
+      "message": "Повторити спробу"
+   },
+   "cancelAutomationResumeButton": {
+      "message": "Відновити автоматизацію"
+   },
+   "cancelAutomationTitle": {
+      "message": "Ви дійсно хочете закрити й скасувати автоматизацію?"
+   },
+   "cancelSetupCancelButton": {
+      "message": "Скасувати налаштування"
+   },
+   "cancelSetupResumeButton": {
+      "message": "Відновити налаштування"
+   },
+   "cancelSetupTitle": {
+      "message": "Ви дійсно хочете закрити й скасувати налаштування?"
+   },
+   "capiFieldCity": {
+      "message": "Місто"
+   },
+   "capiFieldClickId": {
+      "message": "ID кліку"
+   },
+   "capiFieldCountry": {
+      "message": "Країна"
+   },
+   "capiFieldDateOfBirth": {
+      "message": "Дата народження"
+   },
+   "capiFieldEmail": {
+      "message": "Електронна адреса"
+   },
+   "capiFieldEventName": {
+      "message": "Назва події"
+   },
+   "capiFieldEventTime": {
+      "message": "Час події"
+   },
+   "capiFieldExternalId": {
+      "message": "Зовнішній ID"
+   },
+   "capiFieldFirstName": {
+      "message": "Ім’я"
+   },
+   "capiFieldGender": {
+      "message": "Стать"
+   },
+   "capiFieldLastName": {
+      "message": "Прізвище"
+   },
+   "capiFieldLeadId": {
+      "message": "ID ліда в Meta"
+   },
+   "capiFieldPhone": {
+      "message": "Номер телефону"
+   },
+   "capiFieldState": {
+      "message": "Штат"
+   },
+   "capiFieldZipCode": {
+      "message": "Поштовий індекс"
+   },
+   "catalogConnectedTo": {
+      "message": "Підключено до $1"
+   },
+   "catalogConnections": {
+      "message": "Підключення"
+   },
+   "catalogCsvHeaderHowToFix": {
+      "message": "Способи розв’язання"
+   },
+   "catalogCsvHeaderIssueType": {
+      "message": "Тип проблеми"
+   },
+   "catalogCsvHeaderMoreInfo": {
+      "message": "Додаткова інформація"
+   },
+   "catalogCsvHeaderSampleType": {
+      "message": "Тип зразка"
+   },
+   "catalogCsvHeaderSampleValue": {
+      "message": "Зразок значення"
+   },
+   "catalogCsvHeaderTotalReceived": {
+      "message": "Усього отримано"
+   },
+   "catalogCsvHowToFixText": {
+      "message": "Дізнайтеся, як додати товари в каталог: https://www.facebook.com/business/help/384041892421495?id=725943027795860"
+   },
+   "catalogCsvMoreInfoText": {
+      "message": "Додайте товари із цими ідентифікаторами контенту у свій каталог або переконайтеся, що ви надсилаєте правильні ідентифікатори контенту у своїх подіях."
+   },
+   "catalogCsvUnmatchedEvents": {
+      "message": "Події без збігів"
+   },
+   "catalogEventNameAddToCart": {
+      "message": "Додавання в кошик"
+   },
+   "catalogEventNameAddToWishlist": {
+      "message": "Додавання в список бажань"
+   },
+   "catalogEventNameInitiateCheckout": {
+      "message": "Початок оформлення замовлень"
+   },
+   "catalogEventNameLead": {
+      "message": "Ліди"
+   },
+   "catalogEventNamePurchase": {
+      "message": "Покупки"
+   },
+   "catalogEventNameSearch": {
+      "message": "Пошукові запити"
+   },
+   "catalogEventNameSubscribe": {
+      "message": "Підписки"
+   },
+   "catalogEventNameViewContent": {
+      "message": "Перегляди сторінки"
+   },
+   "catalogFooterManageConnection": {
+      "message": "Керувати підключенням"
+   },
+   "catalogFooterViewInCommerceManager": {
+      "message": "Переглянути в Commerce Manager"
+   },
+   "catalogLiveMatchCount": {
+      "message": "Зіставлено товарів: $1 із $2"
+   },
+   "catalogLoadError": {
+      "message": "Не вдалося завантажити дані каталогу"
+   },
+   "catalogManageCatalogConnections": {
+      "message": "Керувати підключеннями каталогу"
+   },
+   "catalogMatchRate": {
+      "message": "Частка збігу з каталогом: $1%"
+   },
+   "catalogMatchRateAdsImpactedBody": {
+      "message": "Частка збігу $1% означає, що для таргетингу реклами доступна обмежена кількість товарів. Це може звузити аудиторію, збільшити витрати й зменшити кількість продажів."
+   },
+   "catalogMatchRateAdsImpactedFollowup": {
+      "message": "Дізнайтеся нижче, як покращити частку збігу."
+   },
+   "catalogMatchRateAdsImpactedTitle": {
+      "message": "Можливий вплив на ваші оголошення"
+   },
+   "catalogMatchRateByEventHeader": {
+      "message": "Частки збігу товарів за подіями"
+   },
+   "catalogMatchRateDescription": {
+      "message": "взаємодій із товарами збігаються з товарами в цьому каталозі"
+   },
+   "catalogMatchRateHeader": {
+      "message": "Частка збігу з каталогом"
+   },
+   "catalogMatchRateImproveStep1Body": {
+      "message": "Переконайтеся, що всі ваші товари є в каталозі."
+   },
+   "catalogMatchRateImproveStep1Title": {
+      "message": "Перевірте синхронізовані товари"
+   },
+   "catalogMatchRateImproveStep2Body": {
+      "message": "Ідентифікатори товарів мають точно збігатися з даними у вашому каталозі."
+   },
+   "catalogMatchRateImproveStep2Title": {
+      "message": "Підтвердьте ідентифікатори товарів"
+   },
+   "catalogMatchRateImproveStep3Body": {
+      "message": "Переконайтеся, що піксель і події конверсії працюють належним чином."
+   },
+   "catalogMatchRateImproveStep3Title": {
+      "message": "Підтвердьте конфігурацію події"
+   },
+   "catalogMatchRateImproveTitle": {
+      "message": "Покращте частку збігу товарів"
+   },
+   "catalogMatchRateLearnMore": {
+      "message": "Докладніше"
+   },
+   "catalogMatchRateMissing": {
+      "message": "Немає даних"
+   },
+   "catalogMatchRateTimeframe": {
+      "message": "На всіх підключених сайтах за останні 28 днів"
+   },
+   "catalogMatchRateWarning": {
+      "message": "Рекомендуємо підтримувати частку збігу з каталогом на рівні понад 90%."
+   },
+   "catalogMenuCopyCatalogId": {
+      "message": "Копіювати ID каталогу"
+   },
+   "catalogMenuGiveFeedback": {
+      "message": "Надіслати відгук"
+   },
+   "catalogMenuGoToCatalog": {
+      "message": "Перейти до каталогу"
+   },
+   "catalogMenuMoreOptions": {
+      "message": "Більше параметрів"
+   },
+   "catalogMoreCatalogs": {
+      "message": "Додаткові каталоги ($1)"
+   },
+   "catalogOnboardingBannerLearnMore": {
+      "message": "Показати"
+   },
+   "catalogOnboardingBannerText": {
+      "message": "Тепер ви можете переглядати свої каталоги поруч із пікселями – з такими самими перевірками стану й попередженнями."
+   },
+   "catalogPixelAssociatedWebsites": {
+      "message": "Пов’язані сайти"
+   },
+   "catalogPixelConnectionDetailsHeader": {
+      "message": "Деталі підключення пікселя"
+   },
+   "catalogPixelProducts": {
+      "message": "Товари"
+   },
+   "catalogProductImageAlt": {
+      "message": "Зображення товару"
+   },
+   "catalogProductMatchedBadge": {
+      "message": "Збігається"
+   },
+   "catalogProductNotMatchedBadge": {
+      "message": "Не збігається"
+   },
+   "catalogProductsSectionTitle": {
+      "message": "Товари на цій сторінці"
+   },
+   "catalogUnmatchedAddProductsDescription": {
+      "message": "Люди взаємодіють із товарами на сайті, які не збігаються з товарами в жодному каталозі, підключеному до вашого пікселя. Переконайтеся, що всі товари з вашого сайту додано в каталог"
+   },
+   "catalogUnmatchedAddProductsLink": {
+      "message": "Дізнайтеся, як додавати товари"
+   },
+   "catalogUnmatchedAddProductsTitle": {
+      "message": "Додайте товари, з якими взаємодіяли користувачі, у каталог"
+   },
+   "catalogUnmatchedContentIdColumnHeader": {
+      "message": "Ідентифікатор контенту"
+   },
+   "catalogUnmatchedDescription": {
+      "message": "Додайте товари із цими ідентифікаторами контенту у свій каталог або переконайтеся, що ви надсилаєте правильні ідентифікатори контенту у своїх подіях."
+   },
+   "catalogUnmatchedDownloadList": {
+      "message": "Завантажити список"
+   },
+   "catalogUnmatchedOtherWaysHeader": {
+      "message": "Інші способи усунення цієї проблеми"
+   },
+   "catalogUnmatchedRecommendationsHeader": {
+      "message": "Рекомендації"
+   },
+   "catalogUnmatchedSendContentIdDescription": {
+      "message": "Переконайтеся, що ви надсилаєте правильний ідентифікатор контенту, який відповідає товару в цьому або будь-якому іншому каталозі, підключеному до вашого пікселя."
+   },
+   "catalogUnmatchedSendContentIdTitle": {
+      "message": "Надсилайте відповідний ідентифікатор контенту"
+   },
+   "catalogUnmatchedTitle": {
+      "message": "Деякі ідентифікатори контенту не збігаються з жодними каталогами"
+   },
+   "catalogUnmatchedTopInteractionsHeader": {
+      "message": "Найпоширеніші взаємодії з проблемами"
+   },
+   "catalogUnmatchedTotalReceivedColumnHeader": {
+      "message": "Усього отримано"
+   },
+   "catalogWarningsFromPixel": {
+      "message": "Джерело: $1"
+   },
+   "catalogWarningsHeader": {
+      "message": "Попередження"
+   },
+   "catalogWarningsUnmatchedProductsDescription": {
+      "message": "Ідентифікатори контенту, що не збігаються з жодним каталогом"
+   },
+   "catalogWarningsUnmatchedProductsHeader": {
+      "message": "Товари без збігів"
+   },
+   "confirmEventsToSetUpHeader": {
+      "message": "Підтвердьте події, які хочете налаштувати"
+   },
+   "continueButton": {
+      "message": "Продовжити"
+   },
+   "continueToNextDatasetButton": {
+      "message": "Перейти до наступного набору даних"
+   },
+   "copyToClipboardCopied": {
+      "message": "Скопійовано!"
+   },
+   "copyToClipboardTitle": {
+      "message": "Копіювати в буфер обміну"
+   },
+   "create_new_asset_already_added": {
+      "message": "Уже додано"
+   },
+   "create_new_asset_button": {
+      "message": "Створити"
+   },
+   "customConversionActionSourceLabel": {
+      "message": "Джерело дії"
+   },
+   "customConversionEventLabel": {
+      "message": "Подія"
+   },
+   "customConversionNameLabel": {
+      "message": "Назва"
+   },
+   "customConversionRulesLabel": {
+      "message": "Правила"
+   },
+   "customConversionValueFormat": {
+      "message": "$1 дол. США"
+   },
+   "customConversionValueLabel": {
+      "message": "Значення за умовчанням"
+   },
+   "datasetIdPrefix": {
+      "message": "ID: $1"
+   },
+   "datasetsAffected": {
+      "message": "Наборів даних, що зазнали впливу: $1"
+   },
+   "dropdownSearchPlaceholder": {
+      "message": "Пошук"
+   },
+   "dropdownTagIdentifier": {
+      "message": "Ідентифікатор"
+   },
+   "dropdownTagRecommended": {
+      "message": "Рекомендовано"
+   },
+   "duplicateEventMessage": {
+      "message": "Подія $1 спрацювала з ідентичними даними (кількість разів: $2), що може спричинити помилки відстеження"
+   },
+   "duplicateEventRecommendation": {
+      "message": "Перевірте інтеграцію пікселя й переконайтеся, що події не спрацьовують випадково кілька разів. Це часто трапляється, коли один і той самий код події запускається повторно або піксель ініціалізується більше одного разу."
+   },
+   "emptyActionsStateDescriptionPart1": {
+      "message": "Відкрийте"
+   },
+   "emptyActionsStateDescriptionPart2": {
+      "message": "і знайдіть можливості для підвищення результативності"
+   },
+   "emptyActionsStateEventsManagerLink": {
+      "message": "Events Manager"
+   },
+   "emptyActionsStateTitle": {
+      "message": "Немає доступних дій"
+   },
+   "enableFreeCAPIGButton": {
+      "message": "Увімкнути"
+   },
+   "error_generic": {
+      "message": "Сталася помилка"
+   },
+   "eventDeduplicated": {
+      "message": "Дедупліковано"
+   },
+   "eventDetailsAdvancedMatchingHeader": {
+      "message": "Надіслані параметри розширеного пошуку збігів"
+   },
+   "eventDetailsBrowserOnlyAriaLabel": {
+      "message": "Параметр лише в даних браузера"
+   },
+   "eventDetailsBrowserOnlyBadge": {
+      "message": "Лише браузер"
+   },
+   "eventDetailsCustomParamsHeader": {
+      "message": "Користувацькі параметри"
+   },
+   "eventDetailsDpoHeader": {
+      "message": "Надіслані параметри обробки даних"
+   },
+   "eventDetailsDpoWarning": {
+      "message": "Оскільки надіслано параметри обробки даних, настроювані конверсії або відгуки про каталог можуть не працювати."
+   },
+   "eventDetailsEventIdLabel": {
+      "message": "ID події"
+   },
+   "eventDetailsEventInfoHeader": {
+      "message": "Інформація про подію"
+   },
+   "eventDetailsFrameIFrame": {
+      "message": "IFrame"
+   },
+   "eventDetailsFrameLabel": {
+      "message": "Область"
+   },
+   "eventDetailsFrameWindow": {
+      "message": "Вікно"
+   },
+   "eventDetailsLoadTimeLabel": {
+      "message": "Час завантаження"
+   },
+   "eventDetailsPixelCodeLabel": {
+      "message": "Код пікселя"
+   },
+   "eventDetailsPixelLocationLabel": {
+      "message": "Розташування пікселя"
+   },
+   "eventDetailsServerOnlyAriaLabel": {
+      "message": "Параметр лише в даних сервера"
+   },
+   "eventDetailsServerOnlyBadge": {
+      "message": "Лише сервер"
+   },
+   "eventDetailsSetupMethodAutomatic": {
+      "message": "Автоматично"
+   },
+   "eventDetailsSetupMethodLabel": {
+      "message": "Спосіб налаштування"
+   },
+   "eventDetailsSetupMethodManual": {
+      "message": "Вручну"
+   },
+   "eventDetailsUrlCalledLabel": {
+      "message": "URL-адреса виклику"
+   },
+   "eventsHeader": {
+      "message": "Події"
+   },
+   "eventsOnThisPageHeader": {
+      "message": "Події на цій сторінці"
+   },
+   "extensionDescription": {
+      "message": "Помічник із пікселя Meta – це інструмент усунення проблем, який допомагає підтвердити правильність інтеграції пікселя."
+   },
+   "extensionName": {
+      "message": "Помічник із пікселя Meta"
+   },
+   "feedbackAddButton": {
+      "message": "Додати"
+   },
+   "feedbackAttachScreenshots": {
+      "message": "Додавання знімків екрана"
+   },
+   "feedbackAutomaticScreenshot": {
+      "message": "Автоматичний знімок екрана"
+   },
+   "feedbackDeleteAttachment": {
+      "message": "Видалити вкладення"
+   },
+   "feedbackDescriptionPlaceholder": {
+      "message": "Надайте докладний відгук"
+   },
+   "feedbackDropdownLabel": {
+      "message": "Залишити відгук"
+   },
+   "feedbackErrorScreenshotLabel": {
+      "message": "Знімок екрана з помилкою"
+   },
+   "feedbackPageDescription": {
+      "message": "Повідомляйте про помилки або діліться відгуками, щоб допомогти нам стати кращими."
+   },
+   "feedbackPagePrivacyLink": {
+      "message": "Дізнайтеся, як ми використовуємо ці дані."
+   },
+   "feedbackPageTitle": {
+      "message": "Надсилання відгуку"
+   },
+   "feedbackReceivedSubTitle": {
+      "message": "Дякуємо, що допомогли нам покращити досвід використання."
+   },
+   "feedbackReceivedTitle": {
+      "message": "Відгук отримано"
+   },
+   "feedbackReturnToPreviousPage": {
+      "message": "Повернутися на попередню сторінку"
+   },
+   "feedbackSelectorTypeBug": {
+      "message": "Помилка"
+   },
+   "feedbackSelectorTypeFeatureRequest": {
+      "message": "Запит на додавання функцій"
+   },
+   "feedbackSelectorTypeGeneralFeedback": {
+      "message": "Загальний відгук"
+   },
+   "feedbackSelectorTypeQuestion": {
+      "message": "Який тип відгуку?"
+   },
+   "feedbackStoredLocally": {
+      "message": "Збережено на пристрої"
+   },
+   "feedbackSubmitButton": {
+      "message": "Надіслати"
+   },
+   "feedbackSubmitDisabledTooltip": {
+      "message": "Заповніть усі обов’язкові поля, щоб надіслати відгук"
+   },
+   "feedbackSubmittingButton": {
+      "message": "Надсилання…"
+   },
+   "feedbackTitleLabel": {
+      "message": "Заголовок відгуку"
+   },
+   "feedbackUploadButton": {
+      "message": "Завантажити"
+   },
+   "fieldItemCopyTooltip": {
+      "message": "Копіювати $1"
+   },
+   "fieldItemHide": {
+      "message": "Приховати"
+   },
+   "fieldItemShow": {
+      "message": "Показати"
+   },
+   "freeCapigL2DisableNote": {
+      "message": "Це налаштування можна в будь-який момент вимкнути в Events Manager."
+   },
+   "freeCapigL2ReturnHome": {
+      "message": "Повернутися на головну"
+   },
+   "freeCapigL2SeeTermsLabel": {
+      "message": "Переглянути умови"
+   },
+   "freeCapigL2SetupStep1": {
+      "message": "Meta налаштовує підключення на стороні сервера у фоновому режимі."
+   },
+   "freeCapigL2SetupStep2": {
+      "message": "Події пікселя автоматично відображатимуться в API Conversions"
+   },
+   "freeCapigL2SetupStep3": {
+      "message": "Оцініть підвищену надійність відстеження на стороні сервера!"
+   },
+   "freeCapigL2SuccessExplainerEMLink": {
+      "message": "Events Manager"
+   },
+   "freeCapigL2SuccessExplainerPrefix": {
+      "message": "Зміни набудуть чинності протягом наступних 7 днів. Переглянути й відредагувати зміни можна в"
+   },
+   "freeCapigL2SuccessExplainerSuffix": {
+      "message": "будь-коли."
+   },
+   "freeCapigL2SuccessTitle": {
+      "message": "API Conversions увімкнено"
+   },
+   "freeCapigL2TermsBusinessToolsTermsLink": {
+      "message": "Умови використання бізнес-інструментів"
+   },
+   "freeCapigL2TermsDisclosureMiddle": {
+      "message": "та"
+   },
+   "freeCapigL2TermsDisclosurePrefix": {
+      "message": "Продовжуючи, ви надаєте Meta дозвіл і доручаєте налаштувати інтеграцію API Conversions за підтримки Meta від вашого імені. Ви також погоджуєтеся з тим, що на використання цієї інтеграції поширюються"
+   },
+   "freeCapigL2TermsPlatformTermsLink": {
+      "message": "Умови використання платформи"
+   },
+   "freeCapigOptInErrorMessage": {
+      "message": "Не вдалося увімкнути API Conversions. Повторіть спробу або виконайте налаштування в Events Manager."
+   },
+   "freeCapigOptInLoadingLabel": {
+      "message": "Увімкнення…"
+   },
+   "freeCapigOptInSuccessTitle": {
+      "message": "API Conversions увімкнено!"
+   },
+   "ga_account_creation_title": {
+      "message": "Обліковий запис Google Analytics"
+   },
+   "ga_account_display_name_label": {
+      "message": "Назва облікового запису"
+   },
+   "ga_property_creation_title": {
+      "message": "Ресурс Google Analytics"
+   },
+   "ga_property_display_name_label": {
+      "message": "Назва ресурсу"
+   },
+   "ga_property_time_zone_label": {
+      "message": "Часовий пояс"
+   },
+   "ga_stream_creation_title": {
+      "message": "Потік вебданих Google Analytics"
+   },
+   "ga_stream_display_name_label": {
+      "message": "Назва потоку"
+   },
+   "ga_stream_url_label": {
+      "message": "URL-адреса сайту"
+   },
+   "go_back": {
+      "message": "Назад"
+   },
+   "gtmAccountSelectorLabel": {
+      "message": "Обліковий запис Менеджера тегів Google"
+   },
+   "gtmAccountSelectorPlaceholder": {
+      "message": "Виберіть обліковий запис"
+   },
+   "gtmChooseHostingProvider": {
+      "message": "Виберіть постачальника послуг хостингу:"
+   },
+   "gtmCreateNewServerContainer": {
+      "message": "Створити новий серверний контейнер"
+   },
+   "gtmHostingGoogleBullet1": {
+      "message": "Допомога розробника не потрібна"
+   },
+   "gtmHostingGoogleBullet2": {
+      "message": "~30 хвилин"
+   },
+   "gtmHostingGoogleBullet3": {
+      "message": "Сплата за хмарні ресурси"
+   },
+   "gtmHostingGoogleBullet4": {
+      "message": "Повна кастомізація"
+   },
+   "gtmHostingGoogleDescription": {
+      "message": "Інтегруйте Менеджер тегів Google напряму, щоб оптимізувати роботу з тегами й керувати ними. Підходить для тих, хто хоче керувати тегами за допомогою інструментів Google."
+   },
+   "gtmHostingGoogleLabel": {
+      "message": "Google"
+   },
+   "gtmHostingStapeBullet1": {
+      "message": "Допомога розробника не потрібна"
+   },
+   "gtmHostingStapeBullet2": {
+      "message": "~15 хвилин"
+   },
+   "gtmHostingStapeBullet3": {
+      "message": "Доступний план Freemium"
+   },
+   "gtmHostingStapeBullet4": {
+      "message": "Оплата за підписку"
+   },
+   "gtmHostingStapeDescription": {
+      "message": "Stape спрощує налаштування серверного контейнера й керує хостингом замість вас. Доступний безкоштовний рівень."
+   },
+   "gtmHostingStapeLabel": {
+      "message": "Stape"
+   },
+   "gtmInvalidUrlError": {
+      "message": "Введіть дійсну URL-адресу."
+   },
+   "gtmServerConnectionOptionGoogleTagManager": {
+      "message": "Менеджер тегів Google"
+   },
+   "gtmServerConnectionOptionMetaEnabledCapig": {
+      "message": "API Conversions від Meta (рекомендовано)"
+   },
+   "gtmServerConnectionOptionNone": {
+      "message": "Немає"
+   },
+   "gtmServerConnectionSelectorLabel": {
+      "message": "Підключення сервера"
+   },
+   "gtmServerContainerLabel": {
+      "message": "Серверний контейнер"
+   },
+   "gtmServerContainerNotProvisionedWarning": {
+      "message": "Цей сервер не розгорнуто"
+   },
+   "gtmServerContainerPlaceholder": {
+      "message": "Вибрати серверний контейнер"
+   },
+   "gtmStepAnalyticsStream": {
+      "message": "Потік Analytics"
+   },
+   "gtmStepGtmAccount": {
+      "message": "Обліковий запис GTM"
+   },
+   "gtmStepPreExistingTooltip": {
+      "message": "Цей ресурс уже існував або його автоматизували за допомогою API."
+   },
+   "gtmStepProvisionedServerContainer": {
+      "message": "Підготовлений серверний контейнер"
+   },
+   "gtmStepPublished": {
+      "message": "Опубліковано"
+   },
+   "gtmStepServerContainer": {
+      "message": "Серверний контейнер"
+   },
+   "gtmStepWebContainer": {
+      "message": "Вебконтейнер"
+   },
+   "gtmTaggingServerUrlLabel": {
+      "message": "URL-адреса сервера тегів"
+   },
+   "gtmTaggingServerUrlPlaceholder": {
+      "message": "https://your-tagging-server.example.com"
+   },
+   "gtm_account_creation_title": {
+      "message": "Обліковий запис Менеджера тегів Google"
+   },
+   "gtm_account_name_label": {
+      "message": "Назва облікового запису"
+   },
+   "gtm_action_needed": {
+      "message": "Потрібна дія"
+   },
+   "gtm_api_fetch_accounts_error": {
+      "message": "Не вдалось отримати облікові записи. Повторіть спробу або перевірте доступ до Менеджера тегів Google."
+   },
+   "gtm_api_fetch_containers_error": {
+      "message": "Не вдалось отримати контейнери для облікового запису $1. Повторіть спробу або перевірте дозволи Менеджера тегів Google."
+   },
+   "gtm_api_fetch_data_streams_error": {
+      "message": "Не вдалось отримати потоки даних для ресурсу $1"
+   },
+   "gtm_api_fetch_ga_accounts_error": {
+      "message": "Не вдалось отримати облікові записи Google Analytics"
+   },
+   "gtm_api_fetch_ga_properties_error": {
+      "message": "Не вдалось отримати ресурси Google Analytics. Повторіть спробу або перевірте доступ до Google Analytics."
+   },
+   "gtm_api_get_token_error": {
+      "message": "Не вдалось отримати маркер"
+   },
+   "gtm_api_invalid_token_response": {
+      "message": "Недійсна відповідь маркера"
+   },
+   "gtm_automatic_advanced_matching_label": {
+      "message": "Автоматично зіставляйте ключові відомості про клієнтів із вашого сайту (наприклад, електронну адресу й номер телефону), щоб покращувати показ реклами."
+   },
+   "gtm_availability_load_error": {
+      "message": "Не вдалося завантажити ресурси Менеджера тегів Google"
+   },
+   "gtm_availability_no_account_error": {
+      "message": "Не знайдено жодного облікового запису Менеджера тегів Google."
+   },
+   "gtm_availability_no_web_container_error": {
+      "message": "У Менеджері тегів Google не знайдено жодного вебконтейнера."
+   },
+   "gtm_capi_token_error": {
+      "message": "Не вдалося згенерувати маркер доступу до API Conversions. Переконайтеся, що ви адміністратор компанії для цього пікселя."
+   },
+   "gtm_dataset_label": {
+      "message": "Набір даних"
+   },
+   "gtm_fetch_accounts_fallback_error": {
+      "message": "Не вдалось отримати облікові записи"
+   },
+   "gtm_fetch_containers_fallback_error": {
+      "message": "Не вдалось отримати контейнери"
+   },
+   "gtm_fetch_google_analytics_accounts_fallback_error": {
+      "message": "Не вдалось отримати облікові записи Google Analytics"
+   },
+   "gtm_fetch_google_analytics_properties_fallback_error": {
+      "message": "Не вдалось отримати ресурси Google Analytics"
+   },
+   "gtm_fetch_google_analytics_web_streams_fallback_error": {
+      "message": "Не вдалось отримати потоки вебданих Google Analytics"
+   },
+   "gtm_fetch_server_containers_fallback_error": {
+      "message": "Не вдалось отримати серверні контейнери Менеджера тегів Google"
+   },
+   "gtm_ga4_data_stream_label": {
+      "message": "Потік даних Google Analytics"
+   },
+   "gtm_ga4_web_stream_toggle_label": {
+      "message": "Пересилати події Google Analytics"
+   },
+   "gtm_ga_account_label": {
+      "message": "Обліковий запис Google Analytics"
+   },
+   "gtm_ga_account_placeholder": {
+      "message": "Виберіть обліковий запис Google Analytics"
+   },
+   "gtm_ga_data_stream_placeholder": {
+      "message": "Виберіть потік даних"
+   },
+   "gtm_google_auth_warning_body": {
+      "message": "Схоже, під час налаштування ваш сеанс Google став неактивним. Увійдіть знову, щоб продовжити з того місця, де ви зупинилися."
+   },
+   "gtm_google_auth_warning_primary_cta": {
+      "message": "Увійти"
+   },
+   "gtm_google_auth_warning_title": {
+      "message": "Щоб продовжити, знову ввійдіть у Google"
+   },
+   "gtm_next_step_back_aria_label": {
+      "message": "Назад"
+   },
+   "gtm_next_step_confirm_button": {
+      "message": "Підтвердити"
+   },
+   "gtm_next_step_event_setup_description": {
+      "message": "Інструмент налаштування подій дозволяє вибирати події конверсії, тобто покупки або додавання в кошик, безпосередньо зі сторінок вашого сайту та безпечно надсилати їх до Meta."
+   },
+   "gtm_next_step_event_setup_title": {
+      "message": "Надсилайте ключові події конверсії в Meta"
+   },
+   "gtm_next_step_eyebrow": {
+      "message": "Потрібна дія"
+   },
+   "gtm_next_step_manual_setup_title": {
+      "message": "Налаштування вручну"
+   },
+   "gtm_next_step_missing_pixel_error": {
+      "message": "Щоб продовжити, виберіть ідентифікатор набору даних"
+   },
+   "gtm_next_step_missing_url_error": {
+      "message": "Щоб продовжити, введіть URL-адресу сайту"
+   },
+   "gtm_next_step_nav_title": {
+      "message": "Безпечно підключіть свої дані"
+   },
+   "gtm_next_step_title": {
+      "message": "Безпечно підключайте свої дані"
+   },
+   "gtm_next_step_website_url_label": {
+      "message": "URL-адреса сайту"
+   },
+   "gtm_next_step_website_url_placeholder": {
+      "message": "Введіть URL-адресу сайту"
+   },
+   "gtm_pixel_business_fetch_error": {
+      "message": "Не вдалось отримати інформацію про піксель $1. Можливо, у вас немає дозволу на доступ до цього пікселя. Деталі: $2"
+   },
+   "gtm_pixel_business_load_error": {
+      "message": "Не вдалося завантажити набір даних $1. Переконайтеся, що ідентифікатор набору даних правильний і ви маєте дозвіл на його перегляд."
+   },
+   "gtm_pixel_business_no_business_error": {
+      "message": "Піксель $1 не належить жодній компанії. Щоб згенерувати маркер доступу до API Conversions, компанія має заявити права на цей піксель."
+   },
+   "gtm_pixel_dataset_id_label": {
+      "message": "Ідентифікатор набору даних"
+   },
+   "gtm_pixel_detected_on_page": {
+      "message": "Виявлено на сторінці"
+   },
+   "gtm_pixel_load_more": {
+      "message": "Завантажити більше пікселів…"
+   },
+   "gtm_pixel_no_pixels_detected": {
+      "message": "На цій сторінці не виявлено пікселів. Введіть ідентифікатор набору даних уручну."
+   },
+   "gtm_pixel_no_pixels_found": {
+      "message": "Пікселів не знайдено"
+   },
+   "gtm_pixel_picker_dataset_id_numeric_error": {
+      "message": "Ідентифікатор набору даних має бути числом"
+   },
+   "gtm_pixel_picker_dataset_id_placeholder": {
+      "message": "Введіть ідентифікатор набору даних"
+   },
+   "gtm_pixel_picker_enter_manually": {
+      "message": "Ввести вручну"
+   },
+   "gtm_pixel_search_placeholder": {
+      "message": "Пошук пікселів"
+   },
+   "gtm_pixel_select_placeholder": {
+      "message": "Виберіть піксель"
+   },
+   "gtm_pixel_your_pixels": {
+      "message": "Ваші пікселі"
+   },
+   "gtm_publish_asset_preparation_failed": {
+      "message": "Не вдалося підготувати ресурс"
+   },
+   "gtm_publish_asset_preparation_missing_ids": {
+      "message": "Підготовку ресурсів завершено без ідентифікаторів, готових до публікації"
+   },
+   "gtm_publish_automatic_advanced_matching_progress": {
+      "message": "Увімкнення автоматичного розширеного пошуку збігів…"
+   },
+   "gtm_publish_automatic_advanced_matching_warning": {
+      "message": "Не вдалося ввімкнути автоматичний розширений пошук збігів, але теги Менеджера тегів Google опубліковано."
+   },
+   "gtm_publish_completed_with_warnings_title": {
+      "message": "Опубліковано з попередженнями"
+   },
+   "gtm_publish_confirm_button": {
+      "message": "Підтвердити"
+   },
+   "gtm_publish_create_ga_account_and_property_progress": {
+      "message": "Створення облікового запису й ресурсу Google Analytics…"
+   },
+   "gtm_publish_create_ga_property_progress": {
+      "message": "Створення ресурсу Google Analytics…"
+   },
+   "gtm_publish_create_ga_stream_progress": {
+      "message": "Створення потоку вебданих Google Analytics…"
+   },
+   "gtm_publish_create_gtm_account_and_web_container_progress": {
+      "message": "Створення облікового запису Менеджера тегів Google і вебконтейнера…"
+   },
+   "gtm_publish_create_server_container_progress": {
+      "message": "Створення серверного контейнера…"
+   },
+   "gtm_publish_create_version_error": {
+      "message": "Не вдалося створити версію контейнера $1"
+   },
+   "gtm_publish_create_web_container_progress": {
+      "message": "Створення вебконтейнера…"
+   },
+   "gtm_publish_failed_title": {
+      "message": "Не вдалось опублікувати"
+   },
+   "gtm_publish_fetch_pixel_business_progress": {
+      "message": "Отримання інформації про компанію, пов’язану з пікселем…"
+   },
+   "gtm_publish_free_capig_opt_in_progress": {
+      "message": "Налаштування API Conversions від Meta…"
+   },
+   "gtm_publish_free_capig_opt_in_warning": {
+      "message": "Не вдалося налаштувати API Conversions від Meta, але теги Менеджера тегів Google опубліковано."
+   },
+   "gtm_publish_ga_account_recipe_flow_error": {
+      "message": "Щоб створити обліковий запис Google Analytics, потрібно виконати процес на основі інструкцій"
+   },
+   "gtm_publish_generate_capi_token_progress": {
+      "message": "Генерування маркера доступу до API Conversions…"
+   },
+   "gtm_publish_google_tag_manager_missing_ga_measurement_id": {
+      "message": "Ідентифікатор вимірювання Google Analytics"
+   },
+   "gtm_publish_google_tag_manager_missing_requirements": {
+      "message": "Відсутнє підключення до сервера Менеджера тегів Google: $1"
+   },
+   "gtm_publish_google_tag_manager_missing_server_container": {
+      "message": "Серверний контейнер Менеджера тегів Google"
+   },
+   "gtm_publish_google_tag_manager_missing_tagging_server_url": {
+      "message": "URL-адреса сервера для додавання тегів"
+   },
+   "gtm_publish_gtm_account_recipe_flow_error": {
+      "message": "Щоб створити обліковий запис Менеджера тегів Google, потрібно виконати процес на основі інструкцій"
+   },
+   "gtm_publish_missing_ga_account_draft": {
+      "message": "Немає чернетки облікового запису Google Analytics"
+   },
+   "gtm_publish_missing_ga_account_for_property": {
+      "message": "Не вибрано обліковий запис Google Analytics для створення ресурсу"
+   },
+   "gtm_publish_missing_ga_property_draft": {
+      "message": "Немає чернетки ресурсу Google Analytics"
+   },
+   "gtm_publish_missing_ga_property_for_stream": {
+      "message": "Не вибрано ресурс Google Analytics для створення потоку"
+   },
+   "gtm_publish_missing_ga_stream_draft": {
+      "message": "Немає чернетки потоку Google Analytics"
+   },
+   "gtm_publish_missing_google_auth": {
+      "message": "Автентифікацію через Google не виконано"
+   },
+   "gtm_publish_missing_gtm_account_draft": {
+      "message": "Немає чернетки облікового запису Менеджера тегів Google"
+   },
+   "gtm_publish_missing_gtm_account_for_server_container": {
+      "message": "Не вибрано обліковий запис Менеджера тегів Google для створення серверного контейнера"
+   },
+   "gtm_publish_missing_gtm_account_for_web_container": {
+      "message": "Не вибрано обліковий запис Менеджера тегів Google для створення вебконтейнера"
+   },
+   "gtm_publish_missing_pixel_id": {
+      "message": "Ідентифікатор набору даних не вибрано"
+   },
+   "gtm_publish_missing_required_asset": {
+      "message": "Ресурс «$1» відсутній. Додайте його за допомогою процесу «Створити» або виберіть наявний."
+   },
+   "gtm_publish_missing_required_assets_error": {
+      "message": "Відсутні необхідні ресурси: $1"
+   },
+   "gtm_publish_missing_requirements_title": {
+      "message": "Вимоги, які не виконано:"
+   },
+   "gtm_publish_missing_server_container_draft": {
+      "message": "Немає чернетки серверного контейнера"
+   },
+   "gtm_publish_missing_web_container_draft": {
+      "message": "Немає чернетки вебконтейнера"
+   },
+   "gtm_publish_no_workspaces_error": {
+      "message": "У $2 не знайдено жодного робочого простору для контейнера $1. Створіть робочий простір у Менеджері тегів Google і повторіть спробу."
+   },
+   "gtm_publish_pixel_label": {
+      "message": "ID набору даних: $1"
+   },
+   "gtm_publish_prepare_assets_progress": {
+      "message": "Підготовка ресурсів…"
+   },
+   "gtm_publish_progress_complete": {
+      "message": "Опубліковано."
+   },
+   "gtm_publish_progress_creating_datalayer_variables": {
+      "message": "Створення змінних рівня даних…"
+   },
+   "gtm_publish_progress_creating_pixel_template_tag": {
+      "message": "Створення тегу шаблону пікселя…"
+   },
+   "gtm_publish_progress_creating_server_action_source": {
+      "message": "Створення змінної джерела дії на стороні сервера…"
+   },
+   "gtm_publish_progress_creating_server_tag": {
+      "message": "Створення тегу на стороні сервера…"
+   },
+   "gtm_publish_progress_creating_server_trigger": {
+      "message": "Створення тригера на стороні сервера…"
+   },
+   "gtm_publish_progress_creating_web_tags": {
+      "message": "Створення вебтегів…"
+   },
+   "gtm_publish_progress_creating_web_tags_web_only": {
+      "message": "Створення вебтегів…"
+   },
+   "gtm_publish_progress_creating_web_triggers": {
+      "message": "Створення вебтригерів…"
+   },
+   "gtm_publish_progress_enabling_builtin_variables": {
+      "message": "Увімкнення вбудованих змінних…"
+   },
+   "gtm_publish_progress_getting_web_workspace": {
+      "message": "Отримання вебверсії робочого простору…"
+   },
+   "gtm_publish_progress_getting_workspaces": {
+      "message": "Отримання робочих просторів…"
+   },
+   "gtm_publish_progress_importing_web_pixel_template": {
+      "message": "Імпорт шаблону вебпікселя…"
+   },
+   "gtm_publish_progress_pixel_template_complete": {
+      "message": "Шаблон пікселя опубліковано."
+   },
+   "gtm_publish_progress_publishing_server_container": {
+      "message": "Публікація серверного контейнера…"
+   },
+   "gtm_publish_progress_publishing_web_container": {
+      "message": "Публікація вебконтейнера…"
+   },
+   "gtm_publish_progress_setting_up_server_template": {
+      "message": "Налаштування серверного шаблону…"
+   },
+   "gtm_publish_progress_web_only_complete": {
+      "message": "Конфігурацію лише для сайту опубліковано."
+   },
+   "gtm_publish_published_button": {
+      "message": "Опубліковано"
+   },
+   "gtm_publish_publishing_button": {
+      "message": "Публікація…"
+   },
+   "gtm_publish_server_container_no_url_notice": {
+      "message": "Серверний контейнер буде створено, але додавання тегів на стороні сервера не опублікується до появи URL-адреси сервера для додавання тегів."
+   },
+   "gtm_publish_success_message": {
+      "message": "Теги опубліковано!"
+   },
+   "gtm_publish_unsupported_draft_asset": {
+      "message": "Створення чернеток ресурсу «$1» під час публікації ще не підтримується"
+   },
+   "gtm_publish_web_only_notice": {
+      "message": "Серверний контейнер не вибрано. Публікується конфігурація лише для сайту. Ви зможете додати й опублікувати серверний контейнер пізніше."
+   },
+   "gtm_reauthenticate": {
+      "message": "Пройти автентифікацію повторно"
+   },
+   "gtm_review_setup_and_publish": {
+      "message": "Перевірте й опублікуйте конфігурацію"
+   },
+   "gtm_setup_authenticate_button": {
+      "message": "Пройти автентифікацію і отримати облікові записи"
+   },
+   "gtm_setup_button": {
+      "message": "Налаштувати"
+   },
+   "gtm_setup_header_title": {
+      "message": "Безпечно підключайте свої дані"
+   },
+   "gtm_setup_required_message": {
+      "message": "Щоб продовжити, ви маєте налаштувати вебконтейнер у Менеджері тегів Google"
+   },
+   "gtm_setup_required_primary_cta": {
+      "message": "Відкрити Менеджер тегів Google"
+   },
+   "gtm_setup_required_secondary_cta": {
+      "message": "Повторити спробу"
+   },
+   "gtm_setup_settings": {
+      "message": "Налаштування конфігурації"
+   },
+   "gtm_setup_summary_description": {
+      "message": "Дає змогу без зайвих зусиль розгортати теги й керувати ними, ефективно відстежувати події без застосування коду й покращувати результати реклами."
+   },
+   "gtm_setup_warning_loading_label": {
+      "message": "Завантаження…"
+   },
+   "gtm_web_container_label": {
+      "message": "Вебконтейнер"
+   },
+   "gtm_web_container_placeholder": {
+      "message": "Виберіть вебконтейнер"
+   },
+   "guidanceEventsAffectedBadge": {
+      "message": "Подій, що зазнали впливу: $1%"
+   },
+   "guidanceMoreIssuesPlural": {
+      "message": "Ще проблем: $1"
+   },
+   "guidanceMoreIssuesSingular": {
+      "message": "Ще проблем: $1"
+   },
+   "guidanceViewAllButton": {
+      "message": "Переглянути всі"
+   },
+   "guidanceViewButton": {
+      "message": "Переглянути"
+   },
+   "highlightTooltipChooseAccount": {
+      "message": "Виберіть обліковий запис для входу"
+   },
+   "highlightTooltipClickToContinue": {
+      "message": "Натисніть тут, щоб продовжити"
+   },
+   "highlightTooltipSelectAll": {
+      "message": "Вибрати всі"
+   },
+   "idLabel": {
+      "message": "ID: $1"
+   },
+   "islandActionFailedMessage": {
+      "message": "Виконайте дію вручну, щоб продовжити"
+   },
+   "islandActionRequiredMessage": {
+      "message": "Виконайте дію, щоб продовжити"
+   },
+   "learnAboutManualAdvancedMatching": {
+      "message": "Докладніше про ручний розширений пошук збігів"
+   },
+   "learnAboutValueAndCurrencyParameters": {
+      "message": "Налаштування вартості й валюти в пікселі Meta"
+   },
+   "learnHowToSetupAdvancedMatchingManually": {
+      "message": "Докладніше про те, як налаштувати розширений пошук збігів уручну"
+   },
+   "learnMoreLink": {
+      "message": "Докладніше"
+   },
+   "loadingText": {
+      "message": "Завантаження…"
+   },
+   "loginPageButtonCreateAccount": {
+      "message": "Створити новий обліковий запис"
+   },
+   "loginPageButtonLogin": {
+      "message": "Увійти через Facebook"
+   },
+   "loginPageButtonMMALogin": {
+      "message": "Увійти через керований обліковий запис Meta"
+   },
+   "loginPageDescription": {
+      "message": "для отримання персоналізованої підтримки з налаштування подій"
+   },
+   "loginPageSubtitle": {
+      "message": "Увійдіть у бізнес-інструменти Meta"
+   },
+   "loginPageTitle": {
+      "message": "Помічник із пікселя Meta"
+   },
+   "mamStepExampleLabel": {
+      "message": "Приклад: $1"
+   },
+   "metaLogoAlt": {
+      "message": "Meta"
+   },
+   "metaSignalHelperLogoAlt": {
+      "message": "Помічник із пікселя Meta"
+   },
+   "missingEventsActiveSessionTooltip": {
+      "message": "Налаштування події вже триває"
+   },
+   "missingEventsTabSwitchTooltip": {
+      "message": "Перейдіть на вкладку, де ви почали налаштування події"
+   },
+   "moreInformationHeader": {
+      "message": "Додаткова інформація"
+   },
+   "moreLabel": {
+      "message": "+ ще $1"
+   },
+   "newFeaturesBannerLearnMore": {
+      "message": "Докладніше"
+   },
+   "newFeaturesBannerText": {
+      "message": "Доступна нова функція автоматизації, завдяки якій ви зможете налаштувати складні інструменти за лічені хвилини."
+   },
+   "nextStepsHeader": {
+      "message": "Наступні кроки"
+   },
+   "noEventsOnThisPageMessage": {
+      "message": "На цій сторінці немає подій. Натисніть «Показати всі події», щоб переглянути події з інших сторінок."
+   },
+   "noPixelsFoundCardHeader": {
+      "message": "На цій сторінці не знайдено пікселів"
+   },
+   "onThisPageHeader": {
+      "message": "На цій сторінці"
+   },
+   "optionalLabel": {
+      "message": "· Необов’язково"
+   },
+   "overlayActionCompletedTitle": {
+      "message": "Дію виконано"
+   },
+   "overlayCloseButton": {
+      "message": "Закрити"
+   },
+   "overlayDatasetCountPlural": {
+      "message": "Кілька наборів даних"
+   },
+   "overlayDatasetCountSingular": {
+      "message": "1 набір даних"
+   },
+   "overlayDescriptionPluralActions": {
+      "message": "Доступні дії: $1"
+   },
+   "overlayDescriptionPluralPixelsPluralActions": {
+      "message": "На цій сторінці є пікселі ($1) і доступні дії ($2)."
+   },
+   "overlayDescriptionPluralPixelsSingularAction": {
+      "message": "На цій сторінці є пікселі ($1) і доступна 1 дія."
+   },
+   "overlayDescriptionSingularAction": {
+      "message": "Ми вибрали для вас оптимізацію:"
+   },
+   "overlayDescriptionSingularPixelPluralActions": {
+      "message": "На цій сторінці є 1 піксель і доступні дії ($1)."
+   },
+   "overlayDescriptionSingularPixelSingularAction": {
+      "message": "На цій сторінці є 1 піксель і доступна 1 дія."
+   },
+   "overlayFreeCapigEnabledLabel": {
+      "message": "Увімкнено"
+   },
+   "overlayGoBackButton": {
+      "message": "Назад"
+   },
+   "overlayGreetingAfternoon": {
+      "message": "Добрий день, $1"
+   },
+   "overlayGreetingEvening": {
+      "message": "Добрий вечір, $1"
+   },
+   "overlayGreetingMorning": {
+      "message": "Доброго ранку, $1"
+   },
+   "overlayGtmSetupForMeCta": {
+      "message": "Налаштувати для мене"
+   },
+   "overlayNotificationSettingsButton": {
+      "message": "Налаштування сповіщень"
+   },
+   "overlayNotificationSettingsDescription": {
+      "message": "Виберіть, як ви хочете отримувати сповіщення, пов’язані з покращенням ваших налаштувань. Ви також можете будь-коли змінити це на головній сторінці, натиснувши на значок дзвінка."
+   },
+   "overlayNotificationSettingsTitle": {
+      "message": "Налаштування сповіщень"
+   },
+   "overlayNotificationsToggleDescription": {
+      "message": "Показувати сповіщення на сторінках із вашими пікселями"
+   },
+   "overlayNotificationsToggleLabel": {
+      "message": "Сповіщення"
+   },
+   "overlayTitle": {
+      "message": "Помічник із пікселя Meta"
+   },
+   "overlayToggleDescription": {
+      "message": "Показувати дії на основі вашого контексту й статусу пікселя під час перегляду."
+   },
+   "overlayToggleOff": {
+      "message": "Контекстні сповіщення вимкнено"
+   },
+   "overlayToggleOn": {
+      "message": "Контекстні сповіщення ввімкнено"
+   },
+   "overlayViewAllButton": {
+      "message": "Переглянути всі"
+   },
+   "overlayViewDatasetsButton": {
+      "message": "Переглянути набори даних"
+   },
+   "pageIssueHeaderPlural": {
+      "message": "Знайдено попереджень на цій сторінці: $1"
+   },
+   "pageIssueHeaderSingular": {
+      "message": "На цій сторінці знайдено попередження"
+   },
+   "pinExtensionBannerCta": {
+      "message": "Закріпити на панелі інструментів"
+   },
+   "pinExtensionBannerDescription": {
+      "message": "Закріпіть розширення Meta Signal Helper на панелі інструментів для швидкого доступу."
+   },
+   "pinExtensionBannerTitle": {
+      "message": "Закріпити це розширення"
+   },
+   "pixelBackButton": {
+      "message": "Назад"
+   },
+   "pixelCopyIdTitle": {
+      "message": "Копіювати ID набору даних"
+   },
+   "pixelCopyIdTooltip": {
+      "message": "Копіювати ID набору даних"
+   },
+   "pixelCustomConversionBadge": {
+      "message": "Настроювана конверсія"
+   },
+   "pixelErrorCommonStep1": {
+      "message": "Відкрийте код сайту."
+   },
+   "pixelErrorConflictingVersionsCardTitle": {
+      "message": "Вилучіть старі або конфліктні пікселі"
+   },
+   "pixelErrorConflictingVersionsExample": {
+      "message": "Приклад: n.version='2.0'"
+   },
+   "pixelErrorConflictingVersionsMessage": {
+      "message": "Вилучіть старі або конфліктні пікселі"
+   },
+   "pixelErrorConflictingVersionsRecommendation": {
+      "message": "На цій сторінці виявлено кілька пікселів із конфліктними версіями. Використовуйте лише одну версію пікселя Meta."
+   },
+   "pixelErrorConflictingVersionsStep2": {
+      "message": "Виконайте пошук **n.version='** у базовому коді встановлення пікселя"
+   },
+   "pixelErrorConflictingVersionsStep3": {
+      "message": "Переконайтеся, що версії однакові для всіх пікселів"
+   },
+   "pixelErrorDuplicatePixelIdCardTitle": {
+      "message": "Вилучіть дублікат ID набору даних"
+   },
+   "pixelErrorDuplicatePixelIdMessage": {
+      "message": "Вилучіть дублікат ID набору даних"
+   },
+   "pixelErrorDuplicatePixelIdRecommendation": {
+      "message": "Виявлено дублікат ID набору даних: $1. Кожен піксель потрібно ініціалізувати на сторінці лише раз, щоб уникнути дублювання даних."
+   },
+   "pixelErrorDuplicatePixelIdStep2": {
+      "message": "Виконайте пошук **fbq('init', $1)** у базовому коді встановлення пікселя"
+   },
+   "pixelErrorDuplicatePixelIdStep3": {
+      "message": "Вилучіть дублікати **fbq('init', $1)**"
+   },
+   "pixelErrorFbqNoMethodNameCardTitle": {
+      "message": "У виклику fbq() не вказано назву методу"
+   },
+   "pixelErrorFbqNoMethodNameExample": {
+      "message": "Приклад: fbq('track', 'PageView')"
+   },
+   "pixelErrorFbqNoMethodNameMessage": {
+      "message": "Додайте аргумент у fbq{}"
+   },
+   "pixelErrorFbqNoMethodNameRecommendation": {
+      "message": "Укажіть назву методу під час виклику fbq(). Приклад: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorFbqNoMethodNameStep2": {
+      "message": "Знайдіть виклик fbq(), у якому відсутня назва методу."
+   },
+   "pixelErrorFbqNoMethodNameStep3": {
+      "message": "Додайте дійсну назву методу (наприклад, track або init) як перший аргумент."
+   },
+   "pixelErrorInvalidConsentActionCardTitle": {
+      "message": "Надішліть дійсний параметр згоди"
+   },
+   "pixelErrorInvalidConsentActionMessage": {
+      "message": "Надішліть дійсний параметр згоди"
+   },
+   "pixelErrorInvalidConsentActionRecommendation": {
+      "message": "fbq('$1', ...); – недійсний параметр для fbq('consent', ...). Дійсні параметри згоди: grant, revoke. Перевірте налаштування керування згодою."
+   },
+   "pixelErrorInvalidConsentActionStep2": {
+      "message": "Виконайте пошук **fbq('$1', ...)**"
+   },
+   "pixelErrorInvalidConsentActionStep3": {
+      "message": "Змініть назву методу на **revoke** або **grant**"
+   },
+   "pixelErrorInvalidEventIdFormatCardTitle": {
+      "message": "Додайте значення рядка для eventID"
+   },
+   "pixelErrorInvalidEventIdFormatMessage": {
+      "message": "Додайте значення рядка для eventID"
+   },
+   "pixelErrorInvalidEventIdFormatRecommendation": {
+      "message": "Неправильний тип eventID для набору даних з ID $1 для події «$2». Параметр eventID має бути рядком. Приклад: fbq('track', 'Purchase', {value: 12, currency: 'USD'}}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorInvalidEventIdFormatRecommendationGeneric": {
+      "message": "Неправильний тип eventID для набору даних з ID $1. Параметр eventID має бути рядком. Приклад: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorInvalidEventIdFormatStep2": {
+      "message": "Виконайте пошук **fbq('track', '$1', ..., {eventID: ...})** і перевірте, чи є eventID рядком"
+   },
+   "pixelErrorInvalidEventIdFormatStep2Generic": {
+      "message": "Виконайте пошук **fbq('track', ..., {eventID: ...})** і перевірте, чи є eventID рядком"
+   },
+   "pixelErrorInvalidEventIdFormatStep3": {
+      "message": "Перетворіть значення eventID на тип рядка"
+   },
+   "pixelErrorInvalidFbqMethodCardTitle": {
+      "message": "У виклику fbq() вказано недійсний метод"
+   },
+   "pixelErrorInvalidFbqMethodExample": {
+      "message": "Дійсні методи: 'init', 'track', 'trackCustom', 'trackSingle', 'trackSingleCustom'"
+   },
+   "pixelErrorInvalidFbqMethodMessage": {
+      "message": "Використайте дійсні команди fbq"
+   },
+   "pixelErrorInvalidFbqMethodParameterCardTitle": {
+      "message": "Оновіть формат параметра"
+   },
+   "pixelErrorInvalidFbqMethodParameterExample": {
+      "message": "Приклад: fbq('init', '123456789', {em: 'user@example.com', ph: '1234567890'}); // user_data має бути об’єктом"
+   },
+   "pixelErrorInvalidFbqMethodParameterMessage": {
+      "message": "Узгодьте параметри з очікуваним форматом"
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendation": {
+      "message": "Виклик fbq('$1', $2); із параметром $3 має недійсне значення $4."
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendationSimple": {
+      "message": "Недійсний параметр методу fbq()."
+   },
+   "pixelErrorInvalidFbqMethodParameterStep2": {
+      "message": "Виконайте пошук **fbq('$1', $2);**"
+   },
+   "pixelErrorInvalidFbqMethodParameterStep3": {
+      "message": "Змініть **$1** на дійсну назву параметра"
+   },
+   "pixelErrorInvalidFbqMethodRecommendation": {
+      "message": "fbq('$1', ...); – недійсна команда fbq. Використовуйте дійсні методи fbq, як-от init, track, trackCustom."
+   },
+   "pixelErrorInvalidFbqMethodStep2": {
+      "message": "Знайдіть виклик fbq() із недійсним методом $1."
+   },
+   "pixelErrorInvalidFbqMethodStep3": {
+      "message": "Замініть дійсною назвою методу, як-от track, init або trackCustom."
+   },
+   "pixelErrorInvalidJsonLdCardTitle": {
+      "message": "Оновіть формат JSON-LD"
+   },
+   "pixelErrorInvalidJsonLdMessage": {
+      "message": "Переконайтеся, що JSON-LD має правильний і дійсний формат"
+   },
+   "pixelErrorInvalidJsonLdRecommendation": {
+      "message": "Не вдалося проаналізувати тег JSON-LD. Виявлено неправильний формат JSON: $1. Перш ніж надсилати в піксель, переконайтеся, що розмітка JSON-LD має правильний формат і є дійсною."
+   },
+   "pixelErrorInvalidJsonLdStep2": {
+      "message": "Виконайте пошук **$1**"
+   },
+   "pixelErrorInvalidJsonLdStep3": {
+      "message": "Виправте формат і переконайтеся, що це дійсний JSON"
+   },
+   "pixelErrorInvalidParamCardTitle": {
+      "message": "Оновіть недійсний параметр для події"
+   },
+   "pixelErrorInvalidParamExample": {
+      "message": "Приклад: fbq('track', 'Purchase', {currency: 'USD', value: 30.00})"
+   },
+   "pixelErrorInvalidParamFormatCardTitle": {
+      "message": "Оновіть формат свого параметра"
+   },
+   "pixelErrorInvalidParamFormatExample": {
+      "message": "Поширені параметри: value, currency, content_ids, content_type тощо. Повний список див. на цій вікі-сторінці: https://developers.facebook.com/docs/meta-pixel/reference/"
+   },
+   "pixelErrorInvalidParamFormatMessage": {
+      "message": "Оновіть формат свого параметра"
+   },
+   "pixelErrorInvalidParamFormatRecommendation": {
+      "message": "Недійсний формат параметра для $1."
+   },
+   "pixelErrorInvalidParamFormatStep2": {
+      "message": "Виконайте пошук **$1**"
+   },
+   "pixelErrorInvalidParamMessage": {
+      "message": "Вилучіть або оновіть недійсний параметр для події"
+   },
+   "pixelErrorInvalidParamRecommendation": {
+      "message": "Параметр $1 недійсний для події «$2»."
+   },
+   "pixelErrorInvalidParamStep2": {
+      "message": "Виконайте пошук **fbq('track', $1, ...)**"
+   },
+   "pixelErrorInvalidParamStep3": {
+      "message": "Вилучіть або оновіть $1"
+   },
+   "pixelErrorInvalidPixelIdCardTitle": {
+      "message": "Додайте дійсний ID набору даних"
+   },
+   "pixelErrorInvalidPixelIdMessage": {
+      "message": "Додайте дійсний ID набору даних"
+   },
+   "pixelErrorInvalidPixelIdRecommendation": {
+      "message": "ID вашого набору даних $1 недійсний. Перевірте правильність ID в Meta Events Manager і оновіть код пікселя."
+   },
+   "pixelErrorInvalidPixelIdStep2": {
+      "message": "Виконайте пошук **fbq('init', $1)** у базовому коді встановлення пікселя"
+   },
+   "pixelErrorInvalidPixelIdStep3": {
+      "message": "Замініть $1 на дійсний ідентифікатор, який можна знайти в Meta Events Manager"
+   },
+   "pixelErrorMultiplePixelsCardTitle": {
+      "message": "Об’єднайте дані в один піксель Meta"
+   },
+   "pixelErrorMultiplePixelsMessage": {
+      "message": "Об’єднайте дані в один піксель Meta"
+   },
+   "pixelErrorMultiplePixelsRecommendation": {
+      "message": "На цій сторінці виявлено кілька пікселів. Це може свідчити про проблеми з налаштуванням і перешкоджати відстеженню подій."
+   },
+   "pixelErrorMultiplePixelsStep2": {
+      "message": "Виконайте пошук **fbq('init', ...)** у базовому коді встановлення пікселя"
+   },
+   "pixelErrorMultiplePixelsStep3": {
+      "message": "Вилучіть усі пікселі, окрім одного, а також обов’язково оновіть кампанії, якщо використовувався дублікат пікселя"
+   },
+   "pixelErrorNegativeEventParamCardTitle": {
+      "message": "Укажіть додатне значення для параметра «$1»"
+   },
+   "pixelErrorNegativeEventParamMessage": {
+      "message": "Перевірте дані про подію «$1»"
+   },
+   "pixelErrorNegativeEventParamRecommendation": {
+      "message": "Параметр $1 для події «$2» має від’ємне значення. Параметри подій, як-от value, quantity тощо, не мають бути від’ємними."
+   },
+   "pixelErrorNegativeEventParamStep2": {
+      "message": "Виконайте пошук **fbq('track', $1)**"
+   },
+   "pixelErrorNegativeEventParamStep3": {
+      "message": "Змініть значення на додатне число"
+   },
+   "pixelErrorNoEventIdCardTitle": {
+      "message": "Додайте ID подій"
+   },
+   "pixelErrorNoEventIdMessage": {
+      "message": "Укажіть ID події для відстеження й дедуплікації"
+   },
+   "pixelErrorNoEventIdRecommendation": {
+      "message": "Ми виявили нульове або порожнє значення eventID в 4-му параметрі для набору даних з ID $1. Додайте ID події. Приклад: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorNoEventIdStep2": {
+      "message": "Виконайте пошук **fbq('track', ..., ..., ..., {})** і знайдіть частину коду, де бракує 4-го параметра або eventID"
+   },
+   "pixelErrorNoEventIdStep3": {
+      "message": "Укажіть eventID або вилучіть 4-й параметр"
+   },
+   "pixelErrorNoEventNameCardTitle": {
+      "message": "Додайте назву події"
+   },
+   "pixelErrorNoEventNameExample": {
+      "message": "Приклад: fbq('track', 'AddToCart')"
+   },
+   "pixelErrorNoEventNameMessage": {
+      "message": "Додайте назву події, щоб відстежувати її"
+   },
+   "pixelErrorNoEventNameRecommendation": {
+      "message": "Відсутня назва події. Відстежувані події потрібно реєструвати з назвою fbq(\"track\", eventName). Приклад: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorNoEventNameStep2": {
+      "message": "Виконайте пошук **fbq('track', '', ...)** або **fbq('track', ' ', ...)**"
+   },
+   "pixelErrorNoEventNameStep3": {
+      "message": "Додайте назву події"
+   },
+   "pixelErrorNonstandardEventCardTitle": {
+      "message": "Оновіть нестандартну подію"
+   },
+   "pixelErrorNonstandardEventMessage": {
+      "message": "Надішліть нестандартну подію за допомогою методу trackCustom"
+   },
+   "pixelErrorNonstandardEventRecommendation": {
+      "message": "Ви надсилаєте нестандартну подію $1. Для таких подій слід використовувати метод trackCustom. Натомість викличте fbq('trackCustom', ...)."
+   },
+   "pixelErrorNonstandardEventStep2": {
+      "message": "Виконайте пошук **fbq('track', $1)**"
+   },
+   "pixelErrorNonstandardEventStep3": {
+      "message": "Замініть на **fbq('trackCustom', $1)**"
+   },
+   "pixelErrorPiiInvalidTypeCardTitle": {
+      "message": "Вилучіть недійсні відомості про клієнта"
+   },
+   "pixelErrorPiiInvalidTypeExample": {
+      "message": "Приклад: **em**, **ph**, **fn**, **ln**, **db**, **ge**, **ct**, **zp**, **external_id** тощо"
+   },
+   "pixelErrorPiiInvalidTypeMessage": {
+      "message": "Вилучіть недійсну інформацію про клієнта"
+   },
+   "pixelErrorPiiInvalidTypeRecommendation": {
+      "message": "Для параметра $2 вказано недійсне значення ($1). Ці дані не надсилатимуться з жодною подією для цього пікселя."
+   },
+   "pixelErrorPiiInvalidTypeStep2": {
+      "message": "Виконайте пошук **fbq('init', $1, {$2:...})**"
+   },
+   "pixelErrorPiiInvalidTypeStep3": {
+      "message": "Оновіть **$1** або замініть дійсною інформацією"
+   },
+   "pixelErrorPiiUnhashedPiiCardTitle": {
+      "message": "Використайте правильні поля ключів для надсилання електронних адрес"
+   },
+   "pixelErrorPiiUnhashedPiiMessage": {
+      "message": "Використайте правильні поля ключів для надсилання електронних адрес"
+   },
+   "pixelErrorPiiUnhashedPiiRecommendation": {
+      "message": "Схоже, що значення ключа $1 містить персональні дані. Ці дані не надсилатимуться з жодною подією для цього пікселя. Рекомендований метод виклику – fbq('init', 'PIXEL_ID', {em: 'email@email.com', ...})."
+   },
+   "pixelErrorPiiUnhashedPiiStep2": {
+      "message": "Виконайте пошук **$1** і перевірте, чи не вказано електронну адресу значенням цього параметра"
+   },
+   "pixelErrorPiiUnhashedPiiStep3": {
+      "message": "Замініть **$1** на **em**"
+   },
+   "pixelErrorRequiredParamMissingCardTitle": {
+      "message": "Додайте відсутній параметр"
+   },
+   "pixelErrorRequiredParamMissingMessage": {
+      "message": "Додайте в подію відсутній обов’язковий параметр"
+   },
+   "pixelErrorRequiredParamMissingRecommendation": {
+      "message": "Відсутній обов’язковий параметр $1 для події «$2»."
+   },
+   "pixelErrorRequiredParamMissingStep2": {
+      "message": "Виконайте пошук **fbq('track', $1, ...)**"
+   },
+   "pixelErrorRequiredParamMissingStep3": {
+      "message": "Додайте відсутній параметр"
+   },
+   "pixelErrorRestrictedEventCardTitle": {
+      "message": "Перевірте заблоковані події"
+   },
+   "pixelErrorRestrictedEventMessage": {
+      "message": "Відкрийте Events Manager і перевірте заблоковані події"
+   },
+   "pixelErrorRestrictedEventRecommendation": {
+      "message": "Ви намагаєтеся надіслати подію, для якої встановлено обмеження. Передачу події заблоковано."
+   },
+   "pixelErrorRestrictedEventStep1": {
+      "message": "Перейдіть на вкладку «Налаштування» для набору даних в Events Manager"
+   },
+   "pixelErrorRestrictedEventStep2": {
+      "message": "Відкрийте розділ «Дозволи трафіку – сайти»"
+   },
+   "pixelErrorRestrictedEventStep3": {
+      "message": "Перегляньте й оновіть заблоковані події або припиніть надсилати заблоковані події зі свого сайту"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelCardTitle": {
+      "message": "Ініціалізуйте піксель"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelMessage": {
+      "message": "Ініціалізуйте піксель перед налаштуванням метаданих"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendation": {
+      "message": "Спроба встановити аргумент $1 для неініціалізованого набору даних з ID $2. Ініціалізуйте піксель перед налаштуванням метаданих. Спочатку викличте fbq('init', '$3')."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendationSimple": {
+      "message": "Спроба налаштувати метадані для неініціалізованого пікселя."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep2": {
+      "message": "Виконайте пошук **fbq()**"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep3": {
+      "message": "Спочатку викличте **fbq('init', 'PIXEL_ID')**"
+   },
+   "pixelErrorSiteCodelessOptOutCardTitle": {
+      "message": "Увімкніть налаштування подій без коду"
+   },
+   "pixelErrorSiteCodelessOptOutMessage": {
+      "message": "Увімкніть налаштування подій без коду або інтегруйте піксель уручну"
+   },
+   "pixelErrorSiteCodelessOptOutRecommendation": {
+      "message": "Не вдалося відкрити інтерфейс подій без коду для пікселя, оскільки сайт заборонив його використання. ID набору даних: $1."
+   },
+   "pixelErrorSiteCodelessOptOutStep2": {
+      "message": "Виконайте пошук **fbq('set', 'codeless', 'false', $1)**"
+   },
+   "pixelErrorSiteCodelessOptOutStep3": {
+      "message": "Вилучіть цей рядок, щоб знову активувати функцію, або явно ввімкніть її за допомогою **fbq('set', 'codeless', 'true', $1);"
+   },
+   "pixelErrorUnableLoadFbqCardTitle": {
+      "message": "Вимкніть засоби блокування реклами"
+   },
+   "pixelErrorUnableLoadFbqMessage": {
+      "message": "Перевірте підключення до мережі й консоль браузера"
+   },
+   "pixelErrorUnableLoadFbqRecommendation": {
+      "message": "Не вдалося завантажити fbq. Засоби блокування реклами також можуть перешкоджати завантаженню пікселя."
+   },
+   "pixelErrorUnableLoadFbqStep1": {
+      "message": "Перевірте підключення до мережі"
+   },
+   "pixelErrorUnableLoadFbqStep2": {
+      "message": "Переконайтеся, що засоби блокування реклами вимкнено"
+   },
+   "pixelErrorUninitializedPixelCardTitle": {
+      "message": "Ініціалізуйте піксель"
+   },
+   "pixelErrorUninitializedPixelMessage": {
+      "message": "Ініціалізуйте піксель"
+   },
+   "pixelErrorUninitializedPixelRecommendation": {
+      "message": "Піксель $1 не знайдено. Перш ніж викликати інші методи fbq, ініціалізуйте піксель за допомогою fbq('init', 'PIXEL_ID')."
+   },
+   "pixelErrorUninitializedPixelStep1": {
+      "message": "Перейдіть на вкладку «Огляд» в Events Manager і скопіюйте базовий код пікселя Meta"
+   },
+   "pixelErrorUninitializedPixelStep2": {
+      "message": "Вставте код пікселя Meta між тегами \u003Chead> і \u003C/head> на вебсторінці"
+   },
+   "pixelErrorUnknownErrorMessage": {
+      "message": "Сталася невідома помилка пікселя"
+   },
+   "pixelErrorUnknownErrorRecommendation": {
+      "message": "Перевірте консоль браузера, щоб дізнатися більше про цю помилку."
+   },
+   "pixelErrorUnsupportedMetadataCardTitle": {
+      "message": "Вилучіть або оновіть непідтримувані поля метаданих"
+   },
+   "pixelErrorUnsupportedMetadataMessage": {
+      "message": "Вилучіть або оновіть непідтримувані поля метаданих"
+   },
+   "pixelErrorUnsupportedMetadataRecommendation": {
+      "message": "Непідтримуваний аргумент метаданих: $1. Дійсні аргументи метаданих – agent, automaticMatchingConfig, codeless, trackSingleOnly, cbData.oneTrustId."
+   },
+   "pixelErrorUnsupportedMetadataStep2": {
+      "message": "Виконайте пошук **fbq('set', $1)**"
+   },
+   "pixelErrorUnsupportedMetadataStep3": {
+      "message": "Замініть дійсним аргументом"
+   },
+   "pixelErrorUnverifiedEventCardTitle": {
+      "message": "Перевірте події"
+   },
+   "pixelErrorUnverifiedEventMessage": {
+      "message": "Підтвердьте події в Events Manager"
+   },
+   "pixelErrorUnverifiedEventRecommendation": {
+      "message": "Ви намагаєтеся надіслати непідтверджену подію. Передачу події заблоковано. Відвідайте Events Manager, щоб дізнатися більше."
+   },
+   "pixelErrorUnverifiedEventStep1": {
+      "message": "Перейдіть на вкладку «Діагностика» для набору даних в Events Manager"
+   },
+   "pixelErrorUnverifiedEventStep2": {
+      "message": "Підтвердьте події"
+   },
+   "pixelErrorUnwantedCustomDataCardTitle": {
+      "message": "Вилучіть потенційні порушення"
+   },
+   "pixelErrorUnwantedCustomDataExample": {
+      "message": "Приклад: fbq('track', 'Purchase', {...}) – вилучіть поля ssn, credit_card, password"
+   },
+   "pixelErrorUnwantedCustomDataMessage": {
+      "message": "Вилучіть користувацькі поля даних із потенційними порушеннями"
+   },
+   "pixelErrorUnwantedCustomDataRecommendation": {
+      "message": "Параметри вилучено з користувацьких даних через потенційні порушення. Відкрийте Events Manager для перевірки."
+   },
+   "pixelErrorUnwantedCustomDataStep2": {
+      "message": "Вилучіть пароль або будь-яку фінансову інформацію, перевірте інші типи порушень на вікі-сторінці"
+   },
+   "pixelErrorUnwantedEventNameCardTitle": {
+      "message": "Перегляньте назви подій"
+   },
+   "pixelErrorUnwantedEventNameExample": {
+      "message": "Приклад: неправильні назви подій, як-от 'CreditCardSubmit', 'PasswordEntered', 'SSNCollected'"
+   },
+   "pixelErrorUnwantedEventNameMessage": {
+      "message": "Переконайтеся, що назва події не містить забороненої інформації"
+   },
+   "pixelErrorUnwantedEventNameRecommendation": {
+      "message": "Вашу подію заблоковано через потенційні порушення."
+   },
+   "pixelErrorUnwantedEventNameStep2": {
+      "message": "Виконайте пошук **fbq('track', ...)**"
+   },
+   "pixelErrorUnwantedEventNameStep3": {
+      "message": "Перевірте назву події і переконайтеся, що вона не містить забороненої інформації (пароля, номера соціального страхування, даних кредитної картки тощо)"
+   },
+   "pixelErrorUnwantedUrlDataCardTitle": {
+      "message": "Перегляньте потенційні порушення"
+   },
+   "pixelErrorUnwantedUrlDataExample": {
+      "message": "Приклади\n❌ Неправильні URL-адреси:\nhttps://example.com/checkout?email=user@test.com&ssn=123-45-6789\nhttps://example.com/login?password=secret123&credit_card=4111...\n\n✅ Правильні URL-адреси:\nhttps://example.com/checkout?order_id=12345\nhttps://example.com/login (без конфіденційних параметрів у запиті)"
+   },
+   "pixelErrorUnwantedUrlDataMessage": {
+      "message": "Перевірте дані URL-адрес і переконайтеся, що жодна з них не містить забороненої інформації"
+   },
+   "pixelErrorUnwantedUrlDataRecommendation": {
+      "message": "Параметри запиту URL-адреси вилучено через потенційні порушення."
+   },
+   "pixelErrorUnwantedUrlDataStep2": {
+      "message": "Перевірте URL-адреси (і поточну сторінку (dl), і джерело переходу (rl)), щоб переконатися у відсутності конфіденційної інформації"
+   },
+   "pixelEventCountPlural": {
+      "message": "Подій: $1"
+   },
+   "pixelEventCountSingular": {
+      "message": "$1 подія"
+   },
+   "pixelEventUnnamed": {
+      "message": "Подія (без назви)"
+   },
+   "pixelHeaderPlural": {
+      "message": "Знайдено пікселів на цій сторінці: $1"
+   },
+   "pixelHeaderSingular": {
+      "message": "На цій сторінці знайдено піксель"
+   },
+   "pixelIdLabel": {
+      "message": "ID: $1"
+   },
+   "pixelLoadTime": {
+      "message": "$1 мс"
+   },
+   "pixelMetaPixelTitle": {
+      "message": "Піксель Meta"
+   },
+   "pixelMissingFiresMessage": {
+      "message": "На поточній сторінці пікселі не спрацювали, але вони спрацьовували на інших сторінках цього сайту"
+   },
+   "pixelMissingFiresRecommendation": {
+      "message": "Спробуйте додати на цю сторінку піксель для відстеження подій або переконайтеся, що наявні пікселі працюють належним чином"
+   },
+   "pixelNoEventsRecorded": {
+      "message": "Зареєстрованих подій поки немає"
+   },
+   "pixelNotFiringMessage": {
+      "message": "Піксель $1 установлено, проте останнім часом він не спрацьовував"
+   },
+   "pixelStatusActive": {
+      "message": "Активний"
+   },
+   "pixelStatusAutomaticallyDetected": {
+      "message": "Автоматично виявлено"
+   },
+   "pixelStatusError": {
+      "message": "Помилка"
+   },
+   "pixelStatusEventNotProcessed": {
+      "message": "Подію не оброблено"
+   },
+   "pixelStatusEventReceived": {
+      "message": "Подію отримано"
+   },
+   "pixelStatusInactive": {
+      "message": "Неактивний"
+   },
+   "pixelStatusReceived": {
+      "message": "Отримано"
+   },
+   "pixelStatusSent": {
+      "message": "Подію надіслано"
+   },
+   "pixelStatusWarning": {
+      "message": "Попередження"
+   },
+   "recipeAddMoreFields": {
+      "message": "Додати ще"
+   },
+   "recipeCancelAutomation": {
+      "message": "Скасувати автоматизацію"
+   },
+   "recipeCompleteActionToContinue": {
+      "message": "Виконайте дію, щоб продовжити"
+   },
+   "recipeErrorBackButton": {
+      "message": "Перейти на головну сторінку"
+   },
+   "recipeErrorMessage": {
+      "message": "Нам не вдалося почати автоматизацію через непередбачувану проблему. Перевірте підключення до інтернету й повторіть спробу пізніше."
+   },
+   "recipeErrorTitle": {
+      "message": "Повторіть спробу пізніше."
+   },
+   "recipeFailedStateDescription": {
+      "message": "Під час виконання цієї дії виникла проблема. Щоб продовжити налаштування, виконайте дію вручну."
+   },
+   "recipeFieldIdentifierLabel": {
+      "message": "Ідентифікатор"
+   },
+   "recipeFieldMappingInfoBoxTextLead": {
+      "message": "Щоб продовжити, підтвердьте назву події, час події та виберіть принаймні 1 поле ідентифікатора (рекомендовано ID ліда)."
+   },
+   "recipeFieldMappingInfoBoxTextOpportunity": {
+      "message": "Щоб продовжити, підтвердьте назву події та час події."
+   },
+   "recipeFieldOptionalLabel": {
+      "message": "Необов'язково"
+   },
+   "recipeFieldsDropdownNoResultsFound": {
+      "message": "Нічого не знайдено"
+   },
+   "recipeFieldsEventNameTooltipContent": {
+      "message": "Ця назва зіставляється з лідами у вашій воронці CRM. Надсилайте дані про всі етапи відразу після їх оновлення."
+   },
+   "recipeFieldsEventNameTooltipExample": {
+      "message": "тобто"
+   },
+   "recipeFieldsEventNameTooltipExample1": {
+      "message": "Необроблений лід від Meta"
+   },
+   "recipeFieldsEventNameTooltipExample2": {
+      "message": "Кваліфікований лід"
+   },
+   "recipeFieldsEventNameTooltipExample3": {
+      "message": "Можливість продажів"
+   },
+   "recipeFieldsEventNameTooltipExample4": {
+      "message": "Клієнт"
+   },
+   "recipeFieldsEventNameTooltipLearnMore": {
+      "message": "Докладніше"
+   },
+   "recipeFieldsEventNameTooltipLearnMoreContinued": {
+      "message": "про інтеграцію лідів для конверсій."
+   },
+   "recipeFileABug": {
+      "message": "Повідомити про помилку"
+   },
+   "recipeFileAnotherBug": {
+      "message": "Повідомити про ще одну помилку"
+   },
+   "recipeIntroStartAutomationButton": {
+      "message": "Почати автоматизацію"
+   },
+   "recipeMaibaCallerIndicator": {
+      "message": "Повернутися до MAIBA"
+   },
+   "recipeMarkAsComplete": {
+      "message": "Позначити як виконану"
+   },
+   "recipeMilestoneActionNeededStatus": {
+      "message": "Потрібна дія"
+   },
+   "recipeMilestoneCompleteStatus": {
+      "message": "Виконано"
+   },
+   "recipeMilestoneFailedStatus": {
+      "message": "Помилка"
+   },
+   "recipeMilestoneInProgressStatus": {
+      "message": "Триває"
+   },
+   "recipeMilestonePausedStatus": {
+      "message": "Призупинено"
+   },
+   "recipeMilestoneStepFailedSuffix": {
+      "message": "· Не вдалося виконати крок"
+   },
+   "recipeOpportunityChoiceNo": {
+      "message": "ні"
+   },
+   "recipeOpportunityChoiceYes": {
+      "message": "так"
+   },
+   "recipeOpportunityQuestionDropdownLabel": {
+      "message": "Чи використовуєте ви можливості?"
+   },
+   "recipeOpportunityQuestionInfoText": {
+      "message": "Можливості синхронізують статус угоди Salesforce із Meta, щоб рекламу можна було оптимізувати для реальних результатів у вигляді доходу, а не лише для лідів."
+   },
+   "recipeOpportunityQuestionLearnMore": {
+      "message": "Докладніше"
+   },
+   "recipeOpportunityQuestionNo": {
+      "message": "Ні"
+   },
+   "recipeOpportunityQuestionYes": {
+      "message": "Так"
+   },
+   "recipePause": {
+      "message": "Призупинити"
+   },
+   "recipeResume": {
+      "message": "Відновити"
+   },
+   "recipeRetry": {
+      "message": "Спробувати ще раз"
+   },
+   "recipeReturnToMaiba": {
+      "message": "Повернутися до MAIBA"
+   },
+   "recipeReturnToTab": {
+      "message": "Повернутися на вкладку"
+   },
+   "recipeReturnToTabPrompt": {
+      "message": "Поверніться на вкладку, де працювала ця автоматизація, і натисніть «Продовжити»."
+   },
+   "recipeStepFailed": {
+      "message": "Помилка"
+   },
+   "recipeStepNumber": {
+      "message": "Крок $1"
+   },
+   "recipeStepSkipped": {
+      "message": "Пропущено"
+   },
+   "recipeStepSkippedTooltip": {
+      "message": "Цей крок пропущено, оскільки в ньому більше немає потреби."
+   },
+   "recipeStepUserActionRequired": {
+      "message": "Потрібна дія"
+   },
+   "recipeSummaryHeaderTitle": {
+      "message": "Зведення"
+   },
+   "recipeSwitchToActiveTabHint": {
+      "message": "Натисніть, щоб перейти на активну вкладку й прискорити автоматизацію."
+   },
+   "recipeThanksForFeedback": {
+      "message": "Дякуємо за відгук"
+   },
+   "recipeVerifying": {
+      "message": "Перевірка…"
+   },
+   "recipeViewInEventsManager": {
+      "message": "Переглянути в Events Manager"
+   },
+   "recipeViewReport": {
+      "message": "Переглянути зведення автоматизації"
+   },
+   "recipeWpAdminUrlInfoText": {
+      "message": "Нам не вдалося автоматично визначити URL-адресу адміністратора WordPress. Введіть повну URL-адресу вашої інформаційної панелі адміністратора WordPress, щоб ми могли продовжити налаштування."
+   },
+   "recipeWpAdminUrlInputLabel": {
+      "message": "Введіть URL-адресу адміністратора WordPress (наприклад, https://yoursite.com/wp-admin/)"
+   },
+   "recipeYourActionIsRequired": {
+      "message": "Необхідно вжити заходів"
+   },
+   "remove": {
+      "message": "Вилучити"
+   },
+   "remove_asset_button_label": {
+      "message": "Вилучити цей ресурс"
+   },
+   "remove_asset_button_required_label": {
+      "message": "Цей ресурс обов’язковий, його не можна вилучити"
+   },
+   "reportAiGenerated": {
+      "message": "Згенеровано ШІ"
+   },
+   "reportAutomationCountPlural": {
+      "message": "Автоматизації: $1"
+   },
+   "reportAutomationCountSingular": {
+      "message": "Автоматизація: $1"
+   },
+   "reportAutomationPanelDescription": {
+      "message": "Перегляньте статус, часову шкалу та дії, виконані під час автоматизації."
+   },
+   "reportAutomationSummaryDescription": {
+      "message": "Детальний огляд вашого досвіду взаємодії з автоматизацією. З міркувань конфіденційності ця інформація не зберігатиметься на нашій платформі."
+   },
+   "reportAutomationSummaryTitle": {
+      "message": "Зведення автоматизації"
+   },
+   "reportCapturedDuringEmSelection": {
+      "message": "Вибір в Events Manager"
+   },
+   "reportCapturedDuringGaSetup": {
+      "message": "Налаштування Google Analytics"
+   },
+   "reportCapturedDuringGtmSetup": {
+      "message": "Налаштування GTM"
+   },
+   "reportCapturedDuringSfWebhook": {
+      "message": "Інтеграція Salesforce Webhooks"
+   },
+   "reportCapturedIdsCreatedDuringSession": {
+      "message": "Створено під час вашого сеансу"
+   },
+   "reportCapturedIdsDescription": {
+      "message": "Під час автоматизації отримано доступ до наведених нижче ідентифікаторів."
+   },
+   "reportCapturedIdsEmpty": {
+      "message": "Під час цієї автоматизації не було отримано доступ до ідентифікаторів."
+   },
+   "reportCapturedIdsExisting": {
+      "message": "Наявні"
+   },
+   "reportCapturedIdsHeading": {
+      "message": "Використані ідентифікатори"
+   },
+   "reportClickToCopy": {
+      "message": "Натисніть, щоб скопіювати"
+   },
+   "reportCopied": {
+      "message": "Скопійовано"
+   },
+   "reportCopyAll": {
+      "message": "Копіювати все"
+   },
+   "reportDomainEventsManager": {
+      "message": "Events Manager"
+   },
+   "reportDomainGoogleAnalytics": {
+      "message": "Google Analytics"
+   },
+   "reportDomainGoogleTagManager": {
+      "message": "Менеджер тегів Google"
+   },
+   "reportDomainSalesforce": {
+      "message": "Salesforce"
+   },
+   "reportDomainStape": {
+      "message": "Stape"
+   },
+   "reportExportPdf": {
+      "message": "Експортувати зведення як файл PDF"
+   },
+   "reportExportPdfNote": {
+      "message": "Експорт може тривати до 45 с."
+   },
+   "reportFlowAutomationName": {
+      "message": "Сценарій автоматизації"
+   },
+   "reportFlowSummaryDescription": {
+      "message": "Перегляньте статуси, часову шкалу та дії, виконані в межах усіх автоматизацій у цьому сценарії."
+   },
+   "reportFlowSummaryHeading": {
+      "message": "Зведення сценарію"
+   },
+   "reportIdCountPlural": {
+      "message": "Ідентифікатори: $1"
+   },
+   "reportIdCountSingular": {
+      "message": "Ідентифікатор: $1"
+   },
+   "reportIdLabelAdAccountId": {
+      "message": "Ідентифікатор рекламного облікового запису"
+   },
+   "reportIdLabelBusinessId": {
+      "message": "Ідентифікатор компанії"
+   },
+   "reportIdLabelCustom": {
+      "message": "Користувацький ідентифікатор"
+   },
+   "reportIdLabelDatasetId": {
+      "message": "Ідентифікатор набору даних"
+   },
+   "reportIdLabelGaMeasurementId": {
+      "message": "Ідентифікатор вимірювання Google Analytics"
+   },
+   "reportIdLabelGtmAccountId": {
+      "message": "Назва облікового запису Менеджера тегів Google"
+   },
+   "reportIdLabelGtmContainerId": {
+      "message": "Ідентифікатор контейнера Менеджера тегів Google"
+   },
+   "reportIdLabelGtmServerContainerName": {
+      "message": "Серверний контейнер Менеджера тегів Google"
+   },
+   "reportIdLabelGtmWebContainerName": {
+      "message": "Вебконтейнер Менеджера тегів Google"
+   },
+   "reportIdLabelSgwDataPlaneUrl": {
+      "message": "URL-адреса Data Plane для Signals Gateway"
+   },
+   "reportIdLabelSgwPixelId": {
+      "message": "ID набору даних Signals Gateway"
+   },
+   "reportIdLabelWebhookIntegrationId": {
+      "message": "Ідентифікатор інтеграції Webhooks"
+   },
+   "reportIdLabelWebhookUrl": {
+      "message": "URL-адреса Webhooks"
+   },
+   "reportInProgress": {
+      "message": "Виконується"
+   },
+   "reportKeyScreenshotEndOfAutomation": {
+      "message": "Завершення автоматизації"
+   },
+   "reportKeyScreenshotFinalState": {
+      "message": "Фінальний стан автоматизації"
+   },
+   "reportLabelActionsTaken": {
+      "message": "Виконані дії"
+   },
+   "reportLabelAutomations": {
+      "message": "Автоматизації"
+   },
+   "reportLabelDuration": {
+      "message": "Тривалість"
+   },
+   "reportLabelStatus": {
+      "message": "Статус"
+   },
+   "reportLabelTimeline": {
+      "message": "Часова шкала"
+   },
+   "reportMilestoneComplete": {
+      "message": "Виконано"
+   },
+   "reportNavHowWeUseData": {
+      "message": "Як ми використовуємо ваші дані"
+   },
+   "reportNavIdsAccessed": {
+      "message": "Використані ідентифікатори"
+   },
+   "reportNavPagesVisited": {
+      "message": "Відвідані сторінки й домени"
+   },
+   "reportNavPrivacySecurity": {
+      "message": "Конфіденційність і безпека"
+   },
+   "reportNavSummary": {
+      "message": "Зведення"
+   },
+   "reportOverviewCapiGatewayDescription": {
+      "message": "У межах цієї автоматизації було налаштовано шлюз API Conversions для відстеження подій на стороні сервера. Шлюз надсилає дані про події безпосередньо з вашого сервера до Meta, що покращує надійність даних і якість зіставлення."
+   },
+   "reportOverviewCapiGatewayTitle": {
+      "message": "Налаштування шлюзу API Conversions"
+   },
+   "reportOverviewDefaultDescription": {
+      "message": "У цьому звіті підсумовано дії, виконані в процесі автоматизації."
+   },
+   "reportOverviewDefaultTitle": {
+      "message": "Автоматизацію завершено"
+   },
+   "reportOverviewGtmServerDescription": {
+      "message": "У межах цієї автоматизації налаштовано додавання тегів на стороні сервера через Менеджер тегів Google. Додавання тегів на стороні сервера покращує якість даних, результативність сайту та конфіденційність користувачів завдяки обробці тегів на сервері, а не в браузері."
+   },
+   "reportOverviewGtmServerTitle": {
+      "message": "Налаштування Менеджера тегів Google на стороні сервера"
+   },
+   "reportOverviewGtmWebDescription": {
+      "message": "У межах цієї автоматизації створено вебконтейнер Менеджера тегів Google і налаштовано його для вашого сайту. Контейнер дозволяє керувати маркетинговими тегами, аналітикою та пікселями відстеження без зміни коду сайту."
+   },
+   "reportOverviewGtmWebTitle": {
+      "message": "Налаштування вебконтейнера Менеджера тегів Google"
+   },
+   "reportOverviewMetaPixelDescription": {
+      "message": "У межах цієї автоматизації було встановлено та підтверджено піксель Meta на вашому сайті. Піксель відстежує дії відвідувачів, щоб допомогти вам вимірювати ефективність реклами, створювати аудиторії та оптимізувати показ оголошень."
+   },
+   "reportOverviewMetaPixelTitle": {
+      "message": "Встановлення пікселя Meta"
+   },
+   "reportOverviewSalesforceDescription": {
+      "message": "У межах цієї автоматизації було налаштовано Webhooks Meta CRM-CAPI у вашому екземплярі Salesforce. Інтеграція Webhooks надсилає події CRM із Salesforce безпосередньо до Meta, що забезпечує краще таргетування та вимірювання реклами завдяки обміну подіями на стороні сервера."
+   },
+   "reportOverviewSalesforceTitle": {
+      "message": "Налаштування Webhooks CRM-CAPI Salesforce"
+   },
+   "reportPagesDescription": {
+      "message": "Під час автоматизації було відвідано наведені нижче сторінки."
+   },
+   "reportPagesDescriptionShort": {
+      "message": "Під час автоматизації було відвідано наведені нижче сторінки."
+   },
+   "reportPagesEmpty": {
+      "message": "Під час цієї автоматизації не було відвідано жодної сторінки."
+   },
+   "reportPagesHeading": {
+      "message": "Відвідані сторінки й домени"
+   },
+   "reportRecipeNameGaCreateAccount": {
+      "message": "Створити обліковий запис Google Analytics"
+   },
+   "reportRecipeNameGtmCreateAccount": {
+      "message": "Створити обліковий запис GTM"
+   },
+   "reportRecipeNameGtmProvisionServer": {
+      "message": "Підготувати серверний контейнер GTM"
+   },
+   "reportRecipeNameInstallFacebookForWoocommerce": {
+      "message": "Установити Facebook для WooCommerce"
+   },
+   "reportRecipeNameSalesforceWebhook": {
+      "message": "Налаштувати Webhook для CRM Salesforce"
+   },
+   "reportRecipeNameSgwGtmSetup": {
+      "message": "Налаштувати Signals Gateway за допомогою GTM"
+   },
+   "reportRecipeNameShopifyProductSync": {
+      "message": "Синхронізувати товари із Shopify"
+   },
+   "reportRecipeNameUpdateFacebookForWoocommerce": {
+      "message": "Оновити Facebook для WooCommerce"
+   },
+   "reportStatusFailed": {
+      "message": "Помилка"
+   },
+   "reportStatusSetupIncomplete": {
+      "message": "Налаштування не завершено"
+   },
+   "reportStatusSuccess": {
+      "message": "Готово"
+   },
+   "reportSummaryDescription": {
+      "message": "Перегляньте статуси, часову шкалу та дії, виконані під час автоматизації."
+   },
+   "reportSummaryFailureDescription": {
+      "message": "Автоматизацію не завершено. Перегляньте часову шкалу та всі ресурси, створені до помилки."
+   },
+   "reportSummaryHeading": {
+      "message": "Зведення"
+   },
+   "reportTimelineStarted": {
+      "message": "Почато: $1"
+   },
+   "reportTitleFailure": {
+      "message": "Помилка автоматизації: $1"
+   },
+   "reportTitleFlow": {
+      "message": "Зведення сценарію автоматизації"
+   },
+   "reportTitleSuccess": {
+      "message": "Зведення автоматизації: $1"
+   },
+   "required": {
+      "message": "Обов’язково"
+   },
+   "resolutionStepAddingMissingEventsTitle": {
+      "message": "Додавання відсутніх подій"
+   },
+   "resolutionStepClickToCopy": {
+      "message": "Натисніть, щоб скопіювати"
+   },
+   "resolutionStepConfirmNewEvents": {
+      "message": "Підтвердьте нові події"
+   },
+   "resolutionStepEnableAAMEventsTitle": {
+      "message": "Увімкнення автоматичного розширеного пошуку збігів"
+   },
+   "resolutionStepEnableMAMEventsTitle": {
+      "message": "Налаштування ручного розширеного пошуку збігів"
+   },
+   "resolutionStepInvalidValueCurrencyTitle": {
+      "message": "Оновлення вартості й валюти"
+   },
+   "resolutionStepLeaveTabOpen": {
+      "message": "Не закривайте цю вкладку"
+   },
+   "resolutionStepOpenEventSetupTool": {
+      "message": "Відкрийте інструмент налаштування подій для свого сайту"
+   },
+   "resolutionStepOpenWebsiteCode": {
+      "message": "Відкрийте код сайту."
+   },
+   "resolutionStepSearchFbqInit": {
+      "message": "Почніть шукати **fbq('init'...)**, щоб знайти місця, де використовується піксель Meta."
+   },
+   "resolutionStepSearchFbqTrackPurchase": {
+      "message": "Знайдіть подію «Покупка», яку відстежує ваш піксель."
+   },
+   "resolutionStepUpdateCodeBlock": {
+      "message": "Додайте в блок коду дані про розширений пошук збігів нижче як третій параметр."
+   },
+   "resolutionStepUpdateCurrencyField": {
+      "message": "Оновіть поле «Валюта»."
+   },
+   "resolutionStepUpdateValueField": {
+      "message": "Оновіть поле «Вартість»."
+   },
+   "resolutionStepUserActionRequired": {
+      "message": "Необхідні дії користувача"
+   },
+   "resolutionStepValueFieldInformation": {
+      "message": "Інформація про поле «Вартість»:"
+   },
+   "resolutionStepValueFieldRequirement1": {
+      "message": "Значення має бути числом, більшим за 0"
+   },
+   "resolutionStepValueFieldRequirement2": {
+      "message": "Може містити десяткову крапку. Наприклад, 9.99 або 9."
+   },
+   "resolutionStepValueFieldRequirement3": {
+      "message": "Не використовуйте додаткові цифри, спеціальні символи або знаки в параметрі валюти."
+   },
+   "resolutionStepsDefault": {
+      "message": "Кроки з вирішення проблеми"
+   },
+   "reviewSuggestionsEmpty": {
+      "message": "Наразі немає рекомендованих подій."
+   },
+   "reviewSuggestionsIneligible": {
+      "message": "Рекомендовані події ще недоступні для цього пікселя."
+   },
+   "reviewSuggestionsLoading": {
+      "message": "Завантаження рекомендованих подій…"
+   },
+   "ruleOperator_eq": {
+      "message": "дорівнює"
+   },
+   "ruleOperator_gt": {
+      "message": "більше ніж"
+   },
+   "ruleOperator_gte": {
+      "message": "більше або дорівнює"
+   },
+   "ruleOperator_i_contains": {
+      "message": "містить"
+   },
+   "ruleOperator_i_greater_than_or_equal": {
+      "message": "більше або дорівнює"
+   },
+   "ruleOperator_i_is_any": {
+      "message": "має будь-яке із цих значень"
+   },
+   "ruleOperator_i_less_than_or_equal": {
+      "message": "менше або дорівнює"
+   },
+   "ruleOperator_i_not_contains": {
+      "message": "не містить"
+   },
+   "ruleOperator_lt": {
+      "message": "менше ніж"
+   },
+   "ruleOperator_lte": {
+      "message": "менше або дорівнює"
+   },
+   "ruleOperator_neq": {
+      "message": "не дорівнює"
+   },
+   "ruleOperator_or": {
+      "message": "або"
+   },
+   "ruleOperator_regex_match": {
+      "message": "збігається з"
+   },
+   "screenshotGalleryDisclaimer": {
+      "message": "Знімки екрана зберігаються лише на вашому пристрої і видаляються після завершення сеансу."
+   },
+   "screenshotGalleryTimeDaysAgo": {
+      "message": "$1 дн. тому"
+   },
+   "screenshotGalleryTimeHoursAgo": {
+      "message": "$1 год тому"
+   },
+   "screenshotGalleryTimeJustNow": {
+      "message": "щойно"
+   },
+   "screenshotGalleryTimeMinutesAgo": {
+      "message": "$1 хв тому"
+   },
+   "selector_no_options_available": {
+      "message": "Немає доступних варіантів"
+   },
+   "selector_no_results_found": {
+      "message": "Нічого не знайдено"
+   },
+   "selector_select_placeholder": {
+      "message": "-- Виберіть --"
+   },
+   "server_container_creation_title": {
+      "message": "Серверний контейнер"
+   },
+   "server_container_name_label": {
+      "message": "Назва контейнера"
+   },
+   "server_container_tagging_url_label": {
+      "message": "URL-адреса сервера для додавання тегів"
+   },
+   "settingsDescription": {
+      "message": "Легко налаштовуйте піксель Meta й оптимізуйте його роботу для досягнення цілей."
+   },
+   "settingsErrorOccurred": {
+      "message": "Сталася помилка"
+   },
+   "settingsOverlayNotificationsDescription": {
+      "message": "Показувати контекстні сповіщення поверх сторінок із вашими пікселями"
+   },
+   "settingsOverlayNotificationsTitle": {
+      "message": "Накладені сповіщення"
+   },
+   "settingsTitle": {
+      "message": "Налаштування"
+   },
+   "settingsWaitSpeedFast": {
+      "message": "Великий"
+   },
+   "settingsWaitSpeedFastDescription": {
+      "message": "Менше 1 секунди"
+   },
+   "settingsWaitSpeedMedium": {
+      "message": "Середній"
+   },
+   "settingsWaitSpeedMediumDescription": {
+      "message": "2–3 секунди"
+   },
+   "settingsWaitSpeedSlow": {
+      "message": "Малий"
+   },
+   "settingsWaitSpeedSlowDescription": {
+      "message": "Більше 5 секунд"
+   },
+   "settingsWaitTimeBetweenActionsTitle": {
+      "message": "Інтервал між діями"
+   },
+   "setupAddingAllEventsLabel": {
+      "message": "Додавання всіх подій"
+   },
+   "setupAddingPixelEventsCardTitle": {
+      "message": "Додавання подій пікселя"
+   },
+   "setupComplete": {
+      "message": "Налаштування завершено"
+   },
+   "setupDetailsHeader": {
+      "message": "Деталі налаштування"
+   },
+   "setupDetailsInfoTooltip": {
+      "message": "Після запуску автоматизації буде виконано наступні кроки."
+   },
+   "setupHowItWorksDescription": {
+      "message": "Meta AI сканує ваш сайт, визначає ключові події конверсії (як-от «Купівлі», «Додавання в кошик» або «Ліди») і автоматично додає їх як події пікселя – без написання коду."
+   },
+   "setupHowItWorksLabel": {
+      "message": "Як це працює"
+   },
+   "setupPixelEventsAddedHeader": {
+      "message": "Події пікселя додано"
+   },
+   "setupPixelEventsAddedSubtitle": {
+      "message": "Тепер можна розслабитися й спостерігати, як покращується результативність вашої кампанії."
+   },
+   "setupPixelEventsHeader": {
+      "message": "Налаштування подій пікселя"
+   },
+   "setupReturnToPreviousPage": {
+      "message": "Повернутися на попередню сторінку"
+   },
+   "setup_failed": {
+      "message": "Не вдалося налаштувати"
+   },
+   "setup_requirements": {
+      "message": "Вимоги до налаштування"
+   },
+   "shopifyProductSyncIntroStep1SubA": {
+      "message": "Відкрийте сторінку входу адміністратора Shopify"
+   },
+   "shopifyProductSyncIntroStep1SubB": {
+      "message": "Увійдіть в обліковий запис адміністратора Shopify вашого магазину"
+   },
+   "shopifyProductSyncIntroStep1Title": {
+      "message": "Увійдіть в обліковий запис адміністратора Shopify"
+   },
+   "shopifyProductSyncIntroStep2SubA": {
+      "message": "Натисніть **Товари**"
+   },
+   "shopifyProductSyncIntroStep2SubB": {
+      "message": "Натисніть на вкладку **Всі**"
+   },
+   "shopifyProductSyncIntroStep2SubC": {
+      "message": "Виберіть усі товари"
+   },
+   "shopifyProductSyncIntroStep2Title": {
+      "message": "Ідентифікуйте товари"
+   },
+   "shopifyProductSyncIntroStep3SubA": {
+      "message": "Натисніть **Інші параметри**"
+   },
+   "shopifyProductSyncIntroStep3SubB": {
+      "message": "Натисніть **Включити до каналів продажів**"
+   },
+   "shopifyProductSyncIntroStep3SubC": {
+      "message": "Виберіть **Facebook і Instagram**"
+   },
+   "shopifyProductSyncIntroStep3SubD": {
+      "message": "Натисніть **Включити товари**"
+   },
+   "shopifyProductSyncIntroStep3Title": {
+      "message": "Включіть товари"
+   },
+   "showAllEvents": {
+      "message": "Показати всі події"
+   },
+   "showAllPixels": {
+      "message": "Показати всі пікселі"
+   },
+   "showAllWarnings": {
+      "message": "Показати всі попередження"
+   },
+   "showLess": {
+      "message": "Показати менше"
+   },
+   "showLessEvents": {
+      "message": "Показати менше подій"
+   },
+   "showMore": {
+      "message": "Показати більше"
+   },
+   "stepResumeTooltip": {
+      "message": "Перш ніж продовжувати, переконайтеся, що ви виконали вказану вище дію вручну."
+   },
+   "suggestionButtonTextLabel": {
+      "message": "Текст кнопки: «$1»"
+   },
+   "suggestionExampleUrlsLabel": {
+      "message": "Приклади URL-адрес: $1"
+   },
+   "switcherCatalogSingular": {
+      "message": "Каталоги: $1"
+   },
+   "switcherCatalogsPlural": {
+      "message": "Каталоги: $1"
+   },
+   "switcherPixelsPlural": {
+      "message": "Пікселі: $1"
+   },
+   "switcherPixelsSingular": {
+      "message": "Пікселі: $1"
+   },
+   "testEventsHeader": {
+      "message": "Тестування подій"
+   },
+   "topActionsSectionHeader": {
+      "message": "Ваші найпопулярніші дії"
+   },
+   "topActionsSectionSubHeader": {
+      "message": "На основі вашої конфігурації"
+   },
+   "triggerEventDetection": {
+      "message": "Виявити рекомендовані події"
+   },
+   "useMetaEventSetupToolForWeb": {
+      "message": "Використання інструмента налаштування подій Meta для сайтів"
+   },
+   "verificationFailedCancelButton": {
+      "message": "Скасувати автоматизацію"
+   },
+   "verificationFailedMessage": {
+      "message": "Нам не вдалося визначити статус цієї дії. Якщо помилка не зникне, ви можете скасувати автоматизацію і продовжити налаштування вручну."
+   },
+   "verificationFailedTitle": {
+      "message": "Повторіть спробу"
+   },
+   "verificationFailedTryAgainButton": {
+      "message": "Повторити спробу"
+   },
+   "verificationInProgressMessage": {
+      "message": "Перевірка виконання дії"
+   },
+   "warningsHeader": {
+      "message": "Попередження"
+   },
+   "web_container_creation_title": {
+      "message": "Вебконтейнер"
+   },
+   "web_container_name_label": {
+      "message": "Назва контейнера"
+   },
+   "what_we_will_create_title": {
+      "message": "Що ми створимо для вас"
+   },
+   "wooCommerceIntroSetUpForMeButton": {
+      "message": "Налаштувати для мене"
+   },
+   "wooCommerceIntroStep1SubA": {
+      "message": "Відкрийте панель адміністратора WordPress"
+   },
+   "wooCommerceIntroStep1SubB": {
+      "message": "Увійдіть у свій обліковий запис WordPress"
+   },
+   "wooCommerceIntroStep1Title": {
+      "message": "Увійдіть у WordPress"
+   },
+   "wooCommerceIntroStep2SubA": {
+      "message": "На панелі ліворуч виберіть **Plugins (Плагіни)**, а потім – **Add Plugins (Додати плагіни)**"
+   },
+   "wooCommerceIntroStep2SubB": {
+      "message": "Натисніть **Додати плагін**"
+   },
+   "wooCommerceIntroStep2SubC": {
+      "message": "Перейдіть до панелі пошуку вгорі сторінки"
+   },
+   "wooCommerceIntroStep2SubD": {
+      "message": "Виконайте пошук плагіна Meta for WooCommerce"
+   },
+   "wooCommerceIntroStep2SubE": {
+      "message": "Прокрутіть до плагіна Meta for WooCommerce і натисніть **Install Now (Установити)**"
+   },
+   "wooCommerceIntroStep2Title": {
+      "message": "Установіть плагін"
+   },
+   "wooCommerceIntroStep3SubA": {
+      "message": "Установивши Meta for WooCommerce, натисніть **Activate (Активувати)**"
+   },
+   "wooCommerceIntroStep3SubB": {
+      "message": "Перейдіть на сторінку **Plugins (Плагіни)** на панелі ліворуч"
+   },
+   "wooCommerceIntroStep3SubC": {
+      "message": "Прокрутіть до плагіна Meta for WooCommerce і натисніть **Configure (Налаштувати)**"
+   },
+   "wooCommerceIntroStep3SubD": {
+      "message": "На екрані конфігурації натисніть **Get started (Почати)**"
+   },
+   "wooCommerceIntroStep3Title": {
+      "message": "Активуйте плагін"
+   },
+   "wooCommerceUpdateIntroStep2SubA": {
+      "message": "Відкрийте сторінку додавання плагінів"
+   },
+   "wooCommerceUpdateIntroStep2SubB": {
+      "message": "Прокрутіть до плагіна Meta for WooCommerce"
+   },
+   "wooCommerceUpdateIntroStep2SubC": {
+      "message": "Натисніть **Оновити**"
+   },
+   "wooCommerceUpdateIntroStep2Title": {
+      "message": "Оновіть плагін"
+   }
+}

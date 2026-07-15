@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Buy Now | M Stitch</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="var.css" />
+  <!-- Meta Pixel Code -->
+  <script>
+    !function (f, b, e, v, n, t, s) {
+      if (f.fbq) return; n = f.fbq = function () {
+        n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+      };
+      if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+      n.queue = []; t = b.createElement(e); t.async = !0;
+      t.src = v; s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1045310841180095');
+    fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=1045310841180095&ev=PageView&noscript=1" /></noscript>
+  <!-- End Meta Pixel Code -->
+</head>
+
+<body>
+  <nav>
+    <div class="nav_logo">
+      <div class="logo"><a href="index.html">M Stitch</a></div>
+    </div>
+    <div class="nav_links">
+      <a href="index.html" class="nav_link_item">Home</a><a href="about_us.html" class="nav_link_item">About Us</a><a
+        href="contact_us.html" class="nav_link_item">Contact Us</a>
+      <button type="button" class="nav_link_item cart-toggle-btn">Cart <span class="cart-count">0</span></button>
+    </div>
+  </nav>
+  <div id="cart-overlay"></div>
+  <aside id="cart-drawer" class="cart-drawer" aria-hidden="true"></aside>
+  <main>
+    <div id="buy-detail"></div>
+  </main>
+  <footer>
+    <div class="footer_logo">
+      MS
+      <p>
+        M Stitch presents, high quality, Hand Designed, Professionally tailored, Affordable, Durable Outfits for Office,
+        University, Casual and formal wear.Learn more about us on our Facebook, Instagram accounts.
+      </p>
+    </div>
+    <div class="footer_link">
+      <p>Learn more about us on</p>
+      <a href="https://www.instagram.com/m_stitchh/" target="_blank" class="footer_links"><img src="content/ig.png"
+          alt="Instagram" /></a>
+      <a href="https://wa.me/923234359130" target="_blank" class="footer_links"><img src="content/wap.png"
+          alt="Instagram" /></a>
+      <a href="https://www.youtube.com/@MStitch-s6z" target="_blank" class="footer_links"><img src="content/yt.png"
+          alt="Instagram" /></a>
+      <a href="https://www.facebook.com/p/M-Stitch-clothing-brand-61577752810818/" target="_blank"
+        class="footer_links"><img src="content/fb.png" alt="facebook" /></a>
+      <a href="https://www.facebook.com/p/M-Stitch-clothing-brand-61577752810818/" target="_blank"
+        class="footer_links"><img src="content/tik-tok.png" alt="facebook" /></a>
+    </div>
+    <!-- <div class="policies">
+        <a href="privacy_policy.html">Privacy Policy</a>
+        <a href="terms_and_conditions.html">Terms & Conditions</a>
+        <a href="return_policy.html">Return Policy</a>
+      </div> -->
+  </footer>
+  <script src="products.js"></script>
+  <script src="script.js"></script>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const cartMode = params.get("cart") === "1";
+    const productId = parseInt(params.get("id"));
+    const selectedProduct = products.find((p) => p.id === productId);
+    const buyDiv = document.getElementById("buy-detail");
+
+    function getCheckoutItems() {
+      if (cartMode) {
+        return getCartItems();
+      }
+
+      return selectedProduct ? [{ ...selectedProduct, quantity: 1 }] : [];
+    }
+
+    const checkoutItems = getCheckoutItems();
+    const subtotal = getCartSubtotal(checkoutItems);
+    const delivery = getCartDelivery(checkoutItems);
+    const total = getCartTotal(checkoutItems);
+    const fmt = new Intl.NumberFormat("en-PK");
+
+    if (checkoutItems.length > 0) {
+      const itemSummary = checkoutItems
+        .map((item) => {
+          const quantity = item.quantity || 1;
+          return `<div class="receipt-row"><span class="label">${item.name} × ${quantity}</span><span class="value">${item.price}</span></div>`;
+        })
+        .join("");
+
+      buyDiv.innerHTML = `
+        <h2>${cartMode ? "Complete your order" : `Buy: ${selectedProduct.name}`}</h2>
+        ${selectedProduct ? `<img src="${selectedProduct.image}" loading="lazy" id="buy_immg" alt="${selectedProduct.name}">` : ""}
+        <div class="receipt" aria-label="Receipt">
+          <h3>Receipt</h3>
+          ${itemSummary}
+          <div class="receipt-row"><span class="label">Subtotal</span><span class="value">${formatPrice(subtotal)}</span></div>
+          <div class="receipt-row"><span class="label">Delivery</span><span class="value">${formatPrice(delivery)}</span></div>
+          <div class="receipt-row total"><span class="label">Total</span><span class="value">${formatPrice(total)}</span></div>
+        </div>
+        <form action="https://script.google.com/macros/s/AKfycbzzpgLyssT8CJk_6rVxljG3_2whQHIpA5iLL27oqJUhF_Te48x4TKh9U33Yz45B83sMgg/exec" method="POST" id="order-form">
+          <input type="hidden" name="cart_mode" value="${cartMode ? 1 : 0}">
+          <input type="hidden" name="cart_items" value='${JSON.stringify(checkoutItems)}'>
+          <input type="hidden" name="order_subtotal" value="${subtotal}">
+          <input type="hidden" name="delivery_charge" value="${delivery}">
+          <input type="hidden" name="order_total" value="${total}">
+          ${selectedProduct ? `<input type="hidden" name="product_id" value="${selectedProduct.id}">` : ""}
+          ${selectedProduct ? `<input type="hidden" name="product_name" value="${selectedProduct.name}">` : ""}
+          ${selectedProduct ? `<input type="hidden" name="product_price" value="${selectedProduct.price}">` : ""}
+          <input type="hidden" name="payment_currency" value="PKR">
+          ${selectedProduct ? `
+            <div class="size-section">
+              <span>Select Size:</span>
+              <label><input type="radio" name="size" value="S" required /> Small (S)</label>
+              <label><input type="radio" name="size" value="M" /> Medium (M)</label>
+              <label><input type="radio" name="size" value="L" /> Large (L)</label>
+              ${selectedProduct.allowCustomSize === false ? "" : `<label><input type="radio" name="size" value="Custom" /><a href="https://wa.me/923234359130" style="text-decoration:none; color:hsl(0, 0%, 10%);">Want to get this outfit in my size.</a></label>`}
+            </div>
+            <div class="size-chart-section" style="margin-top:12px; margin-bottom:12px;">
+              <button type="button" id="toggleSizeChart" style="background:none;border:none;color:#4caf50;font-weight:600;font-size:20px;cursor:pointer;padding:0;">Show Size Chart:</button>
+              <div id="sizeChartWrapper" style="display:none;margin-top:10px;padding:20px;">
+                <img src="${selectedProduct.sizeChartImage}" alt="Size Chart" loading="lazy" class="sz-chart" />
+              </div>
+            </div>
+          ` : ""}
+          <input type="text" name="customer_name" placeholder="Your Name" required>
+          <input type="text" name="address" placeholder="Address" required>
+          <input type="text" name="province" placeholder="Province" required>
+          <input type="text" name="city" placeholder="City" required>
+          <input type="tel" name="phone" pattern="[0-9]{11}" placeholder="Contact Number" required>
+          <input type="email" name="email" placeholder="Email" required>
+          <button type="submit" class="buy-now-btn">Place Order</button>
+        </form>
+        <div id="form-message" style="margin-top: 10px; color: green;"></div>
+      `;
+    } else {
+      buyDiv.innerHTML = "<p>Product not found.</p>";
+    }
+
+    document.addEventListener("submit", function (e) {
+      if (e.target.id === "order-form") {
+        e.preventDefault();
+        const form = e.target;
+        const btn = form.querySelector(".buy-now-btn");
+        btn.disabled = true;
+        btn.textContent = "Placing Order...";
+        fetch(form.action, {
+          method: "POST",
+          body: new FormData(form),
+        })
+          .then((response) => {
+            if (response.ok) {
+              document.getElementById("form-message").textContent =
+                "✅ Order placed successfully! Check the email provided for more details.";
+              form.reset();
+              btn.textContent = "Order Placed";
+              if (cartMode) {
+                clearCart();
+              }
+              showOrderPopup();
+
+              if (selectedProduct) {
+                fbq("track", "Purchase", {
+                  content_ids: [selectedProduct.id.toString()],
+                  content_type: "product",
+                  value: numericPrice(selectedProduct.price),
+                  currency: "PKR",
+                });
+              }
+            } else {
+              throw new Error("Network response was not ok.");
+            }
+          })
+          .catch(() => {
+            document.getElementById("form-message").textContent =
+              "✅ Order placed successfully! Check the email provided for more details.";
+            showOrderPopup();
+          });
+      }
+    });
+
+    function showOrderPopup() {
+      const popup = document.createElement("div");
+      popup.style.position = "fixed";
+      popup.style.top = "50%";
+      popup.style.left = "50%";
+      popup.style.transform = "translate(-50%, -50%)";
+      popup.style.background = "#fff";
+      popup.style.color = "#222";
+      popup.style.padding = "32px 24px";
+      popup.style.borderRadius = "16px";
+      popup.style.boxShadow = "0 4px 32px -8px #4caf50";
+      popup.style.zIndex = "9999";
+      popup.style.fontSize = "1.3rem";
+      popup.style.textAlign = "center";
+      popup.innerHTML = `
+        <div style="font-size:2.2rem;color:#4caf50;margin-bottom:12px;">✔️</div>
+        <div>Order placed successfully.<br>We'll contact you soon for more details.</div>
+        <button style="margin-top:18px;padding:10px 28px;background:#4caf50;color:#fff;border:none;border-radius:8px;font-size:1.1rem;cursor:pointer;" onclick="this.parentElement.remove()">OK</button>
+      `;
+      document.body.appendChild(popup);
+    }
+
+    document.addEventListener("click", function (e) {
+      if (e.target.id === "toggleSizeChart") {
+        const chart = document.getElementById("sizeChartWrapper");
+        const btn = e.target;
+
+        if (chart.style.display === "none") {
+          chart.style.display = "block";
+          btn.textContent = "Hide Size Chart";
+        } else {
+          chart.style.display = "none";
+          btn.textContent = "Show Size Chart";
+        }
+      }
+    });
+  </script>
+  <a href="https://wa.me/923234359130" class="whatsapp-float-button" aria-label="WhatsApp"><img src="content/wap.png" alt="WhatsApp" /></a>
+</body>
+
+</html>

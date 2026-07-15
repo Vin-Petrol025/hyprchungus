@@ -1,0 +1,251 @@
+Page Title: M Stitch | Where Quality Meets Affordability.
+URL: http://127.0.0.1:8000/index.html
+Snapshot: 
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "M Stitch" [ref=e5] [cursor=pointer]:
+      - /url: index.html
+    - generic [ref=e6]:
+      - link "Home" [ref=e7] [cursor=pointer]:
+        - /url: index.html
+      - link "About Us" [ref=e8] [cursor=pointer]:
+        - /url: about_us.html
+      - link "Contact Us" [ref=e9] [cursor=pointer]:
+        - /url: contact_us.html
+      - button "Cart 0" [ref=e10] [cursor=pointer]
+  - complementary [ref=e11]:
+    - generic [ref=e12]:
+      - heading [level=3] [ref=e13]: Your cart
+      - button [ref=e14] [cursor=pointer]: ×
+    - generic [ref=e15]: Your cart is empty.
+  - generic [ref=e17]:
+    - heading "Welcome to M Stitch" [level=1] [ref=e18]
+    - paragraph [ref=e19]: Where Quality Meets Affordability.
+    - link "Shop Now" [ref=e20] [cursor=pointer]:
+      - /url: index.html
+  - main [ref=e21]:
+    - generic [ref=e22]:
+      - heading "Designer Collection" [level=1] [ref=e23]
+      - generic [ref=e24]:
+        - link "Solid Maroon Solid Maroon korean silk shirt, trousers and dupatta with hand work of stones and sequence on shirt. Organza lace on dupatta. PKR 16,000/- PKR 14,200/-" [ref=e25] [cursor=pointer]:
+          - /url: product.html?id=1
+          - img "Solid Maroon" [ref=e27]
+          - heading "Solid Maroon" [level=3] [ref=e28]
+          - paragraph [ref=e29]: korean silk shirt, trousers and dupatta with hand work of stones and sequence on shirt. Organza lace on dupatta.
+          - paragraph [ref=e30]:
+            - generic [ref=e31]: PKR 16,000/-
+            - generic [ref=e32]: PKR 14,200/-
+        - button "Add to cart" [ref=e33] [cursor=pointer]
+      - generic [ref=e34]:
+        - link "Lailac chicken Kari Lailac chicken Kari Chicken kari summer collection PKR 9,800/- PKR 9,450/-" [ref=e35] [cursor=pointer]:
+          - /url: product.html?id=5
+          - img "Lailac chicken Kari" [ref=e37]
+          - heading "Lailac chicken Kari" [level=3] [ref=e38]
+          - paragraph [ref=e39]: Chicken kari summer collection
+          - paragraph [ref=e40]:
+            - generic [ref=e41]: PKR 9,800/-
+            - generic [ref=e42]: PKR 9,450/-
+        - button "Add to cart" [ref=e43] [cursor=pointer]
+      - generic [ref=e44]:
+        - link "White Rose White Rose Peach colored shirt with matching shalwar. PKR 35,000/-" [ref=e45] [cursor=pointer]:
+          - /url: product.html?id=6
+          - img "White Rose" [ref=e47]
+          - heading "White Rose" [level=3] [ref=e48]
+          - paragraph [ref=e49]: Peach colored shirt with matching shalwar.
+          - paragraph [ref=e50]:
+            - generic [ref=e51]: PKR 35,000/-
+        - button "Add to cart" [ref=e52] [cursor=pointer]
+      - generic [ref=e53]:
+        - link "Solid Navy Blue Solid Navy Blue Solid navy blue shirt with matching shalwar and dupatta. PKR 6,850/- PKR 6,300/-" [ref=e54] [cursor=pointer]:
+          - /url: product.html?id=7
+          - img "Solid Navy Blue" [ref=e56]
+          - heading "Solid Navy Blue" [level=3] [ref=e57]
+          - paragraph [ref=e58]: Solid navy blue shirt with matching shalwar and dupatta.
+          - paragraph [ref=e59]:
+            - generic [ref=e60]: PKR 6,850/-
+            - generic [ref=e61]: PKR 6,300/-
+        - button "Add to cart" [ref=e62] [cursor=pointer]
+      - generic [ref=e63]:
+        - link "Peach Pink Chicken Kari Peach Pink Chicken Kari Peach colored shirt with matching shalwar. PKR 9,800/- PKR 9,350/-" [ref=e64] [cursor=pointer]:
+          - /url: product.html?id=8
+          - img "Peach Pink Chicken Kari" [ref=e66]
+          - heading "Peach Pink Chicken Kari" [level=3] [ref=e67]
+          - paragraph [ref=e68]: Peach colored shirt with matching shalwar.
+          - paragraph [ref=e69]:
+            - generic [ref=e70]: PKR 9,800/-
+            - generic [ref=e71]: PKR 9,350/-
+        - button "Add to cart" [ref=e72] [cursor=pointer]
+      - generic [ref=e73]:
+        - link "Off white chicken kari Off white chicken kari Off white Shirt with dupatta and trousers PKR 9,800/- PKR 9,350/-" [ref=e74] [cursor=pointer]:
+          - /url: product.html?id=9
+          - img "Off white chicken kari" [ref=e76]
+          - heading "Off white chicken kari" [level=3] [ref=e77]
+          - paragraph [ref=e78]: Off white Shirt with dupatta and trousers
+          - paragraph [ref=e79]:
+            - generic [ref=e80]: PKR 9,800/-
+            - generic [ref=e81]: PKR 9,350/-
+        - button "Add to cart" [ref=e82] [cursor=pointer]
+      - generic [ref=e83]:
+        - link "Mustard Shirt with Shalwar. Mustard Shirt with Shalwar. Mustard colored shirt with matching shalwar and dupatta. PKR 3,900/- PKR 3,250/-" [ref=e84] [cursor=pointer]:
+          - /url: product.html?id=2
+          - img "Mustard Shirt with Shalwar." [ref=e86]
+          - heading "Mustard Shirt with Shalwar." [level=3] [ref=e87]
+          - paragraph [ref=e88]: Mustard colored shirt with matching shalwar and dupatta.
+          - paragraph [ref=e89]:
+            - generic [ref=e90]: PKR 3,900/-
+            - generic [ref=e91]: PKR 3,250/-
+        - button "Add to cart" [ref=e92] [cursor=pointer]
+      - generic [ref=e93]:
+        - link "Garden Green Garden Green Lawn Shirt with trouser and dupatta. PKR 4,600/- PKR 3,950/-" [ref=e94] [cursor=pointer]:
+          - /url: product.html?id=3
+          - img "Garden Green" [ref=e96]
+          - heading "Garden Green" [level=3] [ref=e97]
+          - paragraph [ref=e98]: Lawn Shirt with trouser and dupatta.
+          - paragraph [ref=e99]:
+            - generic [ref=e100]: PKR 4,600/-
+            - generic [ref=e101]: PKR 3,950/-
+        - button "Add to cart" [ref=e102] [cursor=pointer]
+      - generic [ref=e103]:
+        - link "Beige shirt with shalwar Beige shirt with shalwar Beige colored shirt with matching shalwar. PKR 3,900/- PKR 3,500/-" [ref=e104] [cursor=pointer]:
+          - /url: product.html?id=4
+          - img "Beige shirt with shalwar" [ref=e106]
+          - heading "Beige shirt with shalwar" [level=3] [ref=e107]
+          - paragraph [ref=e108]: Beige colored shirt with matching shalwar.
+          - paragraph [ref=e109]:
+            - generic [ref=e110]: PKR 3,900/-
+            - generic [ref=e111]: PKR 3,500/-
+        - button "Add to cart" [ref=e112] [cursor=pointer]
+      - generic [ref=e113]:
+        - link "Chandani Chandani Chandani shirt with matching shalwar and dupatta. PKR 12,000/- PKR 10,500/-" [ref=e114] [cursor=pointer]:
+          - /url: product.html?id=11
+          - img "Chandani" [ref=e116]
+          - heading "Chandani" [level=3] [ref=e117]
+          - paragraph [ref=e118]: Chandani shirt with matching shalwar and dupatta.
+          - paragraph [ref=e119]:
+            - generic [ref=e120]: PKR 12,000/-
+            - generic [ref=e121]: PKR 10,500/-
+        - button "Add to cart" [ref=e122] [cursor=pointer]
+      - generic [ref=e123]:
+        - link "Bottle Green Silk Bottle Green Silk fabric sheesha silk medium silk dupatta with organza border Available in all sizes PKR 13,0000/- PKR 12,500/-" [ref=e124] [cursor=pointer]:
+          - /url: product.html?id=12
+          - img "Bottle Green Silk" [ref=e126]
+          - heading "Bottle Green Silk" [level=3] [ref=e127]
+          - paragraph [ref=e128]: fabric sheesha silk medium silk dupatta with organza border Available in all sizes
+          - paragraph [ref=e129]:
+            - generic [ref=e130]: PKR 13,0000/-
+            - generic [ref=e131]: PKR 12,500/-
+        - button "Add to cart" [ref=e132] [cursor=pointer]
+      - generic [ref=e133]:
+        - link "Red Rose Anarkali Frock Red Rose Anarkali Frock Red Rose Anarkali Frock with matching dupatta. PKR 9,800/- PKR 9,500/-" [ref=e134] [cursor=pointer]:
+          - /url: product.html?id=13
+          - img "Red Rose Anarkali Frock" [ref=e136]
+          - heading "Red Rose Anarkali Frock" [level=3] [ref=e137]
+          - paragraph [ref=e138]: Red Rose Anarkali Frock with matching dupatta.
+          - paragraph [ref=e139]:
+            - generic [ref=e140]: PKR 9,800/-
+            - generic [ref=e141]: PKR 9,500/-
+        - button "Add to cart" [ref=e142] [cursor=pointer]
+      - generic [ref=e143]:
+        - link "Pink Anarkali Frock Pink Anarkali Frock Anarkali Frock with matching dupatta. PKR 9,800/- PKR 9,500/-" [ref=e144] [cursor=pointer]:
+          - /url: product.html?id=14
+          - img "Pink Anarkali Frock" [ref=e146]
+          - heading "Pink Anarkali Frock" [level=3] [ref=e147]
+          - paragraph [ref=e148]: Anarkali Frock with matching dupatta.
+          - paragraph [ref=e149]:
+            - generic [ref=e150]: PKR 9,800/-
+            - generic [ref=e151]: PKR 9,500/-
+        - button "Add to cart" [ref=e152] [cursor=pointer]
+      - generic [ref=e153]:
+        - link "Gul Bahar Gul Bahar 3 piece stitched outfit Farshi shalwar with short shirt and double shade duppata PKR 6,850/- PKR 6,350/-" [ref=e154] [cursor=pointer]:
+          - /url: product.html?id=15
+          - img "Gul Bahar" [ref=e156]
+          - heading "Gul Bahar" [level=3] [ref=e157]
+          - paragraph [ref=e158]: 3 piece stitched outfit Farshi shalwar with short shirt and double shade duppata
+          - paragraph [ref=e159]:
+            - generic [ref=e160]: PKR 6,850/-
+            - generic [ref=e161]: PKR 6,350/-
+        - button "Add to cart" [ref=e162] [cursor=pointer]
+      - generic [ref=e163]:
+        - link "Red Formal Red Formal Summer shirt with matching shalwar and dupatta. PKR 7,250/- PKR 6,850/-" [ref=e164] [cursor=pointer]:
+          - /url: product.html?id=16
+          - img "Red Formal" [ref=e166]
+          - heading "Red Formal" [level=3] [ref=e167]
+          - paragraph [ref=e168]: Summer shirt with matching shalwar and dupatta.
+          - paragraph [ref=e169]:
+            - generic [ref=e170]: PKR 7,250/-
+            - generic [ref=e171]: PKR 6,850/-
+        - button "Add to cart" [ref=e172] [cursor=pointer]
+      - generic [ref=e173]:
+        - link "Block Printed Black Block Printed Black Sage green shirt with matching shalwar and dupatta. PKR 6,300/- PKR 5,950/-" [ref=e174] [cursor=pointer]:
+          - /url: product.html?id=17
+          - img "Block Printed Black" [ref=e176]
+          - heading "Block Printed Black" [level=3] [ref=e177]
+          - paragraph [ref=e178]: Sage green shirt with matching shalwar and dupatta.
+          - paragraph [ref=e179]:
+            - generic [ref=e180]: PKR 6,300/-
+            - generic [ref=e181]: PKR 5,950/-
+        - button "Add to cart" [ref=e182] [cursor=pointer]
+      - generic [ref=e183]:
+        - link "Printed Sharara Printed Sharara Lawn 3 piece stitched Dupatta shirt. PKR 7,250/- PKR 6,150/-" [ref=e184] [cursor=pointer]:
+          - /url: product.html?id=18
+          - img "Printed Sharara" [ref=e186]
+          - heading "Printed Sharara" [level=3] [ref=e187]
+          - paragraph [ref=e188]: Lawn 3 piece stitched Dupatta shirt.
+          - paragraph [ref=e189]:
+            - generic [ref=e190]: PKR 7,250/-
+            - generic [ref=e191]: PKR 6,150/-
+        - button "Add to cart" [ref=e192] [cursor=pointer]
+      - generic [ref=e193]:
+        - link "Hand painted dupatta With suit Hand painted dupatta With suit Hand painted dupatta With suit. PKR 13,500/- PKR 12,500/-" [ref=e194] [cursor=pointer]:
+          - /url: product.html?id=19
+          - img "Hand painted dupatta With suit" [ref=e196]
+          - heading "Hand painted dupatta With suit" [level=3] [ref=e197]
+          - paragraph [ref=e198]: Hand painted dupatta With suit.
+          - paragraph [ref=e199]:
+            - generic [ref=e200]: PKR 13,500/-
+            - generic [ref=e201]: PKR 12,500/-
+        - button "Add to cart" [ref=e202] [cursor=pointer]
+      - generic [ref=e203]:
+        - link "Lawn 3 Piece stitched Lawn 3 Piece stitched Lawn 3 piece stitched Dupatta shirt. PKR 7,250/- PKR 6,150/-" [ref=e204] [cursor=pointer]:
+          - /url: product.html?id=20
+          - img "Lawn 3 Piece stitched" [ref=e206]
+          - heading "Lawn 3 Piece stitched" [level=3] [ref=e207]
+          - paragraph [ref=e208]: Lawn 3 piece stitched Dupatta shirt.
+          - paragraph [ref=e209]:
+            - generic [ref=e210]: PKR 7,250/-
+            - generic [ref=e211]: PKR 6,150/-
+        - button "Add to cart" [ref=e212] [cursor=pointer]
+      - generic [ref=e213]:
+        - link "Red Printed Red Printed Printed Lawn 3Piece PKR 7,250/- PKR 5,950/-" [ref=e214] [cursor=pointer]:
+          - /url: product.html?id=21
+          - img "Red Printed" [ref=e216]
+          - heading "Red Printed" [level=3] [ref=e217]
+          - paragraph [ref=e218]: Printed Lawn 3Piece
+          - paragraph [ref=e219]:
+            - generic [ref=e220]: PKR 7,250/-
+            - generic [ref=e221]: PKR 5,950/-
+        - button "Add to cart" [ref=e222] [cursor=pointer]
+  - contentinfo [ref=e223]:
+    - generic [ref=e224]:
+      - text: MS
+      - paragraph [ref=e225]: M Stitch presents, high quality, Hand Designed, Professionally tailored, Affordable, Durable Outfits for Office, University, Casual and formal wear.Learn more about us on our Facebook, Instagram accounts.
+    - generic [ref=e226]:
+      - paragraph [ref=e227]: Learn more about us on
+      - link "Instagram" [ref=e228] [cursor=pointer]:
+        - /url: https://www.instagram.com/m_stitchh/
+        - img "Instagram" [ref=e229]
+      - link "Instagram" [ref=e230] [cursor=pointer]:
+        - /url: https://wa.me/923234359130
+        - img "Instagram" [ref=e231]
+      - link "Instagram" [ref=e232] [cursor=pointer]:
+        - /url: https://www.youtube.com/@MStitch-s6z
+        - img "Instagram" [ref=e233]
+      - link "facebook" [ref=e234] [cursor=pointer]:
+        - /url: https://www.facebook.com/p/M-Stitch-clothing-brand-61577752810818/
+        - img "facebook" [ref=e235]
+      - link "facebook" [ref=e236] [cursor=pointer]:
+        - /url: https://www.facebook.com/p/M-Stitch-clothing-brand-61577752810818/
+        - img "facebook" [ref=e237]
+  - link "WhatsApp" [ref=e238] [cursor=pointer]:
+    - /url: https://wa.me/923234359130
+    - img "WhatsApp" [ref=e239]

@@ -1,0 +1,3332 @@
+{
+   "aamConfirmButton": {
+      "message": "Konfirmasi"
+   },
+   "aamEditButton": {
+      "message": "Edit"
+   },
+   "aamFieldCityStatePostal": {
+      "message": "Kota, Negara Bagian, ZIP/Kode Pos"
+   },
+   "aamFieldCountry": {
+      "message": "Negara"
+   },
+   "aamFieldDateOfBirth": {
+      "message": "Tanggal lahir"
+   },
+   "aamFieldEmail": {
+      "message": "Email"
+   },
+   "aamFieldExternalId": {
+      "message": "Id eksternal"
+   },
+   "aamFieldFirstLastName": {
+      "message": "Nama depan dan belakang"
+   },
+   "aamFieldGender": {
+      "message": "Jenis kelamin"
+   },
+   "aamFieldPhoneNumber": {
+      "message": "Nomor telepon"
+   },
+   "aamInfoDescription": {
+      "message": "Pencocokan Lanjut Otomatis menggunakan data pelanggan yang diberikan ke bisnis Anda, seperti email atau nomor telepon, untuk mencocokkan pengunjung yang juga menggunakan Meta."
+   },
+   "aamNoEditPermissionTooltip": {
+      "message": "Tidak ada izin edit. Hubungi admin Anda"
+   },
+   "aamStepConfirmFieldsDescription": {
+      "message": "Konfirmasi kolom yang ingin Anda kirimkan"
+   },
+   "aamStepUserActionRequired": {
+      "message": "Tindakan pengguna diperlukan"
+   },
+   "aboutAdvancedMatchingForWeb": {
+      "message": "Tentang pencocokan lanjut untuk web"
+   },
+   "aboutEventSetupTool": {
+      "message": "Tentang fitur penyiapan peristiwa"
+   },
+   "actionAddMissingEventsCtaLabel": {
+      "message": "Siapkan untuk saya"
+   },
+   "actionAddMissingEventsDescription": {
+      "message": "Tingkatkan kinerja iklan dan akurasi pengukuran Anda secara mudah dengan menambahkan peristiwa yang hilang ke penyiapan Anda."
+   },
+   "actionAddMissingEventsHeader": {
+      "message": "Tambahkan peristiwa yang tidak ada"
+   },
+   "actionAutomatableValueLabel": {
+      "message": "Bisa diotomatisasi"
+   },
+   "actionCAPIGTMProductRecommendationHeader": {
+      "message": "Bagikan data Anda dengan aman melalui Google Tag Manager"
+   },
+   "actionCAPIGTMSetupDescription": {
+      "message": "Hal ini menyederhanakan penerapan dan pengelolaan tag, sehingga memungkinkan pelacakan peristiwa yang efisien tanpa perubahan kode demi kinerja marketing yang lebih baik."
+   },
+   "actionCAPIGTMSetupHeader": {
+      "message": "Siapkan Conversions API dengan Google Tag Manager"
+   },
+   "actionCAPIGeneralSetupDescription": {
+      "message": "Maksimalkan data yang diukur di situs web Anda dan bantu turunkan biaya per hasil."
+   },
+   "actionCAPIGeneralSetupHeader": {
+      "message": "Siapkan Conversions API"
+   },
+   "actionCAPISalesforceCRMSetupDescription": {
+      "message": "Penyiapan otomatis memungkinkan pelacakan peristiwa server-to-server yang akurat dan realtime untuk insight pelanggan dan marketing yang lebih baik."
+   },
+   "actionCAPISalesforceCRMSetupHeader": {
+      "message": "Siapkan Conversions API dengan CRM Salesforce"
+   },
+   "actionCardDatasetTooltip": {
+      "message": "Buka Pengelola Peristiwa untuk melihat set data ini"
+   },
+   "actionCatalogUpsellCtaLabel": {
+      "message": "Tambahkan produk"
+   },
+   "actionCatalogUpsellDescription": {
+      "message": "Tarik perhatian audiens baru dan berikan pengalaman berbelanja yang dipersonalisasi berdasarkan perilaku dan minat mereka. Tarik perhatian pelanggan dari pertimbangan hingga pembelian dengan berbagai format iklan."
+   },
+   "actionCatalogUpsellHeader": {
+      "message": "Tambahkan produk ke katalog Meta dan maksimalkan kinerja iklan"
+   },
+   "actionFixInvalidValueCurrencyDescription": {
+      "message": "Dengan memperbaiki parameter nilai dan mata uang yang tidak valid untuk peristiwa pembelian di situs web, Anda bisa mendapatkan pelaporan yang akurat dan optimasi kampanye yang lebih baik."
+   },
+   "actionFixInvalidValueCurrencyHeader": {
+      "message": "Perbaiki parameter nilai & mata uang yang tidak valid"
+   },
+   "actionFreeCAPIGOneClickDescription": {
+      "message": "Kirimkan peristiwa pixel Anda ke sisi server secara otomatis — tanpa penyiapan teknis dan tanpa tag tambahan. Kami akan membuatkan koneksi untuk Anda."
+   },
+   "actionFreeCAPIGOneClickHeader": {
+      "message": "Conversions API yang didukung Meta"
+   },
+   "actionFreeCAPIGOneClickTooltip": {
+      "message": "Jika diklik, pengiriman peristiwa server-side yang dihosting Meta untuk bisnis ini akan aktif. Anda bisa mengubahnya nanti di Pengelola Peristiwa."
+   },
+   "actionFreeCAPIGOneClickValueLift": {
+      "message": "Biaya per hasil 17,8% lebih rendah"
+   },
+   "actionFreeCAPIGOneClickViewDetails": {
+      "message": "Lihat detail"
+   },
+   "actionInstallFacebookForWooCommerceCtaLabel": {
+      "message": "Mulai"
+   },
+   "actionInstallFacebookForWooCommercePluginDescription": {
+      "message": "Meta for WooCommerce menjaga toko Anda tetap tersinkronisasi ke Facebook, Instagram, dan WhatsApp. Lebih sedikit admin untuk Anda, lebih banyak waktu untuk bisnis Anda."
+   },
+   "actionInstallFacebookForWooCommercePluginHeader": {
+      "message": "Instal plugin Meta untuk WooCommerce"
+   },
+   "actionInstallFacebookForWooCommercePluginSubtitle": {
+      "message": "Hemat waktu dan tampilkan produk yang tepat di depan orang yang tepat."
+   },
+   "actionSetupMamAamDescription": {
+      "message": "Pencocokan Lanjut memberikan lebih banyak konversi pada iklan Anda untuk menjangkau lebih banyak orang dengan kampanye iklan marketing ulang."
+   },
+   "actionSetupMamAamHeader": {
+      "message": "Siapkan Pencocokan Lanjut"
+   },
+   "actionShopifyProductSyncCtaLabel": {
+      "message": "Mulai"
+   },
+   "actionShopifyProductSyncDescription": {
+      "message": "Beberapa ID konten di halaman ini tidak bisa dicocokkan dengan produk di katalog Anda. Gunakan sinkronisasi produk Shopify untuk menambahkan produk belum ada."
+   },
+   "actionShopifyProductSyncHeader": {
+      "message": "Sinkronkan produk yang belum ada dari Shopify"
+   },
+   "actionSignalsGatewayGTMSetupDescription": {
+      "message": "Hal ini mengaktifkan pelacakan peristiwa server-to-server yang akurat dan realtime untuk insight pelanggan dan marketing yang lebih baik."
+   },
+   "actionSignalsGatewayGTMSetupHeader": {
+      "message": "Siapkan Signals Gateway Pixel dengan Google Tag Manager"
+   },
+   "actionUpdateFacebookForWooCommerceCtaLabel": {
+      "message": "Perbarui plugin"
+   },
+   "actionUpdateFacebookForWooCommercePluginDescription": {
+      "message": "Perbarui sekarang untuk peningkatan terbaru dan agar toko Anda tetap disinkronkan dengan lancar ke Facebook, Instagram, dan WhatsApp."
+   },
+   "actionUpdateFacebookForWooCommercePluginHeader": {
+      "message": "Perbarui plugin Meta untuk WooCommerce"
+   },
+   "actionUpdateFacebookForWooCommercePluginSubtitle": {
+      "message": "Versi baru plugin Anda sudah siap."
+   },
+   "addMissingEventsCancel": {
+      "message": "Batalkan"
+   },
+   "addMissingEventsHeader": {
+      "message": "Tambahkan peristiwa yang tidak ada"
+   },
+   "addMissingEventsMoreDatasets": {
+      "message": "$1 set data lainnya"
+   },
+   "addMissingEventsNextSteps": {
+      "message": "Langkah berikutnya"
+   },
+   "addMissingEventsPotentialBadge": {
+      "message": "Potensi -$1% CPR"
+   },
+   "addMissingEventsSetUpForMe": {
+      "message": "Siapkan untuk saya"
+   },
+   "addMissingEventsSubtitle": {
+      "message": "Tambahkan peristiwa pixel yang tidak ada untuk mulai melacak dan mengoptimalkan peristiwa konversi untuk membantu meningkatkan hasil iklan."
+   },
+   "addMissingEventsTimeEstimate": {
+      "message": "Kurang dari \u003C 1 mnt"
+   },
+   "add_more_label": {
+      "message": "Tambahkan lainnya"
+   },
+   "additionalRecommendation": {
+      "message": "rekomendasi tambahan"
+   },
+   "additionalRecommendations": {
+      "message": "rekomendasi lain"
+   },
+   "agenticActionAskUserSelect": {
+      "message": "Meminta Anda untuk memilih"
+   },
+   "agenticActionCaptureDropdown": {
+      "message": "Ambil gambar opsi menu pilihan dari $1"
+   },
+   "agenticActionCaptureDropdownActive": {
+      "message": "Mengambil gambar opsi menu pilihan dari $1"
+   },
+   "agenticActionCaptureDropdownPast": {
+      "message": "Sudah mengambil gambar opsi menu pilihan dari $1"
+   },
+   "agenticActionCaptureStoreAsDetail": {
+      "message": "Simpan sebagai $1"
+   },
+   "agenticActionClick": {
+      "message": "Klik $1"
+   },
+   "agenticActionClickActive": {
+      "message": "Mengklik $1"
+   },
+   "agenticActionClickPast": {
+      "message": "Sudah mengklik $1"
+   },
+   "agenticActionCloseTab": {
+      "message": "Tutup tab $1"
+   },
+   "agenticActionCloseTabActive": {
+      "message": "Menutup $1"
+   },
+   "agenticActionCloseTabPast": {
+      "message": "Sudah menutup $1"
+   },
+   "agenticActionCopyMatchDetail": {
+      "message": "Cocokkan $1"
+   },
+   "agenticActionCopyMatchingText": {
+      "message": "Salin teks yang cocok ke cache $1"
+   },
+   "agenticActionCopyMatchingTextActive": {
+      "message": "Menyalin teks yang cocok ke cache $1"
+   },
+   "agenticActionCopyMatchingTextPast": {
+      "message": "Menyalin teks yang cocok ke cache $1"
+   },
+   "agenticActionCopyTextFromTarget": {
+      "message": "Salin teks dari $1 ke cache $2"
+   },
+   "agenticActionCopyTextFromTargetActive": {
+      "message": "Menyalin teks dari $1 ke cache $2"
+   },
+   "agenticActionCopyTextFromTargetPast": {
+      "message": "Menyalin teks dari $1 ke cache $2"
+   },
+   "agenticActionCopyVisibleText": {
+      "message": "Salin teks yang terlihat ke cache $1"
+   },
+   "agenticActionCopyVisibleTextActive": {
+      "message": "Menyalin teks yang terlihat ke cache $1"
+   },
+   "agenticActionCopyVisibleTextPast": {
+      "message": "Menyalin teks yang terlihat ke cache $1"
+   },
+   "agenticActionGetDropdownOptions": {
+      "message": "Baca opsi dari $1"
+   },
+   "agenticActionGoToUrl": {
+      "message": "Buka $1"
+   },
+   "agenticActionHover": {
+      "message": "Arahkan kursor ke $1"
+   },
+   "agenticActionNeededTitle": {
+      "message": "Tindakan diperlukan"
+   },
+   "agenticActionOpenNewTab": {
+      "message": "Buka tab baru"
+   },
+   "agenticActionOpenPage": {
+      "message": "Buka halaman baru"
+   },
+   "agenticActionOpenPageActive": {
+      "message": "Membuka halaman baru"
+   },
+   "agenticActionOpenPagePast": {
+      "message": "Sudah membuka halaman baru"
+   },
+   "agenticActionOpenRelativePath": {
+      "message": "Buka jalur relatif"
+   },
+   "agenticActionOpenRelativePathActive": {
+      "message": "Membuka jalur relatif"
+   },
+   "agenticActionOpenRelativePathPast": {
+      "message": "Sudah membuka jalur relatif"
+   },
+   "agenticActionOpenTab": {
+      "message": "Buka tab ke $1"
+   },
+   "agenticActionOpenTabActive": {
+      "message": "Membuka tab baru"
+   },
+   "agenticActionOpenTabDestinationDetail": {
+      "message": "Destinasi: $1"
+   },
+   "agenticActionOpenTabPast": {
+      "message": "Sudah membuka tab baru"
+   },
+   "agenticActionPaste": {
+      "message": "Tempel ke $1"
+   },
+   "agenticActionPasteSourceDetail": {
+      "message": "Cache sumber: $1"
+   },
+   "agenticActionPasteText": {
+      "message": "Tempel teks tersimpan ke $1"
+   },
+   "agenticActionPasteTextActive": {
+      "message": "Menempel teks tersimpan ke $1"
+   },
+   "agenticActionPasteTextPast": {
+      "message": "Sudah menempel teks tersimpan ke $1"
+   },
+   "agenticActionReloadPage": {
+      "message": "Muat ulang halaman"
+   },
+   "agenticActionReloadPageActive": {
+      "message": "Memuat ulang halaman"
+   },
+   "agenticActionReloadPagePast": {
+      "message": "Memuat ulang halaman"
+   },
+   "agenticActionScrollBottom": {
+      "message": "Gulir ke bawah"
+   },
+   "agenticActionScrollBottomActive": {
+      "message": "Menggulir ke bagian bawah halaman"
+   },
+   "agenticActionScrollBottomPast": {
+      "message": "Sudah menggulir ke bagian bawah halaman"
+   },
+   "agenticActionScrollElementPercent": {
+      "message": "Gulir $1 ke $2%"
+   },
+   "agenticActionScrollIntoViewDetail": {
+      "message": "Gulir sebelum berinteraksi dengan elemen di luar layar."
+   },
+   "agenticActionScrollPercent": {
+      "message": "Gulir ke $1%"
+   },
+   "agenticActionScrollPercentActive": {
+      "message": "Menggulir $1 ke $2"
+   },
+   "agenticActionScrollPercentPage": {
+      "message": "halaman"
+   },
+   "agenticActionScrollPercentPast": {
+      "message": "Sudah menggulir $1 ke $2"
+   },
+   "agenticActionScrollTo": {
+      "message": "Gulir ke $1"
+   },
+   "agenticActionScrollToActive": {
+      "message": "Menggulir ke $1"
+   },
+   "agenticActionScrollToPast": {
+      "message": "Sudah menggulir ke $1"
+   },
+   "agenticActionScrollTop": {
+      "message": "Gulir ke atas"
+   },
+   "agenticActionScrollTopActive": {
+      "message": "Menggulir ke bagian atas halaman"
+   },
+   "agenticActionScrollTopPast": {
+      "message": "Sudah menggulir ke bagian atas halaman"
+   },
+   "agenticActionSelect": {
+      "message": "Pilih $1 di $2"
+   },
+   "agenticActionSelectActive": {
+      "message": "Memilih $1 di $2"
+   },
+   "agenticActionSelectPast": {
+      "message": "Sudah memilih $1 di $2"
+   },
+   "agenticActionSfAskOpportunityPreference": {
+      "message": "Tanyakan tentang pelacakan Peluang"
+   },
+   "agenticActionSfConfirmFieldMappings": {
+      "message": "Konfirmasi pemetaan kolom"
+   },
+   "agenticActionSfGetFieldMappings": {
+      "message": "Dapatkan rekomendasi pemetaan kolom"
+   },
+   "agenticActionSfMutateWebhookIntegration": {
+      "message": "Siapkan integrasi webhook"
+   },
+   "agenticActionSwitchTab": {
+      "message": "Beralih ke tab $1"
+   },
+   "agenticActionSwitchTabActive": {
+      "message": "Beralih ke $1"
+   },
+   "agenticActionSwitchTabPast": {
+      "message": "Sudah beralih ke $1"
+   },
+   "agenticActionTypeInto": {
+      "message": "Ketik ke $1"
+   },
+   "agenticActionTypeIntoActive": {
+      "message": "Mengetik di $1"
+   },
+   "agenticActionTypeIntoPast": {
+      "message": "Sudah mengetik di $1"
+   },
+   "agenticAskUserSelectDescriptionFallback": {
+      "message": "Pilih opsi untuk melanjutkan."
+   },
+   "agenticAskUserSelectFieldLabel": {
+      "message": "Opsi"
+   },
+   "agenticAskUserSelectPlaceholder": {
+      "message": "Pilih opsi"
+   },
+   "agenticConnectionFailed": {
+      "message": "Tidak bisa menghubungkan kembali. Muat ulang halaman."
+   },
+   "agenticConnectionReconnecting": {
+      "message": "Koneksi terputus. Menghubungkan ulang... ($1/$2)"
+   },
+   "agenticDefaultWaitPrompt": {
+      "message": "Selesaikan tindakan yang diminta."
+   },
+   "agenticElementNameOnly": {
+      "message": "\"$1\""
+   },
+   "agenticElementNounAccordion": {
+      "message": "akordeon"
+   },
+   "agenticElementNounBanner": {
+      "message": "banner"
+   },
+   "agenticElementNounButton": {
+      "message": "tombol"
+   },
+   "agenticElementNounCard": {
+      "message": "kartu"
+   },
+   "agenticElementNounCell": {
+      "message": "sel"
+   },
+   "agenticElementNounCheckbox": {
+      "message": "kotak centang"
+   },
+   "agenticElementNounChip": {
+      "message": "chip"
+   },
+   "agenticElementNounDialog": {
+      "message": "dialog"
+   },
+   "agenticElementNounDropdown": {
+      "message": "menu pilihan"
+   },
+   "agenticElementNounElement": {
+      "message": "elemen"
+   },
+   "agenticElementNounFileInput": {
+      "message": "input file"
+   },
+   "agenticElementNounImage": {
+      "message": "gambar"
+   },
+   "agenticElementNounInputField": {
+      "message": "kolom input"
+   },
+   "agenticElementNounItem": {
+      "message": "item"
+   },
+   "agenticElementNounLink": {
+      "message": "tautan"
+   },
+   "agenticElementNounMenu": {
+      "message": "menu"
+   },
+   "agenticElementNounOption": {
+      "message": "opsi"
+   },
+   "agenticElementNounPanel": {
+      "message": "panel"
+   },
+   "agenticElementNounRadioButton": {
+      "message": "tombol radio"
+   },
+   "agenticElementNounRow": {
+      "message": "baris"
+   },
+   "agenticElementNounStep": {
+      "message": "langkah"
+   },
+   "agenticElementNounSubmitButton": {
+      "message": "Tombol Kirim"
+   },
+   "agenticElementNounTab": {
+      "message": "tab"
+   },
+   "agenticElementNounTextArea": {
+      "message": "area teks"
+   },
+   "agenticElementNounTile": {
+      "message": "petak"
+   },
+   "agenticElementNounToggle": {
+      "message": "tombol beralih"
+   },
+   "agenticElementWithName": {
+      "message": "$2 \"$1\""
+   },
+   "agenticErrorApi": {
+      "message": "Tidak bisa menghubungkan ke layanan AI. Coba lagi?"
+   },
+   "agenticErrorRateLimit": {
+      "message": "Layanan AI sedang sibuk. Harap tunggu atau coba lagi nanti."
+   },
+   "agenticErrorTimeout": {
+      "message": "AI membutuhkan waktu lebih lama dari yang diperkirakan. Coba lagi?"
+   },
+   "agenticErrorTitle": {
+      "message": "Kesalahan"
+   },
+   "agenticErrorUnknown": {
+      "message": "Ada masalah. Coba lagi?"
+   },
+   "agenticNavigationPageLoadFailed": {
+      "message": "Halaman gagal dimuat. Coba lagi..."
+   },
+   "agenticNavigationReorienting": {
+      "message": "Halaman dinavigasi secara tidak terduga. Mengorientasi ulang..."
+   },
+   "agenticPleaseCompleteAction": {
+      "message": "Selesaikan tindakan untuk melanjutkan"
+   },
+   "agenticReconnectNow": {
+      "message": "Hubungkan ulang sekarang"
+   },
+   "agenticResyncWithPage": {
+      "message": "Sinkronkan ulang dengan halaman"
+   },
+   "agenticScrollPercentFallback": {
+      "message": "titik yang diminta"
+   },
+   "agenticTabFallbackById": {
+      "message": "tab $1"
+   },
+   "agenticTabFallbackSelected": {
+      "message": "tab yang dipilih"
+   },
+   "agenticThinking": {
+      "message": "Berpikir..."
+   },
+   "agenticTryAgain": {
+      "message": "Coba lagi"
+   },
+   "agenticVerbClick": {
+      "message": "Klik"
+   },
+   "agenticVerbCopyText": {
+      "message": "Salin teks"
+   },
+   "agenticVerbEnterText": {
+      "message": "Masukkan teks"
+   },
+   "agenticVerbPasteText": {
+      "message": "Tempelkan teks"
+   },
+   "agenticVerbReadDropdown": {
+      "message": "Baca opsi menu pilihan"
+   },
+   "agenticVerbScrollToElement": {
+      "message": "Gulir ke elemen"
+   },
+   "agenticVerbSelectOption": {
+      "message": "Pilih opsi"
+   },
+   "agenticWaitingForAction": {
+      "message": "Menunggu tindakan Anda..."
+   },
+   "allRecommendationsHeader": {
+      "message": "Semua rekomendasi"
+   },
+   "automatableBadge": {
+      "message": "Otomatiskan"
+   },
+   "automationFlowCompleteTitle": {
+      "message": "Siapkan Google Tag Manager"
+   },
+   "automationSuccessFeedbackCommentPlaceholder": {
+      "message": "Opsional: tambahkan komentar"
+   },
+   "automationSuccessFeedbackFallbackName": {
+      "message": "Otomatisasi"
+   },
+   "automationSuccessFeedbackPromptTitle": {
+      "message": "Bagaimana hasil ini?"
+   },
+   "automationSuccessFeedbackStarLabel": {
+      "message": "penilaian bintang"
+   },
+   "automationSuccessFeedbackSubmitError": {
+      "message": "Gagal mengirim masukan"
+   },
+   "buttonLoading": {
+      "message": "Memuat"
+   },
+   "buttonStartEventSetupTool": {
+      "message": "Siapkan peristiwa"
+   },
+   "buttonTroubleshootPixel": {
+      "message": "Pecahkan masalah pixel"
+   },
+   "cancelAutomationCancelButton": {
+      "message": "Batalkan otomatisasi"
+   },
+   "cancelAutomationCancellingButton": {
+      "message": "Membatalkan..."
+   },
+   "cancelAutomationFromVerificationCancelButton": {
+      "message": "Batalkan otomatisasi"
+   },
+   "cancelAutomationFromVerificationMessage": {
+      "message": "Kami masih tidak bisa memverifikasi status tindakan ini. Batalkan otomatisasi untuk menyiapkan secara manual."
+   },
+   "cancelAutomationFromVerificationTitle": {
+      "message": "Batalkan otomatisasi"
+   },
+   "cancelAutomationFromVerificationTryAgainButton": {
+      "message": "Coba lagi"
+   },
+   "cancelAutomationResumeButton": {
+      "message": "Lanjutkan otomatisasi"
+   },
+   "cancelAutomationTitle": {
+      "message": "Yakin ingin menutup dan membatalkan otomatisasi?"
+   },
+   "cancelSetupCancelButton": {
+      "message": "Batalkan penyiapan"
+   },
+   "cancelSetupResumeButton": {
+      "message": "Lanjutkan penyiapan"
+   },
+   "cancelSetupTitle": {
+      "message": "Yakin ingin menutup dan membatalkan penyiapan?"
+   },
+   "capiFieldCity": {
+      "message": "Kota"
+   },
+   "capiFieldClickId": {
+      "message": "ID Klik"
+   },
+   "capiFieldCountry": {
+      "message": "Negara"
+   },
+   "capiFieldDateOfBirth": {
+      "message": "Tanggal Lahir"
+   },
+   "capiFieldEmail": {
+      "message": "Email"
+   },
+   "capiFieldEventName": {
+      "message": "Nama peristiwa"
+   },
+   "capiFieldEventTime": {
+      "message": "Waktu peristiwa"
+   },
+   "capiFieldExternalId": {
+      "message": "ID eksternal"
+   },
+   "capiFieldFirstName": {
+      "message": "Nama Depan"
+   },
+   "capiFieldGender": {
+      "message": "Jenis kelamin"
+   },
+   "capiFieldLastName": {
+      "message": "Nama Belakang"
+   },
+   "capiFieldLeadId": {
+      "message": "ID Prospek Meta"
+   },
+   "capiFieldPhone": {
+      "message": "Nomor telepon"
+   },
+   "capiFieldState": {
+      "message": "Negara Bagian"
+   },
+   "capiFieldZipCode": {
+      "message": "Kode Pos"
+   },
+   "catalogConnectedTo": {
+      "message": "Terhubung ke $1"
+   },
+   "catalogConnections": {
+      "message": "Koneksi"
+   },
+   "catalogCsvHeaderHowToFix": {
+      "message": "Cara Memperbaiki"
+   },
+   "catalogCsvHeaderIssueType": {
+      "message": "Jenis Masalah"
+   },
+   "catalogCsvHeaderMoreInfo": {
+      "message": "Info Selengkapnya"
+   },
+   "catalogCsvHeaderSampleType": {
+      "message": "Jenis Sampel"
+   },
+   "catalogCsvHeaderSampleValue": {
+      "message": "Contoh Nilai"
+   },
+   "catalogCsvHeaderTotalReceived": {
+      "message": "Total yang Diterima"
+   },
+   "catalogCsvHowToFixText": {
+      "message": "Pelajari cara menambahkan produk ke katalog Anda: https://www.facebook.com/business/help/384041892421495?id=725943027795860"
+   },
+   "catalogCsvMoreInfoText": {
+      "message": "Tambahkan produk untuk ID konten ini dalam katalog Anda atau pastikan Anda mengirimkan ID konten yang benar dalam peristiwa Anda"
+   },
+   "catalogCsvUnmatchedEvents": {
+      "message": "Acara yang tidak cocok"
+   },
+   "catalogEventNameAddToCart": {
+      "message": "Penambahan ke keranjang belanja"
+   },
+   "catalogEventNameAddToWishlist": {
+      "message": "Penambahan ke barang incaran"
+   },
+   "catalogEventNameInitiateCheckout": {
+      "message": "Memulai checkout"
+   },
+   "catalogEventNameLead": {
+      "message": "Prospek"
+   },
+   "catalogEventNamePurchase": {
+      "message": "Pembelian"
+   },
+   "catalogEventNameSearch": {
+      "message": "Pencarian"
+   },
+   "catalogEventNameSubscribe": {
+      "message": "Langganan"
+   },
+   "catalogEventNameViewContent": {
+      "message": "Tayangan halaman"
+   },
+   "catalogFooterManageConnection": {
+      "message": "Kelola koneksi"
+   },
+   "catalogFooterViewInCommerceManager": {
+      "message": "Lihat di Commerce Manager"
+   },
+   "catalogLiveMatchCount": {
+      "message": "$1/$2 produk cocok"
+   },
+   "catalogLoadError": {
+      "message": "Gagal memuat data katalog"
+   },
+   "catalogManageCatalogConnections": {
+      "message": "Kelola koneksi katalog"
+   },
+   "catalogMatchRate": {
+      "message": "$1% tingkat kecocokan katalog"
+   },
+   "catalogMatchRateAdsImpactedBody": {
+      "message": "Pada $1%, Anda memiliki produk terbatas yang tersedia untuk penargetan iklan. Ini bisa menyebabkan audiens yang lebih kecil, biaya yang lebih tinggi, dan penjualan yang lebih sedikit."
+   },
+   "catalogMatchRateAdsImpactedFollowup": {
+      "message": "Lihat di bawah ini untuk cara meningkatkan tingkat kecocokan Anda."
+   },
+   "catalogMatchRateAdsImpactedTitle": {
+      "message": "Iklan Anda mungkin terdampak"
+   },
+   "catalogMatchRateByEventHeader": {
+      "message": "Kecocokan produk berdasarkan peristiwa"
+   },
+   "catalogMatchRateDescription": {
+      "message": "interaksi produk cocok dengan produk dalam katalog ini"
+   },
+   "catalogMatchRateHeader": {
+      "message": "Tingkat kecocokan katalog"
+   },
+   "catalogMatchRateImproveStep1Body": {
+      "message": "Pastikan semua produk Anda ada di katalog Anda."
+   },
+   "catalogMatchRateImproveStep1Title": {
+      "message": "Tinjau produk yang disinkronkan"
+   },
+   "catalogMatchRateImproveStep2Body": {
+      "message": "ID produk harus sama persis dengan katalog Anda."
+   },
+   "catalogMatchRateImproveStep2Title": {
+      "message": "Verifikasikan ID produk"
+   },
+   "catalogMatchRateImproveStep3Body": {
+      "message": "Pastikan peristiwa pixel dan konversi Anda berfungsi dengan benar."
+   },
+   "catalogMatchRateImproveStep3Title": {
+      "message": "Verifikasi penyiapan peristiwa"
+   },
+   "catalogMatchRateImproveTitle": {
+      "message": "Tingkatkan tingkat kecocokan produk Anda"
+   },
+   "catalogMatchRateLearnMore": {
+      "message": "Pelajari selengkapnya"
+   },
+   "catalogMatchRateMissing": {
+      "message": "Tidak ada"
+   },
+   "catalogMatchRateTimeframe": {
+      "message": "Di semua situs web yang terhubung selama 28 hari terakhir"
+   },
+   "catalogMatchRateWarning": {
+      "message": "Kami menyarankan Anda untuk menjaga tingkat kecocokan katalog di atas 90%."
+   },
+   "catalogMenuCopyCatalogId": {
+      "message": "Salin ID katalog"
+   },
+   "catalogMenuGiveFeedback": {
+      "message": "Beri masukan"
+   },
+   "catalogMenuGoToCatalog": {
+      "message": "Buka katalog"
+   },
+   "catalogMenuMoreOptions": {
+      "message": "Opsi lainnya"
+   },
+   "catalogMoreCatalogs": {
+      "message": "$1+ katalog lainnya"
+   },
+   "catalogOnboardingBannerLearnMore": {
+      "message": "Tampilkan"
+   },
+   "catalogOnboardingBannerText": {
+      "message": "Anda kini bisa melihat katalog beserta pixel Anda, dengan pemeriksaan kesehatan dan peringatan yang sama."
+   },
+   "catalogPixelAssociatedWebsites": {
+      "message": "Situs web terkait"
+   },
+   "catalogPixelConnectionDetailsHeader": {
+      "message": "Detail koneksi Pixel"
+   },
+   "catalogPixelProducts": {
+      "message": "Produk"
+   },
+   "catalogProductImageAlt": {
+      "message": "Gambar produk"
+   },
+   "catalogProductMatchedBadge": {
+      "message": "Cocok"
+   },
+   "catalogProductNotMatchedBadge": {
+      "message": "Tidak cocok"
+   },
+   "catalogProductsSectionTitle": {
+      "message": "Produk di halaman ini"
+   },
+   "catalogUnmatchedAddProductsDescription": {
+      "message": "Orang-orang berinteraksi dengan produk di situs web Anda yang tidak cocok dengan katalog apa pun yang terhubung ke Pixel. Pastikan semua produk di situs web Anda telah ditambahkan ke katalog"
+   },
+   "catalogUnmatchedAddProductsLink": {
+      "message": "Pelajari cara menambahkan produk"
+   },
+   "catalogUnmatchedAddProductsTitle": {
+      "message": "Tambahkan produk yang masih mendapatkan interaksi ke katalog Anda"
+   },
+   "catalogUnmatchedContentIdColumnHeader": {
+      "message": "ID Konten"
+   },
+   "catalogUnmatchedDescription": {
+      "message": "Tambahkan produk untuk ID konten ini dalam katalog Anda atau pastikan Anda mengirimkan ID konten yang benar dalam peristiwa Anda."
+   },
+   "catalogUnmatchedDownloadList": {
+      "message": "Unduh daftar"
+   },
+   "catalogUnmatchedOtherWaysHeader": {
+      "message": "Cara lain untuk memperbaiki masalah ini"
+   },
+   "catalogUnmatchedRecommendationsHeader": {
+      "message": "Rekomendasi"
+   },
+   "catalogUnmatchedSendContentIdDescription": {
+      "message": "Periksa apakah Anda mengirimkan ID konten yang benar dan sesuai dengan produk dalam katalog ini atau katalog apa pun yang terhubung ke pixel Anda."
+   },
+   "catalogUnmatchedSendContentIdTitle": {
+      "message": "Kirim ID konten yang sesuai"
+   },
+   "catalogUnmatchedTitle": {
+      "message": "Beberapa ID konten tidak cocok dengan katalog apa pun"
+   },
+   "catalogUnmatchedTopInteractionsHeader": {
+      "message": "Interaksi teratas dengan masalah"
+   },
+   "catalogUnmatchedTotalReceivedColumnHeader": {
+      "message": "Total yang diterima"
+   },
+   "catalogWarningsFromPixel": {
+      "message": "Dari $1"
+   },
+   "catalogWarningsHeader": {
+      "message": "Peringatan"
+   },
+   "catalogWarningsUnmatchedProductsDescription": {
+      "message": "ID konten tidak cocok dengan katalog apa pun"
+   },
+   "catalogWarningsUnmatchedProductsHeader": {
+      "message": "Produk tidak cocok"
+   },
+   "confirmEventsToSetUpHeader": {
+      "message": "Konfirmasikan peristiwa yang ingin Anda siapkan"
+   },
+   "continueButton": {
+      "message": "Lanjutkan"
+   },
+   "continueToNextDatasetButton": {
+      "message": "Lanjutkan ke set data berikutnya"
+   },
+   "copyToClipboardCopied": {
+      "message": "Disalin!"
+   },
+   "copyToClipboardTitle": {
+      "message": "Salin ke clipboard"
+   },
+   "create_new_asset_already_added": {
+      "message": "Sudah ditambahkan"
+   },
+   "create_new_asset_button": {
+      "message": "Buat baru"
+   },
+   "customConversionActionSourceLabel": {
+      "message": "Sumber Tindakan"
+   },
+   "customConversionEventLabel": {
+      "message": "Peristiwa"
+   },
+   "customConversionNameLabel": {
+      "message": "Nama"
+   },
+   "customConversionRulesLabel": {
+      "message": "Aturan"
+   },
+   "customConversionValueFormat": {
+      "message": "$$1"
+   },
+   "customConversionValueLabel": {
+      "message": "Nilai default"
+   },
+   "datasetIdPrefix": {
+      "message": "ID: $1"
+   },
+   "datasetsAffected": {
+      "message": "$1 set data terdampak"
+   },
+   "dropdownSearchPlaceholder": {
+      "message": "Cari"
+   },
+   "dropdownTagIdentifier": {
+      "message": "Pengidentifikasi"
+   },
+   "dropdownTagRecommended": {
+      "message": "Disarankan"
+   },
+   "duplicateEventMessage": {
+      "message": "Peristiwa '$1' aktif $2 kali dengan data identik, yang bisa menyebabkan kesalahan pelacakan"
+   },
+   "duplicateEventRecommendation": {
+      "message": "Periksa implementasi pixel Anda untuk memastikan peristiwa tidak aktif beberapa kali secara tidak disengaja. Hal ini sering terjadi ketika kode peristiwa yang sama dijalankan beberapa kali atau pixel diinisialisasi lebih dari satu kali."
+   },
+   "emptyActionsStateDescriptionPart1": {
+      "message": "Kunjungi"
+   },
+   "emptyActionsStateDescriptionPart2": {
+      "message": "untuk peluang kinerja"
+   },
+   "emptyActionsStateEventsManagerLink": {
+      "message": "Pengelola Peristiwa"
+   },
+   "emptyActionsStateTitle": {
+      "message": "Tidak ada tindakan yang tersedia"
+   },
+   "enableFreeCAPIGButton": {
+      "message": "Aktifkan"
+   },
+   "error_generic": {
+      "message": "Terjadi kesalahan"
+   },
+   "eventDeduplicated": {
+      "message": "Dideduplikasi"
+   },
+   "eventDetailsAdvancedMatchingHeader": {
+      "message": "Parameter Pencocokan Lanjut Dikirim"
+   },
+   "eventDetailsBrowserOnlyAriaLabel": {
+      "message": "Parameter hanya di data browser"
+   },
+   "eventDetailsBrowserOnlyBadge": {
+      "message": "Khusus Browser"
+   },
+   "eventDetailsCustomParamsHeader": {
+      "message": "Parameter kustom"
+   },
+   "eventDetailsDpoHeader": {
+      "message": "Parameter Pemrosesan Data Dikirim"
+   },
+   "eventDetailsDpoWarning": {
+      "message": "Karena Opsi Pemrosesan Data dikirim, konversi kustom atau masukan katalog mungkin tidak berfungsi."
+   },
+   "eventDetailsEventIdLabel": {
+      "message": "ID Peristiwa"
+   },
+   "eventDetailsEventInfoHeader": {
+      "message": "Info peristiwa"
+   },
+   "eventDetailsFrameIFrame": {
+      "message": "IFrame"
+   },
+   "eventDetailsFrameLabel": {
+      "message": "Bingkai"
+   },
+   "eventDetailsFrameWindow": {
+      "message": "Jendela"
+   },
+   "eventDetailsLoadTimeLabel": {
+      "message": "Waktu muat"
+   },
+   "eventDetailsPixelCodeLabel": {
+      "message": "Kode pixel"
+   },
+   "eventDetailsPixelLocationLabel": {
+      "message": "Lokasi pixel"
+   },
+   "eventDetailsServerOnlyAriaLabel": {
+      "message": "Parameter hanya di data server"
+   },
+   "eventDetailsServerOnlyBadge": {
+      "message": "Khusus server"
+   },
+   "eventDetailsSetupMethodAutomatic": {
+      "message": "Otomatis"
+   },
+   "eventDetailsSetupMethodLabel": {
+      "message": "Metode penyiapan"
+   },
+   "eventDetailsSetupMethodManual": {
+      "message": "Manual"
+   },
+   "eventDetailsUrlCalledLabel": {
+      "message": "URL dipanggil"
+   },
+   "eventsHeader": {
+      "message": "Peristiwa"
+   },
+   "eventsOnThisPageHeader": {
+      "message": "Peristiwa di halaman Ini"
+   },
+   "extensionDescription": {
+      "message": "Meta Pixel Helper adalah fitur pemecahan masalah yang membantu Anda memvalidasi penerapan pixel Anda."
+   },
+   "extensionName": {
+      "message": "Meta Pixel Helper"
+   },
+   "feedbackAddButton": {
+      "message": "Tambahkan"
+   },
+   "feedbackAttachScreenshots": {
+      "message": "Lampirkan cuplikan layar"
+   },
+   "feedbackAutomaticScreenshot": {
+      "message": "Cuplikan layar otomatis"
+   },
+   "feedbackDeleteAttachment": {
+      "message": "Hapus lampiran"
+   },
+   "feedbackDescriptionPlaceholder": {
+      "message": "Jelaskan masukan tersebut secara mendetail"
+   },
+   "feedbackDropdownLabel": {
+      "message": "Berikan masukan"
+   },
+   "feedbackErrorScreenshotLabel": {
+      "message": "Cuplikan layar kesalahan"
+   },
+   "feedbackPageDescription": {
+      "message": "Bantu kami melakukan peningkatan dengan melaporkan masalah atau memberikan masukan."
+   },
+   "feedbackPagePrivacyLink": {
+      "message": "Lihat bagaimana kami menggunakan data ini."
+   },
+   "feedbackPageTitle": {
+      "message": "Kirim masukan"
+   },
+   "feedbackReceivedSubTitle": {
+      "message": "Terima kasih telah menjadikan pengalaman ini lebih baik."
+   },
+   "feedbackReceivedTitle": {
+      "message": "Masukan diterima"
+   },
+   "feedbackReturnToPreviousPage": {
+      "message": "Kembali ke halaman sebelumnya"
+   },
+   "feedbackSelectorTypeBug": {
+      "message": "Bug"
+   },
+   "feedbackSelectorTypeFeatureRequest": {
+      "message": "Permintaan fitur"
+   },
+   "feedbackSelectorTypeGeneralFeedback": {
+      "message": "Masukan umum"
+   },
+   "feedbackSelectorTypeQuestion": {
+      "message": "Jenis masukan apa?"
+   },
+   "feedbackStoredLocally": {
+      "message": "Disimpan secara lokal"
+   },
+   "feedbackSubmitButton": {
+      "message": "Kirim"
+   },
+   "feedbackSubmitDisabledTooltip": {
+      "message": "Isi semua kolom yang wajib diisi untuk mengirim masukan"
+   },
+   "feedbackSubmittingButton": {
+      "message": "Mengirim..."
+   },
+   "feedbackTitleLabel": {
+      "message": "Judul masukan"
+   },
+   "feedbackUploadButton": {
+      "message": "Unggah"
+   },
+   "fieldItemCopyTooltip": {
+      "message": "Salin $1"
+   },
+   "fieldItemHide": {
+      "message": "Sembunyikan"
+   },
+   "fieldItemShow": {
+      "message": "Tampilkan"
+   },
+   "freeCapigL2DisableNote": {
+      "message": "Anda bisa menonaktifkan ini kapan saja dari Pengelola Peristiwa."
+   },
+   "freeCapigL2ReturnHome": {
+      "message": "Kembali ke beranda"
+   },
+   "freeCapigL2SeeTermsLabel": {
+      "message": "Lihat ketentuan"
+   },
+   "freeCapigL2SetupStep1": {
+      "message": "Meta menyiapkan koneksi sisi server di latar belakang."
+   },
+   "freeCapigL2SetupStep2": {
+      "message": "Peristiwa pixel Anda akan dicerminkan ke Conversions API secara otomatis"
+   },
+   "freeCapigL2SetupStep3": {
+      "message": "Nikmati peningkatan keandalan pelacakan sisi server!"
+   },
+   "freeCapigL2SuccessExplainerEMLink": {
+      "message": "Pengelola Peristiwa"
+   },
+   "freeCapigL2SuccessExplainerPrefix": {
+      "message": "Perubahan akan mulai berlaku dalam 7 hari ke depan. Jelajahi dan edit perubahan di"
+   },
+   "freeCapigL2SuccessExplainerSuffix": {
+      "message": "kapan saja."
+   },
+   "freeCapigL2SuccessTitle": {
+      "message": "Conversions API diaktifkan"
+   },
+   "freeCapigL2TermsBusinessToolsTermsLink": {
+      "message": "Ketentuan Alat Bisnis"
+   },
+   "freeCapigL2TermsDisclosureMiddle": {
+      "message": "dan"
+   },
+   "freeCapigL2TermsDisclosurePrefix": {
+      "message": "Dengan melanjutkan, Anda dengan ini memberikan wewenang dan menginstruksikan Meta untuk menyiapkan integrasi Conversions API yang didukung Meta atas nama Anda, dan Anda setuju bahwa penggunaan integrasi tersebut akan tunduk pada"
+   },
+   "freeCapigL2TermsPlatformTermsLink": {
+      "message": "Ketentuan Platform"
+   },
+   "freeCapigOptInErrorMessage": {
+      "message": "Tidak bisa mengaktifkan Conversions API. Coba lagi atau siapkan ini dari Pengelola Peristiwa."
+   },
+   "freeCapigOptInLoadingLabel": {
+      "message": "Mengaktifkan..."
+   },
+   "freeCapigOptInSuccessTitle": {
+      "message": "Conversions API diaktifkan!"
+   },
+   "ga_account_creation_title": {
+      "message": "Akun Google Analytics"
+   },
+   "ga_account_display_name_label": {
+      "message": "Nama akun"
+   },
+   "ga_property_creation_title": {
+      "message": "Properti Google Analytics"
+   },
+   "ga_property_display_name_label": {
+      "message": "Nama properti"
+   },
+   "ga_property_time_zone_label": {
+      "message": "Zona waktu"
+   },
+   "ga_stream_creation_title": {
+      "message": "Aliran web Google Analytics"
+   },
+   "ga_stream_display_name_label": {
+      "message": "Nama streaming"
+   },
+   "ga_stream_url_label": {
+      "message": "URL Situs Web"
+   },
+   "go_back": {
+      "message": "Kembali"
+   },
+   "gtmAccountSelectorLabel": {
+      "message": "Akun Google Tag Manager"
+   },
+   "gtmAccountSelectorPlaceholder": {
+      "message": "Pilih akun"
+   },
+   "gtmChooseHostingProvider": {
+      "message": "Pilih provider hosting:"
+   },
+   "gtmCreateNewServerContainer": {
+      "message": "Buat kontainer server baru"
+   },
+   "gtmHostingGoogleBullet1": {
+      "message": "Tidak perlu developer"
+   },
+   "gtmHostingGoogleBullet2": {
+      "message": "~30 menit"
+   },
+   "gtmHostingGoogleBullet3": {
+      "message": "Bayar untuk sumber daya cloud"
+   },
+   "gtmHostingGoogleBullet4": {
+      "message": "Bisa disesuaikan sepenuhnya"
+   },
+   "gtmHostingGoogleDescription": {
+      "message": "Mengintegrasikan secara langsung Google Tag Manager untuk menyederhanakan dan mengelola tag Anda. Bagus untuk mereka yang ingin mengelola tag dengan fitur native Google."
+   },
+   "gtmHostingGoogleLabel": {
+      "message": "Google"
+   },
+   "gtmHostingStapeBullet1": {
+      "message": "Tidak perlu developer"
+   },
+   "gtmHostingStapeBullet2": {
+      "message": "~15 menit"
+   },
+   "gtmHostingStapeBullet3": {
+      "message": "Paket freemium tersedia"
+   },
+   "gtmHostingStapeBullet4": {
+      "message": "Harga berbasis langganan"
+   },
+   "gtmHostingStapeDescription": {
+      "message": "Stape menyederhanakan penyiapan kontainer server dan menangani hosting untuk Anda. Tersedia paket gratis."
+   },
+   "gtmHostingStapeLabel": {
+      "message": "Stape"
+   },
+   "gtmInvalidUrlError": {
+      "message": "Harap masukkan URL yang valid."
+   },
+   "gtmServerConnectionOptionGoogleTagManager": {
+      "message": "Google Tag Manager"
+   },
+   "gtmServerConnectionOptionMetaEnabledCapig": {
+      "message": "Conversions API yang diaktifkan oleh Meta (Direkomendasikan)"
+   },
+   "gtmServerConnectionOptionNone": {
+      "message": "Tidak ada"
+   },
+   "gtmServerContainerLabel": {
+      "message": "Kontainer server"
+   },
+   "gtmServerContainerNotProvisionedWarning": {
+      "message": "Server ini tidak disediakan"
+   },
+   "gtmServerContainerPlaceholder": {
+      "message": "Pilih kontainer server"
+   },
+   "gtmStepAnalyticsStream": {
+      "message": "Aliran analitik"
+   },
+   "gtmStepGtmAccount": {
+      "message": "Akun GTM"
+   },
+   "gtmStepPreExistingTooltip": {
+      "message": "Aset ini sudah ada atau diotomatisasi melalui API."
+   },
+   "gtmStepProvisionedServerContainer": {
+      "message": "Kontainer server yang disediakan"
+   },
+   "gtmStepPublished": {
+      "message": "Diterbitkan"
+   },
+   "gtmStepServerContainer": {
+      "message": "Kontainer server"
+   },
+   "gtmStepWebContainer": {
+      "message": "Kontainer web"
+   },
+   "gtmTaggingServerUrlLabel": {
+      "message": "URL Server Penandaan"
+   },
+   "gtmTaggingServerUrlPlaceholder": {
+      "message": "https://your-tagging-server.example.com"
+   },
+   "gtm_account_creation_title": {
+      "message": "Akun Google Tag Manager"
+   },
+   "gtm_account_name_label": {
+      "message": "Nama akun"
+   },
+   "gtm_action_needed": {
+      "message": "Tindakan diperlukan"
+   },
+   "gtm_api_fetch_accounts_error": {
+      "message": "Gagal mengambil akun. Coba lagi atau periksa akses Google Tag Manager Anda."
+   },
+   "gtm_api_fetch_containers_error": {
+      "message": "Gagal mengambil kontainer untuk akun $1. Coba lagi atau periksa izin Google Tag Manager Anda."
+   },
+   "gtm_api_fetch_data_streams_error": {
+      "message": "Gagal mengambil aliran data untuk properti $1"
+   },
+   "gtm_api_fetch_ga_accounts_error": {
+      "message": "Gagal mengambil akun Google Analytics"
+   },
+   "gtm_api_fetch_ga_properties_error": {
+      "message": "Gagal mengambil properti Google Analytics. Coba lagi atau periksa akses Google Analytics Anda."
+   },
+   "gtm_api_get_token_error": {
+      "message": "Gagal mendapatkan token"
+   },
+   "gtm_api_invalid_token_response": {
+      "message": "Tanggapan token tidak valid"
+   },
+   "gtm_automatic_advanced_matching_label": {
+      "message": "Otomatis cocokkan detail penting pelanggan, yaitu email dan nomor telepon, dari situs web Anda untuk meningkatkan penayangan iklan."
+   },
+   "gtm_availability_load_error": {
+      "message": "Gagal memuat aset Google Tag Manager"
+   },
+   "gtm_availability_no_account_error": {
+      "message": "Tidak ditemukan akun Google Tag Manager."
+   },
+   "gtm_availability_no_web_container_error": {
+      "message": "Tidak ada kontainer web yang ditemukan di Google Tag Manager."
+   },
+   "gtm_capi_token_error": {
+      "message": "Gagal membuat token akses Conversions API. Pastikan Anda adalah admin bisnis untuk pixel ini."
+   },
+   "gtm_dataset_label": {
+      "message": "Set data"
+   },
+   "gtm_fetch_accounts_fallback_error": {
+      "message": "Gagal mengambil akun"
+   },
+   "gtm_fetch_containers_fallback_error": {
+      "message": "Gagal mengambil kontainer"
+   },
+   "gtm_fetch_google_analytics_accounts_fallback_error": {
+      "message": "Gagal mengambil akun Google Analytics"
+   },
+   "gtm_fetch_google_analytics_properties_fallback_error": {
+      "message": "Gagal mengambil properti Google Analytics"
+   },
+   "gtm_fetch_google_analytics_web_streams_fallback_error": {
+      "message": "Gagal mengambil stream web Google Analytics"
+   },
+   "gtm_fetch_server_containers_fallback_error": {
+      "message": "Gagal mengambil kontainer server Google Tag Manager"
+   },
+   "gtm_ga4_data_stream_label": {
+      "message": "Aliran data Google Analytics"
+   },
+   "gtm_ga4_web_stream_toggle_label": {
+      "message": "Teruskan peristiwa Google Analytics"
+   },
+   "gtm_ga_account_label": {
+      "message": "Akun Google Analytics"
+   },
+   "gtm_ga_account_placeholder": {
+      "message": "Pilih akun Google Analytics"
+   },
+   "gtm_ga_data_stream_placeholder": {
+      "message": "Pilih aliran data"
+   },
+   "gtm_google_auth_warning_body": {
+      "message": "Sepertinya sesi Google Anda sudah idle selama penyiapan. Login kembali untuk melanjutkan dari bagian terakhir yang Anda tinggalkan."
+   },
+   "gtm_google_auth_warning_primary_cta": {
+      "message": "Login"
+   },
+   "gtm_google_auth_warning_title": {
+      "message": "Login kembali ke Google untuk melanjutkan"
+   },
+   "gtm_next_step_back_aria_label": {
+      "message": "Kembali"
+   },
+   "gtm_next_step_confirm_button": {
+      "message": "Konfirmasi"
+   },
+   "gtm_next_step_event_setup_description": {
+      "message": "Alat penyiapan Peristiwa memungkinkan Anda memilih peristiwa konversi, yaitu pembelian atau penambahan ke keranjang belanja, langsung dari halaman situs web Anda dan mengirimkannya dengan aman ke Meta."
+   },
+   "gtm_next_step_event_setup_title": {
+      "message": "Kirim peristiwa konversi utama ke Meta"
+   },
+   "gtm_next_step_eyebrow": {
+      "message": "Tindakan diperlukan"
+   },
+   "gtm_next_step_manual_setup_title": {
+      "message": "Penyiapan manual"
+   },
+   "gtm_next_step_missing_pixel_error": {
+      "message": "Pilih ID set data untuk melanjutkan."
+   },
+   "gtm_next_step_missing_url_error": {
+      "message": "Untuk melanjutkan, masukkan URL situs web"
+   },
+   "gtm_next_step_nav_title": {
+      "message": "Hubungkan data Anda dengan aman"
+   },
+   "gtm_next_step_title": {
+      "message": "Hubungkan data Anda dengan aman"
+   },
+   "gtm_next_step_website_url_label": {
+      "message": "URL Situs Web"
+   },
+   "gtm_next_step_website_url_placeholder": {
+      "message": "Masukkan URL situs web"
+   },
+   "gtm_pixel_business_fetch_error": {
+      "message": "Tidak bisa mengambil informasi pixel untuk pixel $1. Anda mungkin tidak memiliki izin untuk mengakses pixel ini. Detail: $2"
+   },
+   "gtm_pixel_business_load_error": {
+      "message": "Set data $1 tidak bisa dimuat. Pastikan ID Set data sudah benar dan Anda memiliki izin untuk melihatnya."
+   },
+   "gtm_pixel_business_no_business_error": {
+      "message": "Pixel $1 tidak memiliki bisnis pemilik. Pixel harus diklaim oleh bisnis untuk membuat token akses Conversions API."
+   },
+   "gtm_pixel_dataset_id_label": {
+      "message": "ID Set Data"
+   },
+   "gtm_pixel_detected_on_page": {
+      "message": "Terdeteksi di halaman"
+   },
+   "gtm_pixel_load_more": {
+      "message": "Muat pixel lainnya..."
+   },
+   "gtm_pixel_no_pixels_detected": {
+      "message": "Tidak ada pixel yang terdeteksi di halaman ini. Masukkan ID Set Data secara manual."
+   },
+   "gtm_pixel_no_pixels_found": {
+      "message": "Tidak ditemukan piksel"
+   },
+   "gtm_pixel_picker_dataset_id_numeric_error": {
+      "message": "ID set data harus berupa numerik"
+   },
+   "gtm_pixel_picker_dataset_id_placeholder": {
+      "message": "Masukkan ID set data"
+   },
+   "gtm_pixel_picker_enter_manually": {
+      "message": "Masukkan secara manual"
+   },
+   "gtm_pixel_search_placeholder": {
+      "message": "Cari piksel"
+   },
+   "gtm_pixel_select_placeholder": {
+      "message": "Pilih pixel"
+   },
+   "gtm_pixel_your_pixels": {
+      "message": "Piksel Anda"
+   },
+   "gtm_publish_asset_preparation_failed": {
+      "message": "Persiapan aset gagal"
+   },
+   "gtm_publish_asset_preparation_missing_ids": {
+      "message": "Persiapan aset selesai tanpa ID yang siap diterbitkan"
+   },
+   "gtm_publish_automatic_advanced_matching_progress": {
+      "message": "Mengaktifkan pencocokan lanjut otomatis..."
+   },
+   "gtm_publish_automatic_advanced_matching_warning": {
+      "message": "Pencocokan lanjut otomatis tidak bisa diaktifkan, tetapi tag Google Tag Manager diterbitkan."
+   },
+   "gtm_publish_completed_with_warnings_title": {
+      "message": "Diterbitkan dengan peringatan"
+   },
+   "gtm_publish_confirm_button": {
+      "message": "Konfirmasi"
+   },
+   "gtm_publish_create_ga_account_and_property_progress": {
+      "message": "Membuat akun dan properti Google Analytics..."
+   },
+   "gtm_publish_create_ga_property_progress": {
+      "message": "Membuat properti Google Analytics..."
+   },
+   "gtm_publish_create_ga_stream_progress": {
+      "message": "Membuat stream web Google Analytics..."
+   },
+   "gtm_publish_create_gtm_account_and_web_container_progress": {
+      "message": "Membuat akun Google Tag Manager dan kontainer web..."
+   },
+   "gtm_publish_create_server_container_progress": {
+      "message": "Membuat kontainer server..."
+   },
+   "gtm_publish_create_version_error": {
+      "message": "Gagal membuat versi kontainer $1"
+   },
+   "gtm_publish_create_web_container_progress": {
+      "message": "Membuat kontainer web..."
+   },
+   "gtm_publish_failed_title": {
+      "message": "Gagal menerbitkan"
+   },
+   "gtm_publish_fetch_pixel_business_progress": {
+      "message": "Mengambil info bisnis pixel..."
+   },
+   "gtm_publish_free_capig_opt_in_progress": {
+      "message": "Menyiapkan Conversions API yang diaktifkan Meta..."
+   },
+   "gtm_publish_free_capig_opt_in_warning": {
+      "message": "Conversions API yang diaktifkan Meta tidak bisa disiapkan, tetapi tag Google Tag Manager sudah diterbitkan."
+   },
+   "gtm_publish_ga_account_recipe_flow_error": {
+      "message": "Pembuatan akun Google Analytics memerlukan alur berbasis resep"
+   },
+   "gtm_publish_generate_capi_token_progress": {
+      "message": "Membuat token akses Conversions API..."
+   },
+   "gtm_publish_google_tag_manager_missing_ga_measurement_id": {
+      "message": "ID Pengukuran Google Analytics"
+   },
+   "gtm_publish_google_tag_manager_missing_requirements": {
+      "message": "Koneksi server Google Tag Manager tidak ada: $1"
+   },
+   "gtm_publish_google_tag_manager_missing_server_container": {
+      "message": "Kontainer Server Google Tag Manager"
+   },
+   "gtm_publish_google_tag_manager_missing_tagging_server_url": {
+      "message": "URL server penandaan"
+   },
+   "gtm_publish_gtm_account_recipe_flow_error": {
+      "message": "Pembuatan akun Google Tag Manager memerlukan alur berbasis aturan baku"
+   },
+   "gtm_publish_missing_ga_account_draft": {
+      "message": "Tidak ada draf akun Google Analytics"
+   },
+   "gtm_publish_missing_ga_account_for_property": {
+      "message": "Tidak ada akun Google Analytics yang dipilih untuk pembuatan properti"
+   },
+   "gtm_publish_missing_ga_property_draft": {
+      "message": "Tidak ada draf properti Google Analytics"
+   },
+   "gtm_publish_missing_ga_property_for_stream": {
+      "message": "Tidak ada properti Google Analytics yang dipilih untuk pembuatan streaming"
+   },
+   "gtm_publish_missing_ga_stream_draft": {
+      "message": "Tidak ada draf aliran Google Analytics"
+   },
+   "gtm_publish_missing_google_auth": {
+      "message": "Tidak diautentikasi dengan Google"
+   },
+   "gtm_publish_missing_gtm_account_draft": {
+      "message": "Tidak ada draf akun Google Tag Manager"
+   },
+   "gtm_publish_missing_gtm_account_for_server_container": {
+      "message": "Tidak ada akun Google Tag Manager yang dipilih untuk pembuatan kontainer server"
+   },
+   "gtm_publish_missing_gtm_account_for_web_container": {
+      "message": "Tidak ada akun Google Tag Manager yang dipilih untuk pembuatan kontainer web"
+   },
+   "gtm_publish_missing_pixel_id": {
+      "message": "Tidak ada ID Set Data yang dipilih"
+   },
+   "gtm_publish_missing_required_asset": {
+      "message": "$1 tidak ada. Tambahkan melalui \"Buat baru\" atau pilih yang sudah ada."
+   },
+   "gtm_publish_missing_required_assets_error": {
+      "message": "Aset yang diperlukan tidak ada: $1"
+   },
+   "gtm_publish_missing_requirements_title": {
+      "message": "Persyaratan tidak terpenuhi:"
+   },
+   "gtm_publish_missing_server_container_draft": {
+      "message": "Tidak ada draf kontainer server"
+   },
+   "gtm_publish_missing_web_container_draft": {
+      "message": "Tidak ada draf kontainer web"
+   },
+   "gtm_publish_no_workspaces_error": {
+      "message": "Tidak ada workspace yang ditemukan untuk kontainer $1 di $2. Buat workspace di Google Tag Manager, lalu coba lagi."
+   },
+   "gtm_publish_pixel_label": {
+      "message": "ID Set Data: $1"
+   },
+   "gtm_publish_prepare_assets_progress": {
+      "message": "Mempersiapkan aset..."
+   },
+   "gtm_publish_progress_complete": {
+      "message": "Penerbitan selesai."
+   },
+   "gtm_publish_progress_creating_datalayer_variables": {
+      "message": "Membuat variabel lapisan data..."
+   },
+   "gtm_publish_progress_creating_pixel_template_tag": {
+      "message": "Membuat tag template pixel..."
+   },
+   "gtm_publish_progress_creating_server_action_source": {
+      "message": "Membuat variabel sumber tindakan sisi server..."
+   },
+   "gtm_publish_progress_creating_server_tag": {
+      "message": "Membuat tag server-side..."
+   },
+   "gtm_publish_progress_creating_server_trigger": {
+      "message": "Membuat trigger server-side..."
+   },
+   "gtm_publish_progress_creating_web_tags": {
+      "message": "Membuat tag web..."
+   },
+   "gtm_publish_progress_creating_web_tags_web_only": {
+      "message": "Membuat tag web..."
+   },
+   "gtm_publish_progress_creating_web_triggers": {
+      "message": "Membuat trigger web..."
+   },
+   "gtm_publish_progress_enabling_builtin_variables": {
+      "message": "Mengaktifkan variabel bawaan..."
+   },
+   "gtm_publish_progress_getting_web_workspace": {
+      "message": "Mendapatkan workspace web..."
+   },
+   "gtm_publish_progress_getting_workspaces": {
+      "message": "Mendapatkan workspace..."
+   },
+   "gtm_publish_progress_importing_web_pixel_template": {
+      "message": "Mengimpor template pixel web..."
+   },
+   "gtm_publish_progress_pixel_template_complete": {
+      "message": "Penerbitan template pixel selesai."
+   },
+   "gtm_publish_progress_publishing_server_container": {
+      "message": "Menerbitkan kontainer server..."
+   },
+   "gtm_publish_progress_publishing_web_container": {
+      "message": "Menerbitkan kontainer web..."
+   },
+   "gtm_publish_progress_setting_up_server_template": {
+      "message": "Menyiapkan template server-side..."
+   },
+   "gtm_publish_progress_web_only_complete": {
+      "message": "Penerbitan khusus web selesai."
+   },
+   "gtm_publish_published_button": {
+      "message": "Diterbitkan"
+   },
+   "gtm_publish_publishing_button": {
+      "message": "Menerbitkan..."
+   },
+   "gtm_publish_server_container_no_url_notice": {
+      "message": "Kontainer server akan dibuat, tetapi penandaan sisi server tidak akan diterbitkan hingga URL server penandaan tersedia."
+   },
+   "gtm_publish_success_message": {
+      "message": "Tag berhasil diterbitkan!"
+   },
+   "gtm_publish_unsupported_draft_asset": {
+      "message": "Pembuatan draf $1 selama penerbitan belum didukung"
+   },
+   "gtm_publish_web_only_notice": {
+      "message": "Tidak ada kontainer server yang dipilih. Menerbitkan penyiapan web-saja. Anda bisa menambahkan dan menerbitkan kontainer server nanti."
+   },
+   "gtm_reauthenticate": {
+      "message": "Autentikasi ulang"
+   },
+   "gtm_review_setup_and_publish": {
+      "message": "Tinjau penyiapan Anda dan terbitkan"
+   },
+   "gtm_setup_authenticate_button": {
+      "message": "Autentikasi & ambil akun"
+   },
+   "gtm_setup_button": {
+      "message": "Penyiapan"
+   },
+   "gtm_setup_header_title": {
+      "message": "Hubungkan data Anda dengan aman"
+   },
+   "gtm_setup_required_message": {
+      "message": "Anda harus menyiapkan kontainer web di Google Tag Manager untuk melanjutkan"
+   },
+   "gtm_setup_required_primary_cta": {
+      "message": "Buka Google Tag Manager"
+   },
+   "gtm_setup_required_secondary_cta": {
+      "message": "Coba lagi"
+   },
+   "gtm_setup_settings": {
+      "message": "Pengaturan penyiapan"
+   },
+   "gtm_setup_summary_description": {
+      "message": "Memungkinkan penerapan dan pengelolaan tag dengan mulus, sehingga pelacakan peristiwa menjadi efisien tanpa memerlukan kode untuk hasil iklan yang lebih baik."
+   },
+   "gtm_setup_warning_loading_label": {
+      "message": "Memuat…"
+   },
+   "gtm_web_container_label": {
+      "message": "Kontainer web"
+   },
+   "gtm_web_container_placeholder": {
+      "message": "Pilih kontainer web"
+   },
+   "guidanceEventsAffectedBadge": {
+      "message": "$1% peristiwa terdampak"
+   },
+   "guidanceMoreIssuesPlural": {
+      "message": "$1 masalah lainnya"
+   },
+   "guidanceMoreIssuesSingular": {
+      "message": "$1 masalah lainnya"
+   },
+   "guidanceViewAllButton": {
+      "message": "Lihat semua"
+   },
+   "guidanceViewButton": {
+      "message": "Tampilan"
+   },
+   "highlightTooltipChooseAccount": {
+      "message": "Pilih akun untuk login"
+   },
+   "highlightTooltipClickToContinue": {
+      "message": "Klik di sini untuk melanjutkan"
+   },
+   "highlightTooltipSelectAll": {
+      "message": "Pilih semua"
+   },
+   "idLabel": {
+      "message": "ID: $1"
+   },
+   "islandActionFailedMessage": {
+      "message": "Selesaikan tindakan secara manual untuk melanjutkan"
+   },
+   "islandActionRequiredMessage": {
+      "message": "Selesaikan tindakan untuk melanjutkan"
+   },
+   "learnAboutManualAdvancedMatching": {
+      "message": "Pelajari tentang Pencocokan Lanjut Manual"
+   },
+   "learnAboutValueAndCurrencyParameters": {
+      "message": "Tetapkan nilai dan mata uang di Meta Pixel"
+   },
+   "learnHowToSetupAdvancedMatchingManually": {
+      "message": "Pelajari cara menyiapkan pencocokan lanjut secara manual"
+   },
+   "learnMoreLink": {
+      "message": "Pelajari selengkapnya"
+   },
+   "loadingText": {
+      "message": "Memuat..."
+   },
+   "loginPageButtonCreateAccount": {
+      "message": "Buat akun baru"
+   },
+   "loginPageButtonLogin": {
+      "message": "Login dengan Facebook"
+   },
+   "loginPageButtonMMALogin": {
+      "message": "Login dengan akun Meta terkelola"
+   },
+   "loginPageDescription": {
+      "message": "untuk dukungan yang dipersonalisasi dengan pengaturan peristiwa Anda"
+   },
+   "loginPageSubtitle": {
+      "message": "Login ke fitur bisnis dari Meta"
+   },
+   "loginPageTitle": {
+      "message": "Meta Pixel Helper"
+   },
+   "mamStepExampleLabel": {
+      "message": "Contoh: $1"
+   },
+   "metaLogoAlt": {
+      "message": "Meta"
+   },
+   "metaSignalHelperLogoAlt": {
+      "message": "Meta Pixel Helper"
+   },
+   "missingEventsActiveSessionTooltip": {
+      "message": "Penyiapan peristiwa sedang berlangsung"
+   },
+   "missingEventsTabSwitchTooltip": {
+      "message": "Beralih kembali ke tab tempat Anda memulai penyiapan peristiwa"
+   },
+   "moreInformationHeader": {
+      "message": "Informasi lebih lanjut"
+   },
+   "moreLabel": {
+      "message": "+ $1 lainnya"
+   },
+   "newFeaturesBannerLearnMore": {
+      "message": "Pelajari selengkapnya"
+   },
+   "newFeaturesBannerText": {
+      "message": "Fitur otomatisasi baru tersedia untuk membantu Anda menyiapkan alat canggih dengan cepat."
+   },
+   "nextStepsHeader": {
+      "message": "Langkah berikutnya"
+   },
+   "noEventsOnThisPageMessage": {
+      "message": "Tidak ada peristiwa pada halaman ini. Klik \"Tampilkan semua peristiwa\" untuk melihat peristiwa dari halaman lain."
+   },
+   "noPixelsFoundCardHeader": {
+      "message": "Pixel tidak ditemukan di halaman ini"
+   },
+   "onThisPageHeader": {
+      "message": "Di halaman ini"
+   },
+   "optionalLabel": {
+      "message": "· Opsional"
+   },
+   "overlayActionCompletedTitle": {
+      "message": "Tindakan selesai"
+   },
+   "overlayCloseButton": {
+      "message": "Tutup"
+   },
+   "overlayDatasetCountPlural": {
+      "message": "Beberapa set data"
+   },
+   "overlayDatasetCountSingular": {
+      "message": "1 set data"
+   },
+   "overlayDescriptionPluralActions": {
+      "message": "$1 tindakan yang bisa Anda lakukan"
+   },
+   "overlayDescriptionPluralPixelsPluralActions": {
+      "message": "Ada $1 pixel di halaman ini dan $2 tindakan yang bisa Anda lakukan."
+   },
+   "overlayDescriptionPluralPixelsSingularAction": {
+      "message": "Ada $1 pixel di halaman ini dan 1 tindakan yang bisa Anda lakukan."
+   },
+   "overlayDescriptionSingularAction": {
+      "message": "Kami menemukan optimasi untuk Anda:"
+   },
+   "overlayDescriptionSingularPixelPluralActions": {
+      "message": "Ada 1 pixel di halaman ini dan $1 tindakan yang bisa Anda lakukan."
+   },
+   "overlayDescriptionSingularPixelSingularAction": {
+      "message": "Ada 1 pixel di halaman ini dan 1 tindakan yang bisa Anda lakukan."
+   },
+   "overlayFreeCapigEnabledLabel": {
+      "message": "Diaktifkan"
+   },
+   "overlayGoBackButton": {
+      "message": "Kembali"
+   },
+   "overlayGreetingAfternoon": {
+      "message": "Selamat sore, $1"
+   },
+   "overlayGreetingEvening": {
+      "message": "Selamat malam, $1"
+   },
+   "overlayGreetingMorning": {
+      "message": "Selamat pagi, $1"
+   },
+   "overlayGtmSetupForMeCta": {
+      "message": "Siapkan untuk saya"
+   },
+   "overlayNotificationSettingsButton": {
+      "message": "Pengaturan notifikasi"
+   },
+   "overlayNotificationSettingsDescription": {
+      "message": "Pilih bagaimana Anda ingin menerima notifikasi terkait peningkatan penyiapan Anda. Anda juga bisa mengubah ini kapan saja di halaman beranda dengan mengklik ikon lonceng."
+   },
+   "overlayNotificationSettingsTitle": {
+      "message": "Pengaturan notifikasi"
+   },
+   "overlayNotificationsToggleDescription": {
+      "message": "Tampilkan notifikasi di halaman dengan pixel Anda"
+   },
+   "overlayNotificationsToggleLabel": {
+      "message": "Notifikasi"
+   },
+   "overlayTitle": {
+      "message": "Meta Pixel Helper"
+   },
+   "overlayToggleDescription": {
+      "message": "Tampilkan tindakan berdasarkan konteks dan status Pixel Anda saat Anda menelusuri."
+   },
+   "overlayToggleOff": {
+      "message": "Notifikasi kontekstual tidak aktif"
+   },
+   "overlayToggleOn": {
+      "message": "Notifikasi kontekstual aktif"
+   },
+   "overlayViewAllButton": {
+      "message": "Lihat semua"
+   },
+   "overlayViewDatasetsButton": {
+      "message": "Lihat Set Data"
+   },
+   "pageIssueHeaderPlural": {
+      "message": "$1 Peringatan ditemukan di halaman ini"
+   },
+   "pageIssueHeaderSingular": {
+      "message": "Peringatan ditemukan di halaman ini"
+   },
+   "pinExtensionBannerCta": {
+      "message": "Sematkan ke bilah alat"
+   },
+   "pinExtensionBannerDescription": {
+      "message": "Sematkan Meta Signal Helper ke bilah alat Anda untuk akses cepat."
+   },
+   "pinExtensionBannerTitle": {
+      "message": "Sematkan ekstensi ini"
+   },
+   "pixelBackButton": {
+      "message": "Kembali"
+   },
+   "pixelCopyIdTitle": {
+      "message": "Salin ID Set Data"
+   },
+   "pixelCopyIdTooltip": {
+      "message": "Salin ID Set Data"
+   },
+   "pixelCustomConversionBadge": {
+      "message": "Konversi Kustom"
+   },
+   "pixelErrorCommonStep1": {
+      "message": "Buka kode situs web Anda."
+   },
+   "pixelErrorConflictingVersionsCardTitle": {
+      "message": "Hapus pixel lama atau yang berkonflik"
+   },
+   "pixelErrorConflictingVersionsExample": {
+      "message": "Contoh: n.version='2.0'"
+   },
+   "pixelErrorConflictingVersionsMessage": {
+      "message": "Hapus pixel lama atau yang berkonflik"
+   },
+   "pixelErrorConflictingVersionsRecommendation": {
+      "message": "Beberapa pixel dengan versi yang berkonflik terdeteksi di halaman ini. Gunakan hanya satu versi Meta Pixel."
+   },
+   "pixelErrorConflictingVersionsStep2": {
+      "message": "Cari **n.version='** di kode dasar penginstalan pixel Anda"
+   },
+   "pixelErrorConflictingVersionsStep3": {
+      "message": "Pastikan versi sama untuk semua pixel"
+   },
+   "pixelErrorDuplicatePixelIdCardTitle": {
+      "message": "Hapus ID Set Data duplikat"
+   },
+   "pixelErrorDuplicatePixelIdMessage": {
+      "message": "Hapus ID Set Data duplikat"
+   },
+   "pixelErrorDuplicatePixelIdRecommendation": {
+      "message": "Anda memiliki ID Set Data duplikat: $1. Setiap pixel hanya boleh diinisialisasi sekali per halaman untuk menghindari data duplikat."
+   },
+   "pixelErrorDuplicatePixelIdStep2": {
+      "message": "Cari **fbq('init', $1)** di kode dasar penginstalan pixel Anda"
+   },
+   "pixelErrorDuplicatePixelIdStep3": {
+      "message": "Hapus duplikat **fbq('init', $1)**"
+   },
+   "pixelErrorFbqNoMethodNameCardTitle": {
+      "message": "Nama metode tidak ada dalam panggilan fbq()"
+   },
+   "pixelErrorFbqNoMethodNameExample": {
+      "message": "Contoh: fbq('track', 'PageView')"
+   },
+   "pixelErrorFbqNoMethodNameMessage": {
+      "message": "Sediakan argumen untuk fbq{}"
+   },
+   "pixelErrorFbqNoMethodNameRecommendation": {
+      "message": "Berikan nama metode saat memanggil fbq(). Contoh: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorFbqNoMethodNameStep2": {
+      "message": "Cari panggilan fbq() yang tidak memiliki nama metode."
+   },
+   "pixelErrorFbqNoMethodNameStep3": {
+      "message": "Tambahkan nama metode yang valid seperti 'track' atau 'init' sebagai argumen pertama."
+   },
+   "pixelErrorInvalidConsentActionCardTitle": {
+      "message": "Kirim tindakan persetujuan yang valid"
+   },
+   "pixelErrorInvalidConsentActionMessage": {
+      "message": "Kirim tindakan persetujuan yang valid"
+   },
+   "pixelErrorInvalidConsentActionRecommendation": {
+      "message": "\"fbq('$1', ...);\" bukan tindakan fbq('consent', ...) yang valid. Tindakan persetujuan yang valid adalah \"grant\" dan \"revoke\". Periksa implementasi pengelolaan persetujuan Anda."
+   },
+   "pixelErrorInvalidConsentActionStep2": {
+      "message": "Cari **fbq('$1', ...)**"
+   },
+   "pixelErrorInvalidConsentActionStep3": {
+      "message": "Perbarui nama metode ke **revoke** atau **grant**"
+   },
+   "pixelErrorInvalidEventIdFormatCardTitle": {
+      "message": "Tambahkan nilai string untuk eventID"
+   },
+   "pixelErrorInvalidEventIdFormatMessage": {
+      "message": "Tambahkan nilai string untuk eventID"
+   },
+   "pixelErrorInvalidEventIdFormatRecommendation": {
+      "message": "Jenis eventID salah untuk ID Set Data: $1 untuk peristiwa '$2'. Parameter eventID harus berupa string. Contoh: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorInvalidEventIdFormatRecommendationGeneric": {
+      "message": "Jenis eventID salah untuk ID Set Data: $1. Parameter eventID harus berupa string. Contoh: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'}})."
+   },
+   "pixelErrorInvalidEventIdFormatStep2": {
+      "message": "Cari **fbq('track', '$1', ..., {eventID: ...})** dan periksa apakah eventID adalah string"
+   },
+   "pixelErrorInvalidEventIdFormatStep2Generic": {
+      "message": "Cari **fbq('track', ..., {eventID: ...})** dan periksa apakah eventID adalah string"
+   },
+   "pixelErrorInvalidEventIdFormatStep3": {
+      "message": "Ubah nilai eventID ke jenis string"
+   },
+   "pixelErrorInvalidFbqMethodCardTitle": {
+      "message": "Metode tidak valid dalam panggilan fbq()"
+   },
+   "pixelErrorInvalidFbqMethodExample": {
+      "message": "Metode yang valid: 'init', 'track', 'trackCustom', 'trackSingle', 'trackSingleCustom'"
+   },
+   "pixelErrorInvalidFbqMethodMessage": {
+      "message": "Gunakan perintah fbq yang valid"
+   },
+   "pixelErrorInvalidFbqMethodParameterCardTitle": {
+      "message": "Perbarui format parameter"
+   },
+   "pixelErrorInvalidFbqMethodParameterExample": {
+      "message": "Contoh: fbq('init', '123456789', {em: 'user@example.com', ph: '1234567890'}); // user_data harus berupa objek"
+   },
+   "pixelErrorInvalidFbqMethodParameterMessage": {
+      "message": "Cocokkan parameter dengan format yang diharapkan"
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendation": {
+      "message": "Panggilan ke \"fbq('$1', $2);\" dengan parameter \"$3\" nilai tidak valid yang berupa \"$4\"."
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendationSimple": {
+      "message": "Parameter metode fbq() tidak valid."
+   },
+   "pixelErrorInvalidFbqMethodParameterStep2": {
+      "message": "Cari **fbq('$1', $2);**"
+   },
+   "pixelErrorInvalidFbqMethodParameterStep3": {
+      "message": "Perbarui **$1** ke nama parameter yang valid"
+   },
+   "pixelErrorInvalidFbqMethodRecommendation": {
+      "message": "\"fbq('$1', ...);\" bukanlah perintah fbq yang valid. Gunakan metode fbq yang valid seperti \"init\", \"track\", \"trackCustom\"."
+   },
+   "pixelErrorInvalidFbqMethodStep2": {
+      "message": "Cari panggilan fbq() dengan metode tidak valid '$1'."
+   },
+   "pixelErrorInvalidFbqMethodStep3": {
+      "message": "Ganti dengan nama metode yang valid seperti 'track', 'init', atau 'trackCustom'."
+   },
+   "pixelErrorInvalidJsonLdCardTitle": {
+      "message": "Perbarui format JSON-LD"
+   },
+   "pixelErrorInvalidJsonLdMessage": {
+      "message": "Pastikan JSON-LD diformat dengan benar dan valid"
+   },
+   "pixelErrorInvalidJsonLdRecommendation": {
+      "message": "Tidak bisa melakukan parsing tag JSON-LD. JSON yang salah ditemukan: '$1'. Pastikan markup JSON-LD diformat dengan benar dan valid sebelum dikirim ke pixel."
+   },
+   "pixelErrorInvalidJsonLdStep2": {
+      "message": "Cari **$1**"
+   },
+   "pixelErrorInvalidJsonLdStep3": {
+      "message": "Perbaiki format dan pastikan format JSON yang diterapkan valid"
+   },
+   "pixelErrorInvalidParamCardTitle": {
+      "message": "Perbarui parameter yang tidak valid untuk peristiwa Anda"
+   },
+   "pixelErrorInvalidParamExample": {
+      "message": "Contoh: fbq('track', 'Purchase', {currency: 'USD', value: 30.00})"
+   },
+   "pixelErrorInvalidParamFormatCardTitle": {
+      "message": "Perbarui format parameter Anda"
+   },
+   "pixelErrorInvalidParamFormatExample": {
+      "message": "Parameter umum: value, currency, content_ids, content_type, dsb. Daftar lengkap di wiki: https://developers.facebook.com/docs/meta-pixel/reference/"
+   },
+   "pixelErrorInvalidParamFormatMessage": {
+      "message": "Perbarui format parameter Anda"
+   },
+   "pixelErrorInvalidParamFormatRecommendation": {
+      "message": "Format parameter tidak valid untuk $1."
+   },
+   "pixelErrorInvalidParamFormatStep2": {
+      "message": "Cari **$1**"
+   },
+   "pixelErrorInvalidParamMessage": {
+      "message": "Hapus atau perbarui parameter yang tidak valid untuk peristiwa Anda"
+   },
+   "pixelErrorInvalidParamRecommendation": {
+      "message": "Parameter '$1' tidak valid untuk peristiwa '$2'."
+   },
+   "pixelErrorInvalidParamStep2": {
+      "message": "Cari **fbq('track', $1, ...)**"
+   },
+   "pixelErrorInvalidParamStep3": {
+      "message": "Hapus atau perbarui $1"
+   },
+   "pixelErrorInvalidPixelIdCardTitle": {
+      "message": "Tambahkan ID Set Data yang valid"
+   },
+   "pixelErrorInvalidPixelIdMessage": {
+      "message": "Tambahkan ID Set Data yang valid"
+   },
+   "pixelErrorInvalidPixelIdRecommendation": {
+      "message": "ID Set Data Anda $1 tidak valid. Pastikan ID sudah benar di Pengelola Peristiwa Meta dan perbarui kode pixel."
+   },
+   "pixelErrorInvalidPixelIdStep2": {
+      "message": "Cari **fbq('init', $1)** di kode dasar penginstalan pixel Anda"
+   },
+   "pixelErrorInvalidPixelIdStep3": {
+      "message": "Ganti '$1' dengan kode yang valid yang bisa ditemukan di Pengelola Peristiwa Meta"
+   },
+   "pixelErrorMultiplePixelsCardTitle": {
+      "message": "Gabungkan menjadi satu Meta Pixel"
+   },
+   "pixelErrorMultiplePixelsMessage": {
+      "message": "Gabungkan menjadi satu Meta Pixel"
+   },
+   "pixelErrorMultiplePixelsRecommendation": {
+      "message": "Beberapa pixel terdeteksi di halaman ini. Beberapa pixel bisa menunjukkan masalah penyiapan dan mencegah pelacakan peristiwa yang lancar."
+   },
+   "pixelErrorMultiplePixelsStep2": {
+      "message": "Cari **fbq('init', ...)** di kode dasar penginstalan pixel Anda"
+   },
+   "pixelErrorMultiplePixelsStep3": {
+      "message": "Hapus semua kecuali satu pixel. Pastikan Anda memperbarui kampanye Anda jika ada pixel duplikat yang digunakan"
+   },
+   "pixelErrorNegativeEventParamCardTitle": {
+      "message": "Tambahkan nilai positif ke $1"
+   },
+   "pixelErrorNegativeEventParamMessage": {
+      "message": "Periksa $1 data peristiwa Anda"
+   },
+   "pixelErrorNegativeEventParamRecommendation": {
+      "message": "Parameter '$1' berupa nilai negatif untuk peristiwa '$2'. Parameter peristiwa seperti nilai, jumlah, dsb. tidak boleh negatif."
+   },
+   "pixelErrorNegativeEventParamStep2": {
+      "message": "Cari **fbq('track', $1)**"
+   },
+   "pixelErrorNegativeEventParamStep3": {
+      "message": "Perbarui nilai ke angka positif"
+   },
+   "pixelErrorNoEventIdCardTitle": {
+      "message": "Tambahkan ID peristiwa"
+   },
+   "pixelErrorNoEventIdMessage": {
+      "message": "Sertakan ID peristiwa untuk pelacakan dan deduplikasi"
+   },
+   "pixelErrorNoEventIdRecommendation": {
+      "message": "Kami mendeteksi eventID yang null atau kosong dari parameter ke-4 untuk ID Set Data: $1. Sertakan ID peristiwa. Contoh: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorNoEventIdStep2": {
+      "message": "Cari **fbq('track', ..., ..., ..., {})** dan cari di mana parameter ke-4 atau eventID yang kosong"
+   },
+   "pixelErrorNoEventIdStep3": {
+      "message": "Tentukan eventID atau hapus parameter ke-4"
+   },
+   "pixelErrorNoEventNameCardTitle": {
+      "message": "Tambahkan nama peristiwa"
+   },
+   "pixelErrorNoEventNameExample": {
+      "message": "Contoh: fbq('track', 'AddToCart')"
+   },
+   "pixelErrorNoEventNameMessage": {
+      "message": "Tambahkan nama peristiwa untuk melacak peristiwa Anda"
+   },
+   "pixelErrorNoEventNameRecommendation": {
+      "message": "Nama peristiwa tidak ada. Lacak peristiwa harus dicatat dengan nama peristiwa fbq(\"track\", eventName). Contoh: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorNoEventNameStep2": {
+      "message": "Cari **fbq('track', '', ...)** atau **fbq('track', ' ', ...)**"
+   },
+   "pixelErrorNoEventNameStep3": {
+      "message": "Tambahkan nama peristiwa"
+   },
+   "pixelErrorNonstandardEventCardTitle": {
+      "message": "Perbarui peristiwa nonstandar Anda"
+   },
+   "pixelErrorNonstandardEventMessage": {
+      "message": "Kirim peristiwa non-standar Anda menggunakan trackCustom"
+   },
+   "pixelErrorNonstandardEventRecommendation": {
+      "message": "Anda mengirim peristiwa non-standar '$1'. Kirim peristiwa ini menggunakan trackCustom. Panggil fbq('trackCustom', ...) saja."
+   },
+   "pixelErrorNonstandardEventStep2": {
+      "message": "Cari **fbq('track', $1)**"
+   },
+   "pixelErrorNonstandardEventStep3": {
+      "message": "Ganti dengan **fbq('trackCustom', $1)**"
+   },
+   "pixelErrorPiiInvalidTypeCardTitle": {
+      "message": "Hapus info pelanggan yang tidak valid"
+   },
+   "pixelErrorPiiInvalidTypeExample": {
+      "message": "Contoh: **em**, **ph**, **fn**, **ln**, **db**, **ge**, **ct**, **zp**, **external_id**, dsb"
+   },
+   "pixelErrorPiiInvalidTypeMessage": {
+      "message": "Hapus informasi pelanggan yang tidak valid"
+   },
+   "pixelErrorPiiInvalidTypeRecommendation": {
+      "message": "$1 yang tidak valid ditentukan untuk '$2'. Data ini tidak akan dikirim dengan peristiwa apa pun untuk Pixel ini."
+   },
+   "pixelErrorPiiInvalidTypeStep2": {
+      "message": "Cari **fbq('init', $1, {$2:...})**"
+   },
+   "pixelErrorPiiInvalidTypeStep3": {
+      "message": "Perbarui **$1** atau ganti dengan info yang valid"
+   },
+   "pixelErrorPiiUnhashedPiiCardTitle": {
+      "message": "Kirim email dengan kolom kode yang benar"
+   },
+   "pixelErrorPiiUnhashedPiiMessage": {
+      "message": "Kirim email dengan kolom kode yang benar"
+   },
+   "pixelErrorPiiUnhashedPiiRecommendation": {
+      "message": "Nilai untuk kode '$1' sepertinya PII. Data ini tidak akan dikirim dengan peristiwa apa pun untuk Pixel ini. Cara yang direkomendasikan adalah memanggil fbq('init', 'PIXEL_ID', {em: 'email@email.com', ...})."
+   },
+   "pixelErrorPiiUnhashedPiiStep2": {
+      "message": "Cari **$1** dan lihat apakah ada nilai yang diatur ke email"
+   },
+   "pixelErrorPiiUnhashedPiiStep3": {
+      "message": "Perbarui **$1** ke **em**"
+   },
+   "pixelErrorRequiredParamMissingCardTitle": {
+      "message": "Tambahkan parameter yang tidak ada"
+   },
+   "pixelErrorRequiredParamMissingMessage": {
+      "message": "Tambahkan parameter yang diperlukan yang tidak ada ke peristiwa Anda"
+   },
+   "pixelErrorRequiredParamMissingRecommendation": {
+      "message": "Parameter '$1' yang diperlukan tidak ada untuk peristiwa '$2'."
+   },
+   "pixelErrorRequiredParamMissingStep2": {
+      "message": "Cari **fbq('track', $1, ...)**"
+   },
+   "pixelErrorRequiredParamMissingStep3": {
+      "message": "Tambahkan parameter yang tidak ada"
+   },
+   "pixelErrorRestrictedEventCardTitle": {
+      "message": "Tinjau peristiwa yang diblokir"
+   },
+   "pixelErrorRestrictedEventMessage": {
+      "message": "Buka Pengelola Peristiwa untuk meninjau peristiwa yang diblokir"
+   },
+   "pixelErrorRestrictedEventRecommendation": {
+      "message": "Anda mencoba mengirim peristiwa yang dibatasi. Peristiwa tersebut ditahan."
+   },
+   "pixelErrorRestrictedEventStep1": {
+      "message": "Buka tab Pengaturan set data Pengelola Peristiwa Anda"
+   },
+   "pixelErrorRestrictedEventStep2": {
+      "message": "Buka bagian Izin Traffic > Situs Web"
+   },
+   "pixelErrorRestrictedEventStep3": {
+      "message": "Tinjau dan perbarui peristiwa yang diblokir, atau berhenti mengirim peristiwa yang diblokir dari situs web Anda"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelCardTitle": {
+      "message": "Inisialisasi Pixel Anda"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelMessage": {
+      "message": "Inisialisasi pixel sebelum mengatur metadata"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendation": {
+      "message": "Mencoba mengatur argumen $1 untuk ID Set Data yang belum diinisialisasi $2. Inisialisasi pixel sebelum mengatur metadata. Panggil fbq('init', '$3') terlebih dahulu."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendationSimple": {
+      "message": "Mencoba mengatur metadata pada pixel yang belum diinisialisasi."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep2": {
+      "message": "Cari **fbq()**"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep3": {
+      "message": "Panggil **fbq('init', 'PIXEL_ID')** terlebih dahulu"
+   },
+   "pixelErrorSiteCodelessOptOutCardTitle": {
+      "message": "Aktifkan penyiapan peristiwa tanpa kode"
+   },
+   "pixelErrorSiteCodelessOptOutMessage": {
+      "message": "Aktifkan penyiapan peristiwa tanpa kode atau gunakan integrasi pixel manual"
+   },
+   "pixelErrorSiteCodelessOptOutRecommendation": {
+      "message": "Tidak bisa membuka antarmuka peristiwa Tanpa kode untuk pixel karena situs telah menolak. ID Set data: $1."
+   },
+   "pixelErrorSiteCodelessOptOutStep2": {
+      "message": "Cari **fbq('set', 'codeless', 'false', $1)**"
+   },
+   "pixelErrorSiteCodelessOptOutStep3": {
+      "message": "Hapus baris ini untuk mengaktifkan kembali atau secara eksplisit mengaktifkan **fbq('set', 'codeless', 'true', $1);"
+   },
+   "pixelErrorUnableLoadFbqCardTitle": {
+      "message": "Hapus pemblokir iklan"
+   },
+   "pixelErrorUnableLoadFbqMessage": {
+      "message": "Periksa koneksi jaringan dan konsol browser Anda"
+   },
+   "pixelErrorUnableLoadFbqRecommendation": {
+      "message": "Tidak bisa memuat fbq. Pemblokir iklan mungkin juga mencegah pemuatan pixel."
+   },
+   "pixelErrorUnableLoadFbqStep1": {
+      "message": "Periksa koneksi jaringan Anda"
+   },
+   "pixelErrorUnableLoadFbqStep2": {
+      "message": "Pastikan pemblokir iklan dinonaktifkan"
+   },
+   "pixelErrorUninitializedPixelCardTitle": {
+      "message": "Inisialisasi pixel Anda"
+   },
+   "pixelErrorUninitializedPixelMessage": {
+      "message": "Inisialisasi pixel Anda"
+   },
+   "pixelErrorUninitializedPixelRecommendation": {
+      "message": "Pixel $1 tidak ditemukan. Inisialisasi pixel dengan fbq('init', 'PIXEL_ID') sebelum memanggil metode fbq lainnya."
+   },
+   "pixelErrorUninitializedPixelStep1": {
+      "message": "Buka tab Gambaran Umum Pengelola Peristiwa untuk menyalin kode dasar Meta pixel"
+   },
+   "pixelErrorUninitializedPixelStep2": {
+      "message": "Tempel kode Meta Pixel antara tag `\u003Chead>` dan `\u003C/head>` halaman web Anda"
+   },
+   "pixelErrorUnknownErrorMessage": {
+      "message": "Terjadi kesalahan pixel yang tidak diketahui"
+   },
+   "pixelErrorUnknownErrorRecommendation": {
+      "message": "Periksa konsol browser untuk detail selengkapnya tentang kesalahan ini."
+   },
+   "pixelErrorUnsupportedMetadataCardTitle": {
+      "message": "Hapus atau perbarui kolom metadata yang tidak didukung"
+   },
+   "pixelErrorUnsupportedMetadataMessage": {
+      "message": "Hapus atau perbarui kolom metadata yang tidak didukung"
+   },
+   "pixelErrorUnsupportedMetadataRecommendation": {
+      "message": "Argumen metadata yang tidak didukung: $1. Argumen metadata yang valid adalah \"agent\", \"automaticMatchingConfig\", \"codeless\", \"trackSingleOnly\", \"cbData.oneTrustId\"."
+   },
+   "pixelErrorUnsupportedMetadataStep2": {
+      "message": "Cari **fbq('set', $1)**"
+   },
+   "pixelErrorUnsupportedMetadataStep3": {
+      "message": "Ganti dengan argumen yang valid"
+   },
+   "pixelErrorUnverifiedEventCardTitle": {
+      "message": "Verifikasi peristiwa Anda"
+   },
+   "pixelErrorUnverifiedEventMessage": {
+      "message": "Verifikasikan peristiwa Anda di Pengelola Peristiwa"
+   },
+   "pixelErrorUnverifiedEventRecommendation": {
+      "message": "Anda mencoba mengirim peristiwa yang tidak terverifikasi. Peristiwa tersebut ditahan. Buka Pengelola Peristiwa untuk mempelajari selengkapnya."
+   },
+   "pixelErrorUnverifiedEventStep1": {
+      "message": "Buka tab Diagnostik set data Pengelola Peristiwa Anda"
+   },
+   "pixelErrorUnverifiedEventStep2": {
+      "message": "Verifikasi peristiwa"
+   },
+   "pixelErrorUnwantedCustomDataCardTitle": {
+      "message": "Hapus potensi pelanggaran"
+   },
+   "pixelErrorUnwantedCustomDataExample": {
+      "message": "Contoh: fbq('track', 'Purchase', {...}) - Hapus kolom ssn, credit_card, kata sandi"
+   },
+   "pixelErrorUnwantedCustomDataMessage": {
+      "message": "Hapus kolom data kustom dengan potensi pelanggaran"
+   },
+   "pixelErrorUnwantedCustomDataRecommendation": {
+      "message": "Parameter dihapus dari data kustom karena ada potensi pelanggaran. Buka Pengelola Peristiwa untuk meninjau."
+   },
+   "pixelErrorUnwantedCustomDataStep2": {
+      "message": "Hapus kata sandi atau informasi keuangan apa pun. Periksa jenis pelanggaran lainnya di wiki"
+   },
+   "pixelErrorUnwantedEventNameCardTitle": {
+      "message": "Tinjau nama peristiwa"
+   },
+   "pixelErrorUnwantedEventNameExample": {
+      "message": "Contoh: Nama peristiwa yang salah seperti 'CreditCardSubmit', 'PasswordEntered', 'SSNCollected'"
+   },
+   "pixelErrorUnwantedEventNameMessage": {
+      "message": "Pastikan nama peristiwa Anda tidak menyertakan info yang dilarang"
+   },
+   "pixelErrorUnwantedEventNameRecommendation": {
+      "message": "Peristiwa Anda diblokir karena ada potensi pelanggaran."
+   },
+   "pixelErrorUnwantedEventNameStep2": {
+      "message": "Cari **fbq('track', ...)**"
+   },
+   "pixelErrorUnwantedEventNameStep3": {
+      "message": "Tinjau nama peristiwa Anda untuk memastikan peristiwa tersebut tidak berisi info yang dilarang (misalnya kata sandi, SSN, kartu kredit, dsb.)"
+   },
+   "pixelErrorUnwantedUrlDataCardTitle": {
+      "message": "Tinjau potensi pelanggaran"
+   },
+   "pixelErrorUnwantedUrlDataExample": {
+      "message": "Example:\n❌ URL salah:\nhttps://example.com/checkout?email=user@test.com&ssn=123-45-6789\nhttps://example.com/login?password=secret123&credit_card=4111...\n\n✅ URL benar:\nhttps://example.com/checkout?order_id=12345\nhttps://example.com/login (no sensitive query params)"
+   },
+   "pixelErrorUnwantedUrlDataMessage": {
+      "message": "Tinjau data URL untuk memastikan tidak ada yang menyertakan info yang dilarang"
+   },
+   "pixelErrorUnwantedUrlDataRecommendation": {
+      "message": "Parameter kueri URL dihapus karena ada potensi pelanggaran."
+   },
+   "pixelErrorUnwantedUrlDataStep2": {
+      "message": "Audit URL Anda. Periksa halaman saat ini (dl) dan perujuk (rl) untuk memastikan tidak ada informasi sensitif"
+   },
+   "pixelEventCountPlural": {
+      "message": "$1 peristiwa"
+   },
+   "pixelEventCountSingular": {
+      "message": "$1 peristiwa"
+   },
+   "pixelEventUnnamed": {
+      "message": "Peristiwa (tanpa nama)"
+   },
+   "pixelHeaderPlural": {
+      "message": "$1 Pixel ditemukan di halaman ini"
+   },
+   "pixelHeaderSingular": {
+      "message": "Pixel ditemukan di halaman ini"
+   },
+   "pixelIdLabel": {
+      "message": "ID: $1"
+   },
+   "pixelLoadTime": {
+      "message": "$1 milidetik"
+   },
+   "pixelMetaPixelTitle": {
+      "message": "Meta Pixel"
+   },
+   "pixelMissingFiresMessage": {
+      "message": "Tidak ada pixel yang aktif pada halaman saat ini, tetapi pixel telah aktif pada halaman lain situs web ini"
+   },
+   "pixelMissingFiresRecommendation": {
+      "message": "Pertimbangkan untuk menambahkan peristiwa pelacakan pixel ke halaman ini atau periksa apakah pixel yang ada berfungsi dengan baik"
+   },
+   "pixelNoEventsRecorded": {
+      "message": "Belum ada peristiwa yang dicatat"
+   },
+   "pixelNotFiringMessage": {
+      "message": "Pixel $1 diinstal tetapi belum aktif"
+   },
+   "pixelStatusActive": {
+      "message": "Aktif"
+   },
+   "pixelStatusAutomaticallyDetected": {
+      "message": "Terdeteksi Secara Otomatis"
+   },
+   "pixelStatusError": {
+      "message": "Kesalahan"
+   },
+   "pixelStatusEventNotProcessed": {
+      "message": "Peristiwa tidak diproses"
+   },
+   "pixelStatusEventReceived": {
+      "message": "Peristiwa diterima"
+   },
+   "pixelStatusInactive": {
+      "message": "Tidak aktif"
+   },
+   "pixelStatusReceived": {
+      "message": "Diterima"
+   },
+   "pixelStatusSent": {
+      "message": "Peristiwa dikirim"
+   },
+   "pixelStatusWarning": {
+      "message": "Peringatan"
+   },
+   "recipeAddMoreFields": {
+      "message": "Tambahkan lainnya"
+   },
+   "recipeCancelAutomation": {
+      "message": "Batalkan otomatisasi"
+   },
+   "recipeCompleteActionToContinue": {
+      "message": "Selesaikan tindakan untuk melanjutkan"
+   },
+   "recipeErrorBackButton": {
+      "message": "Buka halaman beranda"
+   },
+   "recipeErrorMessage": {
+      "message": "Kami tidak bisa memulai otomatisasi karena masalah yang tidak terduga. Periksa koneksi internet Anda dan coba lagi nanti."
+   },
+   "recipeErrorTitle": {
+      "message": "Coba lagi nanti."
+   },
+   "recipeFailedStateDescription": {
+      "message": "Ada masalah saat menyelesaikan tindakan ini. Anda harus menyelesaikan tindakan ini secara manual untuk melanjutkan penyiapan Anda."
+   },
+   "recipeFieldIdentifierLabel": {
+      "message": "Pengidentifikasi"
+   },
+   "recipeFieldMappingInfoBoxTextLead": {
+      "message": "Untuk melanjutkan, konfirmasi Nama peristiwa, Waktu peristiwa, dan pilih setidaknya 1 kolom pengidentifikasi (ID Prospek disarankan)."
+   },
+   "recipeFieldMappingInfoBoxTextOpportunity": {
+      "message": "Untuk melanjutkan, konfirmasikan Nama peristiwa dan Waktu peristiwa."
+   },
+   "recipeFieldOptionalLabel": {
+      "message": "Opsional"
+   },
+   "recipeFieldsDropdownNoResultsFound": {
+      "message": "Tidak ditemukan hasil"
+   },
+   "recipeFieldsEventNameTooltipContent": {
+      "message": "Nama ini dipetakan ke prospek di corong CRM Anda. Kirim semua tahapan saat diperbarui."
+   },
+   "recipeFieldsEventNameTooltipExample": {
+      "message": "yaitu"
+   },
+   "recipeFieldsEventNameTooltipExample1": {
+      "message": "Prospek Mentah dari Meta"
+   },
+   "recipeFieldsEventNameTooltipExample2": {
+      "message": "Prospek Marketing yang Memenuhi Syarat"
+   },
+   "recipeFieldsEventNameTooltipExample3": {
+      "message": "Peluang Penjualan"
+   },
+   "recipeFieldsEventNameTooltipExample4": {
+      "message": "Pelanggan"
+   },
+   "recipeFieldsEventNameTooltipLearnMore": {
+      "message": "Pelajari selengkapnya"
+   },
+   "recipeFieldsEventNameTooltipLearnMoreContinued": {
+      "message": "tentang mengintegrasikan prospek konversi."
+   },
+   "recipeFileABug": {
+      "message": "Laporkan bug"
+   },
+   "recipeFileAnotherBug": {
+      "message": "Laporkan bug lainnya"
+   },
+   "recipeIntroStartAutomationButton": {
+      "message": "Mulai otomatisasi"
+   },
+   "recipeMaibaCallerIndicator": {
+      "message": "Kembali ke MAIBA"
+   },
+   "recipeMarkAsComplete": {
+      "message": "Tandai sebagai selesai"
+   },
+   "recipeMilestoneActionNeededStatus": {
+      "message": "Tindakan diperlukan"
+   },
+   "recipeMilestoneCompleteStatus": {
+      "message": "Selesai"
+   },
+   "recipeMilestoneFailedStatus": {
+      "message": "Gagal"
+   },
+   "recipeMilestoneInProgressStatus": {
+      "message": "Sedang Berlangsung"
+   },
+   "recipeMilestonePausedStatus": {
+      "message": "Dijeda"
+   },
+   "recipeMilestoneStepFailedSuffix": {
+      "message": "· Langkah gagal"
+   },
+   "recipeOpportunityChoiceNo": {
+      "message": "tidak"
+   },
+   "recipeOpportunityChoiceYes": {
+      "message": "ya"
+   },
+   "recipeOpportunityQuestionDropdownLabel": {
+      "message": "Apakah Anda menggunakan peluang?"
+   },
+   "recipeOpportunityQuestionInfoText": {
+      "message": "Peluang menyinkronkan status transaksi Salesforce ke Meta agar iklan bisa dioptimalkan untuk hasil pendapatan yang sebenarnya, bukan hanya prospek."
+   },
+   "recipeOpportunityQuestionLearnMore": {
+      "message": "Pelajari selengkapnya"
+   },
+   "recipeOpportunityQuestionNo": {
+      "message": "Tidak"
+   },
+   "recipeOpportunityQuestionYes": {
+      "message": "Ya"
+   },
+   "recipePause": {
+      "message": "Jeda"
+   },
+   "recipeResume": {
+      "message": "Lanjutkan"
+   },
+   "recipeRetry": {
+      "message": "Coba lagi"
+   },
+   "recipeReturnToMaiba": {
+      "message": "Kembali ke MAIBA"
+   },
+   "recipeReturnToTab": {
+      "message": "Kembali ke tab"
+   },
+   "recipeReturnToTabPrompt": {
+      "message": "Kembali ke tab tempat otomatisasi ini dijalankan, lalu klik Lanjutkan."
+   },
+   "recipeStepFailed": {
+      "message": "Gagal"
+   },
+   "recipeStepNumber": {
+      "message": "Langkah $1"
+   },
+   "recipeStepSkipped": {
+      "message": "Dilewati"
+   },
+   "recipeStepSkippedTooltip": {
+      "message": "Langkah ini dilewati karena ditetapkan tidak diperlukan lagi."
+   },
+   "recipeStepUserActionRequired": {
+      "message": "Tindakan diperlukan"
+   },
+   "recipeSummaryHeaderTitle": {
+      "message": "Ringkasan"
+   },
+   "recipeSwitchToActiveTabHint": {
+      "message": "Klik untuk beralih ke tab aktif untuk mempercepat otomatisasi."
+   },
+   "recipeThanksForFeedback": {
+      "message": "Terima kasih sudah mengirimkan masukan"
+   },
+   "recipeVerifying": {
+      "message": "Memverifikasi..."
+   },
+   "recipeViewInEventsManager": {
+      "message": "Lihat di Pengelola Peristiwa"
+   },
+   "recipeViewReport": {
+      "message": "Lihat ringkasan otomatisasi"
+   },
+   "recipeWpAdminUrlInfoText": {
+      "message": "Kami tidak bisa mendeteksi URL admin WordPress Anda secara otomatis. Masukkan URL lengkap ke dasbor admin WordPress Anda agar kami bisa melanjutkan penyiapan."
+   },
+   "recipeWpAdminUrlInputLabel": {
+      "message": "Masukkan URL admin WordPress Anda (misalnya, https://yoursite.com/wp-admin/)"
+   },
+   "recipeYourActionIsRequired": {
+      "message": "Tindakan Anda diperlukan"
+   },
+   "remove": {
+      "message": "Hapus"
+   },
+   "remove_asset_button_label": {
+      "message": "Hapus aset ini"
+   },
+   "remove_asset_button_required_label": {
+      "message": "Aset ini diperlukan dan tidak bisa dihapus"
+   },
+   "reportAiGenerated": {
+      "message": "Dibuat oleh AI"
+   },
+   "reportAutomationCountPlural": {
+      "message": "$1 otomatisasi"
+   },
+   "reportAutomationCountSingular": {
+      "message": "$1 otomatisasi"
+   },
+   "reportAutomationPanelDescription": {
+      "message": "Tinjau status, linimasa, dan tindakan yang diambil selama otomatisasi ini."
+   },
+   "reportAutomationSummaryDescription": {
+      "message": "Perincian detail tentang pengalaman otomatisasi Anda. Demi privasi Anda, ini tidak akan disimpan di platform kami."
+   },
+   "reportAutomationSummaryTitle": {
+      "message": "Ringkasan otomatisasi"
+   },
+   "reportCapturedDuringEmSelection": {
+      "message": "Pilihan Pengelola Peristiwa"
+   },
+   "reportCapturedDuringGaSetup": {
+      "message": "Penyiapan Google Analytics"
+   },
+   "reportCapturedDuringGtmSetup": {
+      "message": "Penyiapan GTM"
+   },
+   "reportCapturedDuringSfWebhook": {
+      "message": "Integrasi Webhook Salesforce"
+   },
+   "reportCapturedIdsCreatedDuringSession": {
+      "message": "Dibuat selama sesi Anda"
+   },
+   "reportCapturedIdsDescription": {
+      "message": "ID berikut ini diakses selama otomatisasi Anda."
+   },
+   "reportCapturedIdsEmpty": {
+      "message": "Tidak ada ID yang diakses selama otomatisasi ini."
+   },
+   "reportCapturedIdsExisting": {
+      "message": "Yang Ada"
+   },
+   "reportCapturedIdsHeading": {
+      "message": "ID yang diakses"
+   },
+   "reportClickToCopy": {
+      "message": "Klik untuk menyalin"
+   },
+   "reportCopied": {
+      "message": "Disalin"
+   },
+   "reportCopyAll": {
+      "message": "Salin semua"
+   },
+   "reportDomainEventsManager": {
+      "message": "Pengelola Peristiwa"
+   },
+   "reportDomainGoogleAnalytics": {
+      "message": "Google Analytics"
+   },
+   "reportDomainGoogleTagManager": {
+      "message": "Google Tag Manager"
+   },
+   "reportDomainSalesforce": {
+      "message": "Salesforce"
+   },
+   "reportDomainStape": {
+      "message": "Stape"
+   },
+   "reportExportPdf": {
+      "message": "Ekspor ringkasan sebagai pdf"
+   },
+   "reportExportPdfNote": {
+      "message": "Ekspor bisa berlangsung hingga 45 detik."
+   },
+   "reportFlowAutomationName": {
+      "message": "Alur Otomatisasi"
+   },
+   "reportFlowSummaryDescription": {
+      "message": "Tinjau status, linimasa, dan tindakan yang diambil di semua otomatisasi dalam alur ini."
+   },
+   "reportFlowSummaryHeading": {
+      "message": "Ringkasan Alur"
+   },
+   "reportIdCountPlural": {
+      "message": "$1 ID"
+   },
+   "reportIdCountSingular": {
+      "message": "$1 ID"
+   },
+   "reportIdLabelAdAccountId": {
+      "message": "ID Akun Iklan"
+   },
+   "reportIdLabelBusinessId": {
+      "message": "ID Bisnis"
+   },
+   "reportIdLabelCustom": {
+      "message": "ID Kustom"
+   },
+   "reportIdLabelDatasetId": {
+      "message": "ID Set Data"
+   },
+   "reportIdLabelGaMeasurementId": {
+      "message": "ID Pengukuran Google Analytics"
+   },
+   "reportIdLabelGtmAccountId": {
+      "message": "Nama Akun Google Tag Manager"
+   },
+   "reportIdLabelGtmContainerId": {
+      "message": "ID Kontainer Google Tag Manager"
+   },
+   "reportIdLabelGtmServerContainerName": {
+      "message": "Kontainer Server Google Tag Manager"
+   },
+   "reportIdLabelGtmWebContainerName": {
+      "message": "Kontainer Web Google Tag Manager"
+   },
+   "reportIdLabelSgwDataPlaneUrl": {
+      "message": "URL Signal Gateway Data Plane"
+   },
+   "reportIdLabelSgwPixelId": {
+      "message": "ID Set Data Signal Gateway"
+   },
+   "reportIdLabelWebhookIntegrationId": {
+      "message": "ID Integrasi Webhook"
+   },
+   "reportIdLabelWebhookUrl": {
+      "message": "URL Webhook"
+   },
+   "reportInProgress": {
+      "message": "Sedang Berlangsung"
+   },
+   "reportKeyScreenshotEndOfAutomation": {
+      "message": "Akhir Otomatisasi"
+   },
+   "reportKeyScreenshotFinalState": {
+      "message": "Status Otomatisasi Final"
+   },
+   "reportLabelActionsTaken": {
+      "message": "Tindakan yang diambil"
+   },
+   "reportLabelAutomations": {
+      "message": "Otomatisasi"
+   },
+   "reportLabelDuration": {
+      "message": "Durasi"
+   },
+   "reportLabelStatus": {
+      "message": "Status"
+   },
+   "reportLabelTimeline": {
+      "message": "Linimasa"
+   },
+   "reportMilestoneComplete": {
+      "message": "Selesai"
+   },
+   "reportNavHowWeUseData": {
+      "message": "Cara kami menggunakan data Anda"
+   },
+   "reportNavIdsAccessed": {
+      "message": "ID diakses"
+   },
+   "reportNavPagesVisited": {
+      "message": "Halaman & domain yang dikunjungi"
+   },
+   "reportNavPrivacySecurity": {
+      "message": "Privasi dan keamanan"
+   },
+   "reportNavSummary": {
+      "message": "Ringkasan"
+   },
+   "reportOverviewCapiGatewayDescription": {
+      "message": "Otomatisasi ini mengonfigurasi Conversions API Gateway untuk pelacakan peristiwa sisi server. Gateway ini mengirimkan data peristiwa langsung dari server Anda ke Meta, sehingga meningkatkan keandalan data dan kualitas kecocokan."
+   },
+   "reportOverviewCapiGatewayTitle": {
+      "message": "Penyiapan Conversions API Gateway"
+   },
+   "reportOverviewDefaultDescription": {
+      "message": "Laporan ini merangkum tindakan yang diambil selama proses otomatisasi."
+   },
+   "reportOverviewDefaultTitle": {
+      "message": "Otomatisasi Selesai"
+   },
+   "reportOverviewGtmServerDescription": {
+      "message": "Otomatisasi ini mengonfigurasi penandaan sisi server melalui Google Tag Manager. Penandaan sisi server meningkatkan kualitas data, kinerja situs, dan privasi pengguna dengan memproses tag di server, bukan di browser."
+   },
+   "reportOverviewGtmServerTitle": {
+      "message": "Penyiapan Sisi Server Google Tag Manager"
+   },
+   "reportOverviewGtmWebDescription": {
+      "message": "Otomatisasi ini menyiapkan kontainer web Google Tag Manager dan mengonfigurasikannya untuk situs web Anda. Dengan kontainer ini, Anda bisa mengelola tag marketing, analitik, dan pixel pelacakan tanpa mengubah kode situs Anda."
+   },
+   "reportOverviewGtmWebTitle": {
+      "message": "Penyiapan Kontainer Web Google Tag Manager"
+   },
+   "reportOverviewMetaPixelDescription": {
+      "message": "Otomatisasi ini menginstal dan memverifikasi Meta Pixel di situs web Anda. Pixel ini melacak aktivitas pengunjung untuk membantu Anda mengukur efektivitas iklan, membangun audiens, dan mengoptimalkan penayangan iklan."
+   },
+   "reportOverviewMetaPixelTitle": {
+      "message": "Penginstalan Meta Pixel"
+   },
+   "reportOverviewSalesforceDescription": {
+      "message": "Otomatisasi ini mengonfigurasi webhook Meta CRM-CAPI di instance Salesforce Anda. Integrasi webhook mengirimkan peristiwa CRM dari Salesforce langsung ke Meta, sehingga memungkinkan penargetan dan pengukuran iklan yang lebih baik melalui berbagi peristiwa sisi server."
+   },
+   "reportOverviewSalesforceTitle": {
+      "message": "Penyiapan Webhook CRM-CAPI Salesforce"
+   },
+   "reportPagesDescription": {
+      "message": "Halaman berikut ini dikunjungi selama pengalaman otomatisasi Anda."
+   },
+   "reportPagesDescriptionShort": {
+      "message": "Halaman berikut ini dikunjungi selama otomatisasi Anda."
+   },
+   "reportPagesEmpty": {
+      "message": "Tidak ada halaman yang dikunjungi selama otomatisasi ini."
+   },
+   "reportPagesHeading": {
+      "message": "Halaman & domain yang dikunjungi"
+   },
+   "reportRecipeNameGaCreateAccount": {
+      "message": "Buat Akun Google Analytics"
+   },
+   "reportRecipeNameGtmCreateAccount": {
+      "message": "Buat Akun GTM"
+   },
+   "reportRecipeNameGtmProvisionServer": {
+      "message": "Sediakan Kontainer Server GTM"
+   },
+   "reportRecipeNameInstallFacebookForWoocommerce": {
+      "message": "Instal Facebook untuk WooCommerce"
+   },
+   "reportRecipeNameSalesforceWebhook": {
+      "message": "Siapkan Webhook CRM Salesforce"
+   },
+   "reportRecipeNameSgwGtmSetup": {
+      "message": "Siapkan Signals Gateway dengan GTM"
+   },
+   "reportRecipeNameShopifyProductSync": {
+      "message": "Sinkronisasi Produk Shopify"
+   },
+   "reportRecipeNameUpdateFacebookForWoocommerce": {
+      "message": "Perbarui Facebook untuk WooCommerce"
+   },
+   "reportStatusFailed": {
+      "message": "Gagal"
+   },
+   "reportStatusSetupIncomplete": {
+      "message": "Penyiapan tidak selesai"
+   },
+   "reportStatusSuccess": {
+      "message": "Berhasil"
+   },
+   "reportSummaryDescription": {
+      "message": "Tinjau status, jadwal, dan tindakan yang dilakukan selama pengalaman otomatisasi Anda."
+   },
+   "reportSummaryFailureDescription": {
+      "message": "Otomatisasi tidak berhasil diselesaikan. Tinjau linimasa dan sumber daya yang dibuat sebelum kegagalan."
+   },
+   "reportSummaryHeading": {
+      "message": "Ringkasan"
+   },
+   "reportTimelineStarted": {
+      "message": "Dimulai $1"
+   },
+   "reportTitleFailure": {
+      "message": "Otomatisasi Gagal: $1"
+   },
+   "reportTitleFlow": {
+      "message": "Ringkasan Alur Otomatisasi"
+   },
+   "reportTitleSuccess": {
+      "message": "Ringkasan Otomatisasi: $1"
+   },
+   "required": {
+      "message": "Wajib"
+   },
+   "resolutionStepAddingMissingEventsTitle": {
+      "message": "Menambahkan peristiwa yang tidak ada"
+   },
+   "resolutionStepClickToCopy": {
+      "message": "Klik untuk menyalin"
+   },
+   "resolutionStepConfirmNewEvents": {
+      "message": "Konfirmasi peristiwa baru"
+   },
+   "resolutionStepEnableAAMEventsTitle": {
+      "message": "Aktifkan Pencocokan Lanjut Otomatis"
+   },
+   "resolutionStepEnableMAMEventsTitle": {
+      "message": "Siapkan Pencocokan Lanjut Manual"
+   },
+   "resolutionStepInvalidValueCurrencyTitle": {
+      "message": "Perbarui nilai dan mata uang"
+   },
+   "resolutionStepLeaveTabOpen": {
+      "message": "Biarkan tab ini tetap terbuka"
+   },
+   "resolutionStepOpenEventSetupTool": {
+      "message": "Buka Fitur Penyiapan Peristiwa untuk situs web Anda"
+   },
+   "resolutionStepOpenWebsiteCode": {
+      "message": "Buka kode situs web Anda."
+   },
+   "resolutionStepSearchFbqInit": {
+      "message": "Cari **fbq('init'...)** untuk menemukan tempat Anda menggunakan Meta Pixel."
+   },
+   "resolutionStepSearchFbqTrackPurchase": {
+      "message": "Cari peristiwa pembelian yang dilacak Pixel Anda."
+   },
+   "resolutionStepUpdateCodeBlock": {
+      "message": "Perbarui blok kode untuk menyertakan data pencocokan lanjut di bawah sebagai parameter ketiga."
+   },
+   "resolutionStepUpdateCurrencyField": {
+      "message": "Perbarui kolom mata uang."
+   },
+   "resolutionStepUpdateValueField": {
+      "message": "Perbarui kolom nilai."
+   },
+   "resolutionStepUserActionRequired": {
+      "message": "Tindakan pengguna diperlukan"
+   },
+   "resolutionStepValueFieldInformation": {
+      "message": "Informasi kolom nilai:"
+   },
+   "resolutionStepValueFieldRequirement1": {
+      "message": "Harus berupa nilai numerik yang lebih besar dari 0"
+   },
+   "resolutionStepValueFieldRequirement2": {
+      "message": "Boleh berisi koma desimal. Misalnya, 9,99 atau 9."
+   },
+   "resolutionStepValueFieldRequirement3": {
+      "message": "Jangan menyertakan angka ekstra, karakter khusus, atau simbol di parameter mata uang."
+   },
+   "resolutionStepsDefault": {
+      "message": "Langkah Penyelesaian"
+   },
+   "reviewSuggestionsEmpty": {
+      "message": "Tidak ada saran peristiwa saat ini."
+   },
+   "reviewSuggestionsIneligible": {
+      "message": "Saran peristiwa belum tersedia untuk pixel ini."
+   },
+   "reviewSuggestionsLoading": {
+      "message": "Memuat saran peristiwa..."
+   },
+   "ruleOperator_eq": {
+      "message": "sama dengan"
+   },
+   "ruleOperator_gt": {
+      "message": "lebih besar dari"
+   },
+   "ruleOperator_gte": {
+      "message": "lebih besar dari atau sama dengan"
+   },
+   "ruleOperator_i_contains": {
+      "message": "memuat"
+   },
+   "ruleOperator_i_greater_than_or_equal": {
+      "message": "lebih besar dari atau sama dengan"
+   },
+   "ruleOperator_i_is_any": {
+      "message": "adalah salah satu dari"
+   },
+   "ruleOperator_i_less_than_or_equal": {
+      "message": "lebih kecil dari atau sama dengan"
+   },
+   "ruleOperator_i_not_contains": {
+      "message": "tidak berisi"
+   },
+   "ruleOperator_lt": {
+      "message": "lebih kecil dari"
+   },
+   "ruleOperator_lte": {
+      "message": "lebih kecil dari atau sama dengan"
+   },
+   "ruleOperator_neq": {
+      "message": "tidak sama dengan"
+   },
+   "ruleOperator_or": {
+      "message": "atau"
+   },
+   "ruleOperator_regex_match": {
+      "message": "kecocokan"
+   },
+   "screenshotGalleryDisclaimer": {
+      "message": "Cuplikan layar hanya disimpan di perangkat Anda dan dihapus saat sesi berakhir."
+   },
+   "screenshotGalleryTimeDaysAgo": {
+      "message": "$1 hari yang lalu"
+   },
+   "screenshotGalleryTimeHoursAgo": {
+      "message": "$1 jam yang lalu"
+   },
+   "screenshotGalleryTimeJustNow": {
+      "message": "baru saja"
+   },
+   "screenshotGalleryTimeMinutesAgo": {
+      "message": "$1 menit yang lalu"
+   },
+   "selector_no_options_available": {
+      "message": "Tidak ada opsi tersedia"
+   },
+   "selector_no_results_found": {
+      "message": "Tidak ditemukan hasil"
+   },
+   "selector_select_placeholder": {
+      "message": "-- Pilih --"
+   },
+   "server_container_creation_title": {
+      "message": "Kontainer server"
+   },
+   "server_container_name_label": {
+      "message": "Nama kontainer"
+   },
+   "server_container_tagging_url_label": {
+      "message": "URL server penandaan"
+   },
+   "settingsDescription": {
+      "message": "Kelola konfigurasi Meta Pixel Anda dengan mudah dan optimalkan cara kerjanya untuk Anda."
+   },
+   "settingsErrorOccurred": {
+      "message": "Terjadi Kesalahan"
+   },
+   "settingsOverlayNotificationsDescription": {
+      "message": "Tampilkan notifikasi overlay kontekstual di halaman dengan pixel Anda"
+   },
+   "settingsOverlayNotificationsTitle": {
+      "message": "Notifikasi Overlay"
+   },
+   "settingsTitle": {
+      "message": "Pengaturan"
+   },
+   "settingsWaitSpeedFast": {
+      "message": "Cepat"
+   },
+   "settingsWaitSpeedFastDescription": {
+      "message": "Kurang dari 1 detik"
+   },
+   "settingsWaitSpeedMedium": {
+      "message": "Sedang"
+   },
+   "settingsWaitSpeedMediumDescription": {
+      "message": "2-3 detik"
+   },
+   "settingsWaitSpeedSlow": {
+      "message": "Lambat"
+   },
+   "settingsWaitSpeedSlowDescription": {
+      "message": "5+ detik"
+   },
+   "settingsWaitTimeBetweenActionsTitle": {
+      "message": "Waktu tunggu antara tindakan"
+   },
+   "setupAddingAllEventsLabel": {
+      "message": "Menambahkan semua acara"
+   },
+   "setupAddingPixelEventsCardTitle": {
+      "message": "Menambahkan peristiwa Pixel"
+   },
+   "setupComplete": {
+      "message": "Penyiapan selesai"
+   },
+   "setupDetailsHeader": {
+      "message": "Detail penyiapan"
+   },
+   "setupDetailsInfoTooltip": {
+      "message": "Ketika otomatisasi dimulai, langkah-langkah berikut akan diselesaikan untuk Anda."
+   },
+   "setupHowItWorksDescription": {
+      "message": "Meta AI memindai situs web Anda, mengidentifikasi peristiwa konversi penting, seperti Pembelian, Penambahkan ke Keranjang Belanja, atau Prospek, dan secara otomatis menambahkannya sebagai peristiwa Pixel, tanpa memerlukan pengkodean."
+   },
+   "setupHowItWorksLabel": {
+      "message": "Cara kerjanya"
+   },
+   "setupPixelEventsAddedHeader": {
+      "message": "Peristiwa Pixel ditambahkan"
+   },
+   "setupPixelEventsAddedSubtitle": {
+      "message": "Kini Anda bisa bersantai dan menikmati peningkatan kinerja kampanye Anda."
+   },
+   "setupPixelEventsHeader": {
+      "message": "Siapkan peristiwa Pixel"
+   },
+   "setupReturnToPreviousPage": {
+      "message": "Kembali ke halaman sebelumnya"
+   },
+   "setup_failed": {
+      "message": "Penyiapan gagal"
+   },
+   "setup_requirements": {
+      "message": "Persyaratan penyiapan"
+   },
+   "shopifyProductSyncIntroStep1SubA": {
+      "message": "Buka halaman login admin Shopify"
+   },
+   "shopifyProductSyncIntroStep1SubB": {
+      "message": "Login ke admin Shopify untuk toko Anda"
+   },
+   "shopifyProductSyncIntroStep1Title": {
+      "message": "Login ke admin Shopify"
+   },
+   "shopifyProductSyncIntroStep2SubA": {
+      "message": "Klik **Produk**"
+   },
+   "shopifyProductSyncIntroStep2SubB": {
+      "message": "Klik tab **Semua**"
+   },
+   "shopifyProductSyncIntroStep2SubC": {
+      "message": "Pilih semua produk"
+   },
+   "shopifyProductSyncIntroStep2Title": {
+      "message": "Identifikasi produk"
+   },
+   "shopifyProductSyncIntroStep3SubA": {
+      "message": "Klik **Opsi lainnya**"
+   },
+   "shopifyProductSyncIntroStep3SubB": {
+      "message": "Klik **Sertakan di saluran penjualan**"
+   },
+   "shopifyProductSyncIntroStep3SubC": {
+      "message": "Pilih **Facebook & Instagram**"
+   },
+   "shopifyProductSyncIntroStep3SubD": {
+      "message": "Klik **Sertakan produk**"
+   },
+   "shopifyProductSyncIntroStep3Title": {
+      "message": "Sertakan produk"
+   },
+   "showAllEvents": {
+      "message": "Tampilkan semua peristiwa"
+   },
+   "showAllPixels": {
+      "message": "Tampilkan semua Pixel"
+   },
+   "showAllWarnings": {
+      "message": "Tampilkan semua Peringatan"
+   },
+   "showLess": {
+      "message": "Tampilkan lebih sedikit"
+   },
+   "showLessEvents": {
+      "message": "Tampilkan lebih sedikit peristiwa"
+   },
+   "showMore": {
+      "message": "Tampilkan lebih banyak"
+   },
+   "stepResumeTooltip": {
+      "message": "Pastikan Anda telah menyelesaikan tindakan di atas secara manual sebelum melanjutkan."
+   },
+   "suggestionButtonTextLabel": {
+      "message": "Teks tombol adalah \"$1\""
+   },
+   "suggestionExampleUrlsLabel": {
+      "message": "Contoh URL: $1"
+   },
+   "switcherCatalogSingular": {
+      "message": "$1 katalog"
+   },
+   "switcherCatalogsPlural": {
+      "message": "$1 katalog"
+   },
+   "switcherPixelsPlural": {
+      "message": "$1 pixel"
+   },
+   "switcherPixelsSingular": {
+      "message": "$1 pixel"
+   },
+   "testEventsHeader": {
+      "message": "Uji peristiwa"
+   },
+   "topActionsSectionHeader": {
+      "message": "Tindakan teratas Anda"
+   },
+   "topActionsSectionSubHeader": {
+      "message": "Berdasarkan penyiapan Anda"
+   },
+   "triggerEventDetection": {
+      "message": "Deteksi saran peristiwa"
+   },
+   "useMetaEventSetupToolForWeb": {
+      "message": "Gunakan fitur penyiapan peristiwa Meta untuk web"
+   },
+   "verificationFailedCancelButton": {
+      "message": "Batalkan otomatisasi"
+   },
+   "verificationFailedMessage": {
+      "message": "Kami tidak bisa mendeteksi status tindakan ini. Jika kesalahan ini berlanjut, Anda bisa membatalkan otomatisasi dan melanjutkan dengan penyiapan manual."
+   },
+   "verificationFailedTitle": {
+      "message": "Coba lagi"
+   },
+   "verificationFailedTryAgainButton": {
+      "message": "Coba lagi"
+   },
+   "verificationInProgressMessage": {
+      "message": "Memeriksa untuk melihat apakah tindakan sudah selesai"
+   },
+   "warningsHeader": {
+      "message": "Peringatan"
+   },
+   "web_container_creation_title": {
+      "message": "Kontainer web"
+   },
+   "web_container_name_label": {
+      "message": "Nama kontainer"
+   },
+   "what_we_will_create_title": {
+      "message": "Yang akan kami buat untuk Anda"
+   },
+   "wooCommerceIntroSetUpForMeButton": {
+      "message": "Siapkan untuk saya"
+   },
+   "wooCommerceIntroStep1SubA": {
+      "message": "Buka Panel Admin WordPress Anda"
+   },
+   "wooCommerceIntroStep1SubB": {
+      "message": "Login ke akun WordPress Anda"
+   },
+   "wooCommerceIntroStep1Title": {
+      "message": "Login ke WordPress"
+   },
+   "wooCommerceIntroStep2SubA": {
+      "message": "Buka panel sisi kiri, pilih **Plugin** lalu **Tambahkan Plugin**"
+   },
+   "wooCommerceIntroStep2SubB": {
+      "message": "Klik **Tambahkan Plugin**"
+   },
+   "wooCommerceIntroStep2SubC": {
+      "message": "Buka bilah pencarian di bagian atas halaman"
+   },
+   "wooCommerceIntroStep2SubD": {
+      "message": "Cari plugin Meta untuk WooCommerce"
+   },
+   "wooCommerceIntroStep2SubE": {
+      "message": "Gulir ke plugin Meta untuk WooCommerce dan klik **Instal Sekarang**"
+   },
+   "wooCommerceIntroStep2Title": {
+      "message": "Instal plugin"
+   },
+   "wooCommerceIntroStep3SubA": {
+      "message": "Setelah Meta untuk WooCommerce terinstal, klik **Aktifkan**"
+   },
+   "wooCommerceIntroStep3SubB": {
+      "message": "Buka halaman **Plugin** di panel sisi kiri"
+   },
+   "wooCommerceIntroStep3SubC": {
+      "message": "Gulir ke plugin Meta untuk WooCommerce dan klik **Konfigurasikan**"
+   },
+   "wooCommerceIntroStep3SubD": {
+      "message": "Di layar konfigurasi, klik **Mulai**"
+   },
+   "wooCommerceIntroStep3Title": {
+      "message": "Aktifkan Plugin"
+   },
+   "wooCommerceUpdateIntroStep2SubA": {
+      "message": "Buka halaman Tambahkan Plugin"
+   },
+   "wooCommerceUpdateIntroStep2SubB": {
+      "message": "Gulir ke plugin Meta untuk WooCommerce"
+   },
+   "wooCommerceUpdateIntroStep2SubC": {
+      "message": "Klik **Perbarui sekarang**"
+   },
+   "wooCommerceUpdateIntroStep2Title": {
+      "message": "Perbarui plugin"
+   }
+}

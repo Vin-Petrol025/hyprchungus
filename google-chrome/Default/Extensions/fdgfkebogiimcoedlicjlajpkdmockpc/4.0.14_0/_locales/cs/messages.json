@@ -1,0 +1,3335 @@
+{
+   "aamConfirmButton": {
+      "message": "Potvrdit"
+   },
+   "aamEditButton": {
+      "message": "Upravit"
+   },
+   "aamFieldCityStatePostal": {
+      "message": "Město, stát, PSČ"
+   },
+   "aamFieldCountry": {
+      "message": "Země"
+   },
+   "aamFieldDateOfBirth": {
+      "message": "Datum narození"
+   },
+   "aamFieldEmail": {
+      "message": "E-mail"
+   },
+   "aamFieldExternalId": {
+      "message": "Externí ID"
+   },
+   "aamFieldFirstLastName": {
+      "message": "Jméno a příjmení"
+   },
+   "aamFieldGender": {
+      "message": "Pohlaví"
+   },
+   "aamFieldPhoneNumber": {
+      "message": "Telefonní číslo"
+   },
+   "aamInfoDescription": {
+      "message": "Automatické pokročilé párování využívá data, která zákazníci poskytli vaší firmě, jako je e-mail nebo telefonní číslo, ke spárování návštěvníků, kteří taky používají produkty společnosti Meta."
+   },
+   "aamNoEditPermissionTooltip": {
+      "message": "Nemáte oprávnění pro úpravám, kontaktujte správce"
+   },
+   "aamStepConfirmFieldsDescription": {
+      "message": "Potvrďte pole, která chcete odeslat"
+   },
+   "aamStepUserActionRequired": {
+      "message": "Vyžaduje se akce uživatele"
+   },
+   "aboutAdvancedMatchingForWeb": {
+      "message": "Informace o pokročilém párování pro web"
+   },
+   "aboutEventSetupTool": {
+      "message": "Informace o nástroji pro nastavení událostí"
+   },
+   "actionAddMissingEventsCtaLabel": {
+      "message": "Nastavit pro mě"
+   },
+   "actionAddMissingEventsDescription": {
+      "message": "Přidejte do nastavení chybějící události. Je to snadný způsob, jak zvýšit úspěšnost reklam a přesnost měření."
+   },
+   "actionAddMissingEventsHeader": {
+      "message": "Přidejte chybějících události"
+   },
+   "actionAutomatableValueLabel": {
+      "message": "Automatizovatelné"
+   },
+   "actionCAPIGTMProductRecommendationHeader": {
+      "message": "Bezpečně sdílejte data přes Správce značek Google"
+   },
+   "actionCAPIGTMSetupDescription": {
+      "message": "Zjednoduší se nasazení a správa tagů. To umožní efektivně sledovat události bez změn kódu a dosáhnout lepších marketingových výsledků."
+   },
+   "actionCAPIGTMSetupHeader": {
+      "message": "Nastavte Conversions API s použitím Správce značek Google"
+   },
+   "actionCAPIGeneralSetupDescription": {
+      "message": "Měřte na svém webu co nejvíc dat, ať vám klesne cena za výsledek."
+   },
+   "actionCAPIGeneralSetupHeader": {
+      "message": "Nastavte Conversions API"
+   },
+   "actionCAPISalesforceCRMSetupDescription": {
+      "message": "Automatické nastavení umožňuje bezproblémové a přesné sledování událostí mezi servery v reálném čase. To pomůže zlepšit přehledy o zákaznících a marketing."
+   },
+   "actionCAPISalesforceCRMSetupHeader": {
+      "message": "Nastavte Conversions API s použitím CRM Salesforce"
+   },
+   "actionCardDatasetTooltip": {
+      "message": "Dataset si můžete zobrazit ve Správci událostí"
+   },
+   "actionCatalogUpsellCtaLabel": {
+      "message": "Přidat produkty"
+   },
+   "actionCatalogUpsellDescription": {
+      "message": "Přilákejte nové okruhy uživatelů a nabídněte jim personalizované nákupní prostředí na základě jejich chování a zájmů. Pestrá paleta formátů reklamy vám pomůže přimět zákazníky k nákupu."
+   },
+   "actionCatalogUpsellHeader": {
+      "message": "Přidejte produkty do Meta katalogu a maximalizujte výkon reklam"
+   },
+   "actionFixInvalidValueCurrencyDescription": {
+      "message": "Když u událostí nákupu na webu opravíte neplatnou hodnotu a parametry měny, získáte přesnější reporty a budete moct líp optimalizovat kampaň."
+   },
+   "actionFixInvalidValueCurrencyHeader": {
+      "message": "Opravte neplatné parametry hodnoty a měny"
+   },
+   "actionFreeCAPIGOneClickDescription": {
+      "message": "Odesílejte události pixelu automaticky na straně serveru – bez nutnosti nastavovat technické věci nebo další tagy. Připojení vytvoříme za vás."
+   },
+   "actionFreeCAPIGOneClickHeader": {
+      "message": "Conversions API povolené společností Meta"
+   },
+   "actionFreeCAPIGOneClickTooltip": {
+      "message": "Kliknutím povolíte doručování událostí na straně serveru hostované společností Meta pro tuto firmu. Později to můžete ve Správci událostí změnit."
+   },
+   "actionFreeCAPIGOneClickValueLift": {
+      "message": "O 14,8 % nižší cena za výsledek"
+   },
+   "actionFreeCAPIGOneClickViewDetails": {
+      "message": "Zobrazit podrobnosti"
+   },
+   "actionInstallFacebookForWooCommerceCtaLabel": {
+      "message": "Začít"
+   },
+   "actionInstallFacebookForWooCommercePluginDescription": {
+      "message": "Meta for WooCommerce synchronizuje váš obchod s Facebookem, Instagramem a WhatsAppem. Vy tak můžete trávit míň času správou a víc času podnikáním."
+   },
+   "actionInstallFacebookForWooCommercePluginHeader": {
+      "message": "Instalace pluginu Meta for WooCommerce"
+   },
+   "actionInstallFacebookForWooCommercePluginSubtitle": {
+      "message": "Ušetřete čas a zobrazujte správné produkty těm správným lidem."
+   },
+   "actionSetupMamAamDescription": {
+      "message": "Pokročilé párování přinese reklamám víc konverzí. Díky tomu můžete remarketingovou kampaní oslovit víc lidí."
+   },
+   "actionSetupMamAamHeader": {
+      "message": "Nastavte pokročilé párování"
+   },
+   "actionShopifyProductSyncCtaLabel": {
+      "message": "Pustit se do toho"
+   },
+   "actionShopifyProductSyncDescription": {
+      "message": "Některá ID obsahu na této stránce nejde spárovat s produkty ve vašem katalogu. Použijte synchronizaci produktů Shopify a přidejte chybějící produkty."
+   },
+   "actionShopifyProductSyncHeader": {
+      "message": "Synchronizujte chybějící produkty ze Shopify"
+   },
+   "actionSignalsGatewayGTMSetupDescription": {
+      "message": "Umožní přesné sledování událostí mezi servery v reálném čase a pomůže zlepšit přehledy o zákaznících a marketing."
+   },
+   "actionSignalsGatewayGTMSetupHeader": {
+      "message": "Nastavte Signals Gateway Pixelu s použitím Správce značek Google"
+   },
+   "actionUpdateFacebookForWooCommerceCtaLabel": {
+      "message": "Aktualizovat plugin"
+   },
+   "actionUpdateFacebookForWooCommercePluginDescription": {
+      "message": "Proveďte aktualizaci, ať získáte nejnovější vylepšení a aby se váš obchod dál bezproblémově synchronizoval s Facebookem, Instagramem a WhatsAppem."
+   },
+   "actionUpdateFacebookForWooCommercePluginHeader": {
+      "message": "Aktualizace pluginu Meta for WooCommerce"
+   },
+   "actionUpdateFacebookForWooCommercePluginSubtitle": {
+      "message": "Je připravená nová verze pluginu."
+   },
+   "addMissingEventsCancel": {
+      "message": "Zrušit"
+   },
+   "addMissingEventsHeader": {
+      "message": "Přidejte chybějící události"
+   },
+   "addMissingEventsMoreDatasets": {
+      "message": "$1 další datasety"
+   },
+   "addMissingEventsNextSteps": {
+      "message": "Další postup"
+   },
+   "addMissingEventsPotentialBadge": {
+      "message": "Možná o 1 % nižší CPR"
+   },
+   "addMissingEventsSetUpForMe": {
+      "message": "Nastavit pro mě"
+   },
+   "addMissingEventsSubtitle": {
+      "message": "Přidejte chybějící události pixelu, ať můžete začít sledovat a optimalizovat konverzní události a zlepšit výsledky reklam."
+   },
+   "addMissingEventsTimeEstimate": {
+      "message": "Míň než \u003C 1 minuta"
+   },
+   "add_more_label": {
+      "message": "Přidat další"
+   },
+   "additionalRecommendation": {
+      "message": "další doporučení"
+   },
+   "additionalRecommendations": {
+      "message": "další doporučení"
+   },
+   "agenticActionAskUserSelect": {
+      "message": "Vyberte si"
+   },
+   "agenticActionCaptureDropdown": {
+      "message": "Zachytit možnosti rozbalovací nabídky z $1"
+   },
+   "agenticActionCaptureDropdownActive": {
+      "message": "Zachycení možností rozbalovací nabídky z $1"
+   },
+   "agenticActionCaptureDropdownPast": {
+      "message": "Zachycené možnosti rozbalovací nabídky z $1"
+   },
+   "agenticActionCaptureStoreAsDetail": {
+      "message": "Uložit jako $1"
+   },
+   "agenticActionClick": {
+      "message": "Kliknutí na $1"
+   },
+   "agenticActionClickActive": {
+      "message": "Kliknutí na $1"
+   },
+   "agenticActionClickPast": {
+      "message": "Kliknul(a) na $1"
+   },
+   "agenticActionCloseTab": {
+      "message": "Zavřít kartu $1"
+   },
+   "agenticActionCloseTabActive": {
+      "message": "Zavírání karty $1"
+   },
+   "agenticActionCloseTabPast": {
+      "message": "Karta $1 se zavřela"
+   },
+   "agenticActionCopyMatchDetail": {
+      "message": "Shoda $1"
+   },
+   "agenticActionCopyMatchingText": {
+      "message": "Zkopírujte shodující se text do mezipaměti $1"
+   },
+   "agenticActionCopyMatchingTextActive": {
+      "message": "Zkopírování shodujícího se textu do mezipaměti $1"
+   },
+   "agenticActionCopyMatchingTextPast": {
+      "message": "Zkopíroval(a) shodující se text do mezipaměti $1"
+   },
+   "agenticActionCopyTextFromTarget": {
+      "message": "Zkopírujte text z $1 do mezipaměti $2"
+   },
+   "agenticActionCopyTextFromTargetActive": {
+      "message": "Text se kopíruje z $1 do mezipaměti $2"
+   },
+   "agenticActionCopyTextFromTargetPast": {
+      "message": "Text se zkopíroval z $1 do mezipaměti $2"
+   },
+   "agenticActionCopyVisibleText": {
+      "message": "Zkopírujte viditelný text do mezipaměti $1"
+   },
+   "agenticActionCopyVisibleTextActive": {
+      "message": "Kopírování viditelného textu do mezipaměti $1"
+   },
+   "agenticActionCopyVisibleTextPast": {
+      "message": "Viditelný text se zkopíroval do mezipaměti $1"
+   },
+   "agenticActionGetDropdownOptions": {
+      "message": "Přečíst možnosti z nabídky $1"
+   },
+   "agenticActionGoToUrl": {
+      "message": "Přejít na $1"
+   },
+   "agenticActionHover": {
+      "message": "Najet na $1"
+   },
+   "agenticActionNeededTitle": {
+      "message": "Vyžadována akce"
+   },
+   "agenticActionOpenNewTab": {
+      "message": "Otevřít novou kartu"
+   },
+   "agenticActionOpenPage": {
+      "message": "Otevřít novou stránku"
+   },
+   "agenticActionOpenPageActive": {
+      "message": "Otevírání nové stránky"
+   },
+   "agenticActionOpenPagePast": {
+      "message": "Otevřela se nová stránka"
+   },
+   "agenticActionOpenRelativePath": {
+      "message": "Otevřít relativní cestu"
+   },
+   "agenticActionOpenRelativePathActive": {
+      "message": "Otevírání relativní cesty"
+   },
+   "agenticActionOpenRelativePathPast": {
+      "message": "Otevřela se relativní cesta"
+   },
+   "agenticActionOpenTab": {
+      "message": "Otevřít kartu s adresou $1"
+   },
+   "agenticActionOpenTabActive": {
+      "message": "Otevírání nové karty"
+   },
+   "agenticActionOpenTabDestinationDetail": {
+      "message": "Cíl: $1"
+   },
+   "agenticActionOpenTabPast": {
+      "message": "Otevřela se nová karta"
+   },
+   "agenticActionPaste": {
+      "message": "Vložit do $1"
+   },
+   "agenticActionPasteSourceDetail": {
+      "message": "Mezipaměť zdroje: $1"
+   },
+   "agenticActionPasteText": {
+      "message": "Vložit uložený text do $1"
+   },
+   "agenticActionPasteTextActive": {
+      "message": "Vkládání uloženého textu do $1"
+   },
+   "agenticActionPasteTextPast": {
+      "message": "Uložený text se vložil do $1"
+   },
+   "agenticActionReloadPage": {
+      "message": "Znovu načíst stránku"
+   },
+   "agenticActionReloadPageActive": {
+      "message": "Opětovné načtení stránky"
+   },
+   "agenticActionReloadPagePast": {
+      "message": "Stránka se znovu načetla"
+   },
+   "agenticActionScrollBottom": {
+      "message": "Posunout se dolů"
+   },
+   "agenticActionScrollBottomActive": {
+      "message": "Posouvání do dolní části stránky"
+   },
+   "agenticActionScrollBottomPast": {
+      "message": "Posunuto do dolní části stránky"
+   },
+   "agenticActionScrollElementPercent": {
+      "message": "Posunout se z $1 na $2%"
+   },
+   "agenticActionScrollIntoViewDetail": {
+      "message": "Posunout se před interakcí s prvkem mimo obrazovku."
+   },
+   "agenticActionScrollPercent": {
+      "message": "Posunout se na $1%"
+   },
+   "agenticActionScrollPercentActive": {
+      "message": "Posouvání $1 na $2"
+   },
+   "agenticActionScrollPercentPage": {
+      "message": "stránka"
+   },
+   "agenticActionScrollPercentPast": {
+      "message": "Posunuto $1 na $2"
+   },
+   "agenticActionScrollTo": {
+      "message": "Posunout se na 1 USD"
+   },
+   "agenticActionScrollToActive": {
+      "message": "Posouvání na $1"
+   },
+   "agenticActionScrollToPast": {
+      "message": "Posunuto na $1"
+   },
+   "agenticActionScrollTop": {
+      "message": "Posunout se nahoru"
+   },
+   "agenticActionScrollTopActive": {
+      "message": "Posouvání nahoru na stránku"
+   },
+   "agenticActionScrollTopPast": {
+      "message": "Posunuto nahoru na stránku"
+   },
+   "agenticActionSelect": {
+      "message": "Vybrat $1 v $2"
+   },
+   "agenticActionSelectActive": {
+      "message": "Vybírání $1 v $2"
+   },
+   "agenticActionSelectPast": {
+      "message": "Vybráno $1 v $2"
+   },
+   "agenticActionSfAskOpportunityPreference": {
+      "message": "Zeptejte se na sledování příležitostí"
+   },
+   "agenticActionSfConfirmFieldMappings": {
+      "message": "Potvrďte mapování pole"
+   },
+   "agenticActionSfGetFieldMappings": {
+      "message": "Získat doporučené mapování polí"
+   },
+   "agenticActionSfMutateWebhookIntegration": {
+      "message": "Nastavení integrace webhooku"
+   },
+   "agenticActionSwitchTab": {
+      "message": "Přepnout na kartu $1"
+   },
+   "agenticActionSwitchTabActive": {
+      "message": "Přepínání na $1"
+   },
+   "agenticActionSwitchTabPast": {
+      "message": "Přepnuto na $1"
+   },
+   "agenticActionTypeInto": {
+      "message": "Zadat do $1"
+   },
+   "agenticActionTypeIntoActive": {
+      "message": "Psaní do $1"
+   },
+   "agenticActionTypeIntoPast": {
+      "message": "Napsáno do $1"
+   },
+   "agenticAskUserSelectDescriptionFallback": {
+      "message": "Vyberte možnost a pokračujte."
+   },
+   "agenticAskUserSelectFieldLabel": {
+      "message": "Možnost"
+   },
+   "agenticAskUserSelectPlaceholder": {
+      "message": "Vyberte možnost"
+   },
+   "agenticConnectionFailed": {
+      "message": "Nedá se znovu připojit. Obnovte stránku."
+   },
+   "agenticConnectionReconnecting": {
+      "message": "Připojení se přerušilo. Opětovné připojování... ($1/$2)"
+   },
+   "agenticDefaultWaitPrompt": {
+      "message": "Proveďte požadovanou akci."
+   },
+   "agenticElementNameOnly": {
+      "message": "„$1“"
+   },
+   "agenticElementNounAccordion": {
+      "message": "akordeon"
+   },
+   "agenticElementNounBanner": {
+      "message": "banner"
+   },
+   "agenticElementNounButton": {
+      "message": "tlačítko"
+   },
+   "agenticElementNounCard": {
+      "message": "karta"
+   },
+   "agenticElementNounCell": {
+      "message": "buňka"
+   },
+   "agenticElementNounCheckbox": {
+      "message": "zaškrtávací políčko"
+   },
+   "agenticElementNounChip": {
+      "message": "čip"
+   },
+   "agenticElementNounDialog": {
+      "message": "dialogové okno"
+   },
+   "agenticElementNounDropdown": {
+      "message": "rozbalovací nabídka"
+   },
+   "agenticElementNounElement": {
+      "message": "element"
+   },
+   "agenticElementNounFileInput": {
+      "message": "vstup souboru"
+   },
+   "agenticElementNounImage": {
+      "message": "obrázek"
+   },
+   "agenticElementNounInputField": {
+      "message": "Pole pro zadání"
+   },
+   "agenticElementNounItem": {
+      "message": "položka"
+   },
+   "agenticElementNounLink": {
+      "message": "odkaz"
+   },
+   "agenticElementNounMenu": {
+      "message": "nabídka"
+   },
+   "agenticElementNounOption": {
+      "message": "možnost"
+   },
+   "agenticElementNounPanel": {
+      "message": "panel"
+   },
+   "agenticElementNounRadioButton": {
+      "message": "přepínač"
+   },
+   "agenticElementNounRow": {
+      "message": "řádek"
+   },
+   "agenticElementNounStep": {
+      "message": "krok"
+   },
+   "agenticElementNounSubmitButton": {
+      "message": "Tlačítko Odeslat"
+   },
+   "agenticElementNounTab": {
+      "message": "karta"
+   },
+   "agenticElementNounTextArea": {
+      "message": "textové pole"
+   },
+   "agenticElementNounTile": {
+      "message": "dlaždice"
+   },
+   "agenticElementNounToggle": {
+      "message": "přepínač"
+   },
+   "agenticElementWithName": {
+      "message": "„$1“ $2"
+   },
+   "agenticErrorApi": {
+      "message": "K AI službě se nedá připojit. Chcete to zkusit znovu?"
+   },
+   "agenticErrorRateLimit": {
+      "message": "Služba AI je zaneprázdněná. Počkejte nebo to zkuste za chvíli."
+   },
+   "agenticErrorTimeout": {
+      "message": "AI to trvá déle než obvykle. Chcete to zkusit znovu?"
+   },
+   "agenticErrorTitle": {
+      "message": "Chyba"
+   },
+   "agenticErrorUnknown": {
+      "message": "Došlo k chybě. Chcete to zkusit znovu?"
+   },
+   "agenticNavigationPageLoadFailed": {
+      "message": "Stránku se nepodařilo načíst. Opakování…"
+   },
+   "agenticNavigationReorienting": {
+      "message": "Neočekávané přesměrování stránky. Musím se přeorientovat…"
+   },
+   "agenticPleaseCompleteAction": {
+      "message": "Proveďte akci, ať můžete pokračovat"
+   },
+   "agenticReconnectNow": {
+      "message": "Znovu připojit"
+   },
+   "agenticResyncWithPage": {
+      "message": "Znovu synchronizovat se stránkou"
+   },
+   "agenticScrollPercentFallback": {
+      "message": "požadovaný bod"
+   },
+   "agenticTabFallbackById": {
+      "message": "karta $1"
+   },
+   "agenticTabFallbackSelected": {
+      "message": "vybraná karta"
+   },
+   "agenticThinking": {
+      "message": "Přemýšlím…"
+   },
+   "agenticTryAgain": {
+      "message": "Opakovat"
+   },
+   "agenticVerbClick": {
+      "message": "Kliknout"
+   },
+   "agenticVerbCopyText": {
+      "message": "Zkopírovat text"
+   },
+   "agenticVerbEnterText": {
+      "message": "Zadat text"
+   },
+   "agenticVerbPasteText": {
+      "message": "Vložit text"
+   },
+   "agenticVerbReadDropdown": {
+      "message": "Přečíst možnosti rozbalovací nabídky"
+   },
+   "agenticVerbScrollToElement": {
+      "message": "Posunout se na prvek"
+   },
+   "agenticVerbSelectOption": {
+      "message": "Vybrat možnost"
+   },
+   "agenticWaitingForAction": {
+      "message": "Čeká se na vaši akci..."
+   },
+   "allRecommendationsHeader": {
+      "message": "Všechna doporučení"
+   },
+   "automatableBadge": {
+      "message": "Automatizovat"
+   },
+   "automationFlowCompleteTitle": {
+      "message": "Nastavení Správce značek Google"
+   },
+   "automationSuccessFeedbackCommentPlaceholder": {
+      "message": "Volitelné: přidejte komentář"
+   },
+   "automationSuccessFeedbackFallbackName": {
+      "message": "Automatizace"
+   },
+   "automationSuccessFeedbackPromptTitle": {
+      "message": "Jaký byl výsledek?"
+   },
+   "automationSuccessFeedbackStarLabel": {
+      "message": "hodnocení pomocí hvězdiček"
+   },
+   "automationSuccessFeedbackSubmitError": {
+      "message": "Zpětnou vazbu se odeslat nepodařilo"
+   },
+   "buttonLoading": {
+      "message": "Probíhá načítání"
+   },
+   "buttonStartEventSetupTool": {
+      "message": "Nastavit události"
+   },
+   "buttonTroubleshootPixel": {
+      "message": "Řešit problém s pixelem"
+   },
+   "cancelAutomationCancelButton": {
+      "message": "Zrušit automatizaci"
+   },
+   "cancelAutomationCancellingButton": {
+      "message": "Ruší se..."
+   },
+   "cancelAutomationFromVerificationCancelButton": {
+      "message": "Zrušit automatizaci"
+   },
+   "cancelAutomationFromVerificationMessage": {
+      "message": "Pořád se nám nepodařilo ověřit stav této akce. Automatizaci zrušte a nastavte ji ručně."
+   },
+   "cancelAutomationFromVerificationTitle": {
+      "message": "Zrušit automatizaci"
+   },
+   "cancelAutomationFromVerificationTryAgainButton": {
+      "message": "Opakovat"
+   },
+   "cancelAutomationResumeButton": {
+      "message": "Pokračovat v automatizaci"
+   },
+   "cancelAutomationTitle": {
+      "message": "Opravdu chcete automatizaci zavřít a zrušit?"
+   },
+   "cancelSetupCancelButton": {
+      "message": "Zrušit nastavení"
+   },
+   "cancelSetupResumeButton": {
+      "message": "Pokračovat v nastavení"
+   },
+   "cancelSetupTitle": {
+      "message": "Opravdu chcete nastavení zavřít a zrušit?"
+   },
+   "capiFieldCity": {
+      "message": "Město"
+   },
+   "capiFieldClickId": {
+      "message": "ID kliknutí"
+   },
+   "capiFieldCountry": {
+      "message": "Země"
+   },
+   "capiFieldDateOfBirth": {
+      "message": "Datum narození"
+   },
+   "capiFieldEmail": {
+      "message": "E-mail"
+   },
+   "capiFieldEventName": {
+      "message": "Název události"
+   },
+   "capiFieldEventTime": {
+      "message": "Čas události"
+   },
+   "capiFieldExternalId": {
+      "message": "Externí ID"
+   },
+   "capiFieldFirstName": {
+      "message": "Křestní jméno"
+   },
+   "capiFieldGender": {
+      "message": "Pohlaví"
+   },
+   "capiFieldLastName": {
+      "message": "Příjmení"
+   },
+   "capiFieldLeadId": {
+      "message": "ID potenciálního zákazníka na platformách společnosti Meta"
+   },
+   "capiFieldPhone": {
+      "message": "Telefonní číslo"
+   },
+   "capiFieldState": {
+      "message": "Stát"
+   },
+   "capiFieldZipCode": {
+      "message": "PSČ"
+   },
+   "catalogConnectedTo": {
+      "message": "Připojeno k $1"
+   },
+   "catalogConnections": {
+      "message": "Kontakty"
+   },
+   "catalogCsvHeaderHowToFix": {
+      "message": "Jak to opravit"
+   },
+   "catalogCsvHeaderIssueType": {
+      "message": "Typ problému"
+   },
+   "catalogCsvHeaderMoreInfo": {
+      "message": "Další informace"
+   },
+   "catalogCsvHeaderSampleType": {
+      "message": "Vzorový typ"
+   },
+   "catalogCsvHeaderSampleValue": {
+      "message": "Vzorová hodnota"
+   },
+   "catalogCsvHeaderTotalReceived": {
+      "message": "Celkem přijato"
+   },
+   "catalogCsvHowToFixText": {
+      "message": "Zjistěte, jak si přidat produkty do katalogu: https://www.facebook.com/business/help/384041892421495?id=725943027795860"
+   },
+   "catalogCsvMoreInfoText": {
+      "message": "Přidejte do katalogu produkty pro daná ID obsahu nebo zkontrolujte, že v rámci událostí posíláte správná ID obsahu"
+   },
+   "catalogCsvUnmatchedEvents": {
+      "message": "Neshodující se události"
+   },
+   "catalogEventNameAddToCart": {
+      "message": "Přidání do košíku"
+   },
+   "catalogEventNameAddToWishlist": {
+      "message": "Přidání na seznam přání"
+   },
+   "catalogEventNameInitiateCheckout": {
+      "message": "Přechody k zaplacení"
+   },
+   "catalogEventNameLead": {
+      "message": "Potenciální zákazníci"
+   },
+   "catalogEventNamePurchase": {
+      "message": "Nákupy"
+   },
+   "catalogEventNameSearch": {
+      "message": "Vyhledávání"
+   },
+   "catalogEventNameSubscribe": {
+      "message": "Předplatná"
+   },
+   "catalogEventNameViewContent": {
+      "message": "Zobrazení stránky"
+   },
+   "catalogFooterManageConnection": {
+      "message": "Spravovat připojení"
+   },
+   "catalogFooterViewInCommerceManager": {
+      "message": "Zobrazit v Commerce Manageru"
+   },
+   "catalogLiveMatchCount": {
+      "message": "Shodující se produkty: 1 USD / 2 USD"
+   },
+   "catalogLoadError": {
+      "message": "Data katalogu se nepodařilo načíst"
+   },
+   "catalogManageCatalogConnections": {
+      "message": "Spravovat propojení katalogu"
+   },
+   "catalogMatchRate": {
+      "message": "$1% míra shody katalogu"
+   },
+   "catalogMatchRateAdsImpactedBody": {
+      "message": "Když máte 1 % shody, máte pro cílení reklam k dispozici omezené produkty. To může vést k menším okruhům uživatelů, vyšším nákladům a nižšímu prodeji."
+   },
+   "catalogMatchRateAdsImpactedFollowup": {
+      "message": "Přečtěte si dole, jak můžete zvýšit míru shody."
+   },
+   "catalogMatchRateAdsImpactedTitle": {
+      "message": "Může to ovlivnit vaše reklamy"
+   },
+   "catalogMatchRateByEventHeader": {
+      "message": "Shody produktů podle události"
+   },
+   "catalogMatchRateDescription": {
+      "message": "interakcí s produkty se shoduje s produkty v katalogu"
+   },
+   "catalogMatchRateHeader": {
+      "message": "Míra shody katalogu"
+   },
+   "catalogMatchRateImproveStep1Body": {
+      "message": "Ujistěte se, že v katalogu máte všechny produkty."
+   },
+   "catalogMatchRateImproveStep1Title": {
+      "message": "Zkontrolujte synchronizované produkty"
+   },
+   "catalogMatchRateImproveStep2Body": {
+      "message": "ID produktů by se měla přesně shodovat s vaším katalogem."
+   },
+   "catalogMatchRateImproveStep2Title": {
+      "message": "Ověřte ID produktů"
+   },
+   "catalogMatchRateImproveStep3Body": {
+      "message": "Ujistěte se, že pixel a konverzní události fungují správně."
+   },
+   "catalogMatchRateImproveStep3Title": {
+      "message": "Ověřte nastavení události"
+   },
+   "catalogMatchRateImproveTitle": {
+      "message": "Zlepšete míru shody produktů"
+   },
+   "catalogMatchRateLearnMore": {
+      "message": "Další informace"
+   },
+   "catalogMatchRateMissing": {
+      "message": "Chybí"
+   },
+   "catalogMatchRateTimeframe": {
+      "message": "Na všech připojených webech v posledních 28 dnech"
+   },
+   "catalogMatchRateWarning": {
+      "message": "Míru shody katalogu doporučujeme udržovat nad 90 %."
+   },
+   "catalogMenuCopyCatalogId": {
+      "message": "Zkopírovat ID katalogu"
+   },
+   "catalogMenuGiveFeedback": {
+      "message": "Poslat zpětnou vazbu"
+   },
+   "catalogMenuGoToCatalog": {
+      "message": "Otevřít katalog"
+   },
+   "catalogMenuMoreOptions": {
+      "message": "Další možnosti"
+   },
+   "catalogMoreCatalogs": {
+      "message": "Víc než $1 katalogů"
+   },
+   "catalogOnboardingBannerLearnMore": {
+      "message": "Ukázat"
+   },
+   "catalogOnboardingBannerText": {
+      "message": "Katalogy teď uvidíte vedle pixelů se stejnými kontrolami stavu a varováními."
+   },
+   "catalogPixelAssociatedWebsites": {
+      "message": "Související weby"
+   },
+   "catalogPixelConnectionDetailsHeader": {
+      "message": "Podrobnosti o připojení pixelu"
+   },
+   "catalogPixelProducts": {
+      "message": "Produkty"
+   },
+   "catalogProductImageAlt": {
+      "message": "Obrázek produktu"
+   },
+   "catalogProductMatchedBadge": {
+      "message": "Spárováno"
+   },
+   "catalogProductNotMatchedBadge": {
+      "message": "Nespárováno"
+   },
+   "catalogProductsSectionTitle": {
+      "message": "Produkty na této stránce"
+   },
+   "catalogUnmatchedAddProductsDescription": {
+      "message": "Lidé na vašem webu interagují s produkty, které neodpovídají žádnému katalogu propojenému s vaším Pixelem. Zkontrolujte, že v katalogu máte všechny produkty z webu."
+   },
+   "catalogUnmatchedAddProductsLink": {
+      "message": "Zjistěte, jak přidat produkty"
+   },
+   "catalogUnmatchedAddProductsTitle": {
+      "message": "Do katalogu přidejte produkty, se kterými lidé interagují"
+   },
+   "catalogUnmatchedContentIdColumnHeader": {
+      "message": "ID obsahu"
+   },
+   "catalogUnmatchedDescription": {
+      "message": "Přidejte do katalogu produkty pro daná ID obsahu nebo zkontrolujte, že v rámci událostí posíláte správná ID obsahu."
+   },
+   "catalogUnmatchedDownloadList": {
+      "message": "Stáhnout seznam"
+   },
+   "catalogUnmatchedOtherWaysHeader": {
+      "message": "Další možnosti, jak problém vyřešit"
+   },
+   "catalogUnmatchedRecommendationsHeader": {
+      "message": "Doporučení"
+   },
+   "catalogUnmatchedSendContentIdDescription": {
+      "message": "Zkontrolujte, že posíláte správné ID obsahu, které odpovídá produktu z daného katalogu nebo jakéhokoli jiného propojeného s pixelem."
+   },
+   "catalogUnmatchedSendContentIdTitle": {
+      "message": "Posílejte odpovídající ID obsahu"
+   },
+   "catalogUnmatchedTitle": {
+      "message": "Některá ID obsahu neodpovídají žádným katalogům"
+   },
+   "catalogUnmatchedTopInteractionsHeader": {
+      "message": "Nejdůležitější interakce, u kterých je problém"
+   },
+   "catalogUnmatchedTotalReceivedColumnHeader": {
+      "message": "Celkem přijato"
+   },
+   "catalogWarningsFromPixel": {
+      "message": "Od 1 USD"
+   },
+   "catalogWarningsHeader": {
+      "message": "Varování"
+   },
+   "catalogWarningsUnmatchedProductsDescription": {
+      "message": "ID obsahu neodpovídají žádnému katalogu"
+   },
+   "catalogWarningsUnmatchedProductsHeader": {
+      "message": "Produkty bez shody"
+   },
+   "confirmEventsToSetUpHeader": {
+      "message": "Potvrďte události, které chcete nastavit"
+   },
+   "continueButton": {
+      "message": "Pokračovat"
+   },
+   "continueToNextDatasetButton": {
+      "message": "Pokračovat na další dataset"
+   },
+   "copyToClipboardCopied": {
+      "message": "Zkopírováno!"
+   },
+   "copyToClipboardTitle": {
+      "message": "Kopírovat do schránky"
+   },
+   "create_new_asset_already_added": {
+      "message": "Už je přidané"
+   },
+   "create_new_asset_button": {
+      "message": "Vytvořit nové"
+   },
+   "customConversionActionSourceLabel": {
+      "message": "Zdroj akce"
+   },
+   "customConversionEventLabel": {
+      "message": "Událost"
+   },
+   "customConversionNameLabel": {
+      "message": "Název"
+   },
+   "customConversionRulesLabel": {
+      "message": "Pravidla"
+   },
+   "customConversionValueFormat": {
+      "message": "$$1"
+   },
+   "customConversionValueLabel": {
+      "message": "Výchozí hodnota"
+   },
+   "datasetIdPrefix": {
+      "message": "ID: $1"
+   },
+   "datasetsAffected": {
+      "message": "Týká se $1 datasetů"
+   },
+   "dropdownSearchPlaceholder": {
+      "message": "Hledejte"
+   },
+   "dropdownTagIdentifier": {
+      "message": "Identifikátor"
+   },
+   "dropdownTagRecommended": {
+      "message": "Doporučené"
+   },
+   "duplicateEventMessage": {
+      "message": "Událost „$1“ se $2krát spustila se stejnými daty, což může vést k chybám ve sledování"
+   },
+   "duplicateEventRecommendation": {
+      "message": "Zkontrolujte implementaci pixelu a ujistěte se, že se události neúmyslně neaktivují víckrát. K tomu často dochází, když stejný kód události běží víckrát nebo se pixel inicializuje víc než jednou."
+   },
+   "emptyActionsStateDescriptionPart1": {
+      "message": "Navštivte"
+   },
+   "emptyActionsStateDescriptionPart2": {
+      "message": "a podívejte se, jaké příležitosti ke zvýšení efektivity se nabízí"
+   },
+   "emptyActionsStateEventsManagerLink": {
+      "message": "Správce událostí"
+   },
+   "emptyActionsStateTitle": {
+      "message": "Žádné dostupné akce"
+   },
+   "enableFreeCAPIGButton": {
+      "message": "Povolit"
+   },
+   "error_generic": {
+      "message": "Došlo k chybě"
+   },
+   "eventDeduplicated": {
+      "message": "Deduplikováno"
+   },
+   "eventDetailsAdvancedMatchingHeader": {
+      "message": "Odeslané parametry pokročilého párování"
+   },
+   "eventDetailsBrowserOnlyAriaLabel": {
+      "message": "Parametr jen v datech prohlížeče"
+   },
+   "eventDetailsBrowserOnlyBadge": {
+      "message": "Jen prohlížeč"
+   },
+   "eventDetailsCustomParamsHeader": {
+      "message": "Vlastní parametry"
+   },
+   "eventDetailsDpoHeader": {
+      "message": "Odeslané parametry zpracování dat"
+   },
+   "eventDetailsDpoWarning": {
+      "message": "Protože se odesílají možnosti zpracování dat, nemusí fungovat vlastní konverze nebo zpětná vazba katalogu."
+   },
+   "eventDetailsEventIdLabel": {
+      "message": "ID události"
+   },
+   "eventDetailsEventInfoHeader": {
+      "message": "Informace o události"
+   },
+   "eventDetailsFrameIFrame": {
+      "message": "IFrame"
+   },
+   "eventDetailsFrameLabel": {
+      "message": "Rámeček"
+   },
+   "eventDetailsFrameWindow": {
+      "message": "Okno"
+   },
+   "eventDetailsLoadTimeLabel": {
+      "message": "Čas načítání"
+   },
+   "eventDetailsPixelCodeLabel": {
+      "message": "Kód pixelu"
+   },
+   "eventDetailsPixelLocationLabel": {
+      "message": "Lokalita pixelu"
+   },
+   "eventDetailsServerOnlyAriaLabel": {
+      "message": "Parametr jen v datech serveru"
+   },
+   "eventDetailsServerOnlyBadge": {
+      "message": "Jen server"
+   },
+   "eventDetailsSetupMethodAutomatic": {
+      "message": "Automaticky"
+   },
+   "eventDetailsSetupMethodLabel": {
+      "message": "Způsob nastavení"
+   },
+   "eventDetailsSetupMethodManual": {
+      "message": "Ručně"
+   },
+   "eventDetailsUrlCalledLabel": {
+      "message": "Volaná URL"
+   },
+   "eventsHeader": {
+      "message": "Události"
+   },
+   "eventsOnThisPageHeader": {
+      "message": "Události na této stránce"
+   },
+   "extensionDescription": {
+      "message": "Meta Pixel Helper je nástroj pro řešení problémů, který vám pomůže ověřit implementaci pixelu."
+   },
+   "extensionName": {
+      "message": "Meta Pixel Helper"
+   },
+   "feedbackAddButton": {
+      "message": "Přidat"
+   },
+   "feedbackAttachScreenshots": {
+      "message": "Připojit snímky obrazovky"
+   },
+   "feedbackAutomaticScreenshot": {
+      "message": "Automatický snímek obrazovky"
+   },
+   "feedbackDeleteAttachment": {
+      "message": "Odstranit přílohu"
+   },
+   "feedbackDescriptionPlaceholder": {
+      "message": "Podrobně vysvětlete svůj názor"
+   },
+   "feedbackDropdownLabel": {
+      "message": "Zpětná vazba"
+   },
+   "feedbackErrorScreenshotLabel": {
+      "message": "Snímek obrazovky s chybou"
+   },
+   "feedbackPageDescription": {
+      "message": "Nahlaste problémy nebo nám dejte zpětnou vazbu, ať se můžeme dál zlepšovat."
+   },
+   "feedbackPagePrivacyLink": {
+      "message": "Podívejte se, jak údaje využíváme."
+   },
+   "feedbackPageTitle": {
+      "message": "Odešlete zpětnou vazbu"
+   },
+   "feedbackReceivedSubTitle": {
+      "message": "Díky, že nám pomáháte vylepšovat prostředí."
+   },
+   "feedbackReceivedTitle": {
+      "message": "Vaši zpětnou vazbu jsme přijali"
+   },
+   "feedbackReturnToPreviousPage": {
+      "message": "Zpět na předchozí stránku"
+   },
+   "feedbackSelectorTypeBug": {
+      "message": "Chyba"
+   },
+   "feedbackSelectorTypeFeatureRequest": {
+      "message": "Žádost o funkci"
+   },
+   "feedbackSelectorTypeGeneralFeedback": {
+      "message": "Obecná zpětná vazba"
+   },
+   "feedbackSelectorTypeQuestion": {
+      "message": "Jaký druh zpětné vazby?"
+   },
+   "feedbackStoredLocally": {
+      "message": "Uloženo místně"
+   },
+   "feedbackSubmitButton": {
+      "message": "Odeslat"
+   },
+   "feedbackSubmitDisabledTooltip": {
+      "message": "Pokud chcete odeslat zpětnou vazbu, vyplňte všechna povinná pole"
+   },
+   "feedbackSubmittingButton": {
+      "message": "Odesílání..."
+   },
+   "feedbackTitleLabel": {
+      "message": "Název zpětné vazby"
+   },
+   "feedbackUploadButton": {
+      "message": "Nahrát"
+   },
+   "fieldItemCopyTooltip": {
+      "message": "Zkopírovat 1 USD"
+   },
+   "fieldItemHide": {
+      "message": "Skrýt"
+   },
+   "fieldItemShow": {
+      "message": "Zobrazit"
+   },
+   "freeCapigL2DisableNote": {
+      "message": "Ve Správci událostí to můžete kdykoli deaktivovat."
+   },
+   "freeCapigL2ReturnHome": {
+      "message": "Zpět na hlavní stránku"
+   },
+   "freeCapigL2SeeTermsLabel": {
+      "message": "Zobrazit smluvní podmínky"
+   },
+   "freeCapigL2SetupStep1": {
+      "message": "Meta nastaví připojení na straně serveru na pozadí."
+   },
+   "freeCapigL2SetupStep2": {
+      "message": "Události pixelu se budou automaticky zrcadlit do Conversions API"
+   },
+   "freeCapigL2SetupStep3": {
+      "message": "Užijte si zvýšenou spolehlivost sledování na straně serveru."
+   },
+   "freeCapigL2SuccessExplainerEMLink": {
+      "message": "Správce událostí"
+   },
+   "freeCapigL2SuccessExplainerPrefix": {
+      "message": "Změny by se měly projevit během příštích 7 dní. Prozkoumejte a upravte je v"
+   },
+   "freeCapigL2SuccessExplainerSuffix": {
+      "message": "a to kdykoli."
+   },
+   "freeCapigL2SuccessTitle": {
+      "message": "Conversions API je povolené"
+   },
+   "freeCapigL2TermsBusinessToolsTermsLink": {
+      "message": "smluvní podmínky nástrojů pro firmy"
+   },
+   "freeCapigL2TermsDisclosureMiddle": {
+      "message": "a"
+   },
+   "freeCapigL2TermsDisclosurePrefix": {
+      "message": "Tím, že budete pokračovat, dáte společnosti Meta oprávnění a pokyn k nastavení integrace Conversions API zapnuté společností Meta vaším jménem. Potvrdíte, že na vaše používání integrace se vztahují"
+   },
+   "freeCapigL2TermsPlatformTermsLink": {
+      "message": "podmínky platformy"
+   },
+   "freeCapigOptInErrorMessage": {
+      "message": "Nepodařilo se povolit Conversions API. Zkuste to znovu, nebo proveďte nastavení ve Správci událostí."
+   },
+   "freeCapigOptInLoadingLabel": {
+      "message": "Zapíná se…"
+   },
+   "freeCapigOptInSuccessTitle": {
+      "message": "Conversions API je zapnuté!"
+   },
+   "ga_account_creation_title": {
+      "message": "Účet Google Analytics"
+   },
+   "ga_account_display_name_label": {
+      "message": "Název účtu"
+   },
+   "ga_property_creation_title": {
+      "message": "Objekt Google Analytics"
+   },
+   "ga_property_display_name_label": {
+      "message": "Název objektu"
+   },
+   "ga_property_time_zone_label": {
+      "message": "Časové pásmo"
+   },
+   "ga_stream_creation_title": {
+      "message": "Webový stream Google Analytics"
+   },
+   "ga_stream_display_name_label": {
+      "message": "Název streamu"
+   },
+   "ga_stream_url_label": {
+      "message": "URL webu"
+   },
+   "go_back": {
+      "message": "Zpět"
+   },
+   "gtmAccountSelectorLabel": {
+      "message": "Účet Správce značek Google"
+   },
+   "gtmAccountSelectorPlaceholder": {
+      "message": "Vyberte účet"
+   },
+   "gtmChooseHostingProvider": {
+      "message": "Vyberte poskytovatele hostování:"
+   },
+   "gtmCreateNewServerContainer": {
+      "message": "Vytvořit nový kontejner serveru"
+   },
+   "gtmHostingGoogleBullet1": {
+      "message": "Nepotřebujete pomoc vývojáře"
+   },
+   "gtmHostingGoogleBullet2": {
+      "message": "Okolo 30 minut"
+   },
+   "gtmHostingGoogleBullet3": {
+      "message": "Platba za cloudové zdroje"
+   },
+   "gtmHostingGoogleBullet4": {
+      "message": "Plně přizpůsobitelné"
+   },
+   "gtmHostingGoogleDescription": {
+      "message": "Přímá integrace Správce značek Google vám zjednoduší a zefektivní správu tagů. Hodí se, pokud je chcete spravovat přímo nástrojem od Googlu."
+   },
+   "gtmHostingGoogleLabel": {
+      "message": "Google"
+   },
+   "gtmHostingStapeBullet1": {
+      "message": "Nepotřebujete pomoc vývojáře"
+   },
+   "gtmHostingStapeBullet2": {
+      "message": "Okolo 15 minut"
+   },
+   "gtmHostingStapeBullet3": {
+      "message": "Je dostupný plán premium zdarma"
+   },
+   "gtmHostingStapeBullet4": {
+      "message": "Cena založená na předplatném"
+   },
+   "gtmHostingStapeDescription": {
+      "message": "Stape zjednoduší nastavení kontejneru serveru a bude za vás řešit hostování. Je dostupný bezplatný plán."
+   },
+   "gtmHostingStapeLabel": {
+      "message": "Stape"
+   },
+   "gtmInvalidUrlError": {
+      "message": "Zadejte platnou URL."
+   },
+   "gtmServerConnectionOptionGoogleTagManager": {
+      "message": "Správce značek Google"
+   },
+   "gtmServerConnectionOptionMetaEnabledCapig": {
+      "message": "Conversions API povolené společností Meta (doporučeno)"
+   },
+   "gtmServerConnectionOptionNone": {
+      "message": "Žádné"
+   },
+   "gtmServerConnectionSelectorLabel": {
+      "message": "Připojení k serveru"
+   },
+   "gtmServerContainerLabel": {
+      "message": "Kontejner serveru"
+   },
+   "gtmServerContainerNotProvisionedWarning": {
+      "message": "Server není zajištěný"
+   },
+   "gtmServerContainerPlaceholder": {
+      "message": "Vyberte kontejner serveru"
+   },
+   "gtmStepAnalyticsStream": {
+      "message": "Stream analytiky"
+   },
+   "gtmStepGtmAccount": {
+      "message": "Účet Správce značek Google"
+   },
+   "gtmStepPreExistingTooltip": {
+      "message": "Položka už existuje nebo je automatizovaná přes API."
+   },
+   "gtmStepProvisionedServerContainer": {
+      "message": "Zřízený kontejner serveru"
+   },
+   "gtmStepPublished": {
+      "message": "Zveřejněno"
+   },
+   "gtmStepServerContainer": {
+      "message": "Kontejner serveru"
+   },
+   "gtmStepWebContainer": {
+      "message": "Kontejner webu"
+   },
+   "gtmTaggingServerUrlLabel": {
+      "message": "URL značkovacího serveru"
+   },
+   "gtmTaggingServerUrlPlaceholder": {
+      "message": "https://vas-znackovaci-server.priklad.cz"
+   },
+   "gtm_account_creation_title": {
+      "message": "Účet Správce značek Google"
+   },
+   "gtm_account_name_label": {
+      "message": "Název účtu"
+   },
+   "gtm_action_needed": {
+      "message": "Je vyžadovaná akce"
+   },
+   "gtm_api_fetch_accounts_error": {
+      "message": "Účty se nepodařilo načíst. Zkuste to znovu nebo zkontrolujte přístup ke Správci značek Google."
+   },
+   "gtm_api_fetch_containers_error": {
+      "message": "Kontejnery pro účet $1 se nepodařilo načíst. Zkuste to znovu nebo zkontrolujte oprávnění Správce značek Google."
+   },
+   "gtm_api_fetch_data_streams_error": {
+      "message": "Nepodařilo se načíst datové streamy pro objekt $1"
+   },
+   "gtm_api_fetch_ga_accounts_error": {
+      "message": "Účty Google Analytics se nepodařilo načíst"
+   },
+   "gtm_api_fetch_ga_properties_error": {
+      "message": "Nepodařilo se načíst vlastnosti Google Analytics. Zkuste to znovu nebo zkontrolujte přístup ke Google Analytics."
+   },
+   "gtm_api_get_token_error": {
+      "message": "Nepodařilo se získat token"
+   },
+   "gtm_api_invalid_token_response": {
+      "message": "Neplatná odpověď s tokenem"
+   },
+   "gtm_automatic_advanced_matching_label": {
+      "message": "Automaticky najděte shodu pro klíčové údaje zákazníků, jako je e-mail a telefonní číslo, z vašeho webu a zlepšete doručování reklam."
+   },
+   "gtm_availability_load_error": {
+      "message": "Položky Správce značek Google se nepodařilo načíst"
+   },
+   "gtm_availability_no_account_error": {
+      "message": "Nenašli jsme žádný účet Správce značek Google."
+   },
+   "gtm_availability_no_web_container_error": {
+      "message": "Ve Správci značek Google jsme nenašli žádný kontejner webu."
+   },
+   "gtm_capi_token_error": {
+      "message": "Nepodařilo se vygenerovat přístupový token Conversions API. Ujistěte se, že jste správce firmy pro tento pixel."
+   },
+   "gtm_dataset_label": {
+      "message": "Dataset"
+   },
+   "gtm_fetch_accounts_fallback_error": {
+      "message": "Účty se nepodařilo načíst"
+   },
+   "gtm_fetch_containers_fallback_error": {
+      "message": "Kontejnery se nepodařilo načíst"
+   },
+   "gtm_fetch_google_analytics_accounts_fallback_error": {
+      "message": "Účty Google Analytics se nepodařilo načíst"
+   },
+   "gtm_fetch_google_analytics_properties_fallback_error": {
+      "message": "Objekty Google Analytics se nepodařilo načíst"
+   },
+   "gtm_fetch_google_analytics_web_streams_fallback_error": {
+      "message": "Webové streamy Google Analytics se nepodařilo načíst"
+   },
+   "gtm_fetch_server_containers_fallback_error": {
+      "message": "Kontejnery serveru Správce značek Google se nepodařilo načíst"
+   },
+   "gtm_ga4_data_stream_label": {
+      "message": "Datový stream Google Analytics"
+   },
+   "gtm_ga4_web_stream_toggle_label": {
+      "message": "Přeposlat události Google Analytics"
+   },
+   "gtm_ga_account_label": {
+      "message": "Účet Google Analytics"
+   },
+   "gtm_ga_account_placeholder": {
+      "message": "Vyberte účet Google Analytics"
+   },
+   "gtm_ga_data_stream_placeholder": {
+      "message": "Vyberte datový stream"
+   },
+   "gtm_google_auth_warning_body": {
+      "message": "Vypadá to, že se vaše Google relace během nastavování deaktivovala. Přihlaste se zpátky a pokračujte od posledního provedeného kroku."
+   },
+   "gtm_google_auth_warning_primary_cta": {
+      "message": "Přihlásit se"
+   },
+   "gtm_google_auth_warning_title": {
+      "message": "Pokud chcete pokračovat, přihlaste se k Googlu"
+   },
+   "gtm_next_step_back_aria_label": {
+      "message": "Zpět"
+   },
+   "gtm_next_step_confirm_button": {
+      "message": "Potvrdit"
+   },
+   "gtm_next_step_event_setup_description": {
+      "message": "Nástroj pro nastavení událostí vám umožní vybrat konverzní události, jako jsou nákupy nebo přidání do košíku, přímo z vašich webových stránek a bezpečně je odeslat společnosti Meta."
+   },
+   "gtm_next_step_event_setup_title": {
+      "message": "Posílejte společnosti Meta důležité konverzní události"
+   },
+   "gtm_next_step_eyebrow": {
+      "message": "Je vyžadovaná akce"
+   },
+   "gtm_next_step_manual_setup_title": {
+      "message": "Ruční nastavení"
+   },
+   "gtm_next_step_missing_pixel_error": {
+      "message": "Nejdřív vyberte ID datasetu."
+   },
+   "gtm_next_step_missing_url_error": {
+      "message": "Nejdřív zadejte URL webu."
+   },
+   "gtm_next_step_nav_title": {
+      "message": "Bezpečně propojte svoje data"
+   },
+   "gtm_next_step_title": {
+      "message": "Bezpečně propojte svoje data"
+   },
+   "gtm_next_step_website_url_label": {
+      "message": "URL webu"
+   },
+   "gtm_next_step_website_url_placeholder": {
+      "message": "Zadejte URL webu"
+   },
+   "gtm_pixel_business_fetch_error": {
+      "message": "Pro pixel $1 se nepodařilo načíst informace o pixelu. Možná nemáte oprávnění k přístupu k tomuto pixelu. Podrobnosti: $2"
+   },
+   "gtm_pixel_business_load_error": {
+      "message": "Sada dat $1 se nedá načíst. Zkontrolujte, jestli je ID sady dat správné a jestli máte oprávnění k jejímu zobrazení."
+   },
+   "gtm_pixel_business_no_business_error": {
+      "message": "Pixel $1 nemá vlastnící firmu. Pokud chcete vygenerovat přístupový token Conversions API, musí si pixel zaregistrovat firma."
+   },
+   "gtm_pixel_dataset_id_label": {
+      "message": "ID datasetu"
+   },
+   "gtm_pixel_detected_on_page": {
+      "message": "Detekováno na stránce"
+   },
+   "gtm_pixel_load_more": {
+      "message": "Načíst další pixely…"
+   },
+   "gtm_pixel_no_pixels_detected": {
+      "message": "Na stránce jsme nenašli žádné pixely. Zadejte ID datasetu ručně."
+   },
+   "gtm_pixel_no_pixels_found": {
+      "message": "Nenašli jsme žádné pixely"
+   },
+   "gtm_pixel_picker_dataset_id_numeric_error": {
+      "message": "ID sady dat by mělo být číslo"
+   },
+   "gtm_pixel_picker_dataset_id_placeholder": {
+      "message": "Zadejte ID datasetu"
+   },
+   "gtm_pixel_picker_enter_manually": {
+      "message": "Zadat ručně"
+   },
+   "gtm_pixel_search_placeholder": {
+      "message": "Hledejte mezi pixely"
+   },
+   "gtm_pixel_select_placeholder": {
+      "message": "Vyberte pixel"
+   },
+   "gtm_pixel_your_pixels": {
+      "message": "Vaše pixely"
+   },
+   "gtm_publish_asset_preparation_failed": {
+      "message": "Příprava položky se nezdařila"
+   },
+   "gtm_publish_asset_preparation_missing_ids": {
+      "message": "Příprava položky proběhla bez ID připravených ke zveřejnění"
+   },
+   "gtm_publish_automatic_advanced_matching_progress": {
+      "message": "Zapínání automatického pokročilého párování…"
+   },
+   "gtm_publish_automatic_advanced_matching_warning": {
+      "message": "Automatické pokročilé párování se nepodařilo zapnout, ale tagy Správce značek Google jsou zveřejněné."
+   },
+   "gtm_publish_completed_with_warnings_title": {
+      "message": "Zveřejněno s varováními"
+   },
+   "gtm_publish_confirm_button": {
+      "message": "Potvrdit"
+   },
+   "gtm_publish_create_ga_account_and_property_progress": {
+      "message": "Vytváří se účet a objekt Google Analytics…"
+   },
+   "gtm_publish_create_ga_property_progress": {
+      "message": "Vytváří se objekt Google Analytics…"
+   },
+   "gtm_publish_create_ga_stream_progress": {
+      "message": "Vytváření webového streamu Google Analytics..."
+   },
+   "gtm_publish_create_gtm_account_and_web_container_progress": {
+      "message": "Vytváříme účet Správce značek Google a webový kontejner…"
+   },
+   "gtm_publish_create_server_container_progress": {
+      "message": "Vytváření kontejneru serveru…"
+   },
+   "gtm_publish_create_version_error": {
+      "message": "Nepodařilo se vytvořit verzi kontejneru $1"
+   },
+   "gtm_publish_create_web_container_progress": {
+      "message": "Vytváření webového kontejneru…"
+   },
+   "gtm_publish_failed_title": {
+      "message": "Zveřejnění se nezdařilo"
+   },
+   "gtm_publish_fetch_pixel_business_progress": {
+      "message": "Načítání firemních informací o pixelu..."
+   },
+   "gtm_publish_free_capig_opt_in_progress": {
+      "message": "Nastavování Conversions API povolené společností Meta..."
+   },
+   "gtm_publish_free_capig_opt_in_warning": {
+      "message": "Conversions API od společnosti Meta nešlo nastavit, ale tagy Správce značek Google se zveřejnily."
+   },
+   "gtm_publish_ga_account_recipe_flow_error": {
+      "message": "Vytvoření účtu Google Analytics vyžaduje proces řízený průvodcem"
+   },
+   "gtm_publish_generate_capi_token_progress": {
+      "message": "Generujeme přístupový token ke Conversions API..."
+   },
+   "gtm_publish_google_tag_manager_missing_ga_measurement_id": {
+      "message": "ID měření Google Analytics"
+   },
+   "gtm_publish_google_tag_manager_missing_requirements": {
+      "message": "Chybí připojení serveru Správce značek Google: $1"
+   },
+   "gtm_publish_google_tag_manager_missing_server_container": {
+      "message": "Kontejner serveru Správce značek Google"
+   },
+   "gtm_publish_google_tag_manager_missing_tagging_server_url": {
+      "message": "URL serveru pro označování"
+   },
+   "gtm_publish_gtm_account_recipe_flow_error": {
+      "message": "Vytvoření účtu Správce značek Google vyžaduje proces řízený průvodcem"
+   },
+   "gtm_publish_missing_ga_account_draft": {
+      "message": "Žádný koncept účtu Google Analytics"
+   },
+   "gtm_publish_missing_ga_account_for_property": {
+      "message": "Nemáte vybraný žádný účet Google Analytics pro vytvoření objektu"
+   },
+   "gtm_publish_missing_ga_property_draft": {
+      "message": "Žádný koncept objektu Google Analytics"
+   },
+   "gtm_publish_missing_ga_property_for_stream": {
+      "message": "Nemáte vybrané žádné objekty Google Analytics k vytvoření streamu"
+   },
+   "gtm_publish_missing_ga_stream_draft": {
+      "message": "Žádný koncept streamu Google Analytics"
+   },
+   "gtm_publish_missing_google_auth": {
+      "message": "Neprošlo ověřením Googlem"
+   },
+   "gtm_publish_missing_gtm_account_draft": {
+      "message": "Žádný koncept účtu Správce značek Google"
+   },
+   "gtm_publish_missing_gtm_account_for_server_container": {
+      "message": "Nemáte vybraný žádný účet Správce značek Google pro vytvoření kontejneru serveru"
+   },
+   "gtm_publish_missing_gtm_account_for_web_container": {
+      "message": "Nemáte vybraný žádný účet Správce značek Google pro vytvoření webového kontejneru"
+   },
+   "gtm_publish_missing_pixel_id": {
+      "message": "Není vybrané žádné ID datasetu"
+   },
+   "gtm_publish_missing_required_asset": {
+      "message": "$1 chybí. Přidejte položku přes možnost „Vytvořit novou“ nebo vyberte stávající."
+   },
+   "gtm_publish_missing_required_assets_error": {
+      "message": "Chybí povinné položky: $1"
+   },
+   "gtm_publish_missing_requirements_title": {
+      "message": "Nesplněné požadavky:"
+   },
+   "gtm_publish_missing_server_container_draft": {
+      "message": "Žádný koncept kontejneru serveru"
+   },
+   "gtm_publish_missing_web_container_draft": {
+      "message": "Žádný koncept webového kontejneru"
+   },
+   "gtm_publish_no_workspaces_error": {
+      "message": "Pro kontejner $1 v $2 jsme nenašli žádné pracovní prostory. Vytvořte pracovní prostor ve Správci značek Google a zkuste to znovu."
+   },
+   "gtm_publish_pixel_label": {
+      "message": "ID datasetu: $1"
+   },
+   "gtm_publish_prepare_assets_progress": {
+      "message": "Příprava položek..."
+   },
+   "gtm_publish_progress_complete": {
+      "message": "Zveřejnění dokončeno."
+   },
+   "gtm_publish_progress_creating_datalayer_variables": {
+      "message": "Vytváří se proměnné vrstvy dat..."
+   },
+   "gtm_publish_progress_creating_pixel_template_tag": {
+      "message": "Vytváření tagu šablony pixelu..."
+   },
+   "gtm_publish_progress_creating_server_action_source": {
+      "message": "Vytváří se proměnná zdroje akce na straně serveru..."
+   },
+   "gtm_publish_progress_creating_server_tag": {
+      "message": "Vytváření tagu na straně serveru..."
+   },
+   "gtm_publish_progress_creating_server_trigger": {
+      "message": "Vytváří se spoušť na straně serveru…"
+   },
+   "gtm_publish_progress_creating_web_tags": {
+      "message": "Vytváří se webové tagy…"
+   },
+   "gtm_publish_progress_creating_web_tags_web_only": {
+      "message": "Vytváří se webové tagy…"
+   },
+   "gtm_publish_progress_creating_web_triggers": {
+      "message": "Vytváří se spouštěče webu…"
+   },
+   "gtm_publish_progress_enabling_builtin_variables": {
+      "message": "Povolení integrovaných proměnných..."
+   },
+   "gtm_publish_progress_getting_web_workspace": {
+      "message": "Načítání webového pracovního prostoru…"
+   },
+   "gtm_publish_progress_getting_workspaces": {
+      "message": "Načítání prostorů pro spolupráci…"
+   },
+   "gtm_publish_progress_importing_web_pixel_template": {
+      "message": "Importování šablony webového pixelu..."
+   },
+   "gtm_publish_progress_pixel_template_complete": {
+      "message": "Zveřejnění šablony pixelu je dokončeno."
+   },
+   "gtm_publish_progress_publishing_server_container": {
+      "message": "Zveřejňování kontejneru serveru…"
+   },
+   "gtm_publish_progress_publishing_web_container": {
+      "message": "Zveřejňování webového kontejneru…"
+   },
+   "gtm_publish_progress_setting_up_server_template": {
+      "message": "Nastavování šablony na straně serveru…"
+   },
+   "gtm_publish_progress_web_only_complete": {
+      "message": "Zveřejnění jen na webu je dokončeno."
+   },
+   "gtm_publish_published_button": {
+      "message": "Zveřejněno"
+   },
+   "gtm_publish_publishing_button": {
+      "message": "Zveřejňování…"
+   },
+   "gtm_publish_server_container_no_url_notice": {
+      "message": "Kontejner serveru se vytvoří, ale označování na straně serveru se zveřejní, až bude dostupná URL serveru pro označování."
+   },
+   "gtm_publish_success_message": {
+      "message": "Tagy jsou zveřejněné."
+   },
+   "gtm_publish_unsupported_draft_asset": {
+      "message": "Vytváření konceptů $1 během zveřejňování ještě nepodporujeme"
+   },
+   "gtm_publish_web_only_notice": {
+      "message": "Není vybraný žádný kontejner serveru. Zveřejní se nastavení jen pro web. Kontejner serveru můžete přidat a zveřejnit později."
+   },
+   "gtm_reauthenticate": {
+      "message": "Ověřit znovu"
+   },
+   "gtm_review_setup_and_publish": {
+      "message": "Zkontrolujte nastavení a zveřejněte to"
+   },
+   "gtm_setup_authenticate_button": {
+      "message": "Ověřit a načíst účty"
+   },
+   "gtm_setup_button": {
+      "message": "Nastavení"
+   },
+   "gtm_setup_header_title": {
+      "message": "Bezpečně propojte svoje data"
+   },
+   "gtm_setup_required_message": {
+      "message": "Nejdřív si nastavte ve Správci značek Google kontejner webu"
+   },
+   "gtm_setup_required_primary_cta": {
+      "message": "Otevřít Správce značek Google"
+   },
+   "gtm_setup_required_secondary_cta": {
+      "message": "Opakovat"
+   },
+   "gtm_setup_settings": {
+      "message": "Nastavení"
+   },
+   "gtm_setup_summary_description": {
+      "message": "Umožňuje snadno nasazovat a spravovat tagy, efektivně sledovat události bez kódu a dosahovat lepších výsledků reklam."
+   },
+   "gtm_setup_warning_loading_label": {
+      "message": "Načítání…"
+   },
+   "gtm_web_container_label": {
+      "message": "Kontejner webu"
+   },
+   "gtm_web_container_placeholder": {
+      "message": "Vyberte kontejner webu"
+   },
+   "guidanceEventsAffectedBadge": {
+      "message": "Týká se $1 % událostí"
+   },
+   "guidanceMoreIssuesPlural": {
+      "message": "Další problémy ($1)"
+   },
+   "guidanceMoreIssuesSingular": {
+      "message": "$1 další problém"
+   },
+   "guidanceViewAllButton": {
+      "message": "Zobrazit vše"
+   },
+   "guidanceViewButton": {
+      "message": "Zobrazit"
+   },
+   "highlightTooltipChooseAccount": {
+      "message": "Vyberte účet, ke kterému se chcete přihlásit"
+   },
+   "highlightTooltipClickToContinue": {
+      "message": "Pokračujte kliknutím sem"
+   },
+   "highlightTooltipSelectAll": {
+      "message": "Vyberte vše"
+   },
+   "idLabel": {
+      "message": "ID: $1"
+   },
+   "islandActionFailedMessage": {
+      "message": "Pokud chcete pokračovat, dokončete akci ručně"
+   },
+   "islandActionRequiredMessage": {
+      "message": "Proveďte akci, ať můžete pokračovat"
+   },
+   "learnAboutManualAdvancedMatching": {
+      "message": "Další informace o ručním pokročilém párování"
+   },
+   "learnAboutValueAndCurrencyParameters": {
+      "message": "Zadání hodnoty a měny v Meta Pixelu"
+   },
+   "learnHowToSetupAdvancedMatchingManually": {
+      "message": "Jak nastavit pokročilé párování ručně"
+   },
+   "learnMoreLink": {
+      "message": "Další informace"
+   },
+   "loadingText": {
+      "message": "Načítání…"
+   },
+   "loginPageButtonCreateAccount": {
+      "message": "Vytvořit nový účet"
+   },
+   "loginPageButtonLogin": {
+      "message": "Přihlásit se přes Facebook"
+   },
+   "loginPageButtonMMALogin": {
+      "message": "Přihlásit se pomocí spravovaného Meta účtu"
+   },
+   "loginPageDescription": {
+      "message": "a získejte personalizovanou podporu při nastavování událostí"
+   },
+   "loginPageSubtitle": {
+      "message": "Přihlaste se k nástrojům od společnosti Meta pro firmy"
+   },
+   "loginPageTitle": {
+      "message": "Meta Pixel Helper"
+   },
+   "mamStepExampleLabel": {
+      "message": "Příklad: 1 USD"
+   },
+   "metaLogoAlt": {
+      "message": "Meta"
+   },
+   "metaSignalHelperLogoAlt": {
+      "message": "Meta Pixel Helper"
+   },
+   "missingEventsActiveSessionTooltip": {
+      "message": "Nastavení událostí už probíhá"
+   },
+   "missingEventsTabSwitchTooltip": {
+      "message": "Přepněte zpátky na kartu, kde jste nastavování událostí zahájil(a)"
+   },
+   "moreInformationHeader": {
+      "message": "Další informace"
+   },
+   "moreLabel": {
+      "message": "+ další $1"
+   },
+   "newFeaturesBannerLearnMore": {
+      "message": "Další informace"
+   },
+   "newFeaturesBannerText": {
+      "message": "K dispozici je nová automatizační funkce, se kterou nastavíte složité nástroje během pár minut."
+   },
+   "nextStepsHeader": {
+      "message": "Další kroky"
+   },
+   "noEventsOnThisPageMessage": {
+      "message": "Na stránce nejsou žádné události. Klikněte na „Zobrazit všechny události“ a uvidíte události z jiných stránek."
+   },
+   "noPixelsFoundCardHeader": {
+      "message": "Na stránce jsme nenašli žádné pixely"
+   },
+   "onThisPageHeader": {
+      "message": "Na této stránce"
+   },
+   "optionalLabel": {
+      "message": "· Nepovinné"
+   },
+   "overlayActionCompletedTitle": {
+      "message": "Akce dokončena"
+   },
+   "overlayCloseButton": {
+      "message": "Zavřít"
+   },
+   "overlayDatasetCountPlural": {
+      "message": "Několik datasetů"
+   },
+   "overlayDatasetCountSingular": {
+      "message": "1 dataset"
+   },
+   "overlayDescriptionPluralActions": {
+      "message": "Akce, které můžete provést: $1"
+   },
+   "overlayDescriptionPluralPixelsPluralActions": {
+      "message": "Na stránce je $1 pixelů a $2 akce, které můžete provést."
+   },
+   "overlayDescriptionPluralPixelsSingularAction": {
+      "message": "Na stránce je $1 pixelů a 1 akce, kterou můžete provést."
+   },
+   "overlayDescriptionSingularAction": {
+      "message": "Našli jsme vám optimalizaci:"
+   },
+   "overlayDescriptionSingularPixelPluralActions": {
+      "message": "Na stránce je 1 pixel a $1 akcí, které můžete podniknout."
+   },
+   "overlayDescriptionSingularPixelSingularAction": {
+      "message": "Na stránce je 1 pixel a 1 akce, kterou můžete provést."
+   },
+   "overlayFreeCapigEnabledLabel": {
+      "message": "Povoleno"
+   },
+   "overlayGoBackButton": {
+      "message": "Zpět"
+   },
+   "overlayGreetingAfternoon": {
+      "message": "Dobrý den, $1"
+   },
+   "overlayGreetingEvening": {
+      "message": "Dobrý večer, $1"
+   },
+   "overlayGreetingMorning": {
+      "message": "Dobré ráno, $1"
+   },
+   "overlayGtmSetupForMeCta": {
+      "message": "Nastavit pro mě"
+   },
+   "overlayNotificationSettingsButton": {
+      "message": "Nastavení upozornění"
+   },
+   "overlayNotificationSettingsDescription": {
+      "message": "Vyberte, jak chcete dostávat upozornění týkající se vylepšení nastavení. Kdykoli to můžete změnit na hlavní stránce kliknutím na ikonu zvonečku."
+   },
+   "overlayNotificationSettingsTitle": {
+      "message": "Nastavení upozornění"
+   },
+   "overlayNotificationsToggleDescription": {
+      "message": "Zobrazit upozornění na stránkách s vašimi pixely"
+   },
+   "overlayNotificationsToggleLabel": {
+      "message": "Upozornění"
+   },
+   "overlayTitle": {
+      "message": "Meta Pixel Helper"
+   },
+   "overlayToggleDescription": {
+      "message": "Během procházení zobrazovat akce podle kontextu a stavu Pixelu."
+   },
+   "overlayToggleOff": {
+      "message": "Kontextuální upozornění jsou vypnutá"
+   },
+   "overlayToggleOn": {
+      "message": "Kontextuální upozornění jsou zapnutá"
+   },
+   "overlayViewAllButton": {
+      "message": "Zobrazit vše"
+   },
+   "overlayViewDatasetsButton": {
+      "message": "Zobrazit sady dat"
+   },
+   "pageIssueHeaderPlural": {
+      "message": "Na stránce jsme našli $1 varování"
+   },
+   "pageIssueHeaderSingular": {
+      "message": "Na stránce jsme našli varování"
+   },
+   "pinExtensionBannerCta": {
+      "message": "Připnout na panel nástrojů"
+   },
+   "pinExtensionBannerDescription": {
+      "message": "Připněte si Meta Signal Helper na panel nástrojů, ať máte rychlý přístup."
+   },
+   "pinExtensionBannerTitle": {
+      "message": "Připnout rozšíření"
+   },
+   "pixelBackButton": {
+      "message": "Zpět"
+   },
+   "pixelCopyIdTitle": {
+      "message": "Zkopírovat ID datasetu"
+   },
+   "pixelCopyIdTooltip": {
+      "message": "Zkopírovat ID datasetu"
+   },
+   "pixelCustomConversionBadge": {
+      "message": "Vlastní konverze"
+   },
+   "pixelErrorCommonStep1": {
+      "message": "Otevřete kód svého webu."
+   },
+   "pixelErrorConflictingVersionsCardTitle": {
+      "message": "Odeberte staré nebo nekompatibilní pixely"
+   },
+   "pixelErrorConflictingVersionsExample": {
+      "message": "Příklad: n.version='2.0'"
+   },
+   "pixelErrorConflictingVersionsMessage": {
+      "message": "Odeberte staré nebo nekompatibilní pixely"
+   },
+   "pixelErrorConflictingVersionsRecommendation": {
+      "message": "Na stránce jsme detekovali několik pixelů, jejichž verze nejsou kompatibilní. Použijte jen jednu verzi Meta Pixelu."
+   },
+   "pixelErrorConflictingVersionsStep2": {
+      "message": "Vyhledejte v základním kódu instalace pixelu **n.version='**"
+   },
+   "pixelErrorConflictingVersionsStep3": {
+      "message": "Ujistěte se, že jsou verze všech pixelů stejné"
+   },
+   "pixelErrorDuplicatePixelIdCardTitle": {
+      "message": "Odeberte duplicitní ID datasetu"
+   },
+   "pixelErrorDuplicatePixelIdMessage": {
+      "message": "Odeberte duplicitní ID datasetu"
+   },
+   "pixelErrorDuplicatePixelIdRecommendation": {
+      "message": "Máte duplicitní ID datasetu: $1. Každý pixel by se měl inicializovat jen jednou na stránku, aby se nezaznamenávala duplicitní data."
+   },
+   "pixelErrorDuplicatePixelIdStep2": {
+      "message": "Vyhledejte v základním kódu instalace pixelu **fbq('init', $1)**"
+   },
+   "pixelErrorDuplicatePixelIdStep3": {
+      "message": "Odeberte duplicitní **fbq('init', $1)**"
+   },
+   "pixelErrorFbqNoMethodNameCardTitle": {
+      "message": "Chybějící název metody volání fbq()"
+   },
+   "pixelErrorFbqNoMethodNameExample": {
+      "message": "Příklad: fbq('track', 'PageView')"
+   },
+   "pixelErrorFbqNoMethodNameMessage": {
+      "message": "Zadejte argument do příkazu fbq{}"
+   },
+   "pixelErrorFbqNoMethodNameRecommendation": {
+      "message": "Uveďte název metody pro volání fbq(). Příklad: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorFbqNoMethodNameStep2": {
+      "message": "Vyhledejte volání fbq(), u kterého chybí název metody."
+   },
+   "pixelErrorFbqNoMethodNameStep3": {
+      "message": "Jako první argument přidejte platný název metody, například „track“ nebo „init“."
+   },
+   "pixelErrorInvalidConsentActionCardTitle": {
+      "message": "Odešlete platnou akci souhlasu"
+   },
+   "pixelErrorInvalidConsentActionMessage": {
+      "message": "Odešlete platnou akci souhlasu"
+   },
+   "pixelErrorInvalidConsentActionRecommendation": {
+      "message": "„fbq(‘$1‘, …)“ není platná akce fbq(‘consent‘, …). Platné akce souhlasu jsou „grant“ a „revoke“. Zkontrolujte implementaci správy souhlasu."
+   },
+   "pixelErrorInvalidConsentActionStep2": {
+      "message": "Vyhledejte **fbq('$1', ...)**"
+   },
+   "pixelErrorInvalidConsentActionStep3": {
+      "message": "Změňte název metody na **revoke** nebo **grant**"
+   },
+   "pixelErrorInvalidEventIdFormatCardTitle": {
+      "message": "Přidejte hodnotu řetězce pro eventID"
+   },
+   "pixelErrorInvalidEventIdFormatMessage": {
+      "message": "Přidejte hodnotu řetězce pro eventID"
+   },
+   "pixelErrorInvalidEventIdFormatRecommendation": {
+      "message": "Nesprávný typ eventID pro ID sady dat: $1 pro událost „$2“. Parametr eventID musí být řetězec. Příklad: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorInvalidEventIdFormatRecommendationGeneric": {
+      "message": "Nesprávný typ eventID pro ID datasetu: $1. Parametr eventID musí být řetězec. Příklad: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'}})."
+   },
+   "pixelErrorInvalidEventIdFormatStep2": {
+      "message": "Vyhledejte **fbq('track', '$1', ..., {eventID: ...})** a zkontrolujte, jestli je eventID řetězec"
+   },
+   "pixelErrorInvalidEventIdFormatStep2Generic": {
+      "message": "Vyhledejte **fbq('track', ..., {eventID: ...})** a zkontrolujte, jestli je eventID řetězec"
+   },
+   "pixelErrorInvalidEventIdFormatStep3": {
+      "message": "Převedení hodnoty eventID na typ string"
+   },
+   "pixelErrorInvalidFbqMethodCardTitle": {
+      "message": "Neplatná metoda volání fbq()"
+   },
+   "pixelErrorInvalidFbqMethodExample": {
+      "message": "Platné metody: 'init', 'track', 'trackCustom', 'trackSingle', 'trackSingleCustom'"
+   },
+   "pixelErrorInvalidFbqMethodMessage": {
+      "message": "Použijte platné příkazy fbq"
+   },
+   "pixelErrorInvalidFbqMethodParameterCardTitle": {
+      "message": "Aktualizujte formát parametru"
+   },
+   "pixelErrorInvalidFbqMethodParameterExample": {
+      "message": "Příklad: fbq('init', '123456789', {em: 'user@example.com', ph: '1234567890'}); // user_data musí být objekt"
+   },
+   "pixelErrorInvalidFbqMethodParameterMessage": {
+      "message": "Parametry shody musí být v očekávaném formátu"
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendation": {
+      "message": "Volání „fbq('$1', $2);“ s parametrem „$3“ obsahuje neplatnou hodnotu „$4“."
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendationSimple": {
+      "message": "Neplatný parametr metody fbq()."
+   },
+   "pixelErrorInvalidFbqMethodParameterStep2": {
+      "message": "Vyhledejte **fbq('$1', $2);**"
+   },
+   "pixelErrorInvalidFbqMethodParameterStep3": {
+      "message": "Změňte hodnotu **$1** na platný název parametru"
+   },
+   "pixelErrorInvalidFbqMethodRecommendation": {
+      "message": "„fbq(‘$1‘, ...);“ není platný příkaz fbq. Použijte platné metody fbq jako například „init“, „track“ nebo „trackCustom“."
+   },
+   "pixelErrorInvalidFbqMethodStep2": {
+      "message": "Vyhledejte volání fbq() s neplatnou metodou „$1“."
+   },
+   "pixelErrorInvalidFbqMethodStep3": {
+      "message": "Nahraďte platným názvem metody, například „track“, „init“ nebo „trackCustom“."
+   },
+   "pixelErrorInvalidJsonLdCardTitle": {
+      "message": "Aktualizujte formát tagu JSON-LD"
+   },
+   "pixelErrorInvalidJsonLdMessage": {
+      "message": "Zkontrolujte správnost formátu a platnost tagu JSON-LD"
+   },
+   "pixelErrorInvalidJsonLdRecommendation": {
+      "message": "Tag JSON-LD se nepodařilo analyzovat. Našli jsme chybný JSON: „$1“. Než tag JSON-LD odešlete do pixelu, zkontrolujte, jestli je správně naformátovaný a platný."
+   },
+   "pixelErrorInvalidJsonLdStep2": {
+      "message": "Vyhledejte **$1**"
+   },
+   "pixelErrorInvalidJsonLdStep3": {
+      "message": "Opravte formát a ujistěte se, že jde o platný JSON"
+   },
+   "pixelErrorInvalidParamCardTitle": {
+      "message": "Aktualizujte neplatný parametr události"
+   },
+   "pixelErrorInvalidParamExample": {
+      "message": "Příklad: fbq('track', 'Purchase', {currency: 'USD', value: 30.00})"
+   },
+   "pixelErrorInvalidParamFormatCardTitle": {
+      "message": "Aktualizujte formát parametru"
+   },
+   "pixelErrorInvalidParamFormatExample": {
+      "message": "Běžné parametry: value, currency, content_ids, content_type a další. Úplný seznam najdete na wiki: https://developers.facebook.com/docs/meta-pixel/reference/"
+   },
+   "pixelErrorInvalidParamFormatMessage": {
+      "message": "Aktualizujte formát parametru"
+   },
+   "pixelErrorInvalidParamFormatRecommendation": {
+      "message": "Neplatný formát parametru pro $1."
+   },
+   "pixelErrorInvalidParamFormatStep2": {
+      "message": "Vyhledejte **$1**"
+   },
+   "pixelErrorInvalidParamMessage": {
+      "message": "Odeberte nebo aktualizujte neplatný parametr události"
+   },
+   "pixelErrorInvalidParamRecommendation": {
+      "message": "Parametr „$1“ je u události „$2“ neplatný."
+   },
+   "pixelErrorInvalidParamStep2": {
+      "message": "Vyhledejte **fbq('track', $1, ...)**"
+   },
+   "pixelErrorInvalidParamStep3": {
+      "message": "Odeberte nebo aktualizujte $1"
+   },
+   "pixelErrorInvalidPixelIdCardTitle": {
+      "message": "Přidejte platné ID datasetu"
+   },
+   "pixelErrorInvalidPixelIdMessage": {
+      "message": "Přidejte platné ID datasetu"
+   },
+   "pixelErrorInvalidPixelIdRecommendation": {
+      "message": "ID vaší sady dat $1 je neplatné. Ověřte správnost ID v Meta Správci událostí a aktualizujte kód pixelu."
+   },
+   "pixelErrorInvalidPixelIdStep2": {
+      "message": "Vyhledejte v základním kódu instalace pixelu **fbq('init', $1)**"
+   },
+   "pixelErrorInvalidPixelIdStep3": {
+      "message": "Nahraďte „$1“ platnou hodnotou, kterou můžete vyhledat v Meta Správci událostí"
+   },
+   "pixelErrorMultiplePixelsCardTitle": {
+      "message": "Slučte vše do jednoho Meta Pixelu"
+   },
+   "pixelErrorMultiplePixelsMessage": {
+      "message": "Slučte vše do jednoho Meta Pixelu"
+   },
+   "pixelErrorMultiplePixelsRecommendation": {
+      "message": "Na stránce jsme detekovali několik pixelů. Větší počet pixelů může ukazovat na problémy v nastavení a může bránit bezproblémovému sledování událostí."
+   },
+   "pixelErrorMultiplePixelsStep2": {
+      "message": "Vyhledejte v základním kódu instalace pixelu **fbq('init', ...)**"
+   },
+   "pixelErrorMultiplePixelsStep3": {
+      "message": "Odeberte všechny pixely kromě jednoho, a pokud používáte duplicitní pixel, aktualizujte kampaně"
+   },
+   "pixelErrorNegativeEventParamCardTitle": {
+      "message": "Přidejte k události $1 kladnou hodnotu"
+   },
+   "pixelErrorNegativeEventParamMessage": {
+      "message": "Zkontrolujte data události $1"
+   },
+   "pixelErrorNegativeEventParamRecommendation": {
+      "message": "Parametr „$1“ je u události „$2“ záporný. Parametry události, jako je hodnota, množství a podobně, by neměly být záporné."
+   },
+   "pixelErrorNegativeEventParamStep2": {
+      "message": "Vyhledejte **fbq('track', $1)**"
+   },
+   "pixelErrorNegativeEventParamStep3": {
+      "message": "Změňte hodnotu na kladné číslo"
+   },
+   "pixelErrorNoEventIdCardTitle": {
+      "message": "Přidejte ID události"
+   },
+   "pixelErrorNoEventIdMessage": {
+      "message": "Uveďte ID události pro sledování a deduplikaci"
+   },
+   "pixelErrorNoEventIdRecommendation": {
+      "message": "U 4. parametru pro ID sady dat $1 jsme detekovali nulovou nebo prázdnou hodnotu eventID. Zadejte ID události. Příklad: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'}})."
+   },
+   "pixelErrorNoEventIdStep2": {
+      "message": "Vyhledejte **fbq('track', ..., ..., ..., {})** a hledejte, kde je prázdný 4. parametr nebo prázdná hodnota eventID"
+   },
+   "pixelErrorNoEventIdStep3": {
+      "message": "Uveďte hodnotu eventID nebo odeberte 4. parametr"
+   },
+   "pixelErrorNoEventNameCardTitle": {
+      "message": "Zadejte název události"
+   },
+   "pixelErrorNoEventNameExample": {
+      "message": "Příklad: fbq('track', 'AddToCart')"
+   },
+   "pixelErrorNoEventNameMessage": {
+      "message": "Přidejte název události, ať ji můžete sledovat"
+   },
+   "pixelErrorNoEventNameRecommendation": {
+      "message": "Chybí název události. Sledované události se musí být zaznamenávat s názvem události fbq(\"track\", eventName). Příklad: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorNoEventNameStep2": {
+      "message": "Vyhledejte **fbq('track', '', ...)** nebo **fbq('track', ' ', ...)**"
+   },
+   "pixelErrorNoEventNameStep3": {
+      "message": "Přidejte název události"
+   },
+   "pixelErrorNonstandardEventCardTitle": {
+      "message": "Aktualizujte nestandardní událost"
+   },
+   "pixelErrorNonstandardEventMessage": {
+      "message": "Odešlete nestandardní událost přes trackCustom"
+   },
+   "pixelErrorNonstandardEventRecommendation": {
+      "message": "Odesíláte nestandardní událost „$1“. Odešlete ji pomocí trackCustom. Volejte fbq('trackCustom', ...)."
+   },
+   "pixelErrorNonstandardEventStep2": {
+      "message": "Vyhledejte **fbq('track', $1)**"
+   },
+   "pixelErrorNonstandardEventStep3": {
+      "message": "Nahraďte hodnotou **fbq('trackCustom', $1)**"
+   },
+   "pixelErrorPiiInvalidTypeCardTitle": {
+      "message": "Odeberte neplatné informace o zákaznících"
+   },
+   "pixelErrorPiiInvalidTypeExample": {
+      "message": "Příklad: **em**, **ph**, **fn**, **ln**, **db**, **ge**, **ct**, **zp**, **external_id** a podobně"
+   },
+   "pixelErrorPiiInvalidTypeMessage": {
+      "message": "Odeberte neplatné informace o zákaznících"
+   },
+   "pixelErrorPiiInvalidTypeRecommendation": {
+      "message": "Pro „$2“ je zadaná neplatná hodnota $1. Tato data se neodešlou s žádnými událostmi pro tento pixel."
+   },
+   "pixelErrorPiiInvalidTypeStep2": {
+      "message": "Vyhledejte **fbq('init', $1, {$2:...})**"
+   },
+   "pixelErrorPiiInvalidTypeStep3": {
+      "message": "Změňte hodnotu **$1** nebo ji nahraďte platnými informacemi"
+   },
+   "pixelErrorPiiUnhashedPiiCardTitle": {
+      "message": "Odesílejte e-maily se správným polem klíče"
+   },
+   "pixelErrorPiiUnhashedPiiMessage": {
+      "message": "Odesílejte e-maily se správným polem klíče"
+   },
+   "pixelErrorPiiUnhashedPiiRecommendation": {
+      "message": "Hodnota pro klíč „$1“ vypadá jako osobní údaj. Tato data se neodešlou s žádnými událostmi pro tento Pixel. Doporučujeme volat fbq('init', 'PIXEL_ID', {em: 'email@email.com', ...})."
+   },
+   "pixelErrorPiiUnhashedPiiStep2": {
+      "message": "Vyhledejte **$1** a podívejte se, jestli je nějaká hodnota nastavená na e-mail"
+   },
+   "pixelErrorPiiUnhashedPiiStep3": {
+      "message": "Změňte hodnotu **$1** na **em**"
+   },
+   "pixelErrorRequiredParamMissingCardTitle": {
+      "message": "Přidejte chybějící parametr"
+   },
+   "pixelErrorRequiredParamMissingMessage": {
+      "message": "Přidejte k události chybějící povinný parametr"
+   },
+   "pixelErrorRequiredParamMissingRecommendation": {
+      "message": "U události „$2“ chybí povinný parametr „$1“."
+   },
+   "pixelErrorRequiredParamMissingStep2": {
+      "message": "Vyhledejte **fbq('track', $1, ...)**"
+   },
+   "pixelErrorRequiredParamMissingStep3": {
+      "message": "Přidejte chybějící parametr"
+   },
+   "pixelErrorRestrictedEventCardTitle": {
+      "message": "Zkontrolujte blokované události"
+   },
+   "pixelErrorRestrictedEventMessage": {
+      "message": "Zkontrolujte ve Správci událostí zablokované události"
+   },
+   "pixelErrorRestrictedEventRecommendation": {
+      "message": "Pokoušíte se odeslat omezenou událost. Událost jsme potlačili."
+   },
+   "pixelErrorRestrictedEventStep1": {
+      "message": "Přejděte na kartu Nastavení datasetu ve Správci událostí"
+   },
+   "pixelErrorRestrictedEventStep2": {
+      "message": "Přejděte do oddílu Oprávnění ohledně provozu > Weby"
+   },
+   "pixelErrorRestrictedEventStep3": {
+      "message": "Zkontrolujte a aktualizujte blokované události nebo z webu přestaňte odesílat blokované události"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelCardTitle": {
+      "message": "Inicializujte Pixel"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelMessage": {
+      "message": "Než se dáte do nastavování metadat, inicializujte pixel"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendation": {
+      "message": "Pokoušíte se nastavit argument $1 pro neinicializované ID datasetu $2. Než nastavíte metadata, inicializujte pixel. Nejprve volejte fbq('init', '$3')."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendationSimple": {
+      "message": "Pokoušíte se nastavit metadata u neinicializovaného pixelu."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep2": {
+      "message": "Vyhledejte **fbq()**"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep3": {
+      "message": "Nejdřív volejte **fbq('init', 'PIXEL_ID')**"
+   },
+   "pixelErrorSiteCodelessOptOutCardTitle": {
+      "message": "Zapněte nastavení události bez kódování"
+   },
+   "pixelErrorSiteCodelessOptOutMessage": {
+      "message": "Zapněte nastavení událostí bez kódování nebo použijte ruční integraci pixelu"
+   },
+   "pixelErrorSiteCodelessOptOutRecommendation": {
+      "message": "Rozhraní událostí pixelu bez kódování není možné otevřít, protože je web odhlášený. ID datasetu: $1."
+   },
+   "pixelErrorSiteCodelessOptOutStep2": {
+      "message": "Vyhledejte **fbq('set', 'codeless', 'false', $1)**"
+   },
+   "pixelErrorSiteCodelessOptOutStep3": {
+      "message": "Odeberte řádek a znovu ho aktivujte nebo ho výslovně aktivujte **fbq('set', 'codeless', 'true', $1);"
+   },
+   "pixelErrorUnableLoadFbqCardTitle": {
+      "message": "Odeberte nástroje pro blokování reklam"
+   },
+   "pixelErrorUnableLoadFbqMessage": {
+      "message": "Zkontrolujte připojení k síti a konzoli prohlížeče"
+   },
+   "pixelErrorUnableLoadFbqRecommendation": {
+      "message": "Není možné načíst fbq. Nástroje pro blokování reklam můžou bránit taky načtení pixelu."
+   },
+   "pixelErrorUnableLoadFbqStep1": {
+      "message": "Zkontrolujte síťové připojení"
+   },
+   "pixelErrorUnableLoadFbqStep2": {
+      "message": "Ujistěte se, že jsou vypnuté nástroje pro blokování reklam"
+   },
+   "pixelErrorUninitializedPixelCardTitle": {
+      "message": "Inicializujte pixel"
+   },
+   "pixelErrorUninitializedPixelMessage": {
+      "message": "Inicializujte pixel"
+   },
+   "pixelErrorUninitializedPixelRecommendation": {
+      "message": "Pixel $1 jsme nenašli. Než použijete jiné metody fbq, inicializujte pixel pomocí fbq('init', 'PIXEL_ID')."
+   },
+   "pixelErrorUninitializedPixelStep1": {
+      "message": "Přejděte na kartu Přehled ve Správci událostí a zkopírujte základní kód Meta Pixelu"
+   },
+   "pixelErrorUninitializedPixelStep2": {
+      "message": "Vložte na své webové stránce kód Meta Pixelu mezi tagy `\u003Chead>` a `\u003C/head>`"
+   },
+   "pixelErrorUnknownErrorMessage": {
+      "message": "Došlo k neočekávané chybě pixelu"
+   },
+   "pixelErrorUnknownErrorRecommendation": {
+      "message": "Další informace o chybě najdete v konzoli prohlížeče."
+   },
+   "pixelErrorUnsupportedMetadataCardTitle": {
+      "message": "Odeberte nebo aktualizujte nepodporovaná pole metadat"
+   },
+   "pixelErrorUnsupportedMetadataMessage": {
+      "message": "Odeberte nebo aktualizujte nepodporovaná pole metadat"
+   },
+   "pixelErrorUnsupportedMetadataRecommendation": {
+      "message": "Nepodporovaný argument metadat: $1. Platné argumenty metadat jsou „agent“, „automaticMatchingConfig“, „codeless“, „trackSingleOnly“ nebo „cbData.oneTrustId“."
+   },
+   "pixelErrorUnsupportedMetadataStep2": {
+      "message": "Vyhledejte **fbq('set', $1)**"
+   },
+   "pixelErrorUnsupportedMetadataStep3": {
+      "message": "Nahraďte platným argumentem"
+   },
+   "pixelErrorUnverifiedEventCardTitle": {
+      "message": "Ověřte události"
+   },
+   "pixelErrorUnverifiedEventMessage": {
+      "message": "Ověřte události ve Správci událostí"
+   },
+   "pixelErrorUnverifiedEventRecommendation": {
+      "message": "Pokoušíte se odeslat neověřenou událost. Událost jsme potlačili. Další informace najdete ve Správci událostí."
+   },
+   "pixelErrorUnverifiedEventStep1": {
+      "message": "Přejděte na kartu Diagnostika datasetu ve Správci událostí"
+   },
+   "pixelErrorUnverifiedEventStep2": {
+      "message": "Ověřte události"
+   },
+   "pixelErrorUnwantedCustomDataCardTitle": {
+      "message": "Odeberte potenciální porušení"
+   },
+   "pixelErrorUnwantedCustomDataExample": {
+      "message": "Příklad: fbq('track', 'Purchase', {...}) – Odeberte pole ssn, credit_card, password"
+   },
+   "pixelErrorUnwantedCustomDataMessage": {
+      "message": "Odeberte vlastní pole dat s možnými porušeními"
+   },
+   "pixelErrorUnwantedCustomDataRecommendation": {
+      "message": "Kvůli potenciálním porušením jsme z vlastních dat odebrali parametry. Zkontrolovat je můžete ve Správci událostí."
+   },
+   "pixelErrorUnwantedCustomDataStep2": {
+      "message": "Odeberte heslo nebo finanční údaje, další typy porušení najdete na wiki"
+   },
+   "pixelErrorUnwantedEventNameCardTitle": {
+      "message": "Zkontrolujte názvy událostí"
+   },
+   "pixelErrorUnwantedEventNameExample": {
+      "message": "Příklad: Nesprávné názvy událostí jako „CreditCardSubmit“, „PasswordEntered“ nebo „SSNCollected“"
+   },
+   "pixelErrorUnwantedEventNameMessage": {
+      "message": "Název události nesmí obsahovat zakázané informace"
+   },
+   "pixelErrorUnwantedEventNameRecommendation": {
+      "message": "Kvůli potenciálním porušením jsme událost jsme zablokovali."
+   },
+   "pixelErrorUnwantedEventNameStep2": {
+      "message": "Vyhledejte **fbq('track', ...)**"
+   },
+   "pixelErrorUnwantedEventNameStep3": {
+      "message": "Zkontrolujte název události a ujistěte se, že neobsahuje zakázané informace (například heslo, SSN, kreditní kartu a podobně)"
+   },
+   "pixelErrorUnwantedUrlDataCardTitle": {
+      "message": "Zkontrolujte potenciální porušení"
+   },
+   "pixelErrorUnwantedUrlDataExample": {
+      "message": "Příklad:\n❌ Nesprávné URL:\nhttps://example.com/checkout?email=user@test.com&ssn=123-45-6789\nhttps://example.com/login?password=secret123&credit_card=4111...\n\n✅ Správné URL:\nhttps://example.com/checkout?order_id=12345\nhttps://example.com/login (bez citlivých parametrů dotazu)"
+   },
+   "pixelErrorUnwantedUrlDataMessage": {
+      "message": "Zkontrolujte data URL a ujistěte se, že žádná neobsahuje zakázané informace"
+   },
+   "pixelErrorUnwantedUrlDataRecommendation": {
+      "message": "Kvůli potenciálním porušením jsme odebrali parametry URL dotazu."
+   },
+   "pixelErrorUnwantedUrlDataStep2": {
+      "message": "Zkontrolujte URL – ujistěte se, že ani aktuální stránka (dl), ani odkazující stránka (rl) neobsahují žádné citlivé informace"
+   },
+   "pixelEventCountPlural": {
+      "message": "události 1"
+   },
+   "pixelEventCountSingular": {
+      "message": "událost 1"
+   },
+   "pixelEventUnnamed": {
+      "message": "Událost (bez názvu)"
+   },
+   "pixelHeaderPlural": {
+      "message": "Na stránce jsme našli několik pixelů ($1)"
+   },
+   "pixelHeaderSingular": {
+      "message": "Na stránce jsme našli pixel"
+   },
+   "pixelIdLabel": {
+      "message": "ID: $1"
+   },
+   "pixelLoadTime": {
+      "message": "$1 ms"
+   },
+   "pixelMetaPixelTitle": {
+      "message": "Meta Pixel"
+   },
+   "pixelMissingFiresMessage": {
+      "message": "Na aktuální stránce se nespustily žádné pixely, na jiných stránkách webu se ale spustily"
+   },
+   "pixelMissingFiresRecommendation": {
+      "message": "Zvažte přidání událostí sledování pixelu na tuto stránku nebo zkontrolujte, jestli stávající pixely fungují správně"
+   },
+   "pixelNoEventsRecorded": {
+      "message": "Zatím nejsou zaznamenané žádné události"
+   },
+   "pixelNotFiringMessage": {
+      "message": "Pixel $1 je nainstalovaný, ale v poslední době se nespustil"
+   },
+   "pixelStatusActive": {
+      "message": "Aktivní"
+   },
+   "pixelStatusAutomaticallyDetected": {
+      "message": "Automaticky detekovaná"
+   },
+   "pixelStatusError": {
+      "message": "Chyba"
+   },
+   "pixelStatusEventNotProcessed": {
+      "message": "Událost není zpracovaná"
+   },
+   "pixelStatusEventReceived": {
+      "message": "Událost je přijatá"
+   },
+   "pixelStatusInactive": {
+      "message": "Neaktivní"
+   },
+   "pixelStatusReceived": {
+      "message": "Přijato"
+   },
+   "pixelStatusSent": {
+      "message": "Událost je odeslaná"
+   },
+   "pixelStatusWarning": {
+      "message": "Varování"
+   },
+   "recipeAddMoreFields": {
+      "message": "Přidat další"
+   },
+   "recipeCancelAutomation": {
+      "message": "Zrušit automatizaci"
+   },
+   "recipeCompleteActionToContinue": {
+      "message": "Proveďte akci, ať můžete pokračovat"
+   },
+   "recipeErrorBackButton": {
+      "message": "Přejít na hlavní stránku"
+   },
+   "recipeErrorMessage": {
+      "message": "Automatizaci nešlo spustit kvůli neočekávané chybě. Zkontrolujte připojení k internetu a zkuste to znovu."
+   },
+   "recipeErrorTitle": {
+      "message": "Zkuste to znovu později."
+   },
+   "recipeFailedStateDescription": {
+      "message": "Při provádění akce došlo k problému. Pokud chcete pokračovat v nastavení, musíte akci dokončit ručně."
+   },
+   "recipeFieldIdentifierLabel": {
+      "message": "Identifikátor"
+   },
+   "recipeFieldMappingInfoBoxTextLead": {
+      "message": "Pokud chcete pokračovat, potvrďte název a čas události a vyberte aspoň 1 pole identifikátoru (doporučujeme ID potenciálního zákazníka)."
+   },
+   "recipeFieldMappingInfoBoxTextOpportunity": {
+      "message": "Pokud chcete pokračovat, potvrďte název a čas události."
+   },
+   "recipeFieldOptionalLabel": {
+      "message": "Nepovinné"
+   },
+   "recipeFieldsDropdownNoResultsFound": {
+      "message": "Nenašli jsme žádné výsledky"
+   },
+   "recipeFieldsEventNameTooltipContent": {
+      "message": "Název se mapuje na potenciální zákazníky v CRM trychtýři. Odesílejte všechny fáze, když se aktualizují."
+   },
+   "recipeFieldsEventNameTooltipExample": {
+      "message": "například"
+   },
+   "recipeFieldsEventNameTooltipExample1": {
+      "message": "Nezpracovaný potenciální zákazník od společnosti Meta"
+   },
+   "recipeFieldsEventNameTooltipExample2": {
+      "message": "Marketingově kvalifikovaný potencionální zákazník"
+   },
+   "recipeFieldsEventNameTooltipExample3": {
+      "message": "Prodejní příležitost"
+   },
+   "recipeFieldsEventNameTooltipExample4": {
+      "message": "Zákazník"
+   },
+   "recipeFieldsEventNameTooltipLearnMore": {
+      "message": "Další informace"
+   },
+   "recipeFieldsEventNameTooltipLearnMoreContinued": {
+      "message": "o integraci konverze potenciálních zákazníků."
+   },
+   "recipeFileABug": {
+      "message": "Poslat hlášení o chybě"
+   },
+   "recipeFileAnotherBug": {
+      "message": "Poslat další hlášení o chybě"
+   },
+   "recipeIntroStartAutomationButton": {
+      "message": "Spustit automatizaci"
+   },
+   "recipeMaibaCallerIndicator": {
+      "message": "Vrátit se do MAIBA"
+   },
+   "recipeMarkAsComplete": {
+      "message": "Označit jako hotové"
+   },
+   "recipeMilestoneActionNeededStatus": {
+      "message": "Vyžaduje se akce"
+   },
+   "recipeMilestoneCompleteStatus": {
+      "message": "Dokončeno"
+   },
+   "recipeMilestoneFailedStatus": {
+      "message": "Nepodařilo se"
+   },
+   "recipeMilestoneInProgressStatus": {
+      "message": "Probíhá"
+   },
+   "recipeMilestonePausedStatus": {
+      "message": "Pozastaveno"
+   },
+   "recipeMilestoneStepFailedSuffix": {
+      "message": "· Krok se nezdařil"
+   },
+   "recipeOpportunityChoiceNo": {
+      "message": "ne"
+   },
+   "recipeOpportunityChoiceYes": {
+      "message": "ano"
+   },
+   "recipeOpportunityQuestionDropdownLabel": {
+      "message": "Využíváte příležitosti?"
+   },
+   "recipeOpportunityQuestionInfoText": {
+      "message": "Příležitosti synchronizují stav nabídky ze Salesforce se společností Meta, aby se reklamy mohly optimalizovat pro skutečné výnosy, ne jen pro potenciální zákazníky."
+   },
+   "recipeOpportunityQuestionLearnMore": {
+      "message": "Další informace"
+   },
+   "recipeOpportunityQuestionNo": {
+      "message": "Ne"
+   },
+   "recipeOpportunityQuestionYes": {
+      "message": "Ano"
+   },
+   "recipePause": {
+      "message": "Pozastavit"
+   },
+   "recipeResume": {
+      "message": "Pokračovat"
+   },
+   "recipeRetry": {
+      "message": "Zkusit znovu"
+   },
+   "recipeReturnToMaiba": {
+      "message": "Vrátit se do MAIBA"
+   },
+   "recipeReturnToTab": {
+      "message": "Vrátit se na kartu"
+   },
+   "recipeReturnToTabPrompt": {
+      "message": "Vraťte se na kartu, kde automatizace běžela, a pak klikněte na Pokračovat."
+   },
+   "recipeStepFailed": {
+      "message": "Nepodařilo se"
+   },
+   "recipeStepNumber": {
+      "message": "Krok $1"
+   },
+   "recipeStepSkipped": {
+      "message": "Přeskočeno"
+   },
+   "recipeStepSkippedTooltip": {
+      "message": "Krok se přeskočil, protože už není potřeba."
+   },
+   "recipeStepUserActionRequired": {
+      "message": "Vyžaduje se akce"
+   },
+   "recipeSummaryHeaderTitle": {
+      "message": "Shrnutí"
+   },
+   "recipeSwitchToActiveTabHint": {
+      "message": "Kliknutím přepněte na aktivní kartu a zrychlete automatizaci."
+   },
+   "recipeThanksForFeedback": {
+      "message": "Děkujeme za zpětnou vazbu"
+   },
+   "recipeVerifying": {
+      "message": "Ověřování…"
+   },
+   "recipeViewInEventsManager": {
+      "message": "Zobrazit ve Správci událostí"
+   },
+   "recipeViewReport": {
+      "message": "Zobrazit přehled automatizace"
+   },
+   "recipeWpAdminUrlInfoText": {
+      "message": "Nepodařilo se nám automaticky zjistit vaši URL správce WordPressu. Zadejte celou URL panelu správce WordPressu, ať můžeme pokračovat v nastavení."
+   },
+   "recipeWpAdminUrlInputLabel": {
+      "message": "Zadejte svou URL správce WordPressu (například https://yoursite.com/wp-admin/)"
+   },
+   "recipeYourActionIsRequired": {
+      "message": "Vyžaduje se akce"
+   },
+   "remove": {
+      "message": "Odebrat"
+   },
+   "remove_asset_button_label": {
+      "message": "Odebrat položku"
+   },
+   "remove_asset_button_required_label": {
+      "message": "Položka je povinná a nejde ji odebrat"
+   },
+   "reportAiGenerated": {
+      "message": "Vygenerováno AI"
+   },
+   "reportAutomationCountPlural": {
+      "message": "$1 automatizace"
+   },
+   "reportAutomationCountSingular": {
+      "message": "$1 automatizace"
+   },
+   "reportAutomationPanelDescription": {
+      "message": "Projděte si stav, časovou osu a akce provedené během automatizace."
+   },
+   "reportAutomationSummaryDescription": {
+      "message": "Podrobný rozpis vašich zkušeností s automatizací. Z důvodu ochrany vašeho soukromí se na naší platformě neuloží."
+   },
+   "reportAutomationSummaryTitle": {
+      "message": "Shrnutí automatizace"
+   },
+   "reportCapturedDuringEmSelection": {
+      "message": "Výběr ve Správci událostí"
+   },
+   "reportCapturedDuringGaSetup": {
+      "message": "Nastavení Google Analytics"
+   },
+   "reportCapturedDuringGtmSetup": {
+      "message": "Nastavení GTM"
+   },
+   "reportCapturedDuringSfWebhook": {
+      "message": "Integrace webhooku pro Salesforce"
+   },
+   "reportCapturedIdsCreatedDuringSession": {
+      "message": "Vytvořeno během vaší relace"
+   },
+   "reportCapturedIdsDescription": {
+      "message": "Během automatizace došlo k přístupu k následujícím ID."
+   },
+   "reportCapturedIdsEmpty": {
+      "message": "Během automatizace nebyly naskenované žádné doklady totožnosti."
+   },
+   "reportCapturedIdsExisting": {
+      "message": "Stávající"
+   },
+   "reportCapturedIdsHeading": {
+      "message": "Získaná ID"
+   },
+   "reportClickToCopy": {
+      "message": "Kliknutím zkopírujete"
+   },
+   "reportCopied": {
+      "message": "Zkopírováno"
+   },
+   "reportCopyAll": {
+      "message": "Zkopírovat vše"
+   },
+   "reportDomainEventsManager": {
+      "message": "Správce událostí"
+   },
+   "reportDomainGoogleAnalytics": {
+      "message": "Google Analytics"
+   },
+   "reportDomainGoogleTagManager": {
+      "message": "Správce značek Google"
+   },
+   "reportDomainSalesforce": {
+      "message": "Salesforce"
+   },
+   "reportDomainStape": {
+      "message": "Stape"
+   },
+   "reportExportPdf": {
+      "message": "Exportovat shrnutí jako PDF"
+   },
+   "reportExportPdfNote": {
+      "message": "Export může trvat až 45 sekund."
+   },
+   "reportFlowAutomationName": {
+      "message": "Proces automatizace"
+   },
+   "reportFlowSummaryDescription": {
+      "message": "Projděte si stavy, časové osy a akce provedené ve všech automatizacích v rámci tohoto procesu."
+   },
+   "reportFlowSummaryHeading": {
+      "message": "Shrnutí procesu"
+   },
+   "reportIdCountPlural": {
+      "message": "$1 ID"
+   },
+   "reportIdCountSingular": {
+      "message": "$1 ID"
+   },
+   "reportIdLabelAdAccountId": {
+      "message": "ID účtu pro reklamu"
+   },
+   "reportIdLabelBusinessId": {
+      "message": "ID firmy"
+   },
+   "reportIdLabelCustom": {
+      "message": "Vlastní ID"
+   },
+   "reportIdLabelDatasetId": {
+      "message": "ID datasetu"
+   },
+   "reportIdLabelGaMeasurementId": {
+      "message": "ID měření Google Analytics"
+   },
+   "reportIdLabelGtmAccountId": {
+      "message": "Název účtu Správce značek Google"
+   },
+   "reportIdLabelGtmContainerId": {
+      "message": "ID kontejneru Správce značek Google"
+   },
+   "reportIdLabelGtmServerContainerName": {
+      "message": "Kontejner serveru Správce značek Google"
+   },
+   "reportIdLabelGtmWebContainerName": {
+      "message": "Webový kontejner Správce značek Google"
+   },
+   "reportIdLabelSgwDataPlaneUrl": {
+      "message": "URL datového plánu Signals Gateway"
+   },
+   "reportIdLabelSgwPixelId": {
+      "message": "ID datasetu Signals Gateway"
+   },
+   "reportIdLabelWebhookIntegrationId": {
+      "message": "ID integrace webhooku"
+   },
+   "reportIdLabelWebhookUrl": {
+      "message": "URL webhooku"
+   },
+   "reportInProgress": {
+      "message": "Probíhá"
+   },
+   "reportKeyScreenshotEndOfAutomation": {
+      "message": "Konec automatizace"
+   },
+   "reportKeyScreenshotFinalState": {
+      "message": "Konečný stav automatizace"
+   },
+   "reportLabelActionsTaken": {
+      "message": "Provedené akce"
+   },
+   "reportLabelAutomations": {
+      "message": "Automatizace"
+   },
+   "reportLabelDuration": {
+      "message": "Doba trvání"
+   },
+   "reportLabelStatus": {
+      "message": "Stav"
+   },
+   "reportLabelTimeline": {
+      "message": "Časová osa"
+   },
+   "reportMilestoneComplete": {
+      "message": "Dokončeno"
+   },
+   "reportNavHowWeUseData": {
+      "message": "Jak používáme vaše data"
+   },
+   "reportNavIdsAccessed": {
+      "message": "Použitá ID"
+   },
+   "reportNavPagesVisited": {
+      "message": "Navštívené stránky a domény"
+   },
+   "reportNavPrivacySecurity": {
+      "message": "Soukromí a zabezpečení"
+   },
+   "reportNavSummary": {
+      "message": "Shrnutí"
+   },
+   "reportOverviewCapiGatewayDescription": {
+      "message": "Automatizace nakonfigurovala Conversions API Gateway pro sledování událostí na straně serveru. Brána přímo z vašeho serveru posílá data událostí společnosti Meta, čímž zvyšuje spolehlivost dat a kvalitu párování."
+   },
+   "reportOverviewCapiGatewayTitle": {
+      "message": "Nastavení Conversions API Gateway"
+   },
+   "reportOverviewDefaultDescription": {
+      "message": "Report shrnuje akce podniknuté během procesu automatizace."
+   },
+   "reportOverviewDefaultTitle": {
+      "message": "Automatizace je dokončená"
+   },
+   "reportOverviewGtmServerDescription": {
+      "message": "Automatizace nakonfigurovala označování na straně serveru přes Správce značek Google. Označování na straně serveru zvyšuje kvalitu dat, výkon webu a soukromí uživatelů, jelikož zpracovává značky na serveru místo v prohlížeči."
+   },
+   "reportOverviewGtmServerTitle": {
+      "message": "Nastavení Správce značek Google na straně serveru"
+   },
+   "reportOverviewGtmWebDescription": {
+      "message": "Automatizace nastavila kontejner webu Správce značek Google a nakonfigurovala ho pro váš web. Kontejner vám umožní spravovat marketingové tagy, analytiku a sledovací pixely, aniž by bylo nutné upravit kód webu."
+   },
+   "reportOverviewGtmWebTitle": {
+      "message": "Nastavení webového kontejneru Správce značek Google"
+   },
+   "reportOverviewMetaPixelDescription": {
+      "message": "Automatizace na vašem webu nainstalovala a ověřila Meta Pixel. Ten sleduje aktivity návštěvníků, aby vám pomohl měřit efektivitu reklamy, budovat okruhy uživatelů a optimalizovat doručování reklam."
+   },
+   "reportOverviewMetaPixelTitle": {
+      "message": "Instalace Meta Pixelu"
+   },
+   "reportOverviewSalesforceDescription": {
+      "message": "Automatizace nakonfigurovala webhooky Meta CRM-CAPI v instanci Salesforce. Integrace webhooků posílá události CRM ze Salesforce přímo společnosti Meta, což umožňuje lepší cílení a měření reklam prostřednictvím sdílení událostí na straně serveru."
+   },
+   "reportOverviewSalesforceTitle": {
+      "message": "Nastavení webhooku Salesforce CRM-CAPI"
+   },
+   "reportPagesDescription": {
+      "message": "Během automatizace se navštívily následující stránky."
+   },
+   "reportPagesDescriptionShort": {
+      "message": "Během automatizace se navštívily následující stránky."
+   },
+   "reportPagesEmpty": {
+      "message": "Během automatizace nebyly navštívené žádné stránky."
+   },
+   "reportPagesHeading": {
+      "message": "Navštívené stránky a domény"
+   },
+   "reportRecipeNameGaCreateAccount": {
+      "message": "Vytvoření účtu Google Analytics"
+   },
+   "reportRecipeNameGtmCreateAccount": {
+      "message": "Vytvoření účtu Správce značek Google"
+   },
+   "reportRecipeNameGtmProvisionServer": {
+      "message": "Zřízení kontejneru serveru GTM"
+   },
+   "reportRecipeNameInstallFacebookForWoocommerce": {
+      "message": "Instalace Facebook for WooCommerce"
+   },
+   "reportRecipeNameSalesforceWebhook": {
+      "message": "Nastavení webhooku Salesforce CRM"
+   },
+   "reportRecipeNameSgwGtmSetup": {
+      "message": "Nastavení Signals Gateway pomocí GTM"
+   },
+   "reportRecipeNameShopifyProductSync": {
+      "message": "Synchronizace produktů Shopify"
+   },
+   "reportRecipeNameUpdateFacebookForWoocommerce": {
+      "message": "Aktualizace Facebook for WooCommerce"
+   },
+   "reportStatusFailed": {
+      "message": "Nepodařilo se"
+   },
+   "reportStatusSetupIncomplete": {
+      "message": "Nastavení není dokončené"
+   },
+   "reportStatusSuccess": {
+      "message": "Úspěšně dokončeno"
+   },
+   "reportSummaryDescription": {
+      "message": "Projděte si stavy, časové osy a akce provedené během automatizace."
+   },
+   "reportSummaryFailureDescription": {
+      "message": "Automatizace se nedokončila. Projděte si timeline a zdroje vytvořené před chybou."
+   },
+   "reportSummaryHeading": {
+      "message": "Shrnutí"
+   },
+   "reportTimelineStarted": {
+      "message": "Zahájeno $1"
+   },
+   "reportTitleFailure": {
+      "message": "Automatizace se nezdařila: $1"
+   },
+   "reportTitleFlow": {
+      "message": "Shrnutí procesu automatizace"
+   },
+   "reportTitleSuccess": {
+      "message": "Shrnutí automatizace: $1"
+   },
+   "required": {
+      "message": "Povinné"
+   },
+   "resolutionStepAddingMissingEventsTitle": {
+      "message": "Přidání chybějících událostí"
+   },
+   "resolutionStepClickToCopy": {
+      "message": "Kliknutím položku zkopírujte"
+   },
+   "resolutionStepConfirmNewEvents": {
+      "message": "Potvrďte nové události"
+   },
+   "resolutionStepEnableAAMEventsTitle": {
+      "message": "Povolte automatické pokročilé párování"
+   },
+   "resolutionStepEnableMAMEventsTitle": {
+      "message": "Nastavte ruční pokročilé párování"
+   },
+   "resolutionStepInvalidValueCurrencyTitle": {
+      "message": "Aktualizujte hodnotu a měnu"
+   },
+   "resolutionStepLeaveTabOpen": {
+      "message": "Nechte kartu otevřenou"
+   },
+   "resolutionStepOpenEventSetupTool": {
+      "message": "Otevřete nástroj pro nastavení událostí na svém webu"
+   },
+   "resolutionStepOpenWebsiteCode": {
+      "message": "Otevřete kód svého webu."
+   },
+   "resolutionStepSearchFbqInit": {
+      "message": "Vyhledejte **fbq('init'...)** a najdete místa, kde se používá Meta Pixel."
+   },
+   "resolutionStepSearchFbqTrackPurchase": {
+      "message": "Vyhledejte sledovanou událost nákupu svého Pixelu."
+   },
+   "resolutionStepUpdateCodeBlock": {
+      "message": "Aktualizujte blok kódu tak, aby jako třetí parametr obsahoval dole uvedená data pokročilého párování."
+   },
+   "resolutionStepUpdateCurrencyField": {
+      "message": "Aktualizujte pole měny."
+   },
+   "resolutionStepUpdateValueField": {
+      "message": "Aktualizujte pole hodnoty."
+   },
+   "resolutionStepUserActionRequired": {
+      "message": "Vyžaduje se akce uživatele"
+   },
+   "resolutionStepValueFieldInformation": {
+      "message": "Informace v poli hodnoty:"
+   },
+   "resolutionStepValueFieldRequirement1": {
+      "message": "Musí jít o číselnou hodnotu vyšší než 0"
+   },
+   "resolutionStepValueFieldRequirement2": {
+      "message": "Může obsahovat desetinné číslo. Například 9,99 nebo 9."
+   },
+   "resolutionStepValueFieldRequirement3": {
+      "message": "Nepřidávejte do parametru měny žádná čísla navíc ani speciální znaky a symboly."
+   },
+   "resolutionStepsDefault": {
+      "message": "Postup řešení"
+   },
+   "reviewSuggestionsEmpty": {
+      "message": "Momentálně žádné navrhované události."
+   },
+   "reviewSuggestionsIneligible": {
+      "message": "Pro pixel zatím nejsou dostupné navrhované události."
+   },
+   "reviewSuggestionsLoading": {
+      "message": "Načítání navrhovaných událostí..."
+   },
+   "ruleOperator_eq": {
+      "message": "rovná se"
+   },
+   "ruleOperator_gt": {
+      "message": "je větší než"
+   },
+   "ruleOperator_gte": {
+      "message": "je větší než nebo rovno"
+   },
+   "ruleOperator_i_contains": {
+      "message": "obsahuje"
+   },
+   "ruleOperator_i_greater_than_or_equal": {
+      "message": "je větší než nebo rovno"
+   },
+   "ruleOperator_i_is_any": {
+      "message": "je kterákoli hodnota z"
+   },
+   "ruleOperator_i_less_than_or_equal": {
+      "message": "je menší než nebo rovno"
+   },
+   "ruleOperator_i_not_contains": {
+      "message": "neobsahuje"
+   },
+   "ruleOperator_lt": {
+      "message": "je menší než"
+   },
+   "ruleOperator_lte": {
+      "message": "je menší než nebo rovno"
+   },
+   "ruleOperator_neq": {
+      "message": "se nerovná"
+   },
+   "ruleOperator_or": {
+      "message": "nebo"
+   },
+   "ruleOperator_regex_match": {
+      "message": "shody"
+   },
+   "screenshotGalleryDisclaimer": {
+      "message": "Snímky obrazovky se ukládají jen na vaše zařízení. Po skončení relace se vymažou."
+   },
+   "screenshotGalleryTimeDaysAgo": {
+      "message": "Před 1 dnem"
+   },
+   "screenshotGalleryTimeHoursAgo": {
+      "message": "Před 1 hod"
+   },
+   "screenshotGalleryTimeJustNow": {
+      "message": "právě teď"
+   },
+   "screenshotGalleryTimeMinutesAgo": {
+      "message": "Před 1 min"
+   },
+   "selector_no_options_available": {
+      "message": "Žádné dostupné možnosti"
+   },
+   "selector_no_results_found": {
+      "message": "Nenašli jsme žádné výsledky"
+   },
+   "selector_select_placeholder": {
+      "message": "-- Vyberte --"
+   },
+   "server_container_creation_title": {
+      "message": "Kontejner serveru"
+   },
+   "server_container_name_label": {
+      "message": "Název kontejneru"
+   },
+   "server_container_tagging_url_label": {
+      "message": "URL serveru pro označování"
+   },
+   "settingsDescription": {
+      "message": "Snadno spravujte konfiguraci Meta Pixelu a optimalizujte, jak pro vás pracuje."
+   },
+   "settingsErrorOccurred": {
+      "message": "Došlo k chybě"
+   },
+   "settingsOverlayNotificationsDescription": {
+      "message": "Zobrazit na stránkách s vašimi pixely kontextuální překryvná upozornění"
+   },
+   "settingsOverlayNotificationsTitle": {
+      "message": "Překryvná upozornění"
+   },
+   "settingsTitle": {
+      "message": "Nastavení"
+   },
+   "settingsWaitSpeedFast": {
+      "message": "Rychlá"
+   },
+   "settingsWaitSpeedFastDescription": {
+      "message": "Míň než 1 sekundu"
+   },
+   "settingsWaitSpeedMedium": {
+      "message": "Průměrná"
+   },
+   "settingsWaitSpeedMediumDescription": {
+      "message": "2 až 3 sekundy"
+   },
+   "settingsWaitSpeedSlow": {
+      "message": "Pomalá"
+   },
+   "settingsWaitSpeedSlowDescription": {
+      "message": "5 a víc sekund"
+   },
+   "settingsWaitTimeBetweenActionsTitle": {
+      "message": "Čekací doba mezi akcemi"
+   },
+   "setupAddingAllEventsLabel": {
+      "message": "Přidávají se všechny události"
+   },
+   "setupAddingPixelEventsCardTitle": {
+      "message": "Přidávají se události pixelu"
+   },
+   "setupComplete": {
+      "message": "Nastavení je hotové"
+   },
+   "setupDetailsHeader": {
+      "message": "Podrobnosti o nastavení"
+   },
+   "setupDetailsInfoTooltip": {
+      "message": "Po zahájení za vás automatizace dokončí následující kroky."
+   },
+   "setupHowItWorksDescription": {
+      "message": "Meta AI naskenuje váš web, identifikuje klíčové konverzní události, jako jsou Nákupy, Přidání do košíku nebo Potenciální zákazníci, a automaticky je přidá jako události Pixelu. Nebudete muset nic programovat."
+   },
+   "setupHowItWorksLabel": {
+      "message": "Jak to funguje"
+   },
+   "setupPixelEventsAddedHeader": {
+      "message": "Události pixelu jsou přidané"
+   },
+   "setupPixelEventsAddedSubtitle": {
+      "message": "Teď můžete jen relaxovat a užívat si zlepšený výkon kampaně."
+   },
+   "setupPixelEventsHeader": {
+      "message": "Nastavit události Pixelu"
+   },
+   "setupReturnToPreviousPage": {
+      "message": "Zpět na předchozí stránku"
+   },
+   "setup_failed": {
+      "message": "Nastavení se nepodařilo"
+   },
+   "setup_requirements": {
+      "message": "Požadavky pro nastavení"
+   },
+   "shopifyProductSyncIntroStep1SubA": {
+      "message": "Otevřete přihlašovací stránku správce Shopify"
+   },
+   "shopifyProductSyncIntroStep1SubB": {
+      "message": "Přihlaste se ke správě Shopify vašeho obchodu"
+   },
+   "shopifyProductSyncIntroStep1Title": {
+      "message": "Přihlaste se ke správě Shopify"
+   },
+   "shopifyProductSyncIntroStep2SubA": {
+      "message": "Klikněte na **Produkty**"
+   },
+   "shopifyProductSyncIntroStep2SubB": {
+      "message": "Klikněte na kartu **Vše**"
+   },
+   "shopifyProductSyncIntroStep2SubC": {
+      "message": "Vyberte všechny produkty"
+   },
+   "shopifyProductSyncIntroStep2Title": {
+      "message": "Identifikujte produkty"
+   },
+   "shopifyProductSyncIntroStep3SubA": {
+      "message": "Klikněte na **Další možnosti**"
+   },
+   "shopifyProductSyncIntroStep3SubB": {
+      "message": "Klikněte na **Přidat do prodejních kanálů**"
+   },
+   "shopifyProductSyncIntroStep3SubC": {
+      "message": "Vyberte **Facebook a Instagram**"
+   },
+   "shopifyProductSyncIntroStep3SubD": {
+      "message": "Klikněte na **Zahrnout produkty**"
+   },
+   "shopifyProductSyncIntroStep3Title": {
+      "message": "Zahrňte produkty"
+   },
+   "showAllEvents": {
+      "message": "Zobrazit všechny události"
+   },
+   "showAllPixels": {
+      "message": "Zobrazit všechny Pixely"
+   },
+   "showAllWarnings": {
+      "message": "Zobrazit všechna varování"
+   },
+   "showLess": {
+      "message": "Zobrazit míň"
+   },
+   "showLessEvents": {
+      "message": "Zobrazit míň událostí"
+   },
+   "showMore": {
+      "message": "Zobrazit víc"
+   },
+   "stepResumeTooltip": {
+      "message": "Než budete pokračovat, musíte ručně provést nahoře uvedenou akci."
+   },
+   "suggestionButtonTextLabel": {
+      "message": "Text tlačítka je „$1“"
+   },
+   "suggestionExampleUrlsLabel": {
+      "message": "Příklady URL: $1"
+   },
+   "switcherCatalogSingular": {
+      "message": "$1 katalog"
+   },
+   "switcherCatalogsPlural": {
+      "message": "$1 katalogy"
+   },
+   "switcherPixelsPlural": {
+      "message": "$1 pixely"
+   },
+   "switcherPixelsSingular": {
+      "message": "$1 pixel"
+   },
+   "testEventsHeader": {
+      "message": "Testové události"
+   },
+   "topActionsSectionHeader": {
+      "message": "Vaše hlavní akce"
+   },
+   "topActionsSectionSubHeader": {
+      "message": "Podle vašeho nastavení"
+   },
+   "triggerEventDetection": {
+      "message": "Detekovat navrhované události"
+   },
+   "useMetaEventSetupToolForWeb": {
+      "message": "Použít nástroj společnosti Meta pro nastavení událostí na webu"
+   },
+   "verificationFailedCancelButton": {
+      "message": "Zrušit automatizaci"
+   },
+   "verificationFailedMessage": {
+      "message": "Nepodařilo se zjistit stav akce. Pokud chyba přetrvává, můžete automatizaci zrušit a pokračovat ručním nastavením."
+   },
+   "verificationFailedTitle": {
+      "message": "Zkuste to znovu"
+   },
+   "verificationFailedTryAgainButton": {
+      "message": "Opakovat"
+   },
+   "verificationInProgressMessage": {
+      "message": "Probíhá kontrola dokončení akce"
+   },
+   "warningsHeader": {
+      "message": "Varování"
+   },
+   "web_container_creation_title": {
+      "message": "Kontejner webu"
+   },
+   "web_container_name_label": {
+      "message": "Název kontejneru"
+   },
+   "what_we_will_create_title": {
+      "message": "Co pro vás vytvoříme"
+   },
+   "wooCommerceIntroSetUpForMeButton": {
+      "message": "Nastavit pro mě"
+   },
+   "wooCommerceIntroStep1SubA": {
+      "message": "Otevřete panel pro správu WordPressu"
+   },
+   "wooCommerceIntroStep1SubB": {
+      "message": "Přihlaste se do svého účtu WordPress"
+   },
+   "wooCommerceIntroStep1Title": {
+      "message": "Přihlaste se k účtu WordPress"
+   },
+   "wooCommerceIntroStep2SubA": {
+      "message": "Na levém panelu vyberte **Pluginy** a pak **Přidat pluginy**"
+   },
+   "wooCommerceIntroStep2SubB": {
+      "message": "Klikněte na **Přidat plugin**"
+   },
+   "wooCommerceIntroStep2SubC": {
+      "message": "Přejděte do vyhledávacího pole v horní části stránky"
+   },
+   "wooCommerceIntroStep2SubD": {
+      "message": "Vyhledejte plugin Meta for WooCommerce"
+   },
+   "wooCommerceIntroStep2SubE": {
+      "message": "Posuňte se na plugin Meta for WooCommerce a klikněte na **Nainstalovat**"
+   },
+   "wooCommerceIntroStep2Title": {
+      "message": "Nainstalujte plugin"
+   },
+   "wooCommerceIntroStep3SubA": {
+      "message": "Až budete mít nainstalovaný plugin Meta for WooCommerce, klikněte na **Aktivovat**"
+   },
+   "wooCommerceIntroStep3SubB": {
+      "message": "Přejděte na stránku **Pluginy** na levém panelu"
+   },
+   "wooCommerceIntroStep3SubC": {
+      "message": "Posuňte se na plugin Meta for WooCommerce a klikněte na **Konfigurovat**"
+   },
+   "wooCommerceIntroStep3SubD": {
+      "message": "Na obrazovce s konfigurací klikněte na **Pustit se do toho**"
+   },
+   "wooCommerceIntroStep3Title": {
+      "message": "Aktivujte plugin"
+   },
+   "wooCommerceUpdateIntroStep2SubA": {
+      "message": "Otevřete stránku Přidat pluginy"
+   },
+   "wooCommerceUpdateIntroStep2SubB": {
+      "message": "Posuňte se na plugin Meta for WooCommerce"
+   },
+   "wooCommerceUpdateIntroStep2SubC": {
+      "message": "Klikněte na **Aktualizovat**"
+   },
+   "wooCommerceUpdateIntroStep2Title": {
+      "message": "Aktualizujte plugin"
+   }
+}

@@ -1,0 +1,3335 @@
+{
+   "aamConfirmButton": {
+      "message": "Confirmă"
+   },
+   "aamEditButton": {
+      "message": "Editează"
+   },
+   "aamFieldCityStatePostal": {
+      "message": "Oraş, stat, cod poştal"
+   },
+   "aamFieldCountry": {
+      "message": "Ţară"
+   },
+   "aamFieldDateOfBirth": {
+      "message": "Data naşterii"
+   },
+   "aamFieldEmail": {
+      "message": "E-mail"
+   },
+   "aamFieldExternalId": {
+      "message": "ID extern"
+   },
+   "aamFieldFirstLastName": {
+      "message": "Prenume şi nume de familie"
+   },
+   "aamFieldGender": {
+      "message": "Gen"
+   },
+   "aamFieldPhoneNumber": {
+      "message": "Numărul de telefon"
+   },
+   "aamInfoDescription": {
+      "message": "Corelarea avansată automată foloseşte date despre clienţi pe care aceştia le-au oferit afacerii tale, cum ar fi adresa de e-mail sau numărul de telefon, pentru a corela vizitatorii care folosesc Meta."
+   },
+   "aamNoEditPermissionTooltip": {
+      "message": "Nu ai permisiunea de editare. Ia legătura cu administratorul"
+   },
+   "aamStepConfirmFieldsDescription": {
+      "message": "Confirmă câmpurile pe care doreşti să le trimiţi"
+   },
+   "aamStepUserActionRequired": {
+      "message": "Acţiune necesară din partea utilizatorului"
+   },
+   "aboutAdvancedMatchingForWeb": {
+      "message": "Despre corelarea avansată pentru web"
+   },
+   "aboutEventSetupTool": {
+      "message": "Despre instrumentul de configurare a evenimentelor"
+   },
+   "actionAddMissingEventsCtaLabel": {
+      "message": "Configurează pentru mine"
+   },
+   "actionAddMissingEventsDescription": {
+      "message": "Îmbunătăţeşte cu uşurinţă performanţa reclamelor şi precizia măsurătorilor, adăugând în configurare evenimentele care lipsesc."
+   },
+   "actionAddMissingEventsHeader": {
+      "message": "Adaugă evenimente care lipsesc"
+   },
+   "actionAutomatableValueLabel": {
+      "message": "Se poate automatiza"
+   },
+   "actionCAPIGTMProductRecommendationHeader": {
+      "message": "Distribuie-ţi în siguranţă datele prin Google Manager de etichete"
+   },
+   "actionCAPIGTMSetupDescription": {
+      "message": "Acest lucru eficientizează implementarea şi administrarea etichetelor, permiţând urmărirea eficientă a evenimentelor fără modificări aduse codului, pentru o performanţă de marketing mai bună."
+   },
+   "actionCAPIGTMSetupHeader": {
+      "message": "Configurează API-ul Conversii cu Google Manager de etichete"
+   },
+   "actionCAPIGeneralSetupDescription": {
+      "message": "Maximizează datele măsurate pe site-ul web şi ajută la reducerea costului per rezultat."
+   },
+   "actionCAPIGeneralSetupHeader": {
+      "message": "Configurează API-ul Conversii"
+   },
+   "actionCAPISalesforceCRMSetupDescription": {
+      "message": "Configurarea automată activează urmărirea corectă şi fără probleme, în timp real, a evenimentelor de la server la server, pentru statistici mai bune despre clienţi şi marketing."
+   },
+   "actionCAPISalesforceCRMSetupHeader": {
+      "message": "Configurează API-ul Conversii cu sistemul CRM Salesforce"
+   },
+   "actionCardDatasetTooltip": {
+      "message": "Deschide Events Manager pentru a vedea setul de date"
+   },
+   "actionCatalogUpsellCtaLabel": {
+      "message": "Adaugă produse"
+   },
+   "actionCatalogUpsellDescription": {
+      "message": "Atrage audienţe noi şi oferă o experienţă de cumpărături personalizată, bazată pe comportamentul şi interesele acestora. Interacţionează cu clienţii de la faza de considerare până la faza de achiziţie, folosind o varietate de formate de reclamă."
+   },
+   "actionCatalogUpsellHeader": {
+      "message": "Adaugă produse într-un catalog Meta şi maximizează performanţele reclamelor"
+   },
+   "actionFixInvalidValueCurrencyDescription": {
+      "message": "Remedierea parametrilor nevalizi pentru valoare şi monedă pentru evenimentele de tip achiziţie de pe site-ul web permite o raportare precisă şi o optimizare mai bună a campaniilor."
+   },
+   "actionFixInvalidValueCurrencyHeader": {
+      "message": "Remediază parametrii nevalizi pentru valoare şi monedă"
+   },
+   "actionFreeCAPIGOneClickDescription": {
+      "message": "Trimite automat evenimentele de la pixel la nivel de server, fără configurare tehnică, fără etichete suplimentare. Vom crea conexiunea pentru tine."
+   },
+   "actionFreeCAPIGOneClickHeader": {
+      "message": "API-ul Conversii activat pentru Meta"
+   },
+   "actionFreeCAPIGOneClickTooltip": {
+      "message": "Dacă apeşi, vei activa livrarea evenimentelor la nivel de server găzduită de Meta pentru această afacere. Poţi schimba opţiunea mai târziu în Events Manager."
+   },
+   "actionFreeCAPIGOneClickValueLift": {
+      "message": "Un cost per rezultat cu 17,8% mai mic"
+   },
+   "actionFreeCAPIGOneClickViewDetails": {
+      "message": "Vezi detalii"
+   },
+   "actionInstallFacebookForWooCommerceCtaLabel": {
+      "message": "Începe"
+   },
+   "actionInstallFacebookForWooCommercePluginDescription": {
+      "message": "Meta pentru WooCommerce îţi menţine magazinul sincronizat cu Facebook, Instagram şi WhatsApp. Mai puţine activităţi de administrare pentru tine, mai mult timp pentru afacerea ta."
+   },
+   "actionInstallFacebookForWooCommercePluginHeader": {
+      "message": "Instalează pluginul Meta for WooCommerce"
+   },
+   "actionInstallFacebookForWooCommercePluginSubtitle": {
+      "message": "Economiseşte timp şi afişează produsele potrivite persoanelor potrivite."
+   },
+   "actionSetupMamAamDescription": {
+      "message": "Corelarea avansată oferă mai multe conversii pentru reclamele tale, astfel încât să te poţi adresa mai multor persoane prin campaniile de remarketing."
+   },
+   "actionSetupMamAamHeader": {
+      "message": "Configurează corelarea avansată"
+   },
+   "actionShopifyProductSyncCtaLabel": {
+      "message": "Începe"
+   },
+   "actionShopifyProductSyncDescription": {
+      "message": "Unele ID-uri de conţinut de pe această pagină nu pot fi corelate cu produse din catalogul tău. Utilizează opţiunea de sincronizare a produselor Shopify ca să adaugi produsele care lipsesc."
+   },
+   "actionShopifyProductSyncHeader": {
+      "message": "Sincronizează produsele lipsă de pe Shopify"
+   },
+   "actionSignalsGatewayGTMSetupDescription": {
+      "message": "Cu această opţiune, poţi urmări exact, în timp real, evenimentele de la server la server, pentru statistici mai bune despre clienţi şi marketing."
+   },
+   "actionSignalsGatewayGTMSetupHeader": {
+      "message": "Configurează Pixelul Signals Gateway cu Google Manager de etichete"
+   },
+   "actionUpdateFacebookForWooCommerceCtaLabel": {
+      "message": "Actualizează pluginul"
+   },
+   "actionUpdateFacebookForWooCommercePluginDescription": {
+      "message": "Actualizează acum pentru a beneficia de cele mai recente îmbunătăţiri şi pentru ca magazinul tău să se sincronizeze în continuare fără probleme cu Facebook, Instagram şi WhatsApp."
+   },
+   "actionUpdateFacebookForWooCommercePluginHeader": {
+      "message": "Actualizează pluginul Meta for WooCommerce"
+   },
+   "actionUpdateFacebookForWooCommercePluginSubtitle": {
+      "message": "Este disponibilă o nouă versiune a pluginului."
+   },
+   "addMissingEventsCancel": {
+      "message": "Anulează"
+   },
+   "addMissingEventsHeader": {
+      "message": "Adaugă evenimente care lipsesc"
+   },
+   "addMissingEventsMoreDatasets": {
+      "message": "Încă $1 seturi de date"
+   },
+   "addMissingEventsNextSteps": {
+      "message": "Paşii următori"
+   },
+   "addMissingEventsPotentialBadge": {
+      "message": "Potenţial de -1% din CPR"
+   },
+   "addMissingEventsSetUpForMe": {
+      "message": "Configurează pentru mine"
+   },
+   "addMissingEventsSubtitle": {
+      "message": "Adaugă evenimente de la pixel care lipsesc pentru a începe să urmăreşti şi să optimizezi evenimente de conversie, ca să îmbunătăţeşti rezultatele reclamelor."
+   },
+   "addMissingEventsTimeEstimate": {
+      "message": "\u003C 1 min"
+   },
+   "add_more_label": {
+      "message": "Adaugă mai multe"
+   },
+   "additionalRecommendation": {
+      "message": "recomandare suplimentară"
+   },
+   "additionalRecommendations": {
+      "message": "recomandări suplimentare"
+   },
+   "agenticActionAskUserSelect": {
+      "message": "Îţi cere să alegi"
+   },
+   "agenticActionCaptureDropdown": {
+      "message": "Surprinde opţiunile din lista verticală din $1"
+   },
+   "agenticActionCaptureDropdownActive": {
+      "message": "Se surprind opţiunile din lista verticală din $1"
+   },
+   "agenticActionCaptureDropdownPast": {
+      "message": "Opţiuni din lista verticală surprinse din $1"
+   },
+   "agenticActionCaptureStoreAsDetail": {
+      "message": "Stochează ca $1"
+   },
+   "agenticActionClick": {
+      "message": "Apasă pe $1"
+   },
+   "agenticActionClickActive": {
+      "message": "Se apasă pe $1"
+   },
+   "agenticActionClickPast": {
+      "message": "Ai apăsat pe $1"
+   },
+   "agenticActionCloseTab": {
+      "message": "Închide fila $1"
+   },
+   "agenticActionCloseTabActive": {
+      "message": "Se închide $1"
+   },
+   "agenticActionCloseTabPast": {
+      "message": "Ai închis $1"
+   },
+   "agenticActionCopyMatchDetail": {
+      "message": "Potrivire $1"
+   },
+   "agenticActionCopyMatchingText": {
+      "message": "Copiază în memoria cache $1 textul care se potriveşte"
+   },
+   "agenticActionCopyMatchingTextActive": {
+      "message": "Se copiază în memoria cache $1 textul care se potriveşte"
+   },
+   "agenticActionCopyMatchingTextPast": {
+      "message": "A copiat în memoria cache $1 textul care se potriveşte"
+   },
+   "agenticActionCopyTextFromTarget": {
+      "message": "Copiază textul din $1 în memoria cache $2"
+   },
+   "agenticActionCopyTextFromTargetActive": {
+      "message": "Se copiază textul din $1 în memoria cache $2"
+   },
+   "agenticActionCopyTextFromTargetPast": {
+      "message": "A copiat textul din $1 în memoria cache $2"
+   },
+   "agenticActionCopyVisibleText": {
+      "message": "Copiază în memoria cache $1 textul vizibil"
+   },
+   "agenticActionCopyVisibleTextActive": {
+      "message": "Se copiază textul vizibil în memoria cache $1"
+   },
+   "agenticActionCopyVisibleTextPast": {
+      "message": "A copiat textul vizibil în memoria cache $1"
+   },
+   "agenticActionGetDropdownOptions": {
+      "message": "Citeşte opţiunile din $1"
+   },
+   "agenticActionGoToUrl": {
+      "message": "Mergi la $1"
+   },
+   "agenticActionHover": {
+      "message": "Ţine cursorul peste $1"
+   },
+   "agenticActionNeededTitle": {
+      "message": "Acţiune necesară"
+   },
+   "agenticActionOpenNewTab": {
+      "message": "Deschide o filă nouă"
+   },
+   "agenticActionOpenPage": {
+      "message": "Deschide o pagină nouă"
+   },
+   "agenticActionOpenPageActive": {
+      "message": "Se deschide o pagină nouă"
+   },
+   "agenticActionOpenPagePast": {
+      "message": "Ai deschis o pagină nouă"
+   },
+   "agenticActionOpenRelativePath": {
+      "message": "Deschide o cale relativă"
+   },
+   "agenticActionOpenRelativePathActive": {
+      "message": "Se deschide o cale relativă"
+   },
+   "agenticActionOpenRelativePathPast": {
+      "message": "Ai deschis o cale relativă"
+   },
+   "agenticActionOpenTab": {
+      "message": "Deschide fila pentru $1"
+   },
+   "agenticActionOpenTabActive": {
+      "message": "Se deschide o filă nouă"
+   },
+   "agenticActionOpenTabDestinationDetail": {
+      "message": "Destinaţie: $1"
+   },
+   "agenticActionOpenTabPast": {
+      "message": "Ai deschis o filă nouă"
+   },
+   "agenticActionPaste": {
+      "message": "Lipeşte în $1"
+   },
+   "agenticActionPasteSourceDetail": {
+      "message": "Cache sursă: $1"
+   },
+   "agenticActionPasteText": {
+      "message": "Lipeşte în $1 textul salvat"
+   },
+   "agenticActionPasteTextActive": {
+      "message": "Se lipeşte în $1 textul salvat"
+   },
+   "agenticActionPasteTextPast": {
+      "message": "Textul salvat a fost lipit în $1"
+   },
+   "agenticActionReloadPage": {
+      "message": "Reîncarcă pagina"
+   },
+   "agenticActionReloadPageActive": {
+      "message": "Se reîncarcă pagina"
+   },
+   "agenticActionReloadPagePast": {
+      "message": "Pagină reîncărcată"
+   },
+   "agenticActionScrollBottom": {
+      "message": "Derulează până jos"
+   },
+   "agenticActionScrollBottomActive": {
+      "message": "Se derulează până în partea de jos a paginii"
+   },
+   "agenticActionScrollBottomPast": {
+      "message": "Ai derulat până în partea de jos a paginii"
+   },
+   "agenticActionScrollElementPercent": {
+      "message": "Derulează $1 la $2%"
+   },
+   "agenticActionScrollIntoViewDetail": {
+      "message": "Derulează înainte să interacţionezi cu un element din afara ecranului."
+   },
+   "agenticActionScrollPercent": {
+      "message": "Derulează la $1%"
+   },
+   "agenticActionScrollPercentActive": {
+      "message": "Se derulează $1 la $2"
+   },
+   "agenticActionScrollPercentPage": {
+      "message": "pagina"
+   },
+   "agenticActionScrollPercentPast": {
+      "message": "Ai derulat $1 la $2"
+   },
+   "agenticActionScrollTo": {
+      "message": "Derulează la $1"
+   },
+   "agenticActionScrollToActive": {
+      "message": "Se derulează la $1"
+   },
+   "agenticActionScrollToPast": {
+      "message": "Ai derulat la $1"
+   },
+   "agenticActionScrollTop": {
+      "message": "Derulează până sus"
+   },
+   "agenticActionScrollTopActive": {
+      "message": "Se derulează până în partea de sus a paginii"
+   },
+   "agenticActionScrollTopPast": {
+      "message": "Ai derulat până în partea de sus a paginii"
+   },
+   "agenticActionSelect": {
+      "message": "Selectează $1 în $2"
+   },
+   "agenticActionSelectActive": {
+      "message": "Se selectează $1 în $2"
+   },
+   "agenticActionSelectPast": {
+      "message": "Ai selectat $1 în $2"
+   },
+   "agenticActionSfAskOpportunityPreference": {
+      "message": "Întreabă despre urmărirea oportunităţilor"
+   },
+   "agenticActionSfConfirmFieldMappings": {
+      "message": "Confirmă mapările câmpurilor"
+   },
+   "agenticActionSfGetFieldMappings": {
+      "message": "Obţine mapări recomandate ale câmpurilor"
+   },
+   "agenticActionSfMutateWebhookIntegration": {
+      "message": "Configurează integrarea webhook"
+   },
+   "agenticActionSwitchTab": {
+      "message": "Treci la fila $1"
+   },
+   "agenticActionSwitchTabActive": {
+      "message": "Se schimbă la $1"
+   },
+   "agenticActionSwitchTabPast": {
+      "message": "Ai trecut la $1"
+   },
+   "agenticActionTypeInto": {
+      "message": "Scrie în $1"
+   },
+   "agenticActionTypeIntoActive": {
+      "message": "Se scrie în $1"
+   },
+   "agenticActionTypeIntoPast": {
+      "message": "A scris în $1"
+   },
+   "agenticAskUserSelectDescriptionFallback": {
+      "message": "Selectează o opţiune pentru a continua."
+   },
+   "agenticAskUserSelectFieldLabel": {
+      "message": "Opţiune"
+   },
+   "agenticAskUserSelectPlaceholder": {
+      "message": "Selectează o opţiune"
+   },
+   "agenticConnectionFailed": {
+      "message": "Nu s-a putut reconecta. Reîncarcă pagina."
+   },
+   "agenticConnectionReconnecting": {
+      "message": "Conexiune întreruptă. Se reconectează... ($1/$2)"
+   },
+   "agenticDefaultWaitPrompt": {
+      "message": "Finalizează acţiunea solicitată."
+   },
+   "agenticElementNameOnly": {
+      "message": "„$1”"
+   },
+   "agenticElementNounAccordion": {
+      "message": "acordeon"
+   },
+   "agenticElementNounBanner": {
+      "message": "banner"
+   },
+   "agenticElementNounButton": {
+      "message": "buton"
+   },
+   "agenticElementNounCard": {
+      "message": "card"
+   },
+   "agenticElementNounCell": {
+      "message": "celulă"
+   },
+   "agenticElementNounCheckbox": {
+      "message": "casetă de selectare"
+   },
+   "agenticElementNounChip": {
+      "message": "cip"
+   },
+   "agenticElementNounDialog": {
+      "message": "dialog"
+   },
+   "agenticElementNounDropdown": {
+      "message": "listă verticală"
+   },
+   "agenticElementNounElement": {
+      "message": "element"
+   },
+   "agenticElementNounFileInput": {
+      "message": "intrare fişier"
+   },
+   "agenticElementNounImage": {
+      "message": "imagine"
+   },
+   "agenticElementNounInputField": {
+      "message": "câmp de intrare"
+   },
+   "agenticElementNounItem": {
+      "message": "articol"
+   },
+   "agenticElementNounLink": {
+      "message": "link"
+   },
+   "agenticElementNounMenu": {
+      "message": "meniu"
+   },
+   "agenticElementNounOption": {
+      "message": "opţiune"
+   },
+   "agenticElementNounPanel": {
+      "message": "panou"
+   },
+   "agenticElementNounRadioButton": {
+      "message": "buton radio"
+   },
+   "agenticElementNounRow": {
+      "message": "rând"
+   },
+   "agenticElementNounStep": {
+      "message": "pas"
+   },
+   "agenticElementNounSubmitButton": {
+      "message": "butonul Trimite"
+   },
+   "agenticElementNounTab": {
+      "message": "filă"
+   },
+   "agenticElementNounTextArea": {
+      "message": "zonă de text"
+   },
+   "agenticElementNounTile": {
+      "message": "dală"
+   },
+   "agenticElementNounToggle": {
+      "message": "comutator"
+   },
+   "agenticElementWithName": {
+      "message": "$2 „$1”"
+   },
+   "agenticErrorApi": {
+      "message": "Conectarea la serviciul AI nu a reuşit. Încerci din nou?"
+   },
+   "agenticErrorRateLimit": {
+      "message": "Serviciul AI este ocupat. Aşteaptă sau încearcă din nou peste câteva momente."
+   },
+   "agenticErrorTimeout": {
+      "message": "AI-ul are nevoie de mai mult timp decât am estimat. Reîncerci?"
+   },
+   "agenticErrorTitle": {
+      "message": "Eroare"
+   },
+   "agenticErrorUnknown": {
+      "message": "A apărut o problemă. Încerci din nou?"
+   },
+   "agenticNavigationPageLoadFailed": {
+      "message": "Pagina nu s-a încărcat. Se reîncearcă..."
+   },
+   "agenticNavigationReorienting": {
+      "message": "Pagină accesată în mod neaşteptat. Se reorientează..."
+   },
+   "agenticPleaseCompleteAction": {
+      "message": "Finalizează acţiunea pentru a continua"
+   },
+   "agenticReconnectNow": {
+      "message": "Reconectează-te acum"
+   },
+   "agenticResyncWithPage": {
+      "message": "Sincronizează din nou cu Pagina"
+   },
+   "agenticScrollPercentFallback": {
+      "message": "punctul solicitat"
+   },
+   "agenticTabFallbackById": {
+      "message": "fila $1"
+   },
+   "agenticTabFallbackSelected": {
+      "message": "fila selectată"
+   },
+   "agenticThinking": {
+      "message": "Se gândeşte..."
+   },
+   "agenticTryAgain": {
+      "message": "Încearcă din nou"
+   },
+   "agenticVerbClick": {
+      "message": "Apasă"
+   },
+   "agenticVerbCopyText": {
+      "message": "Copiază textul"
+   },
+   "agenticVerbEnterText": {
+      "message": "Introdu text"
+   },
+   "agenticVerbPasteText": {
+      "message": "Lipeşte text"
+   },
+   "agenticVerbReadDropdown": {
+      "message": "Citeşte opţiunile din lista verticală"
+   },
+   "agenticVerbScrollToElement": {
+      "message": "Derulează până la element"
+   },
+   "agenticVerbSelectOption": {
+      "message": "Selectează o opţiune"
+   },
+   "agenticWaitingForAction": {
+      "message": "Aşteptăm acţiunea ta..."
+   },
+   "allRecommendationsHeader": {
+      "message": "Toate recomandările"
+   },
+   "automatableBadge": {
+      "message": "Automatizare"
+   },
+   "automationFlowCompleteTitle": {
+      "message": "Configurează Managerul de etichete Google"
+   },
+   "automationSuccessFeedbackCommentPlaceholder": {
+      "message": "Opţional: adaugă un comentariu"
+   },
+   "automationSuccessFeedbackFallbackName": {
+      "message": "Automatizare"
+   },
+   "automationSuccessFeedbackPromptTitle": {
+      "message": "Cum a fost acest rezultat?"
+   },
+   "automationSuccessFeedbackStarLabel": {
+      "message": "evaluare cu stele"
+   },
+   "automationSuccessFeedbackSubmitError": {
+      "message": "Feedbackul nu a fost trimis"
+   },
+   "buttonLoading": {
+      "message": "Se încarcă..."
+   },
+   "buttonStartEventSetupTool": {
+      "message": "Configurează evenimente"
+   },
+   "buttonTroubleshootPixel": {
+      "message": "Depanează pixelul"
+   },
+   "cancelAutomationCancelButton": {
+      "message": "Anulează automatizarea"
+   },
+   "cancelAutomationCancellingButton": {
+      "message": "Se anulează…"
+   },
+   "cancelAutomationFromVerificationCancelButton": {
+      "message": "Anulează automatizarea"
+   },
+   "cancelAutomationFromVerificationMessage": {
+      "message": "Încă nu am putut confirma starea acestei acţiuni. Anulează automatizarea ca să configurezi manual."
+   },
+   "cancelAutomationFromVerificationTitle": {
+      "message": "Anulează automatizarea"
+   },
+   "cancelAutomationFromVerificationTryAgainButton": {
+      "message": "Încearcă din nou"
+   },
+   "cancelAutomationResumeButton": {
+      "message": "Reia automatizarea"
+   },
+   "cancelAutomationTitle": {
+      "message": "Sigur închizi şi anulezi automatizarea?"
+   },
+   "cancelSetupCancelButton": {
+      "message": "Anulează configurarea"
+   },
+   "cancelSetupResumeButton": {
+      "message": "Reia configurarea"
+   },
+   "cancelSetupTitle": {
+      "message": "Sigur închizi şi anulezi configurarea?"
+   },
+   "capiFieldCity": {
+      "message": "Oraş"
+   },
+   "capiFieldClickId": {
+      "message": "ID clic"
+   },
+   "capiFieldCountry": {
+      "message": "Ţară"
+   },
+   "capiFieldDateOfBirth": {
+      "message": "Data naşterii"
+   },
+   "capiFieldEmail": {
+      "message": "E-mail"
+   },
+   "capiFieldEventName": {
+      "message": "Numele evenimentului"
+   },
+   "capiFieldEventTime": {
+      "message": "Ora evenimentului"
+   },
+   "capiFieldExternalId": {
+      "message": "ID extern"
+   },
+   "capiFieldFirstName": {
+      "message": "Prenume"
+   },
+   "capiFieldGender": {
+      "message": "Gen"
+   },
+   "capiFieldLastName": {
+      "message": "Nume de familie"
+   },
+   "capiFieldLeadId": {
+      "message": "ID client potenţial Meta"
+   },
+   "capiFieldPhone": {
+      "message": "Număr de telefon"
+   },
+   "capiFieldState": {
+      "message": "Stat"
+   },
+   "capiFieldZipCode": {
+      "message": "Cod poştal"
+   },
+   "catalogConnectedTo": {
+      "message": "Asociat la $1"
+   },
+   "catalogConnections": {
+      "message": "Conexiuni"
+   },
+   "catalogCsvHeaderHowToFix": {
+      "message": "Cum se remediază"
+   },
+   "catalogCsvHeaderIssueType": {
+      "message": "Tipul problemei"
+   },
+   "catalogCsvHeaderMoreInfo": {
+      "message": "Mai multe informaţii"
+   },
+   "catalogCsvHeaderSampleType": {
+      "message": "Exemplu de tip"
+   },
+   "catalogCsvHeaderSampleValue": {
+      "message": "Exemplu de valoare"
+   },
+   "catalogCsvHeaderTotalReceived": {
+      "message": "Total primite"
+   },
+   "catalogCsvHowToFixText": {
+      "message": "Află cum să adaugi produse în catalog: https://www.facebook.com/business/help/384041892421495?id=725943027795860"
+   },
+   "catalogCsvMoreInfoText": {
+      "message": "Adaugă produsele pentru aceste ID-uri de conţinut din catalogul tău sau asigură-te că trimiţi ID-urile corecte de conţinut în evenimente"
+   },
+   "catalogCsvUnmatchedEvents": {
+      "message": "Evenimente necorelate"
+   },
+   "catalogEventNameAddToCart": {
+      "message": "Adăugări în coş"
+   },
+   "catalogEventNameAddToWishlist": {
+      "message": "Adăugări în lista de dorinţe"
+   },
+   "catalogEventNameInitiateCheckout": {
+      "message": "Finalizări de comandă iniţiate"
+   },
+   "catalogEventNameLead": {
+      "message": "Clienţi potenţiali"
+   },
+   "catalogEventNamePurchase": {
+      "message": "Achiziţii"
+   },
+   "catalogEventNameSearch": {
+      "message": "Căutări"
+   },
+   "catalogEventNameSubscribe": {
+      "message": "Abonamente"
+   },
+   "catalogEventNameViewContent": {
+      "message": "Vizualizări de pagină"
+   },
+   "catalogFooterManageConnection": {
+      "message": "Administrează asocierea"
+   },
+   "catalogFooterViewInCommerceManager": {
+      "message": "Vezi în Commerce Manager"
+   },
+   "catalogLiveMatchCount": {
+      "message": "Produse de 1/2 USD corelate"
+   },
+   "catalogLoadError": {
+      "message": "Datele din catalog nu s-au putut încărca"
+   },
+   "catalogManageCatalogConnections": {
+      "message": "Administrează conexiunile cu catalogul"
+   },
+   "catalogMatchRate": {
+      "message": "Rata de corelare a catalogului: 1%"
+   },
+   "catalogMatchRateAdsImpactedBody": {
+      "message": "La $1%, ai un număr limitat de produse disponibile pentru ţintirea reclamelor. Acest lucru ar putea să genereze audienţe mai mici, costuri mai mari şi mai puţine vânzări."
+   },
+   "catalogMatchRateAdsImpactedFollowup": {
+      "message": "Vezi mai jos cum să îmbunătăţeşti rata de corelare."
+   },
+   "catalogMatchRateAdsImpactedTitle": {
+      "message": "S-ar putea ca reclamele tale să fie afectate"
+   },
+   "catalogMatchRateByEventHeader": {
+      "message": "Potriviri de produse în funcţie de eveniment"
+   },
+   "catalogMatchRateDescription": {
+      "message": "dintre interacţiunile cu produsele corespund produselor din acest catalog"
+   },
+   "catalogMatchRateHeader": {
+      "message": "Rata de corelare a catalogului"
+   },
+   "catalogMatchRateImproveStep1Body": {
+      "message": "Asigură-te că toate produsele tale apar în catalog."
+   },
+   "catalogMatchRateImproveStep1Title": {
+      "message": "Analizează produsele sincronizate"
+   },
+   "catalogMatchRateImproveStep2Body": {
+      "message": "ID-urile de produs trebuie să corespundă exact catalogului."
+   },
+   "catalogMatchRateImproveStep2Title": {
+      "message": "Verifică ID-urile produselor"
+   },
+   "catalogMatchRateImproveStep3Body": {
+      "message": "Asigură-te că pixelul şi evenimentele de conversie funcţionează corect."
+   },
+   "catalogMatchRateImproveStep3Title": {
+      "message": "Verifică configuraţia evenimentelor"
+   },
+   "catalogMatchRateImproveTitle": {
+      "message": "Îmbunătăţeşte rata de corelare a produselor"
+   },
+   "catalogMatchRateLearnMore": {
+      "message": "Află mai multe"
+   },
+   "catalogMatchRateMissing": {
+      "message": "Lipseşte"
+   },
+   "catalogMatchRateTimeframe": {
+      "message": "Pe toate site-urile web asociate, în ultimele 28 de zile"
+   },
+   "catalogMatchRateWarning": {
+      "message": "Îţi recomandăm să menţii rata de corelare a catalogului peste 90%."
+   },
+   "catalogMenuCopyCatalogId": {
+      "message": "Copiază ID-ul catalogului"
+   },
+   "catalogMenuGiveFeedback": {
+      "message": "Trimite feedback"
+   },
+   "catalogMenuGoToCatalog": {
+      "message": "Accesează catalogul"
+   },
+   "catalogMenuMoreOptions": {
+      "message": "Mai multe opţiuni"
+   },
+   "catalogMoreCatalogs": {
+      "message": "Încă $1 cataloage"
+   },
+   "catalogOnboardingBannerLearnMore": {
+      "message": "Arată-mi"
+   },
+   "catalogOnboardingBannerText": {
+      "message": "De acum poţi să vezi cataloagele alături de pixeli, cu aceleaşi verificări ale stării de funcţionare şi aceleaşi avertismente."
+   },
+   "catalogPixelAssociatedWebsites": {
+      "message": "Site-uri web asociate"
+   },
+   "catalogPixelConnectionDetailsHeader": {
+      "message": "Informaţii despre asocierea pixelului"
+   },
+   "catalogPixelProducts": {
+      "message": "Produse"
+   },
+   "catalogProductImageAlt": {
+      "message": "Imaginea produsului"
+   },
+   "catalogProductMatchedBadge": {
+      "message": "Corespunde"
+   },
+   "catalogProductNotMatchedBadge": {
+      "message": "Nu corespunde"
+   },
+   "catalogProductsSectionTitle": {
+      "message": "Produsele din această pagină"
+   },
+   "catalogUnmatchedAddProductsDescription": {
+      "message": "Utilizatorii interacţionează cu produse de pe site-ul tău web care nu corespund niciunui catalog conectat la pixel. Asigură-te că toate produsele de pe site-ul web sunt adăugate în catalog."
+   },
+   "catalogUnmatchedAddProductsLink": {
+      "message": "Află cum să adaugi produse"
+   },
+   "catalogUnmatchedAddProductsTitle": {
+      "message": "Adaugă în catalog produsele cu interacţiuni"
+   },
+   "catalogUnmatchedContentIdColumnHeader": {
+      "message": "ID de conţinut"
+   },
+   "catalogUnmatchedDescription": {
+      "message": "Adaugă produsele pentru aceste ID-uri de conţinut din catalogul tău sau asigură-te că trimiţi ID-urile corecte de conţinut în evenimente."
+   },
+   "catalogUnmatchedDownloadList": {
+      "message": "Descarcă lista"
+   },
+   "catalogUnmatchedOtherWaysHeader": {
+      "message": "Alte modalităţi de rezolvare a problemei"
+   },
+   "catalogUnmatchedRecommendationsHeader": {
+      "message": "Recomandări"
+   },
+   "catalogUnmatchedSendContentIdDescription": {
+      "message": "Verifică dacă trimiţi ID-urile corecte de conţinut, care corespund unui produs din acest catalog sau din oricare catalog asociat pixelului."
+   },
+   "catalogUnmatchedSendContentIdTitle": {
+      "message": "Trimite ID-ul de conţinut corespunzător"
+   },
+   "catalogUnmatchedTitle": {
+      "message": "Unele ID-uri de conţinut nu corespund niciunui catalog"
+   },
+   "catalogUnmatchedTopInteractionsHeader": {
+      "message": "Top interacţiuni cu probleme"
+   },
+   "catalogUnmatchedTotalReceivedColumnHeader": {
+      "message": "Numărul total de evenimente primite"
+   },
+   "catalogWarningsFromPixel": {
+      "message": "Începând de la 1 USD"
+   },
+   "catalogWarningsHeader": {
+      "message": "Avertismente"
+   },
+   "catalogWarningsUnmatchedProductsDescription": {
+      "message": "ID-urile de conţinut nu corespund niciunui catalog"
+   },
+   "catalogWarningsUnmatchedProductsHeader": {
+      "message": "Produse care nu corespund"
+   },
+   "confirmEventsToSetUpHeader": {
+      "message": "Confirmă evenimentele pe care doreşti să le configurezi"
+   },
+   "continueButton": {
+      "message": "Continuă"
+   },
+   "continueToNextDatasetButton": {
+      "message": "Continuă la setul de date următor"
+   },
+   "copyToClipboardCopied": {
+      "message": "S-a copiat!"
+   },
+   "copyToClipboardTitle": {
+      "message": "Copiază în clipboard"
+   },
+   "create_new_asset_already_added": {
+      "message": "Adăugate deja"
+   },
+   "create_new_asset_button": {
+      "message": "Creează unul nou"
+   },
+   "customConversionActionSourceLabel": {
+      "message": "Sursa acţiunii"
+   },
+   "customConversionEventLabel": {
+      "message": "Eveniment"
+   },
+   "customConversionNameLabel": {
+      "message": "Nume"
+   },
+   "customConversionRulesLabel": {
+      "message": "Reguli"
+   },
+   "customConversionValueFormat": {
+      "message": "$$1"
+   },
+   "customConversionValueLabel": {
+      "message": "Valoare implicită"
+   },
+   "datasetIdPrefix": {
+      "message": "ID: $1"
+   },
+   "datasetsAffected": {
+      "message": "$1 seturi de date afectate"
+   },
+   "dropdownSearchPlaceholder": {
+      "message": "Caută"
+   },
+   "dropdownTagIdentifier": {
+      "message": "Identificator"
+   },
+   "dropdownTagRecommended": {
+      "message": "Recomandată"
+   },
+   "duplicateEventMessage": {
+      "message": "Evenimentul „$1” s-a declanşat de $2 ori cu date identice, ceea ce poate provoca erori de urmărire"
+   },
+   "duplicateEventRecommendation": {
+      "message": "Verifică implementarea pixelului pentru a te asigura că evenimentele nu sunt declanşate din greşeală de mai multe ori. Acest lucru se întâmplă de obicei atunci când acelaşi cod de eveniment rulează de mai multe ori sau când pixelul este iniţializat de mai multe ori."
+   },
+   "emptyActionsStateDescriptionPart1": {
+      "message": "Vizitează"
+   },
+   "emptyActionsStateDescriptionPart2": {
+      "message": "pentru oportunităţi legate de performanţă"
+   },
+   "emptyActionsStateEventsManagerLink": {
+      "message": "Events Manager"
+   },
+   "emptyActionsStateTitle": {
+      "message": "Nu există acţiuni disponibile"
+   },
+   "enableFreeCAPIGButton": {
+      "message": "Activează"
+   },
+   "error_generic": {
+      "message": "A apărut o eroare"
+   },
+   "eventDeduplicated": {
+      "message": "Dublura a fost ştearsă"
+   },
+   "eventDetailsAdvancedMatchingHeader": {
+      "message": "Parametrii de corelare avansată au fost trimişi"
+   },
+   "eventDetailsBrowserOnlyAriaLabel": {
+      "message": "Parametrul este disponibil doar în datele de la browser"
+   },
+   "eventDetailsBrowserOnlyBadge": {
+      "message": "Doar în browser"
+   },
+   "eventDetailsCustomParamsHeader": {
+      "message": "Parametri personalizaţi"
+   },
+   "eventDetailsDpoHeader": {
+      "message": "Parametrii de prelucrare a datelor au fost trimişi"
+   },
+   "eventDetailsDpoWarning": {
+      "message": "Deoarece opţiunile de procesare a datelor sunt trimise, este posibil ca feedbackul privind conversiile personalizate sau catalogul să nu funcţioneze."
+   },
+   "eventDetailsEventIdLabel": {
+      "message": "ID eveniment"
+   },
+   "eventDetailsEventInfoHeader": {
+      "message": "Informaţii despre eveniment"
+   },
+   "eventDetailsFrameIFrame": {
+      "message": "IFrame"
+   },
+   "eventDetailsFrameLabel": {
+      "message": "Cadru"
+   },
+   "eventDetailsFrameWindow": {
+      "message": "Fereastră"
+   },
+   "eventDetailsLoadTimeLabel": {
+      "message": "Timp de încărcare"
+   },
+   "eventDetailsPixelCodeLabel": {
+      "message": "Codul pixelului"
+   },
+   "eventDetailsPixelLocationLabel": {
+      "message": "Locaţia pixelului"
+   },
+   "eventDetailsServerOnlyAriaLabel": {
+      "message": "Parametrul este disponibil doar în datele de la server"
+   },
+   "eventDetailsServerOnlyBadge": {
+      "message": "Doar pe server"
+   },
+   "eventDetailsSetupMethodAutomatic": {
+      "message": "Automată"
+   },
+   "eventDetailsSetupMethodLabel": {
+      "message": "Metoda de configurare"
+   },
+   "eventDetailsSetupMethodManual": {
+      "message": "Manuală"
+   },
+   "eventDetailsUrlCalledLabel": {
+      "message": "URL-ul apelat"
+   },
+   "eventsHeader": {
+      "message": "Evenimente"
+   },
+   "eventsOnThisPageHeader": {
+      "message": "Evenimente din această pagină"
+   },
+   "extensionDescription": {
+      "message": "Meta Pixel Helper este un instrument de depanare care ajută la validarea implementării pixelului."
+   },
+   "extensionName": {
+      "message": "Meta Pixel Helper"
+   },
+   "feedbackAddButton": {
+      "message": "Adaugă"
+   },
+   "feedbackAttachScreenshots": {
+      "message": "Ataşează capturi de ecran"
+   },
+   "feedbackAutomaticScreenshot": {
+      "message": "Captură de ecran automată"
+   },
+   "feedbackDeleteAttachment": {
+      "message": "Şterge ataşarea"
+   },
+   "feedbackDescriptionPlaceholder": {
+      "message": "Descrie feedbackul în detaliu"
+   },
+   "feedbackDropdownLabel": {
+      "message": "Trimite-ne feedback"
+   },
+   "feedbackErrorScreenshotLabel": {
+      "message": "Captură de ecran cu eroarea"
+   },
+   "feedbackPageDescription": {
+      "message": "Raportează probleme sau trimite feedback pentru a ne ajuta să ne îmbunătăţim."
+   },
+   "feedbackPagePrivacyLink": {
+      "message": "Află cum folosim aceste date."
+   },
+   "feedbackPageTitle": {
+      "message": "Trimite feedback"
+   },
+   "feedbackReceivedSubTitle": {
+      "message": "Îţi mulţumim că îmbunătăţeşti această experienţă."
+   },
+   "feedbackReceivedTitle": {
+      "message": "Feedbackul a fost primit"
+   },
+   "feedbackReturnToPreviousPage": {
+      "message": "Înapoi la pagina anterioară"
+   },
+   "feedbackSelectorTypeBug": {
+      "message": "Bug"
+   },
+   "feedbackSelectorTypeFeatureRequest": {
+      "message": "Solicitare de funcţie"
+   },
+   "feedbackSelectorTypeGeneralFeedback": {
+      "message": "Feedback general"
+   },
+   "feedbackSelectorTypeQuestion": {
+      "message": "Ce tip de feedback?"
+   },
+   "feedbackStoredLocally": {
+      "message": "Stocată local"
+   },
+   "feedbackSubmitButton": {
+      "message": "Trimite"
+   },
+   "feedbackSubmitDisabledTooltip": {
+      "message": "Pentru a trimite feedback, completează toate câmpurile obligatorii"
+   },
+   "feedbackSubmittingButton": {
+      "message": "Se trimite..."
+   },
+   "feedbackTitleLabel": {
+      "message": "Titlul feedbackului"
+   },
+   "feedbackUploadButton": {
+      "message": "Încarcă"
+   },
+   "fieldItemCopyTooltip": {
+      "message": "Copiază $1"
+   },
+   "fieldItemHide": {
+      "message": "Ascunde"
+   },
+   "fieldItemShow": {
+      "message": "Afişează"
+   },
+   "freeCapigL2DisableNote": {
+      "message": "Poţi dezactiva oricând această opţiune din Events Manager."
+   },
+   "freeCapigL2ReturnHome": {
+      "message": "Înapoi acasă"
+   },
+   "freeCapigL2SeeTermsLabel": {
+      "message": "Vezi condiţiile"
+   },
+   "freeCapigL2SetupStep1": {
+      "message": "Meta configurează în fundal conexiunea la nivel de server."
+   },
+   "freeCapigL2SetupStep2": {
+      "message": "Evenimentele de la pixel se vor reflecta automat în API-ul Conversii"
+   },
+   "freeCapigL2SetupStep3": {
+      "message": "Bucură-te de fiabilitatea sporită a urmăririi la nivel de server!"
+   },
+   "freeCapigL2SuccessExplainerEMLink": {
+      "message": "Events Manager"
+   },
+   "freeCapigL2SuccessExplainerPrefix": {
+      "message": "Se preconizează că modificările vor intra în vigoare în următoarele 7 zile. Explorează şi editează modificările în"
+   },
+   "freeCapigL2SuccessExplainerSuffix": {
+      "message": "în orice moment."
+   },
+   "freeCapigL2SuccessTitle": {
+      "message": "API-ul Conversii a fost activat"
+   },
+   "freeCapigL2TermsBusinessToolsTermsLink": {
+      "message": "Condiţiilor de utilizare a Instrumentelor de afaceri ale Meta"
+   },
+   "freeCapigL2TermsDisclosureMiddle": {
+      "message": "şi"
+   },
+   "freeCapigL2TermsDisclosurePrefix": {
+      "message": "Continuând, autorizezi şi soliciţi Meta să configureze în numele tău o integrare a API-ului Conversii activată de Meta şi accepţi ca utilizarea integrării să facă obiectul"
+   },
+   "freeCapigL2TermsPlatformTermsLink": {
+      "message": "Condiţiilor de utilizare a platformei"
+   },
+   "freeCapigOptInErrorMessage": {
+      "message": "API-ul Conversii nu a putut fi activat. Încearcă din nou sau configurează opţiunea din Events Manager."
+   },
+   "freeCapigOptInLoadingLabel": {
+      "message": "Se activează..."
+   },
+   "freeCapigOptInSuccessTitle": {
+      "message": "API-ul Conversii a fost activat!"
+   },
+   "ga_account_creation_title": {
+      "message": "Cont Google Analytics"
+   },
+   "ga_account_display_name_label": {
+      "message": "Numele contului"
+   },
+   "ga_property_creation_title": {
+      "message": "Proprietate Google Analytics"
+   },
+   "ga_property_display_name_label": {
+      "message": "Numele proprietăţii"
+   },
+   "ga_property_time_zone_label": {
+      "message": "Fus orar"
+   },
+   "ga_stream_creation_title": {
+      "message": "Flux web Google Analytics"
+   },
+   "ga_stream_display_name_label": {
+      "message": "Numele fluxului"
+   },
+   "ga_stream_url_label": {
+      "message": "URL site web"
+   },
+   "go_back": {
+      "message": "Înapoi"
+   },
+   "gtmAccountSelectorLabel": {
+      "message": "Cont Manager de etichete Google"
+   },
+   "gtmAccountSelectorPlaceholder": {
+      "message": "Selectează un cont"
+   },
+   "gtmChooseHostingProvider": {
+      "message": "Alege un furnizor de găzduire:"
+   },
+   "gtmCreateNewServerContainer": {
+      "message": "Creează un nou container pe server"
+   },
+   "gtmHostingGoogleBullet1": {
+      "message": "Nu este necesar un dezvoltator"
+   },
+   "gtmHostingGoogleBullet2": {
+      "message": "aproximativ 30 de minute"
+   },
+   "gtmHostingGoogleBullet3": {
+      "message": "Plăteşte pentru resursele cloud"
+   },
+   "gtmHostingGoogleBullet4": {
+      "message": "Se poate personaliza în totalitate"
+   },
+   "gtmHostingGoogleDescription": {
+      "message": "Integrează direct Managerul de etichete Google pentru a optimiza şi administra etichetele. Ideal pentru cei care preferă să administreze etichetele folosind instrumentele native Google."
+   },
+   "gtmHostingGoogleLabel": {
+      "message": "Google"
+   },
+   "gtmHostingStapeBullet1": {
+      "message": "Nu este necesar un dezvoltator"
+   },
+   "gtmHostingStapeBullet2": {
+      "message": "aproximativ 15 minute"
+   },
+   "gtmHostingStapeBullet3": {
+      "message": "Este disponibil un plan freemium"
+   },
+   "gtmHostingStapeBullet4": {
+      "message": "Tarife bazate pe abonamente"
+   },
+   "gtmHostingStapeDescription": {
+      "message": "Stape simplifică procesul de configurare a containerului pe server şi se ocupă de găzduire în locul tău. Este disponibil un nivel gratuit."
+   },
+   "gtmHostingStapeLabel": {
+      "message": "Stape"
+   },
+   "gtmInvalidUrlError": {
+      "message": "Te rugăm să introduci un URL valid."
+   },
+   "gtmServerConnectionOptionGoogleTagManager": {
+      "message": "Google Manager de etichete"
+   },
+   "gtmServerConnectionOptionMetaEnabledCapig": {
+      "message": "API-ul Conversii activat pentru Meta (recomandat)"
+   },
+   "gtmServerConnectionOptionNone": {
+      "message": "Niciuna"
+   },
+   "gtmServerConnectionSelectorLabel": {
+      "message": "Conexiunea la server"
+   },
+   "gtmServerContainerLabel": {
+      "message": "Container pe server"
+   },
+   "gtmServerContainerNotProvisionedWarning": {
+      "message": "Pentru acest server nu a fost asigurat accesul"
+   },
+   "gtmServerContainerPlaceholder": {
+      "message": "Selectează un container pe server"
+   },
+   "gtmStepAnalyticsStream": {
+      "message": "Flux Analytics"
+   },
+   "gtmStepGtmAccount": {
+      "message": "Cont GTM"
+   },
+   "gtmStepPreExistingTooltip": {
+      "message": "Acest activ exista deja sau a fost automatizat prin API."
+   },
+   "gtmStepProvisionedServerContainer": {
+      "message": "Container pe server configurat"
+   },
+   "gtmStepPublished": {
+      "message": "Publicat"
+   },
+   "gtmStepServerContainer": {
+      "message": "Container pe server"
+   },
+   "gtmStepWebContainer": {
+      "message": "Container web"
+   },
+   "gtmTaggingServerUrlLabel": {
+      "message": "URL-ul serverului de etichetare"
+   },
+   "gtmTaggingServerUrlPlaceholder": {
+      "message": "https://your-tagging-server.example.com"
+   },
+   "gtm_account_creation_title": {
+      "message": "Cont Google Manager de etichete"
+   },
+   "gtm_account_name_label": {
+      "message": "Numele contului"
+   },
+   "gtm_action_needed": {
+      "message": "Acţiune necesară"
+   },
+   "gtm_api_fetch_accounts_error": {
+      "message": "Conturile nu au putut fi preluate. Încearcă din nou sau verifică accesul la Google Manager de etichete."
+   },
+   "gtm_api_fetch_containers_error": {
+      "message": "Nu s-au putut prelua containere pentru contul $1. Încearcă din nou sau verifică permisiunile tale pentru Google Manager de etichete."
+   },
+   "gtm_api_fetch_data_streams_error": {
+      "message": "Fluxurile de date pentru proprietatea $1 nu au putut fi preluate"
+   },
+   "gtm_api_fetch_ga_accounts_error": {
+      "message": "Conturile Google Analytics nu au putut fi preluate"
+   },
+   "gtm_api_fetch_ga_properties_error": {
+      "message": "Proprietăţile Google Analytics nu au putut fi preluate. Încearcă din nou sau verifică-ţi accesul la Google Analytics."
+   },
+   "gtm_api_get_token_error": {
+      "message": "Codul nu a putut fi obţinut"
+   },
+   "gtm_api_invalid_token_response": {
+      "message": "Răspuns nevalid de la cod"
+   },
+   "gtm_automatic_advanced_matching_label": {
+      "message": "Corelează automat detaliile importante ale clienţilor, adică adresa de e-mail şi numărul de telefon, de pe site-ul tău web, pentru a îmbunătăţi livrarea reclamelor."
+   },
+   "gtm_availability_load_error": {
+      "message": "Elementele din Google Manager de etichete nu au putut fi încărcate"
+   },
+   "gtm_availability_no_account_error": {
+      "message": "Nu au fost găsite conturi Google Manager de etichete."
+   },
+   "gtm_availability_no_web_container_error": {
+      "message": "Nu au fost găsite containere web în Google Manager de etichete."
+   },
+   "gtm_capi_token_error": {
+      "message": "Codul de acces pentru API-ul Conversii nu a putut fi generat. Asigură-te că eşti administratorul afacerii pentru acest pixel."
+   },
+   "gtm_dataset_label": {
+      "message": "Set de date"
+   },
+   "gtm_fetch_accounts_fallback_error": {
+      "message": "Conturile nu au putut fi preluate"
+   },
+   "gtm_fetch_containers_fallback_error": {
+      "message": "Containerele nu au putut fi preluate"
+   },
+   "gtm_fetch_google_analytics_accounts_fallback_error": {
+      "message": "Conturile Google Analytics nu au putut fi preluate"
+   },
+   "gtm_fetch_google_analytics_properties_fallback_error": {
+      "message": "Proprietăţile Google Analytics nu au putut fi preluate"
+   },
+   "gtm_fetch_google_analytics_web_streams_fallback_error": {
+      "message": "Fluxurile web Google Analytics nu au putut fi preluate"
+   },
+   "gtm_fetch_server_containers_fallback_error": {
+      "message": "Containerele de server Google Manager de etichete nu au putut fi preluate"
+   },
+   "gtm_ga4_data_stream_label": {
+      "message": "Flux de date Google Analytics"
+   },
+   "gtm_ga4_web_stream_toggle_label": {
+      "message": "Redirecţionează evenimentele Google Analytics"
+   },
+   "gtm_ga_account_label": {
+      "message": "Cont Google Analytics"
+   },
+   "gtm_ga_account_placeholder": {
+      "message": "Selectează un cont Google Analytics"
+   },
+   "gtm_ga_data_stream_placeholder": {
+      "message": "Selectează un flux de date"
+   },
+   "gtm_google_auth_warning_body": {
+      "message": "Se pare că sesiunea Google a devenit inactivă în timpul configurării. Conectează-te din nou pentru a continua de unde ai rămas."
+   },
+   "gtm_google_auth_warning_primary_cta": {
+      "message": "Conectează-te"
+   },
+   "gtm_google_auth_warning_title": {
+      "message": "Pentru a continua, conectează-te din nou la Google"
+   },
+   "gtm_next_step_back_aria_label": {
+      "message": "Înapoi"
+   },
+   "gtm_next_step_confirm_button": {
+      "message": "Confirmă"
+   },
+   "gtm_next_step_event_setup_description": {
+      "message": "Instrumentul de configurare a evenimentelor îţi oferă posibilitatea să selectezi evenimente de conversie, cum ar fi achiziţii sau adăugări în coş, direct din paginile site-ului tău web şi să le trimiţi în mod securizat la Meta."
+   },
+   "gtm_next_step_event_setup_title": {
+      "message": "Trimite la Meta evenimente de conversie esenţiale"
+   },
+   "gtm_next_step_eyebrow": {
+      "message": "Acţiune necesară"
+   },
+   "gtm_next_step_manual_setup_title": {
+      "message": "Configurare manuală"
+   },
+   "gtm_next_step_missing_pixel_error": {
+      "message": "Pentru a continua, selectează un ID de set de date"
+   },
+   "gtm_next_step_missing_url_error": {
+      "message": "Pentru a continua, introdu URL-ul unui site web"
+   },
+   "gtm_next_step_nav_title": {
+      "message": "Asociază-ţi datele în siguranţă"
+   },
+   "gtm_next_step_title": {
+      "message": "Asociază-ţi datele în siguranţă"
+   },
+   "gtm_next_step_website_url_label": {
+      "message": "URL site web"
+   },
+   "gtm_next_step_website_url_placeholder": {
+      "message": "Introdu URL-ul site-ului web"
+   },
+   "gtm_pixel_business_fetch_error": {
+      "message": "Nu am putut prelua informaţii despre pixel pentru pixelul $1. S-ar putea să nu ai permisiunea de a accesa pixelul. Detalii: $2"
+   },
+   "gtm_pixel_business_load_error": {
+      "message": "Setul de date $1 nu a putut fi încărcat. Asigură-te că ID-ul setului de date este corect şi că ai permisiunea de a-l vedea."
+   },
+   "gtm_pixel_business_no_business_error": {
+      "message": "Pixelul $1 nu are o afacere care îl deţine. Pixelul trebuie să fie revendicat de o afacere ca să genereze un cod de acces pentru API-ul Conversii."
+   },
+   "gtm_pixel_dataset_id_label": {
+      "message": "ID-ul setului de date"
+   },
+   "gtm_pixel_detected_on_page": {
+      "message": "Detectaţi în pagină"
+   },
+   "gtm_pixel_load_more": {
+      "message": "Încarcă mai mulţi pixeli..."
+   },
+   "gtm_pixel_no_pixels_detected": {
+      "message": "Nu au fost detectaţi pixeli pe această pagină. Introdu manual un ID de set de date."
+   },
+   "gtm_pixel_no_pixels_found": {
+      "message": "Nu a fost găsit niciun pixel"
+   },
+   "gtm_pixel_picker_dataset_id_numeric_error": {
+      "message": "ID-ul setului de date trebuie să fie un număr"
+   },
+   "gtm_pixel_picker_dataset_id_placeholder": {
+      "message": "Introdu ID-ul setului de date"
+   },
+   "gtm_pixel_picker_enter_manually": {
+      "message": "Introdu manual"
+   },
+   "gtm_pixel_search_placeholder": {
+      "message": "Caută pixeli"
+   },
+   "gtm_pixel_select_placeholder": {
+      "message": "Selectează un pixel"
+   },
+   "gtm_pixel_your_pixels": {
+      "message": "Pixelii tăi"
+   },
+   "gtm_publish_asset_preparation_failed": {
+      "message": "Activul nu a fost pregătit"
+   },
+   "gtm_publish_asset_preparation_missing_ids": {
+      "message": "Pregătirea activelor s-a încheiat fără ID-uri gata de publicare"
+   },
+   "gtm_publish_automatic_advanced_matching_progress": {
+      "message": "Se activează corelarea avansată automată..."
+   },
+   "gtm_publish_automatic_advanced_matching_warning": {
+      "message": "Corelarea avansată automată nu a putut fi activată, dar etichetele Google Manager de etichete au fost publicate."
+   },
+   "gtm_publish_completed_with_warnings_title": {
+      "message": "Publicate cu avertizări"
+   },
+   "gtm_publish_confirm_button": {
+      "message": "Confirmă"
+   },
+   "gtm_publish_create_ga_account_and_property_progress": {
+      "message": "Se creează contul şi proprietatea Google Analytics..."
+   },
+   "gtm_publish_create_ga_property_progress": {
+      "message": "Se creează proprietatea Google Analytics..."
+   },
+   "gtm_publish_create_ga_stream_progress": {
+      "message": "Se creează fluxul web Google Analytics..."
+   },
+   "gtm_publish_create_gtm_account_and_web_container_progress": {
+      "message": "Se creează contul Google Manager de etichete şi containerul web..."
+   },
+   "gtm_publish_create_server_container_progress": {
+      "message": "Se creează containerul de pe server..."
+   },
+   "gtm_publish_create_version_error": {
+      "message": "Versiunea de container $1 nu a putut fi creată"
+   },
+   "gtm_publish_create_web_container_progress": {
+      "message": "Se creează containerul web..."
+   },
+   "gtm_publish_failed_title": {
+      "message": "Publicarea nu a reuşit"
+   },
+   "gtm_publish_fetch_pixel_business_progress": {
+      "message": "Se preiau informaţiile despre afacere de la pixel..."
+   },
+   "gtm_publish_free_capig_opt_in_progress": {
+      "message": "Se configurează interfaţa API Conversii activată pentru Meta..."
+   },
+   "gtm_publish_free_capig_opt_in_warning": {
+      "message": "Nu s-a putut configura API-ul Conversii activat pentru Meta, dar etichetele Google Manager de etichete au fost publicate."
+   },
+   "gtm_publish_ga_account_recipe_flow_error": {
+      "message": "Pentru crearea contului Google Analytics este necesar un flux bazat pe reţetă"
+   },
+   "gtm_publish_generate_capi_token_progress": {
+      "message": "Se generează codul de acces pentru API-ul Conversii..."
+   },
+   "gtm_publish_google_tag_manager_missing_ga_measurement_id": {
+      "message": "ID de măsurare Google Analytics"
+   },
+   "gtm_publish_google_tag_manager_missing_requirements": {
+      "message": "Lipseşte conexiunea la serverul Google Manager de etichete: $1"
+   },
+   "gtm_publish_google_tag_manager_missing_server_container": {
+      "message": "Container de server Google Manager de etichete"
+   },
+   "gtm_publish_google_tag_manager_missing_tagging_server_url": {
+      "message": "URL-ul serverului de etichetare"
+   },
+   "gtm_publish_gtm_account_recipe_flow_error": {
+      "message": "Crearea contului Google Manager de etichete necesită un flux bazat pe reţetă"
+   },
+   "gtm_publish_missing_ga_account_draft": {
+      "message": "Nu există schiţe de cont Google Analytics"
+   },
+   "gtm_publish_missing_ga_account_for_property": {
+      "message": "Nu au fost selectate conturi Google Analytics pentru crearea proprietăţii"
+   },
+   "gtm_publish_missing_ga_property_draft": {
+      "message": "Nu există schiţe de proprietate Google Analytics"
+   },
+   "gtm_publish_missing_ga_property_for_stream": {
+      "message": "Nu au fost selectate proprietăţi Google Analytics pentru crearea fluxului"
+   },
+   "gtm_publish_missing_ga_stream_draft": {
+      "message": "Nu există schiţe de flux Google Analytics"
+   },
+   "gtm_publish_missing_google_auth": {
+      "message": "Nu te-ai autentificat cu Google"
+   },
+   "gtm_publish_missing_gtm_account_draft": {
+      "message": "Nu există schiţe de cont Google Manager de etichete"
+   },
+   "gtm_publish_missing_gtm_account_for_server_container": {
+      "message": "Nu au fost selectate conturi Google Manager de etichete pentru crearea containerului de pe server"
+   },
+   "gtm_publish_missing_gtm_account_for_web_container": {
+      "message": "Nu au fost selectate conturi Google Manager de etichete pentru crearea containerului web"
+   },
+   "gtm_publish_missing_pixel_id": {
+      "message": "Nu a fost selectat niciun ID de set de date"
+   },
+   "gtm_publish_missing_required_asset": {
+      "message": "$1 lipseşte. Adaugă-l prin opţiunea „Creează” sau selectează unul existent."
+   },
+   "gtm_publish_missing_required_assets_error": {
+      "message": "Lipsesc elemente obligatorii: $1"
+   },
+   "gtm_publish_missing_requirements_title": {
+      "message": "Cerinţe nesatisfăcute:"
+   },
+   "gtm_publish_missing_server_container_draft": {
+      "message": "Nu există nicio schiţă de container de pe server"
+   },
+   "gtm_publish_missing_web_container_draft": {
+      "message": "Nicio schiţă de container web"
+   },
+   "gtm_publish_no_workspaces_error": {
+      "message": "Nu au fost găsite spaţii de lucru pentru containerul $1 la $2. Creează un spaţiu de lucru în Google Manager de etichete, apoi încearcă din nou."
+   },
+   "gtm_publish_pixel_label": {
+      "message": "ID set de date: $1"
+   },
+   "gtm_publish_prepare_assets_progress": {
+      "message": "Se pregătesc elementele..."
+   },
+   "gtm_publish_progress_complete": {
+      "message": "Publicarea s-a finalizat."
+   },
+   "gtm_publish_progress_creating_datalayer_variables": {
+      "message": "Se creează variabile pentru stratul de date..."
+   },
+   "gtm_publish_progress_creating_pixel_template_tag": {
+      "message": "Se creează eticheta modelului pentru pixel..."
+   },
+   "gtm_publish_progress_creating_server_action_source": {
+      "message": "Se creează variabila sursei acţiunii la nivel de server..."
+   },
+   "gtm_publish_progress_creating_server_tag": {
+      "message": "Se creează tagul la nivel de server..."
+   },
+   "gtm_publish_progress_creating_server_trigger": {
+      "message": "Se creează declanşatorul la nivel de server..."
+   },
+   "gtm_publish_progress_creating_web_tags": {
+      "message": "Se creează etichetele web..."
+   },
+   "gtm_publish_progress_creating_web_tags_web_only": {
+      "message": "Se creează tagurile web..."
+   },
+   "gtm_publish_progress_creating_web_triggers": {
+      "message": "Se creează declanşatoarele web..."
+   },
+   "gtm_publish_progress_enabling_builtin_variables": {
+      "message": "Se activează variabilele integrate..."
+   },
+   "gtm_publish_progress_getting_web_workspace": {
+      "message": "Se obţine spaţiul de lucru pe web..."
+   },
+   "gtm_publish_progress_getting_workspaces": {
+      "message": "Se obţin spaţiile de lucru..."
+   },
+   "gtm_publish_progress_importing_web_pixel_template": {
+      "message": "Se importă modelul de pixel pentru web..."
+   },
+   "gtm_publish_progress_pixel_template_complete": {
+      "message": "Publicarea modelului de pixel s-a finalizat."
+   },
+   "gtm_publish_progress_publishing_server_container": {
+      "message": "Se publică containerul pe server..."
+   },
+   "gtm_publish_progress_publishing_web_container": {
+      "message": "Se publică containerul web..."
+   },
+   "gtm_publish_progress_setting_up_server_template": {
+      "message": "Se configurează modelul la nivel de server..."
+   },
+   "gtm_publish_progress_web_only_complete": {
+      "message": "Publicarea doar pentru web s-a finalizat."
+   },
+   "gtm_publish_published_button": {
+      "message": "Publicate"
+   },
+   "gtm_publish_publishing_button": {
+      "message": "Se publică..."
+   },
+   "gtm_publish_server_container_no_url_notice": {
+      "message": "Containerul de server va fi creat, însă etichetarea la nivel de server va fi publicată doar atunci când va fi disponibil un URL de server de etichetare."
+   },
+   "gtm_publish_success_message": {
+      "message": "Etichetele au fost publicate cu succes!"
+   },
+   "gtm_publish_unsupported_draft_asset": {
+      "message": "Crearea schiţei de $1 în timpul publicării nu este acceptată deocamdată"
+   },
+   "gtm_publish_web_only_notice": {
+      "message": "Nu a fost selectat niciun container de server. Se publică configurarea doar pentru web. Poţi să adaugi şi să publici ulterior un container de server."
+   },
+   "gtm_reauthenticate": {
+      "message": "Autentifică-te din nou"
+   },
+   "gtm_review_setup_and_publish": {
+      "message": "Revizuieşte configuraţia şi publică"
+   },
+   "gtm_setup_authenticate_button": {
+      "message": "Autentifică-te şi preia conturile"
+   },
+   "gtm_setup_button": {
+      "message": "Configurează"
+   },
+   "gtm_setup_header_title": {
+      "message": "Asociază-ţi datele în siguranţă"
+   },
+   "gtm_setup_required_message": {
+      "message": "Pentru a continua, trebuie să configurezi un container web în Google Manager de etichete"
+   },
+   "gtm_setup_required_primary_cta": {
+      "message": "Accesează Google Manager de etichete"
+   },
+   "gtm_setup_required_secondary_cta": {
+      "message": "Încearcă din nou"
+   },
+   "gtm_setup_settings": {
+      "message": "Setări de configurare"
+   },
+   "gtm_setup_summary_description": {
+      "message": "Permite implementarea şi administrarea fără probleme a tagurilor, precum şi urmărirea eficientă a evenimentelor fără cod, pentru rezultate mai bune ale reclamelor."
+   },
+   "gtm_setup_warning_loading_label": {
+      "message": "Se încarcă..."
+   },
+   "gtm_web_container_label": {
+      "message": "Container web"
+   },
+   "gtm_web_container_placeholder": {
+      "message": "Selectează un container web"
+   },
+   "guidanceEventsAffectedBadge": {
+      "message": "$1% dintre evenimente au fost afectate"
+   },
+   "guidanceMoreIssuesPlural": {
+      "message": "Încă $1 probleme"
+   },
+   "guidanceMoreIssuesSingular": {
+      "message": "Încă 1 problemă"
+   },
+   "guidanceViewAllButton": {
+      "message": "Vezi tot"
+   },
+   "guidanceViewButton": {
+      "message": "Vezi"
+   },
+   "highlightTooltipChooseAccount": {
+      "message": "Alege un cont ca să te conectezi"
+   },
+   "highlightTooltipClickToContinue": {
+      "message": "Apasă aici pentru a continua"
+   },
+   "highlightTooltipSelectAll": {
+      "message": "Selectează tot"
+   },
+   "idLabel": {
+      "message": "ID: $1"
+   },
+   "islandActionFailedMessage": {
+      "message": "Finalizează manual acţiunea pentru a continua"
+   },
+   "islandActionRequiredMessage": {
+      "message": "Finalizează acţiunea pentru a continua"
+   },
+   "learnAboutManualAdvancedMatching": {
+      "message": "Află despre corelarea avansată manuală"
+   },
+   "learnAboutValueAndCurrencyParameters": {
+      "message": "Setează valoarea şi moneda în Pixelul Meta"
+   },
+   "learnHowToSetupAdvancedMatchingManually": {
+      "message": "Află cum să configurezi manual corelarea avansată"
+   },
+   "learnMoreLink": {
+      "message": "Află mai multe"
+   },
+   "loadingText": {
+      "message": "Se încarcă..."
+   },
+   "loginPageButtonCreateAccount": {
+      "message": "Creează un cont nou"
+   },
+   "loginPageButtonLogin": {
+      "message": "Conectare cu Facebook"
+   },
+   "loginPageButtonMMALogin": {
+      "message": "Conectează-te cu un cont de Meta administrat"
+   },
+   "loginPageDescription": {
+      "message": "pentru asistenţă personalizată la configurarea evenimentelor"
+   },
+   "loginPageSubtitle": {
+      "message": "Conectează-te la instrumentele de afaceri oferite de Meta"
+   },
+   "loginPageTitle": {
+      "message": "Meta Pixel Helper"
+   },
+   "mamStepExampleLabel": {
+      "message": "Exemplu: $1"
+   },
+   "metaLogoAlt": {
+      "message": "Meta"
+   },
+   "metaSignalHelperLogoAlt": {
+      "message": "Meta Pixel Helper"
+   },
+   "missingEventsActiveSessionTooltip": {
+      "message": "Configurarea evenimentelor este deja în curs"
+   },
+   "missingEventsTabSwitchTooltip": {
+      "message": "Revino la fila în care ai început configurarea evenimentului"
+   },
+   "moreInformationHeader": {
+      "message": "Mai multe informaţii"
+   },
+   "moreLabel": {
+      "message": "+ încă $1"
+   },
+   "newFeaturesBannerLearnMore": {
+      "message": "Află mai multe"
+   },
+   "newFeaturesBannerText": {
+      "message": "Este disponibilă o nouă funcţie de automatizare, care te ajută să configurezi instrumente complexe în câteva minute."
+   },
+   "nextStepsHeader": {
+      "message": "Următorii paşi"
+   },
+   "noEventsOnThisPageMessage": {
+      "message": "Nu există evenimente pe această pagină. Apasă pe „Afişează toate evenimentele” pentru a vedea evenimente de pe alte pagini."
+   },
+   "noPixelsFoundCardHeader": {
+      "message": "Nu a fost găsit niciun niciun pixel pe această pagină"
+   },
+   "onThisPageHeader": {
+      "message": "Pe această Pagină"
+   },
+   "optionalLabel": {
+      "message": "· Opţional"
+   },
+   "overlayActionCompletedTitle": {
+      "message": "Acţiune finalizată"
+   },
+   "overlayCloseButton": {
+      "message": "Închide"
+   },
+   "overlayDatasetCountPlural": {
+      "message": "Mai multe seturi de date"
+   },
+   "overlayDatasetCountSingular": {
+      "message": "1 set de date"
+   },
+   "overlayDescriptionPluralActions": {
+      "message": "$1 măsuri pe care le poţi lua"
+   },
+   "overlayDescriptionPluralPixelsPluralActions": {
+      "message": "Pe această pagină există $1 pixeli şi $2 acţiuni pe care le poţi realiza."
+   },
+   "overlayDescriptionPluralPixelsSingularAction": {
+      "message": "Pe această pagină există $1 pixeli şi 1 acţiune pe care o poţi realiza."
+   },
+   "overlayDescriptionSingularAction": {
+      "message": "Am găsit o optimizare pentru tine:"
+   },
+   "overlayDescriptionSingularPixelPluralActions": {
+      "message": "Pe această pagină există 1 pixel şi $1 acţiuni pe care le poţi realiza."
+   },
+   "overlayDescriptionSingularPixelSingularAction": {
+      "message": "Pe această pagină există 1 pixel şi 1 acţiune pe care o poţi realiza."
+   },
+   "overlayFreeCapigEnabledLabel": {
+      "message": "Activat"
+   },
+   "overlayGoBackButton": {
+      "message": "Înapoi"
+   },
+   "overlayGreetingAfternoon": {
+      "message": "Salut, $1"
+   },
+   "overlayGreetingEvening": {
+      "message": "Bună seara, $1"
+   },
+   "overlayGreetingMorning": {
+      "message": "Bună dimineaţa, $1"
+   },
+   "overlayGtmSetupForMeCta": {
+      "message": "Configurează pentru mine"
+   },
+   "overlayNotificationSettingsButton": {
+      "message": "Setări pentru notificări"
+   },
+   "overlayNotificationSettingsDescription": {
+      "message": "Alege cum doreşti să primeşti notificările despre îmbunătăţirea configuraţiei. În plus, poţi schimba oricând această opţiune, în pagina principală, apăsând pe pictograma în formă de clopoţel."
+   },
+   "overlayNotificationSettingsTitle": {
+      "message": "Setări pentru notificări"
+   },
+   "overlayNotificationsToggleDescription": {
+      "message": "Afişează notificările pe paginile care au pixelii tăi"
+   },
+   "overlayNotificationsToggleLabel": {
+      "message": "Notificări"
+   },
+   "overlayTitle": {
+      "message": "Meta Pixel Helper"
+   },
+   "overlayToggleDescription": {
+      "message": "Afişează acţiuni pe baza contextului şi a stării Pixelului în timp ce navighezi."
+   },
+   "overlayToggleOff": {
+      "message": "Notificările contextuale sunt dezactivate"
+   },
+   "overlayToggleOn": {
+      "message": "Notificările contextuale sunt activate"
+   },
+   "overlayViewAllButton": {
+      "message": "Vezi tot"
+   },
+   "overlayViewDatasetsButton": {
+      "message": "Vezi seturile de date"
+   },
+   "pageIssueHeaderPlural": {
+      "message": "A fost găsit $1 avertisment pe această pagină"
+   },
+   "pageIssueHeaderSingular": {
+      "message": "A fost găsit un avertisment pe această pagină"
+   },
+   "pinExtensionBannerCta": {
+      "message": "Fixează în bara de instrumente"
+   },
+   "pinExtensionBannerDescription": {
+      "message": "Fixează Meta Signal Helper în bara de instrumente pentru a-l acces rapid."
+   },
+   "pinExtensionBannerTitle": {
+      "message": "Fixează această extensie"
+   },
+   "pixelBackButton": {
+      "message": "Înapoi"
+   },
+   "pixelCopyIdTitle": {
+      "message": "Copiază ID-ul setului de date"
+   },
+   "pixelCopyIdTooltip": {
+      "message": "Copiază ID-ul setului de date"
+   },
+   "pixelCustomConversionBadge": {
+      "message": "Conversie personalizată"
+   },
+   "pixelErrorCommonStep1": {
+      "message": "Deschide codul site-ului web."
+   },
+   "pixelErrorConflictingVersionsCardTitle": {
+      "message": "Şterge pixelii vechi sau în conflict"
+   },
+   "pixelErrorConflictingVersionsExample": {
+      "message": "Exemplu: n.version='2.0'"
+   },
+   "pixelErrorConflictingVersionsMessage": {
+      "message": "Şterge pixelii vechi sau aflaţi în conflict"
+   },
+   "pixelErrorConflictingVersionsRecommendation": {
+      "message": "Pe această pagină au fost detectaţi mai mulţi pixeli cu versiuni conflictuale. Foloseşte o singură versiune a Pixelului Meta."
+   },
+   "pixelErrorConflictingVersionsStep2": {
+      "message": "Caută **n.version='** în codul de bază al instalării pixelului"
+   },
+   "pixelErrorConflictingVersionsStep3": {
+      "message": "Asigură-te că versiunile sunt identice pentru toţi pixelii"
+   },
+   "pixelErrorDuplicatePixelIdCardTitle": {
+      "message": "Şterge ID-ul de set de date dublură"
+   },
+   "pixelErrorDuplicatePixelIdMessage": {
+      "message": "Şterge ID-ul de set de date dublură"
+   },
+   "pixelErrorDuplicatePixelIdRecommendation": {
+      "message": "Ai un ID de set de date dublură: $1. Pentru a evita datele dublură, fiecare pixel trebuie iniţializat o singură dată per pagină."
+   },
+   "pixelErrorDuplicatePixelIdStep2": {
+      "message": "Caută **fbq('init', $1)** în codul de bază al instalării pixelului"
+   },
+   "pixelErrorDuplicatePixelIdStep3": {
+      "message": "Şterge dublura **fbq('init', $1)**"
+   },
+   "pixelErrorFbqNoMethodNameCardTitle": {
+      "message": "Numele metodei lipseşte din apelul fbq()"
+   },
+   "pixelErrorFbqNoMethodNameExample": {
+      "message": "Exemplu: fbq('track', 'PageView')"
+   },
+   "pixelErrorFbqNoMethodNameMessage": {
+      "message": "Introdu un argument pentru fbq{}"
+   },
+   "pixelErrorFbqNoMethodNameRecommendation": {
+      "message": "Specifică un nume de metodă atunci când apelezi fbq(). Exemplu: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorFbqNoMethodNameStep2": {
+      "message": "Găseşte apelul fbq() din care lipseşte un nume de metodă."
+   },
+   "pixelErrorFbqNoMethodNameStep3": {
+      "message": "Adaugă un nume valid de metodă, de exemplu, „track” sau „init” ca prim argument."
+   },
+   "pixelErrorInvalidConsentActionCardTitle": {
+      "message": "Trimite o acţiune validă de consimţământ"
+   },
+   "pixelErrorInvalidConsentActionMessage": {
+      "message": "Trimite o acţiune de consimţământ validă"
+   },
+   "pixelErrorInvalidConsentActionRecommendation": {
+      "message": "„fbq(‘$1’, ...)” nu este o acţiune fbq(‘consent’,...) validă. Acţiunile valide pentru consimţământ sunt „grant” şi „revoke”. Verifică implementarea gestionării consimţământului."
+   },
+   "pixelErrorInvalidConsentActionStep2": {
+      "message": "Caută **fbq('$1', ...)**"
+   },
+   "pixelErrorInvalidConsentActionStep3": {
+      "message": "Actualizează numele metodei la **revoke** sau **grant**"
+   },
+   "pixelErrorInvalidEventIdFormatCardTitle": {
+      "message": "Adaugă o valoare de şir pentru eventID"
+   },
+   "pixelErrorInvalidEventIdFormatMessage": {
+      "message": "Adaugă o valoare de şir pentru eventID"
+   },
+   "pixelErrorInvalidEventIdFormatRecommendation": {
+      "message": "Tipul de eventID este incorect pentru ID-ul de set de date: $1 pentru evenimentul „$2”. Parametrul eventID trebuie să fie un şir. Exemplu: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorInvalidEventIdFormatRecommendationGeneric": {
+      "message": "Tipul de eventID este incorect pentru ID-ul de set de date: $1. Parametrul eventID trebuie să fie un şir. Exemplu: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'}})."
+   },
+   "pixelErrorInvalidEventIdFormatStep2": {
+      "message": "Caută **fbq('track', '$1', ..., {eventID: ...})** şi verifică dacă eventID este un şir"
+   },
+   "pixelErrorInvalidEventIdFormatStep2Generic": {
+      "message": "Caută **fbq('track', ..., {eventID: ...})** şi verifică dacă eventID este un şir"
+   },
+   "pixelErrorInvalidEventIdFormatStep3": {
+      "message": "Converteşte valoarea eventID într-un tip de şir"
+   },
+   "pixelErrorInvalidFbqMethodCardTitle": {
+      "message": "Metodă nevalidă în apelul fbq()"
+   },
+   "pixelErrorInvalidFbqMethodExample": {
+      "message": "Metode valide: 'init', 'track', 'trackCustom', 'trackSingle', 'trackSingleCustom'"
+   },
+   "pixelErrorInvalidFbqMethodMessage": {
+      "message": "Foloseşte comenzi fbq valide"
+   },
+   "pixelErrorInvalidFbqMethodParameterCardTitle": {
+      "message": "Actualizează formatul parametrului"
+   },
+   "pixelErrorInvalidFbqMethodParameterExample": {
+      "message": "Exemplu: fbq('init', '123456789', {em: 'user@example.com', ph: '1234567890'}); // user_data trebuie să fie un obiect"
+   },
+   "pixelErrorInvalidFbqMethodParameterMessage": {
+      "message": "Potriveşte parametrii cu formatul aşteptat"
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendation": {
+      "message": "Apelul către „fbq('$1', $2)” cu parametrul „$3” are o valoare „$4” nevalidă."
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendationSimple": {
+      "message": "Parametru nevalid pentru metoda fbq()."
+   },
+   "pixelErrorInvalidFbqMethodParameterStep2": {
+      "message": "Caută **fbq('$1', $2);**"
+   },
+   "pixelErrorInvalidFbqMethodParameterStep3": {
+      "message": "Actualizează **$1** la un nume de parametru valid"
+   },
+   "pixelErrorInvalidFbqMethodRecommendation": {
+      "message": "„fbq(‘$1‘, ...);” nu este o comandă fbq validă. Foloseşte metode fbq valide precum „init”, „track” şi „trackCustom”."
+   },
+   "pixelErrorInvalidFbqMethodStep2": {
+      "message": "Găseşte apelul fbq() cu metoda nevalidă „$1”."
+   },
+   "pixelErrorInvalidFbqMethodStep3": {
+      "message": "Înlocuieşte-l cu un nume valid de metodă, precum „track”, „init” sau „trackCustom”."
+   },
+   "pixelErrorInvalidJsonLdCardTitle": {
+      "message": "Actualizează formatul JSON-LD"
+   },
+   "pixelErrorInvalidJsonLdMessage": {
+      "message": "Asigură-te că JSON-LD este formatat corect şi este valid"
+   },
+   "pixelErrorInvalidJsonLdRecommendation": {
+      "message": "Tagul JSON-LD nu poate fi analizat. A fost găsit un fişier JSON malformat: „$1”. Înainte de a trimite către pixel, asigură-te că marcajul JSON-LD este formatat corect şi că este valid."
+   },
+   "pixelErrorInvalidJsonLdStep2": {
+      "message": "Caută **$1**"
+   },
+   "pixelErrorInvalidJsonLdStep3": {
+      "message": "Corectează formatul şi asigură-te că este un fişier JSON valid"
+   },
+   "pixelErrorInvalidParamCardTitle": {
+      "message": "Actualizează parametrul nevalid pentru evenimentul tău"
+   },
+   "pixelErrorInvalidParamExample": {
+      "message": "Exemplu: fbq('track', 'Purchase', {currency: 'USD', value: 30.00})"
+   },
+   "pixelErrorInvalidParamFormatCardTitle": {
+      "message": "Actualizează formatul parametrului"
+   },
+   "pixelErrorInvalidParamFormatExample": {
+      "message": "Parametri comuni: value, currency, content_ids, content_type etc. Lista completă este disponibilă în wiki: https://developers.facebook.com/docs/meta-pixel/reference/"
+   },
+   "pixelErrorInvalidParamFormatMessage": {
+      "message": "Actualizează formatul parametrului"
+   },
+   "pixelErrorInvalidParamFormatRecommendation": {
+      "message": "Format nevalid de parametru pentru $1."
+   },
+   "pixelErrorInvalidParamFormatStep2": {
+      "message": "Caută **$1**"
+   },
+   "pixelErrorInvalidParamMessage": {
+      "message": "Şterge sau actualizează parametrul nevalid pentru evenimentul tău"
+   },
+   "pixelErrorInvalidParamRecommendation": {
+      "message": "Parametrul „$1” este nevalid pentru evenimentul „$2”."
+   },
+   "pixelErrorInvalidParamStep2": {
+      "message": "Caută **fbq('track', $1, ...)**"
+   },
+   "pixelErrorInvalidParamStep3": {
+      "message": "Şterge sau actualizează $1"
+   },
+   "pixelErrorInvalidPixelIdCardTitle": {
+      "message": "Adaugă un ID de set de date valid"
+   },
+   "pixelErrorInvalidPixelIdMessage": {
+      "message": "Adaugă un ID de set de date valid"
+   },
+   "pixelErrorInvalidPixelIdRecommendation": {
+      "message": "ID-ul de set de date $1 este nevalid. Verifică dacă ID-ul este corect în Meta Events Manager şi actualizează codul pixelului."
+   },
+   "pixelErrorInvalidPixelIdStep2": {
+      "message": "Caută **fbq('init', $1)** în codul de bază al instalării pixelului"
+   },
+   "pixelErrorInvalidPixelIdStep3": {
+      "message": "Înlocuieşte valoarea „$1” cu una validă, care poate fi găsită în Meta Events Manager"
+   },
+   "pixelErrorMultiplePixelsCardTitle": {
+      "message": "Unifică într-un singur Pixel Meta"
+   },
+   "pixelErrorMultiplePixelsMessage": {
+      "message": "Unifică într-un singur Pixel Meta"
+   },
+   "pixelErrorMultiplePixelsRecommendation": {
+      "message": "S-au detectat mai mulţi pixeli pe această pagină. Prezenţa mai multor pixeli poate să indice probleme legate de configurare şi să împiedice urmărirea optimă a evenimentelor."
+   },
+   "pixelErrorMultiplePixelsStep2": {
+      "message": "Caută **fbq('init', ...)** în codul de bază al instalării pixelului"
+   },
+   "pixelErrorMultiplePixelsStep3": {
+      "message": "Şterge toţi pixelii cu excepţia unuia. Asigură-te că îţi actualizezi campaniile dacă este folosit un pixel dublură"
+   },
+   "pixelErrorNegativeEventParamCardTitle": {
+      "message": "Adaugă o valoare pozitivă la 1 USD"
+   },
+   "pixelErrorNegativeEventParamMessage": {
+      "message": "Verifică datele privind evenimentele $1"
+   },
+   "pixelErrorNegativeEventParamRecommendation": {
+      "message": "Parametrul „$1” este negativ pentru evenimentul „$2”. Parametrii de eveniment, cum ar fi valoarea, cantitatea etc., nu trebuie să aibă valori negative."
+   },
+   "pixelErrorNegativeEventParamStep2": {
+      "message": "Caută **fbq('track', $1)**"
+   },
+   "pixelErrorNegativeEventParamStep3": {
+      "message": "Actualizează valoarea la un număr pozitiv"
+   },
+   "pixelErrorNoEventIdCardTitle": {
+      "message": "Adaugă ID-uri de eveniment"
+   },
+   "pixelErrorNoEventIdMessage": {
+      "message": "Include un ID de eveniment pentru urmărirea şi eliminarea dublurilor"
+   },
+   "pixelErrorNoEventIdRecommendation": {
+      "message": "Am detectat un parametru eventID nul sau necompletat de la al patrulea parametru pentru ID-ul de set de date: $1. Include un ID de eveniment. Exemplu: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'}})."
+   },
+   "pixelErrorNoEventIdStep2": {
+      "message": "Caută **fbq('track', ..., ..., ..., {})** şi identifică locul în care al patrulea parametru sau eventID este necompletat"
+   },
+   "pixelErrorNoEventIdStep3": {
+      "message": "Specifică parametrul eventID sau şterge al patrulea parametru"
+   },
+   "pixelErrorNoEventNameCardTitle": {
+      "message": "Adaugă un nume de eveniment"
+   },
+   "pixelErrorNoEventNameExample": {
+      "message": "Exemplu: fbq('track', 'AddToCart')"
+   },
+   "pixelErrorNoEventNameMessage": {
+      "message": "Adaugă un nume de eveniment pentru urmărirea evenimentului"
+   },
+   "pixelErrorNoEventNameRecommendation": {
+      "message": "Lipseşte numele evenimentului. Evenimentele de urmărire trebuie să fie înregistrate cu un nume de eveniment fbq(„track”, numeleEvenimentului). Exemplu: fbq(„track”, „Adaugă în coş”)."
+   },
+   "pixelErrorNoEventNameStep2": {
+      "message": "Caută **fbq('track', '', ...)** sau **fbq('track', ' ', ...)**"
+   },
+   "pixelErrorNoEventNameStep3": {
+      "message": "Adaugă un nume de eveniment"
+   },
+   "pixelErrorNonstandardEventCardTitle": {
+      "message": "Actualizează evenimentul non-standard"
+   },
+   "pixelErrorNonstandardEventMessage": {
+      "message": "Trimite evenimentul non-standard folosind parametrul trackCustom"
+   },
+   "pixelErrorNonstandardEventRecommendation": {
+      "message": "Trimiţi un eveniment non-standard „$1”. Pentru a trimite aceste evenimente, foloseşte trackCustom. În schimb, apelează fbq('trackCustom',...)."
+   },
+   "pixelErrorNonstandardEventStep2": {
+      "message": "Caută **fbq('track', $1)**"
+   },
+   "pixelErrorNonstandardEventStep3": {
+      "message": "Înlocuieşte cu **fbq('trackCustom', $1)**"
+   },
+   "pixelErrorPiiInvalidTypeCardTitle": {
+      "message": "Şterge informaţiile nevalide despre clienţi"
+   },
+   "pixelErrorPiiInvalidTypeExample": {
+      "message": "Exemplu: **em**, **ph**, **fn**, **ln**, **db**, **ge**, **ct**, **zp**, **external_id** etc"
+   },
+   "pixelErrorPiiInvalidTypeMessage": {
+      "message": "Şterge informaţiile nevalide despre clienţi"
+   },
+   "pixelErrorPiiInvalidTypeRecommendation": {
+      "message": "A fost specificat un $1 nevalid pentru „$2”. Aceste date nu vor fi trimise cu niciun eveniment pentru acest pixel."
+   },
+   "pixelErrorPiiInvalidTypeStep2": {
+      "message": "Caută **fbq('init', $1, {$2:...})**"
+   },
+   "pixelErrorPiiInvalidTypeStep3": {
+      "message": "Actualizează valoarea **$1** sau înlocuieşte-o cu informaţii valide"
+   },
+   "pixelErrorPiiUnhashedPiiCardTitle": {
+      "message": "Trimite e-mailuri cu câmpul-cheie corect"
+   },
+   "pixelErrorPiiUnhashedPiiMessage": {
+      "message": "Trimite e-mailuri cu câmpul cheie corect"
+   },
+   "pixelErrorPiiUnhashedPiiRecommendation": {
+      "message": "Valoarea pentru cheia „$1” pare a fi PII. Aceste date nu vor fi trimise cu niciun eveniment pentru acest pixel. Modalitatea recomandată este apelarea fbq('init', 'PIXEL_ID', {em: 'email@email.com', ...})."
+   },
+   "pixelErrorPiiUnhashedPiiStep2": {
+      "message": "Caută **$1** şi vezi dacă există o valoare setată la un e-mail"
+   },
+   "pixelErrorPiiUnhashedPiiStep3": {
+      "message": "Actualizează **$1** la **em**"
+   },
+   "pixelErrorRequiredParamMissingCardTitle": {
+      "message": "Adaugă parametrul lipsă"
+   },
+   "pixelErrorRequiredParamMissingMessage": {
+      "message": "Adaugă la evenimentul tău parametrul obligatoriu care lipseşte"
+   },
+   "pixelErrorRequiredParamMissingRecommendation": {
+      "message": "Lipseşte parametrul obligatoriu „$1” pentru evenimentul „$2”."
+   },
+   "pixelErrorRequiredParamMissingStep2": {
+      "message": "Caută **fbq('track', $1, ...)**"
+   },
+   "pixelErrorRequiredParamMissingStep3": {
+      "message": "Adaugă parametrul lipsă"
+   },
+   "pixelErrorRestrictedEventCardTitle": {
+      "message": "Analizează evenimentele blocate"
+   },
+   "pixelErrorRestrictedEventMessage": {
+      "message": "Accesează Events Manager pentru a revizui evenimentele blocate"
+   },
+   "pixelErrorRestrictedEventRecommendation": {
+      "message": "Încerci să trimiţi un eveniment restricţionat. Evenimentul a fost suprimat."
+   },
+   "pixelErrorRestrictedEventStep1": {
+      "message": "Deschide fila Setări a setului de date din Events Manager"
+   },
+   "pixelErrorRestrictedEventStep2": {
+      "message": "Deschide secţiunea Permisiuni pentru trafic > Site-uri web"
+   },
+   "pixelErrorRestrictedEventStep3": {
+      "message": "Revizuieşte şi actualizează evenimentele blocate sau opreşte trimiterea evenimentelor blocate de la site-ul tău web"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelCardTitle": {
+      "message": "Iniţializează Pixelul"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelMessage": {
+      "message": "Iniţializează pixelul înainte de setarea metadatelor"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendation": {
+      "message": "Se încearcă setarea argumentului $1 pentru ID-ul neiniţializat $2 al setului de date. Iniţializează pixelul înainte de a seta metadatele. Mai întâi, apelează fbq('init', '$3')."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendationSimple": {
+      "message": "Se încearcă setarea metadatelor într-un pixel neiniţializat."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep2": {
+      "message": "Caută **fbq()**"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep3": {
+      "message": "Mai întâi, apelează **fbq('init', 'PIXEL_ID')**"
+   },
+   "pixelErrorSiteCodelessOptOutCardTitle": {
+      "message": "Activează configurarea fără cod a evenimentelor"
+   },
+   "pixelErrorSiteCodelessOptOutMessage": {
+      "message": "Activează configurarea fără cod a evenimentelor sau foloseşte integrarea manuală a pixelului"
+   },
+   "pixelErrorSiteCodelessOptOutRecommendation": {
+      "message": "Nu se poate deschide interfaţa pentru evenimente fără cod pentru pixel, deoarece site-ul a ales să renunţe. ID set de date: $1."
+   },
+   "pixelErrorSiteCodelessOptOutStep2": {
+      "message": "Caută **fbq('set', 'codeless', 'false', $1)**"
+   },
+   "pixelErrorSiteCodelessOptOutStep3": {
+      "message": "Şterge acest rând pentru a-l reactiva sau a-l activa în mod explicit **fbq('set', 'codeless', 'true', $1);"
+   },
+   "pixelErrorUnableLoadFbqCardTitle": {
+      "message": "Şterge programele de blocare a reclamelor"
+   },
+   "pixelErrorUnableLoadFbqMessage": {
+      "message": "Verifică-ţi conexiunea la reţea şi consola browserului"
+   },
+   "pixelErrorUnableLoadFbqRecommendation": {
+      "message": "fbq nu poate fi încărcat. Este posibil ca programele de blocare a reclamelor să împiedice încărcarea pixelului."
+   },
+   "pixelErrorUnableLoadFbqStep1": {
+      "message": "Verifică-ţi conexiunea la reţea"
+   },
+   "pixelErrorUnableLoadFbqStep2": {
+      "message": "Asigură-te că programele de blocare a reclamelor sunt dezactivate"
+   },
+   "pixelErrorUninitializedPixelCardTitle": {
+      "message": "Iniţializează pixelul"
+   },
+   "pixelErrorUninitializedPixelMessage": {
+      "message": "Iniţializează pixelul"
+   },
+   "pixelErrorUninitializedPixelRecommendation": {
+      "message": "Pixelul $1 nu a fost găsit. Iniţializează pixelul cu fbq('init', 'PIXEL_ID') înainte apelarea altor metode fbq."
+   },
+   "pixelErrorUninitializedPixelStep1": {
+      "message": "Deschide fila Prezentare generală din Events Manager pentru a copia codul de bază al Pixelului Meta"
+   },
+   "pixelErrorUninitializedPixelStep2": {
+      "message": "Lipeşte codul pixelului Meta între etichetele `\u003Chead>` şi `\u003C/head>` din pagina ta web"
+   },
+   "pixelErrorUnknownErrorMessage": {
+      "message": "A apărut o eroare necunoscută legată de pixel"
+   },
+   "pixelErrorUnknownErrorRecommendation": {
+      "message": "Verifică în consola browserului pentru a afla mai multe detalii despre eroare."
+   },
+   "pixelErrorUnsupportedMetadataCardTitle": {
+      "message": "Şterge sau actualizează câmpurile de metadate neacceptate"
+   },
+   "pixelErrorUnsupportedMetadataMessage": {
+      "message": "Şterge sau actualizează câmpurile de metadate neacceptate"
+   },
+   "pixelErrorUnsupportedMetadataRecommendation": {
+      "message": "Argument de metadate neacceptat: $1. Argumentele de metadate valide sunt „agent”, „automaticMatchingConfig”, „codeless”, „trackSingleOnly”, „cbData.oneTrustId”."
+   },
+   "pixelErrorUnsupportedMetadataStep2": {
+      "message": "Caută **fbq('set', $1)**"
+   },
+   "pixelErrorUnsupportedMetadataStep3": {
+      "message": "Înlocuieşte cu un argument valid"
+   },
+   "pixelErrorUnverifiedEventCardTitle": {
+      "message": "Confirmă-ţi evenimentele"
+   },
+   "pixelErrorUnverifiedEventMessage": {
+      "message": "Confirmă-ţi evenimentele în Events Manager"
+   },
+   "pixelErrorUnverifiedEventRecommendation": {
+      "message": "Încerci să trimiţi un eveniment neconfirmat. Evenimentul a fost suprimat. Pentru a afla mai multe, deschide Events Manager."
+   },
+   "pixelErrorUnverifiedEventStep1": {
+      "message": "Deschide fila Diagnosticare a setului de date din Events Manager"
+   },
+   "pixelErrorUnverifiedEventStep2": {
+      "message": "Confirmă evenimentele"
+   },
+   "pixelErrorUnwantedCustomDataCardTitle": {
+      "message": "Şterge posibilele încălcări"
+   },
+   "pixelErrorUnwantedCustomDataExample": {
+      "message": "Exemplu: fbq('track', 'Purchase', {...}) - Remove ssn, credit_card, password fields"
+   },
+   "pixelErrorUnwantedCustomDataMessage": {
+      "message": "Şterge câmpurile de date personalizate care includ potenţiale încălcări"
+   },
+   "pixelErrorUnwantedCustomDataRecommendation": {
+      "message": "Anumiţi parametri au fost şterşi din datele personalizate, ca urmare a unor posibile încălcări. Deschide Events Manager pentru a revizui."
+   },
+   "pixelErrorUnwantedCustomDataStep2": {
+      "message": "Şterge parola sau orice informaţii financiare şi verifică în wiki mai multe tipuri de încălcări"
+   },
+   "pixelErrorUnwantedEventNameCardTitle": {
+      "message": "Revizuieşte numele evenimentelor"
+   },
+   "pixelErrorUnwantedEventNameExample": {
+      "message": "Exemplu: nume incorecte de evenimente, precum 'CreditCardSubmit', 'PasswordEntered', 'SSNCollected'"
+   },
+   "pixelErrorUnwantedEventNameMessage": {
+      "message": "Asigură-te că numele de eveniment nu include informaţii interzise"
+   },
+   "pixelErrorUnwantedEventNameRecommendation": {
+      "message": "Evenimentul a fost blocat ca urmare a unor posibile încălcări."
+   },
+   "pixelErrorUnwantedEventNameStep2": {
+      "message": "Caută **fbq('track', ...)**"
+   },
+   "pixelErrorUnwantedEventNameStep3": {
+      "message": "Revizuieşte numele evenimentului pentru a te asigura că acesta nu include informaţii interzise (de exemplu: parole, SSN, carduri de credit etc.)"
+   },
+   "pixelErrorUnwantedUrlDataCardTitle": {
+      "message": "Revizuieşte posibilele încălcări"
+   },
+   "pixelErrorUnwantedUrlDataExample": {
+      "message": "Exemplu:\n❌ URL-uri incorecte:\nhttps://example.com/checkout?email=user@test.com&ssn=123-45-6789\nhttps://example.com/login?password=secret123&credit_card=4111...\n\n✅ URL-uri corecte:\nhttps://example.com/checkout?order_id=12345\nhttps://example.com/login (nu există parametri de interogare sensibili)"
+   },
+   "pixelErrorUnwantedUrlDataMessage": {
+      "message": "Revizuieşte datele URL-ului pentru a te asigura că nu sunt incluse informaţii interzise"
+   },
+   "pixelErrorUnwantedUrlDataRecommendation": {
+      "message": "Ai şters parametrii de interogare URL ca urmare a unor posibile încălcări."
+   },
+   "pixelErrorUnwantedUrlDataStep2": {
+      "message": "Efectuează un audit al URL-urilor. Verifică atât pagina actuală (dl), cât şi sursa (rl), pentru a te asigura că nu sunt incluse informaţii sensibile"
+   },
+   "pixelEventCountPlural": {
+      "message": "$1 evenimente"
+   },
+   "pixelEventCountSingular": {
+      "message": "$1 eveniment"
+   },
+   "pixelEventUnnamed": {
+      "message": "Eveniment (fără nume)"
+   },
+   "pixelHeaderPlural": {
+      "message": "Au fost găsiţi $1 pixeli pe această pagină"
+   },
+   "pixelHeaderSingular": {
+      "message": "A fost găsit un pixel pe această pagină"
+   },
+   "pixelIdLabel": {
+      "message": "ID: $1"
+   },
+   "pixelLoadTime": {
+      "message": "$1 ms"
+   },
+   "pixelMetaPixelTitle": {
+      "message": "Pixelul Meta"
+   },
+   "pixelMissingFiresMessage": {
+      "message": "Niciun pixel nu s-a declanşat pe pagina actuală, dar s-au declanşat pixeli pe alte pagini ale site-ului web"
+   },
+   "pixelMissingFiresRecommendation": {
+      "message": "Ia în considerare să adaugi în această pagină evenimente de urmărire prin pixeli sau să verifici dacă pixelii existenţi funcţionează corect"
+   },
+   "pixelNoEventsRecorded": {
+      "message": "Încă nu au fost înregistrate evenimente"
+   },
+   "pixelNotFiringMessage": {
+      "message": "Pixelul $1 este instalat, dar nu s-a declanşat recent"
+   },
+   "pixelStatusActive": {
+      "message": "Activ"
+   },
+   "pixelStatusAutomaticallyDetected": {
+      "message": "Detectat automat"
+   },
+   "pixelStatusError": {
+      "message": "Eroare"
+   },
+   "pixelStatusEventNotProcessed": {
+      "message": "Eveniment neprocesat"
+   },
+   "pixelStatusEventReceived": {
+      "message": "Eveniment primit"
+   },
+   "pixelStatusInactive": {
+      "message": "Inactiv"
+   },
+   "pixelStatusReceived": {
+      "message": "Primit"
+   },
+   "pixelStatusSent": {
+      "message": "Eveniment trimis"
+   },
+   "pixelStatusWarning": {
+      "message": "Avertisment"
+   },
+   "recipeAddMoreFields": {
+      "message": "Adaugă mai multe"
+   },
+   "recipeCancelAutomation": {
+      "message": "Anulează automatizarea"
+   },
+   "recipeCompleteActionToContinue": {
+      "message": "Finalizează acţiunea pentru a continua"
+   },
+   "recipeErrorBackButton": {
+      "message": "Mergi la pagina principală"
+   },
+   "recipeErrorMessage": {
+      "message": "Nu am putut iniţia automatizarea din cauza unei probleme neaşteptate. Verifică-ţi conexiunea la internet şi încearcă din nou mai târziu."
+   },
+   "recipeErrorTitle": {
+      "message": "Încearcă din nou mai târziu."
+   },
+   "recipeFailedStateDescription": {
+      "message": "A apărut o problemă la finalizarea acestei acţiuni. Trebuie să o finalizezi manual pentru a continua configurarea."
+   },
+   "recipeFieldIdentifierLabel": {
+      "message": "Identificator"
+   },
+   "recipeFieldMappingInfoBoxTextLead": {
+      "message": "Pentru a continua, confirmă numele şi ora evenimentului şi alege cel puţin 1 câmp cu identificator (se recomandă ID client potenţial)."
+   },
+   "recipeFieldMappingInfoBoxTextOpportunity": {
+      "message": "Pentru a continua, confirmă numele şi ora evenimentului."
+   },
+   "recipeFieldOptionalLabel": {
+      "message": "Opţional"
+   },
+   "recipeFieldsDropdownNoResultsFound": {
+      "message": "Nu a fost găsit niciun rezultat"
+   },
+   "recipeFieldsEventNameTooltipContent": {
+      "message": "Acest nume se mapează la clienţii potenţiali din pâlnia CRM. Trimite toate etapele pe măsură ce se actualizează."
+   },
+   "recipeFieldsEventNameTooltipExample": {
+      "message": "adică"
+   },
+   "recipeFieldsEventNameTooltipExample1": {
+      "message": "Client potenţial brut de la Meta"
+   },
+   "recipeFieldsEventNameTooltipExample2": {
+      "message": "Client potenţial calificat de marketing"
+   },
+   "recipeFieldsEventNameTooltipExample3": {
+      "message": "Oportunitate de vânzări"
+   },
+   "recipeFieldsEventNameTooltipExample4": {
+      "message": "Client"
+   },
+   "recipeFieldsEventNameTooltipLearnMore": {
+      "message": "Află mai multe"
+   },
+   "recipeFieldsEventNameTooltipLearnMoreContinued": {
+      "message": "despre integrarea clienţilor potenţiali pentru conversie."
+   },
+   "recipeFileABug": {
+      "message": "Semnalează un bug"
+   },
+   "recipeFileAnotherBug": {
+      "message": "Semnalează un alt bug"
+   },
+   "recipeIntroStartAutomationButton": {
+      "message": "Începe automatizarea"
+   },
+   "recipeMaibaCallerIndicator": {
+      "message": "Înapoi la MAIBA"
+   },
+   "recipeMarkAsComplete": {
+      "message": "Marchează ca finalizat"
+   },
+   "recipeMilestoneActionNeededStatus": {
+      "message": "Acţiune necesară"
+   },
+   "recipeMilestoneCompleteStatus": {
+      "message": "Terminat"
+   },
+   "recipeMilestoneFailedStatus": {
+      "message": "Nereuşit"
+   },
+   "recipeMilestoneInProgressStatus": {
+      "message": "În desfăşurare"
+   },
+   "recipeMilestonePausedStatus": {
+      "message": "În pauză"
+   },
+   "recipeMilestoneStepFailedSuffix": {
+      "message": "· Pas nereuşit"
+   },
+   "recipeOpportunityChoiceNo": {
+      "message": "nu"
+   },
+   "recipeOpportunityChoiceYes": {
+      "message": "da"
+   },
+   "recipeOpportunityQuestionDropdownLabel": {
+      "message": "Foloseşti oportunităţi?"
+   },
+   "recipeOpportunityQuestionInfoText": {
+      "message": "Oportunităţile sincronizează starea ofertelor Salesforce cu Meta, astfel încât reclamele să poată face optimizări pentru rezultate reale în ceea ce priveşte veniturile, nu doar pentru clienţi potenţiali."
+   },
+   "recipeOpportunityQuestionLearnMore": {
+      "message": "Află mai multe"
+   },
+   "recipeOpportunityQuestionNo": {
+      "message": "Nu"
+   },
+   "recipeOpportunityQuestionYes": {
+      "message": "Da"
+   },
+   "recipePause": {
+      "message": "Pune în pauză"
+   },
+   "recipeResume": {
+      "message": "Reia"
+   },
+   "recipeRetry": {
+      "message": "Încearcă din nou"
+   },
+   "recipeReturnToMaiba": {
+      "message": "Înapoi la MAIBA"
+   },
+   "recipeReturnToTab": {
+      "message": "Înapoi la filă"
+   },
+   "recipeReturnToTabPrompt": {
+      "message": "Revino la fila în care rula această automatizare, apoi apasă pe Continuă."
+   },
+   "recipeStepFailed": {
+      "message": "Nereuşit"
+   },
+   "recipeStepNumber": {
+      "message": "Pasul $1"
+   },
+   "recipeStepSkipped": {
+      "message": "Omis"
+   },
+   "recipeStepSkippedTooltip": {
+      "message": "Pasul a fost omis deoarece s-a stabilit că nu mai este necesar."
+   },
+   "recipeStepUserActionRequired": {
+      "message": "Acţiune necesară"
+   },
+   "recipeSummaryHeaderTitle": {
+      "message": "Rezumat"
+   },
+   "recipeSwitchToActiveTabHint": {
+      "message": "Apasă pentru a trece la fila activă şi a accelera automatizarea."
+   },
+   "recipeThanksForFeedback": {
+      "message": "Îţi mulţumim pentru feedback"
+   },
+   "recipeVerifying": {
+      "message": "Se verifică..."
+   },
+   "recipeViewInEventsManager": {
+      "message": "Vezi în Events Manager"
+   },
+   "recipeViewReport": {
+      "message": "Vezi rezumatul automatizării"
+   },
+   "recipeWpAdminUrlInfoText": {
+      "message": "Nu am putut detecta automat URL-ul tău de administrator WordPress. Pentru a putea continua configurarea, introdu URL-ul complet spre panoul de control WordPress."
+   },
+   "recipeWpAdminUrlInputLabel": {
+      "message": "Introdu URL-ul tău de administrator WordPress (de ex., https://yoursite.com /wp-admin/)"
+   },
+   "recipeYourActionIsRequired": {
+      "message": "Acţiune necesară"
+   },
+   "remove": {
+      "message": "Şterge"
+   },
+   "remove_asset_button_label": {
+      "message": "Şterge acest element"
+   },
+   "remove_asset_button_required_label": {
+      "message": "Acest element este obligatoriu şi nu poate fi şters"
+   },
+   "reportAiGenerated": {
+      "message": "Generat de AI"
+   },
+   "reportAutomationCountPlural": {
+      "message": "$1 automatizări"
+   },
+   "reportAutomationCountSingular": {
+      "message": "$1 automatizare"
+   },
+   "reportAutomationPanelDescription": {
+      "message": "Revizuieşte starea, cronologia şi acţiunile efectuate în timpul acestei automatizări."
+   },
+   "reportAutomationSummaryDescription": {
+      "message": "O defalcare detaliată a experienţei tale de automatizare. Pentru confidenţialitatea ta, aceasta nu va fi stocată pe platforma noastră."
+   },
+   "reportAutomationSummaryTitle": {
+      "message": "Rezumatul automatizării"
+   },
+   "reportCapturedDuringEmSelection": {
+      "message": "Selecţie Events Manager"
+   },
+   "reportCapturedDuringGaSetup": {
+      "message": "Configurare Google Analytics"
+   },
+   "reportCapturedDuringGtmSetup": {
+      "message": "Configurare GTM"
+   },
+   "reportCapturedDuringSfWebhook": {
+      "message": "Integrare webhook Salesforce"
+   },
+   "reportCapturedIdsCreatedDuringSession": {
+      "message": "Create în timpul sesiunii tale"
+   },
+   "reportCapturedIdsDescription": {
+      "message": "ID-urile de mai jos au fost accesate în timpul automatizării."
+   },
+   "reportCapturedIdsEmpty": {
+      "message": "Nu a fost accesat niciun ID în timpul acestei automatizări."
+   },
+   "reportCapturedIdsExisting": {
+      "message": "Existente"
+   },
+   "reportCapturedIdsHeading": {
+      "message": "ID-uri accesate"
+   },
+   "reportClickToCopy": {
+      "message": "Apasă pentru a copia"
+   },
+   "reportCopied": {
+      "message": "Copiat"
+   },
+   "reportCopyAll": {
+      "message": "Copiază tot"
+   },
+   "reportDomainEventsManager": {
+      "message": "Events Manager"
+   },
+   "reportDomainGoogleAnalytics": {
+      "message": "Google Analytics"
+   },
+   "reportDomainGoogleTagManager": {
+      "message": "Managerul de etichete Google"
+   },
+   "reportDomainSalesforce": {
+      "message": "Salesforce"
+   },
+   "reportDomainStape": {
+      "message": "Stape"
+   },
+   "reportExportPdf": {
+      "message": "Exportă rezumatul ca PDF"
+   },
+   "reportExportPdfNote": {
+      "message": "Exportul poate dura până la 45 de secunde."
+   },
+   "reportFlowAutomationName": {
+      "message": "Fluxul de automatizare"
+   },
+   "reportFlowSummaryDescription": {
+      "message": "Revizuieşte stările, cronologiile şi acţiunile efectuate în cadrul tuturor automatizărilor din acest flux."
+   },
+   "reportFlowSummaryHeading": {
+      "message": "Rezumatul fluxului"
+   },
+   "reportIdCountPlural": {
+      "message": "$1 ID-uri"
+   },
+   "reportIdCountSingular": {
+      "message": "$1 ID"
+   },
+   "reportIdLabelAdAccountId": {
+      "message": "ID cont de publicitate"
+   },
+   "reportIdLabelBusinessId": {
+      "message": "ID-ul afacerii"
+   },
+   "reportIdLabelCustom": {
+      "message": "ID personalizat"
+   },
+   "reportIdLabelDatasetId": {
+      "message": "ID-ul setului de date"
+   },
+   "reportIdLabelGaMeasurementId": {
+      "message": "ID de măsurare Google Analytics"
+   },
+   "reportIdLabelGtmAccountId": {
+      "message": "Nume cont Manager de etichete Google"
+   },
+   "reportIdLabelGtmContainerId": {
+      "message": "ID container Manager de etichete Google"
+   },
+   "reportIdLabelGtmServerContainerName": {
+      "message": "Container Manager de etichete Google"
+   },
+   "reportIdLabelGtmWebContainerName": {
+      "message": "Container web Manager de etichete Google"
+   },
+   "reportIdLabelSgwDataPlaneUrl": {
+      "message": "URL Data Plane Signals Gateway"
+   },
+   "reportIdLabelSgwPixelId": {
+      "message": "ID set de date Signals Gateway"
+   },
+   "reportIdLabelWebhookIntegrationId": {
+      "message": "ID integrare webhook"
+   },
+   "reportIdLabelWebhookUrl": {
+      "message": "URL webhook"
+   },
+   "reportInProgress": {
+      "message": "În curs"
+   },
+   "reportKeyScreenshotEndOfAutomation": {
+      "message": "Sfârşitul automatizării"
+   },
+   "reportKeyScreenshotFinalState": {
+      "message": "Starea finală a automatizării"
+   },
+   "reportLabelActionsTaken": {
+      "message": "Acţiuni efectuate"
+   },
+   "reportLabelAutomations": {
+      "message": "Automatizări"
+   },
+   "reportLabelDuration": {
+      "message": "Durată"
+   },
+   "reportLabelStatus": {
+      "message": "Stare"
+   },
+   "reportLabelTimeline": {
+      "message": "Cronologie"
+   },
+   "reportMilestoneComplete": {
+      "message": "Terminat"
+   },
+   "reportNavHowWeUseData": {
+      "message": "Cum folosim datele tale"
+   },
+   "reportNavIdsAccessed": {
+      "message": "ID-uri accesate"
+   },
+   "reportNavPagesVisited": {
+      "message": "Pagini şi domenii vizitate"
+   },
+   "reportNavPrivacySecurity": {
+      "message": "Confidenţialitate şi securitate"
+   },
+   "reportNavSummary": {
+      "message": "Rezumat"
+   },
+   "reportOverviewCapiGatewayDescription": {
+      "message": "Această automatizare a configurat gateway-ul API Conversii pentru urmărirea evenimentelor la nivel de server. Gateway-ul trimite date despre evenimente direct de pe serverul tău către Meta, îmbunătăţind fiabilitatea datelor şi calitatea corelării."
+   },
+   "reportOverviewCapiGatewayTitle": {
+      "message": "Configurarea gateway-ului API Conversii"
+   },
+   "reportOverviewDefaultDescription": {
+      "message": "Acest raport prezintă pe scurt acţiunile efectuate în timpul procesului de automatizare."
+   },
+   "reportOverviewDefaultTitle": {
+      "message": "Automatizare finalizată"
+   },
+   "reportOverviewGtmServerDescription": {
+      "message": "Această automatizare a configurat etichetarea la nivel de server prin Managerul de etichete Google. Etichetarea la nivel de server îmbunătăţeşte calitatea datelor, performanţa site-ului şi confidenţialitatea utilizatorilor, procesând etichetele pe un server în loc de browser."
+   },
+   "reportOverviewGtmServerTitle": {
+      "message": "Configurare Manager de etichete Google la nivel de server"
+   },
+   "reportOverviewGtmWebDescription": {
+      "message": "Această automatizare a creat un container web Manager de etichete Google şi l-a configurat pentru site-ul tău web. Containerul îţi permite să administrezi etichetele de marketing, analizele şi pixelii de urmărire, fără a modifica codul site-ului."
+   },
+   "reportOverviewGtmWebTitle": {
+      "message": "Configurare container web Manager de etichete Google"
+   },
+   "reportOverviewMetaPixelDescription": {
+      "message": "Această automatizare a instalat şi a confirmat Pixelul Meta pe site-ul tău web. Pixelul urmăreşte activităţile vizitatorilor pentru a te ajuta să măsori eficienţa reclamelor, să creezi audienţe şi să optimizezi livrarea reclamelor."
+   },
+   "reportOverviewMetaPixelTitle": {
+      "message": "Instalarea pixelului Meta"
+   },
+   "reportOverviewSalesforceDescription": {
+      "message": "Această automatizare a configurat evenimente webhook Meta CRM-CAPI în instanţa ta de Salesforce. Integrarea evenimentelor webhook trimite evenimente CRM de la Salesforce direct la Meta, ceea ce îmbunătăţeşte ţintirea şi măsurarea reclamelor prin partajarea evenimentelor la nivel de server."
+   },
+   "reportOverviewSalesforceTitle": {
+      "message": "Configurarea evenimentului webhook pentru interfaţa CRM-CAPI a Salesforce"
+   },
+   "reportPagesDescription": {
+      "message": "Paginile de mai jos au fost vizitate în timpul experienţei de automatizare."
+   },
+   "reportPagesDescriptionShort": {
+      "message": "Paginile de mai jos au fost vizitate în timpul automatizării."
+   },
+   "reportPagesEmpty": {
+      "message": "Nu au fost vizitate pagini în timpul acestei automatizări."
+   },
+   "reportPagesHeading": {
+      "message": "Pagini şi domenii vizitate"
+   },
+   "reportRecipeNameGaCreateAccount": {
+      "message": "Creează un cont Google Analytics"
+   },
+   "reportRecipeNameGtmCreateAccount": {
+      "message": "Creează un cont GTM"
+   },
+   "reportRecipeNameGtmProvisionServer": {
+      "message": "Asigură accesul pentru containerul de server GTM"
+   },
+   "reportRecipeNameInstallFacebookForWoocommerce": {
+      "message": "Instalează Facebook pentru WooCommerce"
+   },
+   "reportRecipeNameSalesforceWebhook": {
+      "message": "Configurează un webhook pentru sistemul CRM Salesforce"
+   },
+   "reportRecipeNameSgwGtmSetup": {
+      "message": "Configurează Signals Gateway cu GTM"
+   },
+   "reportRecipeNameShopifyProductSync": {
+      "message": "Sincronizarea produselor Shopify"
+   },
+   "reportRecipeNameUpdateFacebookForWoocommerce": {
+      "message": "Actualizează Facebook for WooCommerce"
+   },
+   "reportStatusFailed": {
+      "message": "Nereuşit"
+   },
+   "reportStatusSetupIncomplete": {
+      "message": "Configurare incompletă"
+   },
+   "reportStatusSuccess": {
+      "message": "Succes"
+   },
+   "reportSummaryDescription": {
+      "message": "Revizuieşte stările, cronologiile şi acţiunile efectuate în timpul experienţei de automatizare."
+   },
+   "reportSummaryFailureDescription": {
+      "message": "-Automatizarea nu a fost finalizată. Revizuieşte cronologia şi toate resursele create înainte de eroare."
+   },
+   "reportSummaryHeading": {
+      "message": "Rezumat"
+   },
+   "reportTimelineStarted": {
+      "message": "A început $1"
+   },
+   "reportTitleFailure": {
+      "message": "Automatizare nereuşită: $1"
+   },
+   "reportTitleFlow": {
+      "message": "Rezumatul fluxului de automatizare"
+   },
+   "reportTitleSuccess": {
+      "message": "Rezumatul automatizării: $1"
+   },
+   "required": {
+      "message": "Obligatoriu"
+   },
+   "resolutionStepAddingMissingEventsTitle": {
+      "message": "Se adaugă evenimentele care lipsesc"
+   },
+   "resolutionStepClickToCopy": {
+      "message": "Apasă pentru a copia"
+   },
+   "resolutionStepConfirmNewEvents": {
+      "message": "Confirmă evenimentele noi"
+   },
+   "resolutionStepEnableAAMEventsTitle": {
+      "message": "Activează corelarea avansată automată"
+   },
+   "resolutionStepEnableMAMEventsTitle": {
+      "message": "Configurează corelarea avansată manuală"
+   },
+   "resolutionStepInvalidValueCurrencyTitle": {
+      "message": "Actualizează valoarea şi moneda"
+   },
+   "resolutionStepLeaveTabOpen": {
+      "message": "Nu închide această filă"
+   },
+   "resolutionStepOpenEventSetupTool": {
+      "message": "Deschide Instrumentul de configurare a evenimentelor pentru site-ul web"
+   },
+   "resolutionStepOpenWebsiteCode": {
+      "message": "Deschide codul site-ului web."
+   },
+   "resolutionStepSearchFbqInit": {
+      "message": "Caută **fbq('init'...)** pentru a găsi locurile în care utilizezi pixelul Meta."
+   },
+   "resolutionStepSearchFbqTrackPurchase": {
+      "message": "Caută evenimentul de achiziţie urmărit al pixelului tău."
+   },
+   "resolutionStepUpdateCodeBlock": {
+      "message": "Actualizează fragmentul de cod astfel încât să includă datele de corelare avansată de mai jos drept parametru terţ."
+   },
+   "resolutionStepUpdateCurrencyField": {
+      "message": "Actualizează câmpul pentru monedă."
+   },
+   "resolutionStepUpdateValueField": {
+      "message": "Actualizează câmpul pentru valoare."
+   },
+   "resolutionStepUserActionRequired": {
+      "message": "Acţiune necesară din partea utilizatorului"
+   },
+   "resolutionStepValueFieldInformation": {
+      "message": "Informaţii despre câmpul pentru valoare:"
+   },
+   "resolutionStepValueFieldRequirement1": {
+      "message": "Trebuie să fie o valoare numerică mai mare decât 0"
+   },
+   "resolutionStepValueFieldRequirement2": {
+      "message": "Poate include virgula zecimală. De exemplu: 9,99 sau 9."
+   },
+   "resolutionStepValueFieldRequirement3": {
+      "message": "Nu include cifre, caractere speciale sau simboluri suplimentare în parametrul pentru monedă."
+   },
+   "resolutionStepsDefault": {
+      "message": "Paşi pentru rezolvare"
+   },
+   "reviewSuggestionsEmpty": {
+      "message": "Momentan nu există evenimente sugerate."
+   },
+   "reviewSuggestionsIneligible": {
+      "message": "Pentru acest pixel nu sunt disponibile deocamdată evenimente sugerate."
+   },
+   "reviewSuggestionsLoading": {
+      "message": "Se încarcă evenimentele sugerate..."
+   },
+   "ruleOperator_eq": {
+      "message": "este egal cu"
+   },
+   "ruleOperator_gt": {
+      "message": "este mai mare decât"
+   },
+   "ruleOperator_gte": {
+      "message": "este mai mare decât sau egal cu"
+   },
+   "ruleOperator_i_contains": {
+      "message": "conţine"
+   },
+   "ruleOperator_i_greater_than_or_equal": {
+      "message": "este mai mare decât sau egal cu"
+   },
+   "ruleOperator_i_is_any": {
+      "message": "este oricare dintre"
+   },
+   "ruleOperator_i_less_than_or_equal": {
+      "message": "este mai mic decât sau egal cu"
+   },
+   "ruleOperator_i_not_contains": {
+      "message": "nu conţine"
+   },
+   "ruleOperator_lt": {
+      "message": "este mai mic decât"
+   },
+   "ruleOperator_lte": {
+      "message": "este mai mic decât sau egal cu"
+   },
+   "ruleOperator_neq": {
+      "message": "nu este egal cu"
+   },
+   "ruleOperator_or": {
+      "message": "sau"
+   },
+   "ruleOperator_regex_match": {
+      "message": "potriviri"
+   },
+   "screenshotGalleryDisclaimer": {
+      "message": "Capturile de ecran sunt salvate doar pe dispozitivul tău şi sunt şterse atunci când sesiunea se încheie."
+   },
+   "screenshotGalleryTimeDaysAgo": {
+      "message": "acum $1 zi"
+   },
+   "screenshotGalleryTimeHoursAgo": {
+      "message": "acum $1 h"
+   },
+   "screenshotGalleryTimeJustNow": {
+      "message": "chiar acum"
+   },
+   "screenshotGalleryTimeMinutesAgo": {
+      "message": "acum $1 min"
+   },
+   "selector_no_options_available": {
+      "message": "Nu este disponibilă nicio opţiune"
+   },
+   "selector_no_results_found": {
+      "message": "Nu au fost găsite rezultate"
+   },
+   "selector_select_placeholder": {
+      "message": "-- Selectează --"
+   },
+   "server_container_creation_title": {
+      "message": "Container pe server"
+   },
+   "server_container_name_label": {
+      "message": "Denumire container"
+   },
+   "server_container_tagging_url_label": {
+      "message": "URL server de etichetare"
+   },
+   "settingsDescription": {
+      "message": "Administrează cu uşurinţă configurarea pixelului Meta şi optimizează modul în care funcţionează acesta în numele tău."
+   },
+   "settingsErrorOccurred": {
+      "message": "A apărut o eroare"
+   },
+   "settingsOverlayNotificationsDescription": {
+      "message": "Afişează notificări contextuale suprapuse pe paginile cu pixeli"
+   },
+   "settingsOverlayNotificationsTitle": {
+      "message": "Notificări suprapuse"
+   },
+   "settingsTitle": {
+      "message": "Setări"
+   },
+   "settingsWaitSpeedFast": {
+      "message": "Rapid"
+   },
+   "settingsWaitSpeedFastDescription": {
+      "message": "Sub 1 secundă"
+   },
+   "settingsWaitSpeedMedium": {
+      "message": "Mediu"
+   },
+   "settingsWaitSpeedMediumDescription": {
+      "message": "2-3 secunde"
+   },
+   "settingsWaitSpeedSlow": {
+      "message": "Lent"
+   },
+   "settingsWaitSpeedSlowDescription": {
+      "message": "Peste 5 secunde"
+   },
+   "settingsWaitTimeBetweenActionsTitle": {
+      "message": "Timp de aşteptare între acţiuni"
+   },
+   "setupAddingAllEventsLabel": {
+      "message": "Se adaugă toate evenimentele"
+   },
+   "setupAddingPixelEventsCardTitle": {
+      "message": "Se adaugă evenimentele de la Pixel"
+   },
+   "setupComplete": {
+      "message": "Configurarea s-a finalizat"
+   },
+   "setupDetailsHeader": {
+      "message": "Detaliile configurării"
+   },
+   "setupDetailsInfoTooltip": {
+      "message": "Când începe automatizarea, paşii următorii vor fi finalizaţi pentru tine."
+   },
+   "setupHowItWorksDescription": {
+      "message": "Meta AI îţi scanează site-ul web, identifică principalele evenimente de conversie (cum ar fi Achiziţii, Adăugări în coş sau Clienţi potenţiali) şi le adaugă automat ca evenimente de la Pixel, fără a fi necesar vreun cod."
+   },
+   "setupHowItWorksLabel": {
+      "message": "Cum funcţionează"
+   },
+   "setupPixelEventsAddedHeader": {
+      "message": "Au fost adăugate evenimentele de la Pixel"
+   },
+   "setupPixelEventsAddedSubtitle": {
+      "message": "Acum poţi să te relaxezi şi să te bucuri de creşterea performanţei campaniilor tale."
+   },
+   "setupPixelEventsHeader": {
+      "message": "Configurează evenimentele de la Pixel"
+   },
+   "setupReturnToPreviousPage": {
+      "message": "Înapoi la pagina anterioară"
+   },
+   "setup_failed": {
+      "message": "Configurarea nu a reuşit"
+   },
+   "setup_requirements": {
+      "message": "Cerinţe de configurare"
+   },
+   "shopifyProductSyncIntroStep1SubA": {
+      "message": "Deschide pagina de conectare a administratorului Shopify"
+   },
+   "shopifyProductSyncIntroStep1SubB": {
+      "message": "Conectează-te la panoul de administrare Shopify al magazinului tău"
+   },
+   "shopifyProductSyncIntroStep1Title": {
+      "message": "Conectează-te la panoul de administrare Shopify"
+   },
+   "shopifyProductSyncIntroStep2SubA": {
+      "message": "Apasă pe **Produse**"
+   },
+   "shopifyProductSyncIntroStep2SubB": {
+      "message": "Apasă pe fila **Toate**"
+   },
+   "shopifyProductSyncIntroStep2SubC": {
+      "message": "Selectează toate produsele"
+   },
+   "shopifyProductSyncIntroStep2Title": {
+      "message": "Identifică produsele"
+   },
+   "shopifyProductSyncIntroStep3SubA": {
+      "message": "Apasă pe **Mai multe opţiuni**"
+   },
+   "shopifyProductSyncIntroStep3SubB": {
+      "message": "Apasă pe **Include în canalele de vânzări**"
+   },
+   "shopifyProductSyncIntroStep3SubC": {
+      "message": "Selectează **Facebook şi Instagram**"
+   },
+   "shopifyProductSyncIntroStep3SubD": {
+      "message": "Apasă pe **Include produsele**"
+   },
+   "shopifyProductSyncIntroStep3Title": {
+      "message": "Include produsele"
+   },
+   "showAllEvents": {
+      "message": "Afişează toate evenimentele"
+   },
+   "showAllPixels": {
+      "message": "Afişează toţi pixelii"
+   },
+   "showAllWarnings": {
+      "message": "Afişează toate avertismentele"
+   },
+   "showLess": {
+      "message": "Arată mai puţin"
+   },
+   "showLessEvents": {
+      "message": "Afişează mai puţine evenimente"
+   },
+   "showMore": {
+      "message": "Arată mai mult"
+   },
+   "stepResumeTooltip": {
+      "message": "Înainte de a continua, asigură-te că ai finalizat manual acţiunea de mai sus."
+   },
+   "suggestionButtonTextLabel": {
+      "message": "Textul butonului este „$1”"
+   },
+   "suggestionExampleUrlsLabel": {
+      "message": "Exemple de URL-uri: $1"
+   },
+   "switcherCatalogSingular": {
+      "message": "$1 catalog"
+   },
+   "switcherCatalogsPlural": {
+      "message": "$1 cataloage"
+   },
+   "switcherPixelsPlural": {
+      "message": "$1 pixeli"
+   },
+   "switcherPixelsSingular": {
+      "message": "$1 pixel"
+   },
+   "testEventsHeader": {
+      "message": "Evenimente de test"
+   },
+   "topActionsSectionHeader": {
+      "message": "Acţiuni principale"
+   },
+   "topActionsSectionSubHeader": {
+      "message": "Pe baza configurării tale"
+   },
+   "triggerEventDetection": {
+      "message": "Detectează evenimente sugerate"
+   },
+   "useMetaEventSetupToolForWeb": {
+      "message": "Foloseşte instrumentul Meta de configurare a evenimentelor pentru web"
+   },
+   "verificationFailedCancelButton": {
+      "message": "Anulează automatizarea"
+   },
+   "verificationFailedMessage": {
+      "message": "Nu am putut detecta starea acestei acţiuni. Dacă eroarea persistă, poţi să anulezi automatizarea şi să continui la configurarea manuală."
+   },
+   "verificationFailedTitle": {
+      "message": "Încearcă din nou"
+   },
+   "verificationFailedTryAgainButton": {
+      "message": "Încearcă din nou"
+   },
+   "verificationInProgressMessage": {
+      "message": "Se verifică dacă acţiunea a fost finalizată"
+   },
+   "warningsHeader": {
+      "message": "Avertismente"
+   },
+   "web_container_creation_title": {
+      "message": "Container web"
+   },
+   "web_container_name_label": {
+      "message": "Denumire container"
+   },
+   "what_we_will_create_title": {
+      "message": "Ce vom crea pentru tine"
+   },
+   "wooCommerceIntroSetUpForMeButton": {
+      "message": "Configurează pentru mine"
+   },
+   "wooCommerceIntroStep1SubA": {
+      "message": "Deschide Panoul de administrare WordPress"
+   },
+   "wooCommerceIntroStep1SubB": {
+      "message": "Conectează-te la contul tău WordPress"
+   },
+   "wooCommerceIntroStep1Title": {
+      "message": "Conectează-te la WordPress"
+   },
+   "wooCommerceIntroStep2SubA": {
+      "message": "Mergi la panoul din stânga, selectează **Pluginuri**, apoi **Adaugă pluginuri**"
+   },
+   "wooCommerceIntroStep2SubB": {
+      "message": "Apasă pe **Adaugă pluginul**"
+   },
+   "wooCommerceIntroStep2SubC": {
+      "message": "Accesează bara de căutare din partea de sus a paginii"
+   },
+   "wooCommerceIntroStep2SubD": {
+      "message": "Caută pluginul Meta for WooCommerce"
+   },
+   "wooCommerceIntroStep2SubE": {
+      "message": "Derulează la pluginul Meta for WooCommerce şi apasă pe **Instalează acum**"
+   },
+   "wooCommerceIntroStep2Title": {
+      "message": "Instalează pluginul"
+   },
+   "wooCommerceIntroStep3SubA": {
+      "message": "După instalarea Meta for WooCommerce, apasă pe **Activează**"
+   },
+   "wooCommerceIntroStep3SubB": {
+      "message": "Mergi la pagina **Pluginuri** în panoul din stânga"
+   },
+   "wooCommerceIntroStep3SubC": {
+      "message": "Derulează la pluginul Meta for WooCommerce şi apasă pe **Configurează**"
+   },
+   "wooCommerceIntroStep3SubD": {
+      "message": "În ecranul de configurare, apasă pe **Începe**"
+   },
+   "wooCommerceIntroStep3Title": {
+      "message": "Activează pluginul"
+   },
+   "wooCommerceUpdateIntroStep2SubA": {
+      "message": "Deschide pagina Adaugă pluginuri"
+   },
+   "wooCommerceUpdateIntroStep2SubB": {
+      "message": "Derulează la pluginul Meta for WooCommerce"
+   },
+   "wooCommerceUpdateIntroStep2SubC": {
+      "message": "Apasă pe **Actualizează acum**"
+   },
+   "wooCommerceUpdateIntroStep2Title": {
+      "message": "Actualizează pluginul"
+   }
+}

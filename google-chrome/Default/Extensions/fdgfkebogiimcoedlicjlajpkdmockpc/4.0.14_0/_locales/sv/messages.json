@@ -1,0 +1,3335 @@
+{
+   "aamConfirmButton": {
+      "message": "Bekräfta"
+   },
+   "aamEditButton": {
+      "message": "Redigera"
+   },
+   "aamFieldCityStatePostal": {
+      "message": "Ort, delstat/region, postnummer"
+   },
+   "aamFieldCountry": {
+      "message": "Land"
+   },
+   "aamFieldDateOfBirth": {
+      "message": "Födelsedatum"
+   },
+   "aamFieldEmail": {
+      "message": "E-post"
+   },
+   "aamFieldExternalId": {
+      "message": "Externt id"
+   },
+   "aamFieldFirstLastName": {
+      "message": "För- och efternamn"
+   },
+   "aamFieldGender": {
+      "message": "Kön"
+   },
+   "aamFieldPhoneNumber": {
+      "message": "Telefonnummer"
+   },
+   "aamInfoDescription": {
+      "message": "Automatisk avancerad matchning använder kunduppgifter som har lämnats till ditt företag, såsom e-postadress eller telefonnummer, för att matcha besökare som också använder Meta."
+   },
+   "aamNoEditPermissionTooltip": {
+      "message": "Saknar behörighet för redigering. Kontakta administratören"
+   },
+   "aamStepConfirmFieldsDescription": {
+      "message": "Bekräfta de fält du vill skicka"
+   },
+   "aamStepUserActionRequired": {
+      "message": "Användaråtgärd krävs"
+   },
+   "aboutAdvancedMatchingForWeb": {
+      "message": "Om avancerad matchning för webben"
+   },
+   "aboutEventSetupTool": {
+      "message": "Om verktyget för händelsekonfiguration"
+   },
+   "actionAddMissingEventsCtaLabel": {
+      "message": "Konfigurera åt mig"
+   },
+   "actionAddMissingEventsDescription": {
+      "message": "Du kan enkelt boosta annonsprestandan och mätningsexaktheten genom att lägga till saknade händelser i konfigurationen."
+   },
+   "actionAddMissingEventsHeader": {
+      "message": "Lägg till saknade händelser"
+   },
+   "actionAutomatableValueLabel": {
+      "message": "Kan automatiseras"
+   },
+   "actionCAPIGTMProductRecommendationHeader": {
+      "message": "Dela dina uppgifter säkert via Google Tagghanterare"
+   },
+   "actionCAPIGTMSetupDescription": {
+      "message": "Det här effektiviserar användning och hantering av taggar och möjliggör effektiv händelsespårning utan kodändringar för bättre marknadsföringsprestanda."
+   },
+   "actionCAPIGTMSetupHeader": {
+      "message": "Konfigurera Conversions API med Google Tagghanterare"
+   },
+   "actionCAPIGeneralSetupDescription": {
+      "message": "Maximera alla data som mäts på din webbplats och sänk kostnaden per resultat"
+   },
+   "actionCAPIGeneralSetupHeader": {
+      "message": "Konfigurera Conversions API"
+   },
+   "actionCAPISalesforceCRMSetupDescription": {
+      "message": "Med den automatiska konfigurationen får du korrekt händelsespårning i realtid mellan servrar, vilket ger dig bättre kundstatistik och marknadsföring."
+   },
+   "actionCAPISalesforceCRMSetupHeader": {
+      "message": "Konfigurera Conversions API med Salesforce CRM"
+   },
+   "actionCardDatasetTooltip": {
+      "message": "Gå till Händelsehanteraren för att visa den här datauppsättningen"
+   },
+   "actionCatalogUpsellCtaLabel": {
+      "message": "Lägg till produkter"
+   },
+   "actionCatalogUpsellDescription": {
+      "message": "Locka nya målgrupper och leverera en anpassad shoppingupplevelse baserad på deras beteenden och intressen. Interagera med kunder från övervägande till köp med olika annonsformat."
+   },
+   "actionCatalogUpsellHeader": {
+      "message": "Lägg till produkter i en Meta-katalog och maximera annonsprestandan"
+   },
+   "actionFixInvalidValueCurrencyDescription": {
+      "message": "Genom att fixa ogiltiga värde- och valutaparametrar för köphändelser på webbplatsen kan du få korrekt rapportering och bättre kampanjoptimering."
+   },
+   "actionFixInvalidValueCurrencyHeader": {
+      "message": "Åtgärda ogiltiga värde- och valutaparametrar"
+   },
+   "actionFreeCAPIGOneClickDescription": {
+      "message": "Skicka dina pixelhändelser automatiskt på serversidan – ingen ingenjörskonfiguration, inga extra taggar. Vi skapar anslutningen åt dig."
+   },
+   "actionFreeCAPIGOneClickHeader": {
+      "message": "Meta-aktiverad Conversions API"
+   },
+   "actionFreeCAPIGOneClickTooltip": {
+      "message": "När du klickar aktiveras Metas värd för leverans av händelser på serversidan för det här företaget. Du kan ändra det senare i Händelsehanteraren."
+   },
+   "actionFreeCAPIGOneClickValueLift": {
+      "message": "17,8 % lägre kostnad per resultat"
+   },
+   "actionFreeCAPIGOneClickViewDetails": {
+      "message": "Visa information"
+   },
+   "actionInstallFacebookForWooCommerceCtaLabel": {
+      "message": "Kom igång"
+   },
+   "actionInstallFacebookForWooCommercePluginDescription": {
+      "message": "Meta for WooCommerce håller din butik synkad med Facebook, Instagram och WhatsApp. Mindre administration för dig, mer tid för ditt företag."
+   },
+   "actionInstallFacebookForWooCommercePluginHeader": {
+      "message": "Installera pluginprogrammet Meta för WooCommerce"
+   },
+   "actionInstallFacebookForWooCommercePluginSubtitle": {
+      "message": "Spara tid och visa rätt produkter för rätt personer."
+   },
+   "actionSetupMamAamDescription": {
+      "message": "Avancerad matchning ger fler konverteringar för dina annonser så att du kan nå fler personer med återmarknadsföringskampanjer."
+   },
+   "actionSetupMamAamHeader": {
+      "message": "Konfigurera avancerad matchning"
+   },
+   "actionShopifyProductSyncCtaLabel": {
+      "message": "Kom igång"
+   },
+   "actionShopifyProductSyncDescription": {
+      "message": "Vissa innehålls-id:n på den här sidan kan inte matchas mot produkter i din katalog. Använd produktsynkroniseringen i Shopify för att lägga till saknade produkter."
+   },
+   "actionShopifyProductSyncHeader": {
+      "message": "Synka saknade produkter från Shopify"
+   },
+   "actionSignalsGatewayGTMSetupDescription": {
+      "message": "Det här aktiverar korrekt händelsespårning i realtid mellan servrar för bättre kundstatistik och marknadsföring."
+   },
+   "actionSignalsGatewayGTMSetupHeader": {
+      "message": "Konfigurera Signals Gateway Pixel med Google Tagghanterare"
+   },
+   "actionUpdateFacebookForWooCommerceCtaLabel": {
+      "message": "Uppdatera pluginprogram"
+   },
+   "actionUpdateFacebookForWooCommercePluginDescription": {
+      "message": "Uppdatera nu för att få de senaste förbättringarna och hålla butiken smidigt synkad med Facebook, Instagram och WhatsApp."
+   },
+   "actionUpdateFacebookForWooCommercePluginHeader": {
+      "message": "Uppdatera pluginprogrammet Meta för WooCommerce"
+   },
+   "actionUpdateFacebookForWooCommercePluginSubtitle": {
+      "message": "En ny version av pluginprogrammet är klar."
+   },
+   "addMissingEventsCancel": {
+      "message": "Avbryt"
+   },
+   "addMissingEventsHeader": {
+      "message": "Lägg till saknade händelser"
+   },
+   "addMissingEventsMoreDatasets": {
+      "message": "$1 datauppsättningar till"
+   },
+   "addMissingEventsNextSteps": {
+      "message": "Nästa steg"
+   },
+   "addMissingEventsPotentialBadge": {
+      "message": "Potentiellt -1 % av CPR"
+   },
+   "addMissingEventsSetUpForMe": {
+      "message": "Konfigurera åt mig"
+   },
+   "addMissingEventsSubtitle": {
+      "message": "Lägg till saknade pixelhändelser och börja spåra och optimera konverteringshändelser för att förbättra annonsresultaten."
+   },
+   "addMissingEventsTimeEstimate": {
+      "message": "Mindre än \u003C 1 min"
+   },
+   "add_more_label": {
+      "message": "Lägg till fler"
+   },
+   "additionalRecommendation": {
+      "message": "ytterligare rekommendation"
+   },
+   "additionalRecommendations": {
+      "message": "ytterligare rekommendationer"
+   },
+   "agenticActionAskUserSelect": {
+      "message": "Be dig att välja"
+   },
+   "agenticActionCaptureDropdown": {
+      "message": "Spela in rullgardinsalternativ från $1"
+   },
+   "agenticActionCaptureDropdownActive": {
+      "message": "Spelar in alternativ i rullgardinsmenyn från $1"
+   },
+   "agenticActionCaptureDropdownPast": {
+      "message": "Inspelade rullgardinsalternativ från $1"
+   },
+   "agenticActionCaptureStoreAsDetail": {
+      "message": "Spara som $1"
+   },
+   "agenticActionClick": {
+      "message": "Klicka på $1"
+   },
+   "agenticActionClickActive": {
+      "message": "Klickar på $1"
+   },
+   "agenticActionClickPast": {
+      "message": "Klickade på $1"
+   },
+   "agenticActionCloseTab": {
+      "message": "Stäng flik $1"
+   },
+   "agenticActionCloseTabActive": {
+      "message": "Stänger $1"
+   },
+   "agenticActionCloseTabPast": {
+      "message": "$1 har stängts"
+   },
+   "agenticActionCopyMatchDetail": {
+      "message": "Matcha $1"
+   },
+   "agenticActionCopyMatchingText": {
+      "message": "Kopiera matchande text till cache $1"
+   },
+   "agenticActionCopyMatchingTextActive": {
+      "message": "Kopierar matchande text till cache $1"
+   },
+   "agenticActionCopyMatchingTextPast": {
+      "message": "Har kopierat matchande text till cache $1"
+   },
+   "agenticActionCopyTextFromTarget": {
+      "message": "Kopiera text från $1 till cache $2"
+   },
+   "agenticActionCopyTextFromTargetActive": {
+      "message": "Kopierar text från $1 till cache $2"
+   },
+   "agenticActionCopyTextFromTargetPast": {
+      "message": "Text har kopierats från $1 till cache $2"
+   },
+   "agenticActionCopyVisibleText": {
+      "message": "Kopiera synlig text till cache $1"
+   },
+   "agenticActionCopyVisibleTextActive": {
+      "message": "Kopierar synlig text till cache $1"
+   },
+   "agenticActionCopyVisibleTextPast": {
+      "message": "Har kopierat synlig text till cache $1"
+   },
+   "agenticActionGetDropdownOptions": {
+      "message": "Läs alternativ från $1"
+   },
+   "agenticActionGoToUrl": {
+      "message": "Gå till $1"
+   },
+   "agenticActionHover": {
+      "message": "Håll muspekaren över $1"
+   },
+   "agenticActionNeededTitle": {
+      "message": "Åtgärd krävs"
+   },
+   "agenticActionOpenNewTab": {
+      "message": "Öppna ny flik"
+   },
+   "agenticActionOpenPage": {
+      "message": "Öppna en ny sida"
+   },
+   "agenticActionOpenPageActive": {
+      "message": "Öppnar en ny sida"
+   },
+   "agenticActionOpenPagePast": {
+      "message": "Öppnade en ny sida"
+   },
+   "agenticActionOpenRelativePath": {
+      "message": "Öppna en relativ väg"
+   },
+   "agenticActionOpenRelativePathActive": {
+      "message": "Öppnar en relativ väg"
+   },
+   "agenticActionOpenRelativePathPast": {
+      "message": "Öppnade en relativ väg"
+   },
+   "agenticActionOpenTab": {
+      "message": "Öppna flik till $1"
+   },
+   "agenticActionOpenTabActive": {
+      "message": "Öppnar en ny flik"
+   },
+   "agenticActionOpenTabDestinationDetail": {
+      "message": "Destination: $1"
+   },
+   "agenticActionOpenTabPast": {
+      "message": "Öppnade en ny flik"
+   },
+   "agenticActionPaste": {
+      "message": "Klistra in i $1"
+   },
+   "agenticActionPasteSourceDetail": {
+      "message": "Källcache: $1"
+   },
+   "agenticActionPasteText": {
+      "message": "Klistra in sparad text i $1"
+   },
+   "agenticActionPasteTextActive": {
+      "message": "Klistrar in sparad text i $1"
+   },
+   "agenticActionPasteTextPast": {
+      "message": "Klistrat in sparad text i $1"
+   },
+   "agenticActionReloadPage": {
+      "message": "Ladda om sidan"
+   },
+   "agenticActionReloadPageActive": {
+      "message": "Laddar om sidan"
+   },
+   "agenticActionReloadPagePast": {
+      "message": "Sidan har laddats om"
+   },
+   "agenticActionScrollBottom": {
+      "message": "Skrolla längst ned"
+   },
+   "agenticActionScrollBottomActive": {
+      "message": "Skrollar längst ned på sidan"
+   },
+   "agenticActionScrollBottomPast": {
+      "message": "Skrollade längst ned på sidan"
+   },
+   "agenticActionScrollElementPercent": {
+      "message": "Skrolla $1 till $2%"
+   },
+   "agenticActionScrollIntoViewDetail": {
+      "message": "Skrolla innan du interagerar med ett element utanför skärmen."
+   },
+   "agenticActionScrollPercent": {
+      "message": "Skrolla till $1 %"
+   },
+   "agenticActionScrollPercentActive": {
+      "message": "Skrollar $1 till $2"
+   },
+   "agenticActionScrollPercentPage": {
+      "message": "sidan"
+   },
+   "agenticActionScrollPercentPast": {
+      "message": "Skrollat $1 till $2"
+   },
+   "agenticActionScrollTo": {
+      "message": "Skrolla till $1"
+   },
+   "agenticActionScrollToActive": {
+      "message": "Skrollar till $1"
+   },
+   "agenticActionScrollToPast": {
+      "message": "Skrollade till $1"
+   },
+   "agenticActionScrollTop": {
+      "message": "Skrolla högst upp"
+   },
+   "agenticActionScrollTopActive": {
+      "message": "Skrollar högst upp på sidan"
+   },
+   "agenticActionScrollTopPast": {
+      "message": "Skrolla högst upp på sidan"
+   },
+   "agenticActionSelect": {
+      "message": "Välj $1 i $2"
+   },
+   "agenticActionSelectActive": {
+      "message": "Väljer $1 i $2"
+   },
+   "agenticActionSelectPast": {
+      "message": "Valde $1 i $2"
+   },
+   "agenticActionSfAskOpportunityPreference": {
+      "message": "Fråga om möjlighetsspårning"
+   },
+   "agenticActionSfConfirmFieldMappings": {
+      "message": "Bekräfta fältmappningar"
+   },
+   "agenticActionSfGetFieldMappings": {
+      "message": "Få rekommenderade fältmappningar"
+   },
+   "agenticActionSfMutateWebhookIntegration": {
+      "message": "Konfigurera webhook-integration"
+   },
+   "agenticActionSwitchTab": {
+      "message": "Byt till flik $1"
+   },
+   "agenticActionSwitchTabActive": {
+      "message": "Växlar till $1"
+   },
+   "agenticActionSwitchTabPast": {
+      "message": "Växlade till $1"
+   },
+   "agenticActionTypeInto": {
+      "message": "Skriv i $1"
+   },
+   "agenticActionTypeIntoActive": {
+      "message": "Skriver i $1"
+   },
+   "agenticActionTypeIntoPast": {
+      "message": "Skrivit i $1"
+   },
+   "agenticAskUserSelectDescriptionFallback": {
+      "message": "Välj ett alternativ för att fortsätta."
+   },
+   "agenticAskUserSelectFieldLabel": {
+      "message": "Alternativ"
+   },
+   "agenticAskUserSelectPlaceholder": {
+      "message": "Välj ett alternativ"
+   },
+   "agenticConnectionFailed": {
+      "message": "Det gick inte att återansluta. Uppdatera sidan."
+   },
+   "agenticConnectionReconnecting": {
+      "message": "Anslutningen bröts. Återansluter … ($1/$2)"
+   },
+   "agenticDefaultWaitPrompt": {
+      "message": "Slutför den begärda åtgärden."
+   },
+   "agenticElementNameOnly": {
+      "message": "”$1”"
+   },
+   "agenticElementNounAccordion": {
+      "message": "dragspel"
+   },
+   "agenticElementNounBanner": {
+      "message": "banner"
+   },
+   "agenticElementNounButton": {
+      "message": "knapp"
+   },
+   "agenticElementNounCard": {
+      "message": "kort"
+   },
+   "agenticElementNounCell": {
+      "message": "cell"
+   },
+   "agenticElementNounCheckbox": {
+      "message": "kryssruta"
+   },
+   "agenticElementNounChip": {
+      "message": "chipp"
+   },
+   "agenticElementNounDialog": {
+      "message": "dialog"
+   },
+   "agenticElementNounDropdown": {
+      "message": "rullgardinsmeny"
+   },
+   "agenticElementNounElement": {
+      "message": "element"
+   },
+   "agenticElementNounFileInput": {
+      "message": "filinmatning"
+   },
+   "agenticElementNounImage": {
+      "message": "bild"
+   },
+   "agenticElementNounInputField": {
+      "message": "Inmatningsfält"
+   },
+   "agenticElementNounItem": {
+      "message": "objekt"
+   },
+   "agenticElementNounLink": {
+      "message": "länk"
+   },
+   "agenticElementNounMenu": {
+      "message": "meny"
+   },
+   "agenticElementNounOption": {
+      "message": "alternativet"
+   },
+   "agenticElementNounPanel": {
+      "message": "panel"
+   },
+   "agenticElementNounRadioButton": {
+      "message": "alternativknapp"
+   },
+   "agenticElementNounRow": {
+      "message": "rad"
+   },
+   "agenticElementNounStep": {
+      "message": "steg"
+   },
+   "agenticElementNounSubmitButton": {
+      "message": "Knappen Skicka"
+   },
+   "agenticElementNounTab": {
+      "message": "flik"
+   },
+   "agenticElementNounTextArea": {
+      "message": "Textfält"
+   },
+   "agenticElementNounTile": {
+      "message": "panel"
+   },
+   "agenticElementNounToggle": {
+      "message": "av/på-knapp"
+   },
+   "agenticElementWithName": {
+      "message": "$2 ”$1”"
+   },
+   "agenticErrorApi": {
+      "message": "Det gick inte att ansluta till AI-tjänsten. Vill du försöka igen?"
+   },
+   "agenticErrorRateLimit": {
+      "message": "AI-tjänsten är upptagen. Vänta eller försök igen om en stund."
+   },
+   "agenticErrorTimeout": {
+      "message": "AI:n tar längre tid än väntat. Vill du försöka igen?"
+   },
+   "agenticErrorTitle": {
+      "message": "Fel"
+   },
+   "agenticErrorUnknown": {
+      "message": "Ett fel har inträffat. Vill du försöka igen?"
+   },
+   "agenticNavigationPageLoadFailed": {
+      "message": "Det gick inte att ladda sidan. Försöker igen ..."
+   },
+   "agenticNavigationReorienting": {
+      "message": "Sidan navigerade oväntat. Återorienterar ..."
+   },
+   "agenticPleaseCompleteAction": {
+      "message": "Slutför åtgärden för att fortsätta"
+   },
+   "agenticReconnectNow": {
+      "message": "Anslut igen nu"
+   },
+   "agenticResyncWithPage": {
+      "message": "Synka igen med sidan"
+   },
+   "agenticScrollPercentFallback": {
+      "message": "det begärda poängen"
+   },
+   "agenticTabFallbackById": {
+      "message": "flik $1"
+   },
+   "agenticTabFallbackSelected": {
+      "message": "den valda fliken"
+   },
+   "agenticThinking": {
+      "message": "Tänker …"
+   },
+   "agenticTryAgain": {
+      "message": "Försök igen"
+   },
+   "agenticVerbClick": {
+      "message": "Klicka"
+   },
+   "agenticVerbCopyText": {
+      "message": "Kopiera text"
+   },
+   "agenticVerbEnterText": {
+      "message": "Ange text"
+   },
+   "agenticVerbPasteText": {
+      "message": "Klistra in text"
+   },
+   "agenticVerbReadDropdown": {
+      "message": "Läs rullgardinsmenyalternativ"
+   },
+   "agenticVerbScrollToElement": {
+      "message": "Skrolla till element"
+   },
+   "agenticVerbSelectOption": {
+      "message": "Välj alternativ"
+   },
+   "agenticWaitingForAction": {
+      "message": "Väntar på din åtgärd …"
+   },
+   "allRecommendationsHeader": {
+      "message": "Alla rekommendationer"
+   },
+   "automatableBadge": {
+      "message": "Automatisera"
+   },
+   "automationFlowCompleteTitle": {
+      "message": "Konfigurera Google Tagghanterare"
+   },
+   "automationSuccessFeedbackCommentPlaceholder": {
+      "message": "Valfritt: lägg till en kommentar"
+   },
+   "automationSuccessFeedbackFallbackName": {
+      "message": "Automatisering"
+   },
+   "automationSuccessFeedbackPromptTitle": {
+      "message": "Hur var det här resultatet?"
+   },
+   "automationSuccessFeedbackStarLabel": {
+      "message": "stjärnbetyg"
+   },
+   "automationSuccessFeedbackSubmitError": {
+      "message": "Det gick inte att skicka feedback"
+   },
+   "buttonLoading": {
+      "message": "Laddar"
+   },
+   "buttonStartEventSetupTool": {
+      "message": "Konfigurera händelser"
+   },
+   "buttonTroubleshootPixel": {
+      "message": "Felsök pixel"
+   },
+   "cancelAutomationCancelButton": {
+      "message": "Avbryt automatisering"
+   },
+   "cancelAutomationCancellingButton": {
+      "message": "Avbryter …"
+   },
+   "cancelAutomationFromVerificationCancelButton": {
+      "message": "Avbryt automatisering"
+   },
+   "cancelAutomationFromVerificationMessage": {
+      "message": "Vi kunde fortfarande inte verifiera statusen för den här åtgärden. Avbryt automatiseringen för att konfigurera manuellt."
+   },
+   "cancelAutomationFromVerificationTitle": {
+      "message": "Avbryt automatisering"
+   },
+   "cancelAutomationFromVerificationTryAgainButton": {
+      "message": "Försök igen"
+   },
+   "cancelAutomationResumeButton": {
+      "message": "Återuppta automatisering"
+   },
+   "cancelAutomationTitle": {
+      "message": "Vill du stänga och avbryta automatiseringen?"
+   },
+   "cancelSetupCancelButton": {
+      "message": "Avbryt konfigurationen"
+   },
+   "cancelSetupResumeButton": {
+      "message": "Återuppta konfigurationen"
+   },
+   "cancelSetupTitle": {
+      "message": "Vill du stänga och avbryta konfigurationen?"
+   },
+   "capiFieldCity": {
+      "message": "Stad"
+   },
+   "capiFieldClickId": {
+      "message": "Klick-id"
+   },
+   "capiFieldCountry": {
+      "message": "Land"
+   },
+   "capiFieldDateOfBirth": {
+      "message": "Födelsedatum"
+   },
+   "capiFieldEmail": {
+      "message": "E-post"
+   },
+   "capiFieldEventName": {
+      "message": "Namn på evenemang"
+   },
+   "capiFieldEventTime": {
+      "message": "Tid för evenemanget"
+   },
+   "capiFieldExternalId": {
+      "message": "Externt id"
+   },
+   "capiFieldFirstName": {
+      "message": "Förnamn"
+   },
+   "capiFieldGender": {
+      "message": "Kön"
+   },
+   "capiFieldLastName": {
+      "message": "Efternamn"
+   },
+   "capiFieldLeadId": {
+      "message": "Meta lead-id"
+   },
+   "capiFieldPhone": {
+      "message": "Telefonnummer"
+   },
+   "capiFieldState": {
+      "message": "Delstat"
+   },
+   "capiFieldZipCode": {
+      "message": "Postnummer"
+   },
+   "catalogConnectedTo": {
+      "message": "Kopplad till 1 USD"
+   },
+   "catalogConnections": {
+      "message": "Kontakter"
+   },
+   "catalogCsvHeaderHowToFix": {
+      "message": "Lösning"
+   },
+   "catalogCsvHeaderIssueType": {
+      "message": "Problemtyp"
+   },
+   "catalogCsvHeaderMoreInfo": {
+      "message": "Mer info"
+   },
+   "catalogCsvHeaderSampleType": {
+      "message": "Exempeltyp"
+   },
+   "catalogCsvHeaderSampleValue": {
+      "message": "Exempelvärde"
+   },
+   "catalogCsvHeaderTotalReceived": {
+      "message": "Totalt antal mottagna"
+   },
+   "catalogCsvHowToFixText": {
+      "message": "Ta reda på mer om hur du lägger till produkter i din katalog: https://www.facebook.com/business/help/384041892421495?id=725943027795860"
+   },
+   "catalogCsvMoreInfoText": {
+      "message": "Lägg till produkterna för dessa innehålls-id:n i din katalog eller se till att du skickar rätt innehålls-id:n i dina händelser"
+   },
+   "catalogCsvUnmatchedEvents": {
+      "message": "Omatchade händelser"
+   },
+   "catalogEventNameAddToCart": {
+      "message": "Tillägg i kundvagn"
+   },
+   "catalogEventNameAddToWishlist": {
+      "message": "Tillägg på önskelista"
+   },
+   "catalogEventNameInitiateCheckout": {
+      "message": "Påbörjade betalningar"
+   },
+   "catalogEventNameLead": {
+      "message": "Leads"
+   },
+   "catalogEventNamePurchase": {
+      "message": "Köp"
+   },
+   "catalogEventNameSearch": {
+      "message": "Sökningar"
+   },
+   "catalogEventNameSubscribe": {
+      "message": "Prenumerationer"
+   },
+   "catalogEventNameViewContent": {
+      "message": "Sidvisningar"
+   },
+   "catalogFooterManageConnection": {
+      "message": "Hantera anslutning"
+   },
+   "catalogFooterViewInCommerceManager": {
+      "message": "Visa i Handelshanteraren"
+   },
+   "catalogLiveMatchCount": {
+      "message": "$1/$2 produkter matchade"
+   },
+   "catalogLoadError": {
+      "message": "Det gick inte att ladda katalogdata"
+   },
+   "catalogManageCatalogConnections": {
+      "message": "Hantera kataloganslutningar"
+   },
+   "catalogMatchRate": {
+      "message": "1 % USD-matchningsfrekvens för katalog"
+   },
+   "catalogMatchRateAdsImpactedBody": {
+      "message": "Med $1 % har du begränsade produkter tillgängliga för annonsinriktning. Detta kan leda till mindre målgrupper, högre kostnader och färre försäljningar."
+   },
+   "catalogMatchRateAdsImpactedFollowup": {
+      "message": "Se nedan hur du kan förbättra matchningsfrekvensen."
+   },
+   "catalogMatchRateAdsImpactedTitle": {
+      "message": "Dina annonser kan påverkas"
+   },
+   "catalogMatchRateByEventHeader": {
+      "message": "Produktmatchningar efter händelse"
+   },
+   "catalogMatchRateDescription": {
+      "message": "av produktinteraktionerna matchar produkter i den här katalogen"
+   },
+   "catalogMatchRateHeader": {
+      "message": "Matchningsfrekvens för katalog"
+   },
+   "catalogMatchRateImproveStep1Body": {
+      "message": "Se till att alla dina produkter finns i din katalog."
+   },
+   "catalogMatchRateImproveStep1Title": {
+      "message": "Granska synkade produkter"
+   },
+   "catalogMatchRateImproveStep2Body": {
+      "message": "Produkt-id:n ska exakt matcha din katalog."
+   },
+   "catalogMatchRateImproveStep2Title": {
+      "message": "Verifiera produkt-id:n"
+   },
+   "catalogMatchRateImproveStep3Body": {
+      "message": "Se till att pixeln och konverteringshändelserna fungerar korrekt."
+   },
+   "catalogMatchRateImproveStep3Title": {
+      "message": "Verifiera konfiguration av händelse"
+   },
+   "catalogMatchRateImproveTitle": {
+      "message": "Förbättra matchningsfrekvensen för produkter"
+   },
+   "catalogMatchRateLearnMore": {
+      "message": "Ta reda på mer"
+   },
+   "catalogMatchRateMissing": {
+      "message": "Saknas"
+   },
+   "catalogMatchRateTimeframe": {
+      "message": "På alla anslutna webbplatser de senaste 28 dagarna"
+   },
+   "catalogMatchRateWarning": {
+      "message": "Vi rekommenderar en katalogmatchningsfrekvens på över 90 %."
+   },
+   "catalogMenuCopyCatalogId": {
+      "message": "Kopiera katalog-id"
+   },
+   "catalogMenuGiveFeedback": {
+      "message": "Lämna feedback"
+   },
+   "catalogMenuGoToCatalog": {
+      "message": "Gå till katalog"
+   },
+   "catalogMenuMoreOptions": {
+      "message": "Fler alternativ"
+   },
+   "catalogMoreCatalogs": {
+      "message": "1+ USD-kataloger till"
+   },
+   "catalogOnboardingBannerLearnMore": {
+      "message": "Visa mig"
+   },
+   "catalogOnboardingBannerText": {
+      "message": "Du kan nu se dina kataloger tillsammans med dina pixlar, med samma hälsokontroller och varningar."
+   },
+   "catalogPixelAssociatedWebsites": {
+      "message": "Webbplatser som är kopplade"
+   },
+   "catalogPixelConnectionDetailsHeader": {
+      "message": "Information om pixel-anslutning"
+   },
+   "catalogPixelProducts": {
+      "message": "Produkter"
+   },
+   "catalogProductImageAlt": {
+      "message": "Produktbild"
+   },
+   "catalogProductMatchedBadge": {
+      "message": "Matchar"
+   },
+   "catalogProductNotMatchedBadge": {
+      "message": "Matchar inte"
+   },
+   "catalogProductsSectionTitle": {
+      "message": "Produkter på den här sidan"
+   },
+   "catalogUnmatchedAddProductsDescription": {
+      "message": "Personer interagerar med produkter på din webbplats som inte matchar någon katalog som är kopplad till din pixel. Se till att alla produkter på din webbplats läggs till i din katalog."
+   },
+   "catalogUnmatchedAddProductsLink": {
+      "message": "Läs om hur du lägger till produkter"
+   },
+   "catalogUnmatchedAddProductsTitle": {
+      "message": "Lägg till varor som andra har interagerat med i katalogen"
+   },
+   "catalogUnmatchedContentIdColumnHeader": {
+      "message": "Innehålls-id"
+   },
+   "catalogUnmatchedDescription": {
+      "message": "Lägg till produkterna för dessa innehålls-id:n i din katalog eller se till att du skickar rätt innehålls-id:n i dina händelser."
+   },
+   "catalogUnmatchedDownloadList": {
+      "message": "Ladda ned lista"
+   },
+   "catalogUnmatchedOtherWaysHeader": {
+      "message": "Andra sätt att lösa problemet"
+   },
+   "catalogUnmatchedRecommendationsHeader": {
+      "message": "Rekommendationer"
+   },
+   "catalogUnmatchedSendContentIdDescription": {
+      "message": "Kontrollera att du skickar rätt innehålls-id som motsvarar en produkt i den här katalogen eller någon katalog som är kopplad till din pixel."
+   },
+   "catalogUnmatchedSendContentIdTitle": {
+      "message": "Skicka det motsvarande innehålls-id:t"
+   },
+   "catalogUnmatchedTitle": {
+      "message": "Vissa innehålls-id:n matchar inte några kataloger"
+   },
+   "catalogUnmatchedTopInteractionsHeader": {
+      "message": "Toppinteraktioner med problem"
+   },
+   "catalogUnmatchedTotalReceivedColumnHeader": {
+      "message": "Totalt antal mottagna"
+   },
+   "catalogWarningsFromPixel": {
+      "message": "Från $1"
+   },
+   "catalogWarningsHeader": {
+      "message": "Varningar"
+   },
+   "catalogWarningsUnmatchedProductsDescription": {
+      "message": "Innehålls-id:n som inte matchar någon katalog"
+   },
+   "catalogWarningsUnmatchedProductsHeader": {
+      "message": "Produkter som inte är matchade"
+   },
+   "confirmEventsToSetUpHeader": {
+      "message": "Bekräfta de händelser du vill konfigurera"
+   },
+   "continueButton": {
+      "message": "Fortsätt"
+   },
+   "continueToNextDatasetButton": {
+      "message": "Fortsätt till nästa datauppsättning"
+   },
+   "copyToClipboardCopied": {
+      "message": "Kopierat!"
+   },
+   "copyToClipboardTitle": {
+      "message": "Kopiera till urklipp"
+   },
+   "create_new_asset_already_added": {
+      "message": "Har redan lagts till"
+   },
+   "create_new_asset_button": {
+      "message": "Skapa ny"
+   },
+   "customConversionActionSourceLabel": {
+      "message": "Åtgärdskälla"
+   },
+   "customConversionEventLabel": {
+      "message": "Händelse"
+   },
+   "customConversionNameLabel": {
+      "message": "Namn"
+   },
+   "customConversionRulesLabel": {
+      "message": "Regler"
+   },
+   "customConversionValueFormat": {
+      "message": "$$1"
+   },
+   "customConversionValueLabel": {
+      "message": "Standardvärde"
+   },
+   "datasetIdPrefix": {
+      "message": "Id: $1"
+   },
+   "datasetsAffected": {
+      "message": "En datauppsättningar har påverkats"
+   },
+   "dropdownSearchPlaceholder": {
+      "message": "Sök"
+   },
+   "dropdownTagIdentifier": {
+      "message": "Identifierare"
+   },
+   "dropdownTagRecommended": {
+      "message": "Rekommenderad"
+   },
+   "duplicateEventMessage": {
+      "message": "Händelsen \"$1\" har aktiverats två gånger med identiska data, vilket kan leda till spårningsfel"
+   },
+   "duplicateEventRecommendation": {
+      "message": "Kontrollera pixelns implementering och se till att händelser inte aktiveras flera gånger oavsiktligt. Det inträffar ofta när samma händelsekod körs flera gånger eller om pixeln initieras mer än en gång."
+   },
+   "emptyActionsStateDescriptionPart1": {
+      "message": "Besök"
+   },
+   "emptyActionsStateDescriptionPart2": {
+      "message": "för prestandamöjligheter"
+   },
+   "emptyActionsStateEventsManagerLink": {
+      "message": "Händelsehanteraren"
+   },
+   "emptyActionsStateTitle": {
+      "message": "Inga tillgängliga åtgärder"
+   },
+   "enableFreeCAPIGButton": {
+      "message": "Aktivera"
+   },
+   "error_generic": {
+      "message": "Ett fel har inträffat"
+   },
+   "eventDeduplicated": {
+      "message": "Deduplicerat"
+   },
+   "eventDetailsAdvancedMatchingHeader": {
+      "message": "Parametrar för avancerad matchning har skickats"
+   },
+   "eventDetailsBrowserOnlyAriaLabel": {
+      "message": "Parameter finns bara i webbläsardata"
+   },
+   "eventDetailsBrowserOnlyBadge": {
+      "message": "Endast webbläsare"
+   },
+   "eventDetailsCustomParamsHeader": {
+      "message": "Anpassade parametrar"
+   },
+   "eventDetailsDpoHeader": {
+      "message": "Parametrar för databehandling har skickats"
+   },
+   "eventDetailsDpoWarning": {
+      "message": "Eftersom databehandlingsalternativ skickas kanske anpassade konverteringar eller katalogfeedback inte fungerar."
+   },
+   "eventDetailsEventIdLabel": {
+      "message": "Händelse-id"
+   },
+   "eventDetailsEventInfoHeader": {
+      "message": "Händelseinfo"
+   },
+   "eventDetailsFrameIFrame": {
+      "message": "IFrame"
+   },
+   "eventDetailsFrameLabel": {
+      "message": "Motiv"
+   },
+   "eventDetailsFrameWindow": {
+      "message": "Fönster"
+   },
+   "eventDetailsLoadTimeLabel": {
+      "message": "Laddningstid"
+   },
+   "eventDetailsPixelCodeLabel": {
+      "message": "Pixelkod"
+   },
+   "eventDetailsPixelLocationLabel": {
+      "message": "Pixelplats"
+   },
+   "eventDetailsServerOnlyAriaLabel": {
+      "message": "Parametern finns bara i serverdata"
+   },
+   "eventDetailsServerOnlyBadge": {
+      "message": "Endast server"
+   },
+   "eventDetailsSetupMethodAutomatic": {
+      "message": "Automatiskt"
+   },
+   "eventDetailsSetupMethodLabel": {
+      "message": "Konfigurationsmetod"
+   },
+   "eventDetailsSetupMethodManual": {
+      "message": "Manuell"
+   },
+   "eventDetailsUrlCalledLabel": {
+      "message": "Webbadressen har anropats"
+   },
+   "eventsHeader": {
+      "message": "Händelser"
+   },
+   "eventsOnThisPageHeader": {
+      "message": "Händelser på den här sidan"
+   },
+   "extensionDescription": {
+      "message": "Meta Pixelhjälpen är ett felsökningsverktyg som hjälper dig att validera pixelimplementeringen."
+   },
+   "extensionName": {
+      "message": "Meta Pixelhjälpen"
+   },
+   "feedbackAddButton": {
+      "message": "Lägg till"
+   },
+   "feedbackAttachScreenshots": {
+      "message": "Bifoga skärmbilder"
+   },
+   "feedbackAutomaticScreenshot": {
+      "message": "Automatisk skärmbild"
+   },
+   "feedbackDeleteAttachment": {
+      "message": "Ta bort bilaga"
+   },
+   "feedbackDescriptionPlaceholder": {
+      "message": "Beskriv feedbacken utförligt"
+   },
+   "feedbackDropdownLabel": {
+      "message": "Lämna feedback"
+   },
+   "feedbackErrorScreenshotLabel": {
+      "message": "Skärmbild av fel"
+   },
+   "feedbackPageDescription": {
+      "message": "Hjälp oss att bli bättre genom att anmäla problem eller ge feedback."
+   },
+   "feedbackPagePrivacyLink": {
+      "message": "Se hur vi använder dessa data."
+   },
+   "feedbackPageTitle": {
+      "message": "Skicka feedback …"
+   },
+   "feedbackReceivedSubTitle": {
+      "message": "Tack för att du gör den här upplevelsen bättre."
+   },
+   "feedbackReceivedTitle": {
+      "message": "Feedback har mottagits"
+   },
+   "feedbackReturnToPreviousPage": {
+      "message": "Gå tillbaka till föregående sida"
+   },
+   "feedbackSelectorTypeBug": {
+      "message": "Fel"
+   },
+   "feedbackSelectorTypeFeatureRequest": {
+      "message": "Funktionsbegäran"
+   },
+   "feedbackSelectorTypeGeneralFeedback": {
+      "message": "Allmän feedback"
+   },
+   "feedbackSelectorTypeQuestion": {
+      "message": "Vilken typ av feedback?"
+   },
+   "feedbackStoredLocally": {
+      "message": "Lagras lokalt"
+   },
+   "feedbackSubmitButton": {
+      "message": "Skicka"
+   },
+   "feedbackSubmitDisabledTooltip": {
+      "message": "Fyll i alla obligatoriska fält för att skicka feedback"
+   },
+   "feedbackSubmittingButton": {
+      "message": "Skickar …"
+   },
+   "feedbackTitleLabel": {
+      "message": "Feedbackrubrik"
+   },
+   "feedbackUploadButton": {
+      "message": "Ladda upp"
+   },
+   "fieldItemCopyTooltip": {
+      "message": "Kopiera 1 USD"
+   },
+   "fieldItemHide": {
+      "message": "Dölj"
+   },
+   "fieldItemShow": {
+      "message": "Visa"
+   },
+   "freeCapigL2DisableNote": {
+      "message": "Du kan inaktivera detta när som helst från Händelsehanteraren."
+   },
+   "freeCapigL2ReturnHome": {
+      "message": "Gå tillbaka till startsidan"
+   },
+   "freeCapigL2SeeTermsLabel": {
+      "message": "Visa villkor"
+   },
+   "freeCapigL2SetupStep1": {
+      "message": "Meta konfigurerar anslutningen på serversidan i bakgrunden."
+   },
+   "freeCapigL2SetupStep2": {
+      "message": "Pixelhändelserna speglas automatiskt i Conversions API"
+   },
+   "freeCapigL2SetupStep3": {
+      "message": "Upplev den ökade tillförlitligheten med spårning på serversidan!"
+   },
+   "freeCapigL2SuccessExplainerEMLink": {
+      "message": "Händelsehanteraren"
+   },
+   "freeCapigL2SuccessExplainerPrefix": {
+      "message": "Räkna med att ändringarna börjar gälla inom de kommande sju dagarna. Utforska och redigera ändringarna i"
+   },
+   "freeCapigL2SuccessExplainerSuffix": {
+      "message": "när du vill."
+   },
+   "freeCapigL2SuccessTitle": {
+      "message": "Conversions API har aktiverats"
+   },
+   "freeCapigL2TermsBusinessToolsTermsLink": {
+      "message": "Villkor för företagsverktyg"
+   },
+   "freeCapigL2TermsDisclosureMiddle": {
+      "message": "och"
+   },
+   "freeCapigL2TermsDisclosurePrefix": {
+      "message": "Om du fortsätter godkänner du härmed och instruerar Meta att konfigurera en Meta-aktiverad integration med Conversions API åt dig. Du godkänner också att din användning av integrationen omfattas av Metas"
+   },
+   "freeCapigL2TermsPlatformTermsLink": {
+      "message": "plattformsvillkor"
+   },
+   "freeCapigOptInErrorMessage": {
+      "message": "Det gick inte att aktivera Conversions API. Försök igen eller konfigurera detta från Händelsehanteraren."
+   },
+   "freeCapigOptInLoadingLabel": {
+      "message": "Aktiverar …"
+   },
+   "freeCapigOptInSuccessTitle": {
+      "message": "Conversions API har aktiverats!"
+   },
+   "ga_account_creation_title": {
+      "message": "Google Analytics-konto"
+   },
+   "ga_account_display_name_label": {
+      "message": "Kontonamn"
+   },
+   "ga_property_creation_title": {
+      "message": "Google Analytics-resurs"
+   },
+   "ga_property_display_name_label": {
+      "message": "Resursnamn"
+   },
+   "ga_property_time_zone_label": {
+      "message": "Tidszon"
+   },
+   "ga_stream_creation_title": {
+      "message": "Google Analytics-webbstream"
+   },
+   "ga_stream_display_name_label": {
+      "message": "Streamnamn"
+   },
+   "ga_stream_url_label": {
+      "message": "Webbplatsens webbadress"
+   },
+   "go_back": {
+      "message": "Tillbaka"
+   },
+   "gtmAccountSelectorLabel": {
+      "message": "Google Tag Manager-konto"
+   },
+   "gtmAccountSelectorPlaceholder": {
+      "message": "Välj ett konto"
+   },
+   "gtmChooseHostingProvider": {
+      "message": "Välj en värdleverantör:"
+   },
+   "gtmCreateNewServerContainer": {
+      "message": "Skapa ny serverbehållare"
+   },
+   "gtmHostingGoogleBullet1": {
+      "message": "Ingen utvecklare krävs"
+   },
+   "gtmHostingGoogleBullet2": {
+      "message": "~30 minuter"
+   },
+   "gtmHostingGoogleBullet3": {
+      "message": "Betala för molnresurser"
+   },
+   "gtmHostingGoogleBullet4": {
+      "message": "Helt anpassningsbar"
+   },
+   "gtmHostingGoogleDescription": {
+      "message": "Effektivisera och hantera dina taggar genom att integrera Google Taggstyrning direkt. Praktiskt för alla som vill hantera taggning med Googles inbyggda verktyg."
+   },
+   "gtmHostingGoogleLabel": {
+      "message": "Google"
+   },
+   "gtmHostingStapeBullet1": {
+      "message": "Ingen utvecklare krävs"
+   },
+   "gtmHostingStapeBullet2": {
+      "message": "~15 minuter"
+   },
+   "gtmHostingStapeBullet3": {
+      "message": "Freemiumplan finns tillgänglig"
+   },
+   "gtmHostingStapeBullet4": {
+      "message": "Prenumerationsbaserad prissättning"
+   },
+   "gtmHostingStapeDescription": {
+      "message": "Stape förenklar konfigurationen av serverbehållare och hanterar värdtjänster åt dig. En kostnadsfri nivå finns tillgänglig."
+   },
+   "gtmHostingStapeLabel": {
+      "message": "Stape"
+   },
+   "gtmInvalidUrlError": {
+      "message": "Ange en giltig webbadress."
+   },
+   "gtmServerConnectionOptionGoogleTagManager": {
+      "message": "Google Taggstyrning"
+   },
+   "gtmServerConnectionOptionMetaEnabledCapig": {
+      "message": "Meta-aktiverad Conversions API (rekommenderas)"
+   },
+   "gtmServerConnectionOptionNone": {
+      "message": "Inga"
+   },
+   "gtmServerConnectionSelectorLabel": {
+      "message": "Serveranslutning"
+   },
+   "gtmServerContainerLabel": {
+      "message": "Serverbehållare"
+   },
+   "gtmServerContainerNotProvisionedWarning": {
+      "message": "Den här servern har inte tilldelats"
+   },
+   "gtmServerContainerPlaceholder": {
+      "message": "Välj en serverbehållare"
+   },
+   "gtmStepAnalyticsStream": {
+      "message": "Analysstream"
+   },
+   "gtmStepGtmAccount": {
+      "message": "GTM-konto"
+   },
+   "gtmStepPreExistingTooltip": {
+      "message": "Resursen fanns redan eller automatiserades genom API."
+   },
+   "gtmStepProvisionedServerContainer": {
+      "message": "Tilldelad serverbehållare"
+   },
+   "gtmStepPublished": {
+      "message": "Publicerat"
+   },
+   "gtmStepServerContainer": {
+      "message": "Serverbehållare"
+   },
+   "gtmStepWebContainer": {
+      "message": "Webbehållare"
+   },
+   "gtmTaggingServerUrlLabel": {
+      "message": "Webbadress för taggningsserver"
+   },
+   "gtmTaggingServerUrlPlaceholder": {
+      "message": "https://your-tagging-server.example.com"
+   },
+   "gtm_account_creation_title": {
+      "message": "Google Tag Manager-konto"
+   },
+   "gtm_account_name_label": {
+      "message": "Kontonamn"
+   },
+   "gtm_action_needed": {
+      "message": "Åtgärd krävs"
+   },
+   "gtm_api_fetch_accounts_error": {
+      "message": "Det gick inte att hämta konton. Försök igen eller kontrollera din åtkomst till Google Tagghanterare."
+   },
+   "gtm_api_fetch_containers_error": {
+      "message": "Det gick inte att hämta behållare för kontot $1. Försök igen eller kontrollera dina behörigheter för Google Tagghanterare."
+   },
+   "gtm_api_fetch_data_streams_error": {
+      "message": "Det gick inte att hämta dataströmmar för resursen $1"
+   },
+   "gtm_api_fetch_ga_accounts_error": {
+      "message": "Det gick inte att hämta Google Analytics-konton"
+   },
+   "gtm_api_fetch_ga_properties_error": {
+      "message": "Det gick inte att hämta Google Analytics-resurserna. Försök igen eller kontrollera din Google Analytics-åtkomst."
+   },
+   "gtm_api_get_token_error": {
+      "message": "Det gick inte att hämta token"
+   },
+   "gtm_api_invalid_token_response": {
+      "message": "Ogiltigt tokensvar"
+   },
+   "gtm_automatic_advanced_matching_label": {
+      "message": "Matcha automatiskt viktiga kunduppgifter, t.ex. e-post och telefonnummer, från din webbplats för att förbättra annonsleveransen."
+   },
+   "gtm_availability_load_error": {
+      "message": "Det gick inte att ladda resurser för Google Taggstyrning"
+   },
+   "gtm_availability_no_account_error": {
+      "message": "Inget Google Taggstyrning-konto hittades."
+   },
+   "gtm_availability_no_web_container_error": {
+      "message": "Ingen webbehållare hittades i Google Taggstyrning."
+   },
+   "gtm_capi_token_error": {
+      "message": "Det gick inte att generera en åtkomsttoken för Conversions API. Kontrollera att du är företagsadministratör för den här pixeln."
+   },
+   "gtm_dataset_label": {
+      "message": "Datauppsättning"
+   },
+   "gtm_fetch_accounts_fallback_error": {
+      "message": "Det gick inte att hämta konton"
+   },
+   "gtm_fetch_containers_fallback_error": {
+      "message": "Det gick inte att hämta behållare"
+   },
+   "gtm_fetch_google_analytics_accounts_fallback_error": {
+      "message": "Det gick inte att hämta Google Analytics-konton"
+   },
+   "gtm_fetch_google_analytics_properties_fallback_error": {
+      "message": "Det gick inte att hämta Google Analytics-resurser"
+   },
+   "gtm_fetch_google_analytics_web_streams_fallback_error": {
+      "message": "Det gick inte att hämta Google Analytics-webbstreamar"
+   },
+   "gtm_fetch_server_containers_fallback_error": {
+      "message": "Det gick inte att hämta serverbehållare för Google Taggstyrning"
+   },
+   "gtm_ga4_data_stream_label": {
+      "message": "Google Analytics-datastream"
+   },
+   "gtm_ga4_web_stream_toggle_label": {
+      "message": "Vidarebefordra Google Analytics-händelser"
+   },
+   "gtm_ga_account_label": {
+      "message": "Google Analytics-konto"
+   },
+   "gtm_ga_account_placeholder": {
+      "message": "Välj ett Google Analytics-konto"
+   },
+   "gtm_ga_data_stream_placeholder": {
+      "message": "Välj ett dataflöde"
+   },
+   "gtm_google_auth_warning_body": {
+      "message": "Det verkar som att din Google-session har blivit inaktiv under konfigurationen. Logga in igen för att fortsätta där du slutade."
+   },
+   "gtm_google_auth_warning_primary_cta": {
+      "message": "Logga in"
+   },
+   "gtm_google_auth_warning_title": {
+      "message": "Logga in på Google igen för att fortsätta"
+   },
+   "gtm_next_step_back_aria_label": {
+      "message": "Tillbaka"
+   },
+   "gtm_next_step_confirm_button": {
+      "message": "Bekräfta"
+   },
+   "gtm_next_step_event_setup_description": {
+      "message": "Med verktyget för händelsekonfiguration kan du välja konverteringshändelser, exempelvis köp eller tillägg i kundvagn, direkt från dina webbplatssidor och skicka dem säkert till Meta."
+   },
+   "gtm_next_step_event_setup_title": {
+      "message": "Skicka viktiga konverteringshändelser till Meta"
+   },
+   "gtm_next_step_eyebrow": {
+      "message": "Åtgärd krävs"
+   },
+   "gtm_next_step_manual_setup_title": {
+      "message": "Manuell konfiguration"
+   },
+   "gtm_next_step_missing_pixel_error": {
+      "message": "Välj ett datauppsättnings-id för att fortsätta"
+   },
+   "gtm_next_step_missing_url_error": {
+      "message": "Ange en webbadress för att fortsätta"
+   },
+   "gtm_next_step_nav_title": {
+      "message": "Anslut dina data säkert"
+   },
+   "gtm_next_step_title": {
+      "message": "Anslut dina data säkert"
+   },
+   "gtm_next_step_website_url_label": {
+      "message": "Webbplatsens webbadress"
+   },
+   "gtm_next_step_website_url_placeholder": {
+      "message": "Ange webbplatsens webbadress"
+   },
+   "gtm_pixel_business_fetch_error": {
+      "message": "Det gick inte att hämta pixelinformation för pixeln $1. Du kanske inte har åtkomstbehörighet för pixeln. Mer information: $2"
+   },
+   "gtm_pixel_business_load_error": {
+      "message": "Det gick inte att ladda datauppsättningen $1. Kontrollera att datauppsättnings-id:t är korrekt och att du har behörighet att visa det."
+   },
+   "gtm_pixel_business_no_business_error": {
+      "message": "Pixeln $1 har inget ägarföretag. Ett företag måste göra anspråk på pixeln för att generera en åtkomsttoken för Conversions API."
+   },
+   "gtm_pixel_dataset_id_label": {
+      "message": "Datauppsättnings-id"
+   },
+   "gtm_pixel_detected_on_page": {
+      "message": "Upptäcktes på sidan"
+   },
+   "gtm_pixel_load_more": {
+      "message": "Ladda fler pixlar …"
+   },
+   "gtm_pixel_no_pixels_detected": {
+      "message": "Inga pixlar har upptäckts på sidan. Ange ett datauppsättnings-id manuellt."
+   },
+   "gtm_pixel_no_pixels_found": {
+      "message": "Inga pixlar hittades"
+   },
+   "gtm_pixel_picker_dataset_id_numeric_error": {
+      "message": "Datauppsättning-id:t måste vara numeriskt"
+   },
+   "gtm_pixel_picker_dataset_id_placeholder": {
+      "message": "Ange datauppsättnings-id"
+   },
+   "gtm_pixel_picker_enter_manually": {
+      "message": "Ange manuellt"
+   },
+   "gtm_pixel_search_placeholder": {
+      "message": "Sök pixlar"
+   },
+   "gtm_pixel_select_placeholder": {
+      "message": "Välj en pixel"
+   },
+   "gtm_pixel_your_pixels": {
+      "message": "Dina pixlar"
+   },
+   "gtm_publish_asset_preparation_failed": {
+      "message": "Förberedning av resurs misslyckades"
+   },
+   "gtm_publish_asset_preparation_missing_ids": {
+      "message": "Förberedelsen av resurserna har slutförts utan publiceringsklara id:n"
+   },
+   "gtm_publish_automatic_advanced_matching_progress": {
+      "message": "Aktiverar automatisk avancerad matchning …"
+   },
+   "gtm_publish_automatic_advanced_matching_warning": {
+      "message": "Det gick inte att aktivera automatisk avancerad matchning, men Google Tagghanterare-taggar har publicerats."
+   },
+   "gtm_publish_completed_with_warnings_title": {
+      "message": "Publicerat med varningar"
+   },
+   "gtm_publish_confirm_button": {
+      "message": "Bekräfta"
+   },
+   "gtm_publish_create_ga_account_and_property_progress": {
+      "message": "Skapar Google Analytics-konto och resurs …"
+   },
+   "gtm_publish_create_ga_property_progress": {
+      "message": "Skapar Google Analytics-resurs …"
+   },
+   "gtm_publish_create_ga_stream_progress": {
+      "message": "Skapar Google Analytics-webbstream …"
+   },
+   "gtm_publish_create_gtm_account_and_web_container_progress": {
+      "message": "Skapar Google Tagghanterare-konto och webbehållare …"
+   },
+   "gtm_publish_create_server_container_progress": {
+      "message": "Skapar serverbehållare …"
+   },
+   "gtm_publish_create_version_error": {
+      "message": "Det gick inte att skapa behållarversionen $1"
+   },
+   "gtm_publish_create_web_container_progress": {
+      "message": "Skapar webbehållare …"
+   },
+   "gtm_publish_failed_title": {
+      "message": "Publiceringen misslyckades"
+   },
+   "gtm_publish_fetch_pixel_business_progress": {
+      "message": "Hämtar företagsinformation om pixel …"
+   },
+   "gtm_publish_free_capig_opt_in_progress": {
+      "message": "Konfigurerar Meta-aktiverat Conversions API ..."
+   },
+   "gtm_publish_free_capig_opt_in_warning": {
+      "message": "Meta-aktiverad Conversions API kunde inte konfigureras, men Google Taggstyrning-taggar har publicerats."
+   },
+   "gtm_publish_ga_account_recipe_flow_error": {
+      "message": "Det krävs ett receptdrivet flöde för att skapa ett Google Analytics-konto"
+   },
+   "gtm_publish_generate_capi_token_progress": {
+      "message": "Genererar åtkomsttoken för Conversions API ..."
+   },
+   "gtm_publish_google_tag_manager_missing_ga_measurement_id": {
+      "message": "Mät-id för Google Analytics"
+   },
+   "gtm_publish_google_tag_manager_missing_requirements": {
+      "message": "Serveranslutning för Google Tagghanteraren saknas: $1"
+   },
+   "gtm_publish_google_tag_manager_missing_server_container": {
+      "message": "Serverbehållare för Google Tagghanteraren"
+   },
+   "gtm_publish_google_tag_manager_missing_tagging_server_url": {
+      "message": "Webbadress för taggningsserver"
+   },
+   "gtm_publish_gtm_account_recipe_flow_error": {
+      "message": "För att skapa ett konto i Google Tagghanteraren krävs ett receptdrivet flöde"
+   },
+   "gtm_publish_missing_ga_account_draft": {
+      "message": "Inget utkast till Google Analytics-konto"
+   },
+   "gtm_publish_missing_ga_account_for_property": {
+      "message": "Inget Google Analytics-konto har valts för att skapa resurs"
+   },
+   "gtm_publish_missing_ga_property_draft": {
+      "message": "Inget utkast till Google Analytics-resurs"
+   },
+   "gtm_publish_missing_ga_property_for_stream": {
+      "message": "Ingen Google Analytics-resurs har valts för att skapa stream"
+   },
+   "gtm_publish_missing_ga_stream_draft": {
+      "message": "Inget utkast till Google Analytics-stream"
+   },
+   "gtm_publish_missing_google_auth": {
+      "message": "Inte autentiserad med Google"
+   },
+   "gtm_publish_missing_gtm_account_draft": {
+      "message": "Inget utkast till konto i Google Tagghanteraren"
+   },
+   "gtm_publish_missing_gtm_account_for_server_container": {
+      "message": "Inget Google Taggstyrning-konto har valts för att skapa serverbehållare"
+   },
+   "gtm_publish_missing_gtm_account_for_web_container": {
+      "message": "Inget Google Tagghanterare-konto har valts för att skapa webbehållare"
+   },
+   "gtm_publish_missing_pixel_id": {
+      "message": "Inget datauppsättnings-id har valts"
+   },
+   "gtm_publish_missing_required_asset": {
+      "message": "1 USD saknas. Lägg till den via Skapa ny eller välj en befintlig."
+   },
+   "gtm_publish_missing_required_assets_error": {
+      "message": "Saknar obligatoriska resurser: 1 USD"
+   },
+   "gtm_publish_missing_requirements_title": {
+      "message": "Uppfyller inte kraven:"
+   },
+   "gtm_publish_missing_server_container_draft": {
+      "message": "Inget serverbehållarutkast"
+   },
+   "gtm_publish_missing_web_container_draft": {
+      "message": "Inget utkast för webbehållare"
+   },
+   "gtm_publish_no_workspaces_error": {
+      "message": "Inga arbetsytor hittades för behållaren $1 i $2. Skapa en arbetsyta i Google Taggstyrning och försök sedan igen."
+   },
+   "gtm_publish_pixel_label": {
+      "message": "Datauppsättnings-id: $1"
+   },
+   "gtm_publish_prepare_assets_progress": {
+      "message": "Förbereder resurser …"
+   },
+   "gtm_publish_progress_complete": {
+      "message": "Publiceringen har slutförts."
+   },
+   "gtm_publish_progress_creating_datalayer_variables": {
+      "message": "Skapar datalagervariabler …"
+   },
+   "gtm_publish_progress_creating_pixel_template_tag": {
+      "message": "Skapar tagg för pixelmall ..."
+   },
+   "gtm_publish_progress_creating_server_action_source": {
+      "message": "Skapar variabel för åtgärdskälla på serversidan …"
+   },
+   "gtm_publish_progress_creating_server_tag": {
+      "message": "Skapar tagg på serversidan …"
+   },
+   "gtm_publish_progress_creating_server_trigger": {
+      "message": "Skapar utlösare på serversidan …"
+   },
+   "gtm_publish_progress_creating_web_tags": {
+      "message": "Skapar webbtaggar …"
+   },
+   "gtm_publish_progress_creating_web_tags_web_only": {
+      "message": "Skapar webbtaggar …"
+   },
+   "gtm_publish_progress_creating_web_triggers": {
+      "message": "Skapar webbutlösare …"
+   },
+   "gtm_publish_progress_enabling_builtin_variables": {
+      "message": "Aktiverar inbyggda variabler ..."
+   },
+   "gtm_publish_progress_getting_web_workspace": {
+      "message": "Skaffar webbarbetsyta ..."
+   },
+   "gtm_publish_progress_getting_workspaces": {
+      "message": "Skaffar arbetsytor ..."
+   },
+   "gtm_publish_progress_importing_web_pixel_template": {
+      "message": "Importerar webbpixelmall …"
+   },
+   "gtm_publish_progress_pixel_template_complete": {
+      "message": "Publiceringen av pixelmallen har slutförts."
+   },
+   "gtm_publish_progress_publishing_server_container": {
+      "message": "Publicerar serverbehållare …"
+   },
+   "gtm_publish_progress_publishing_web_container": {
+      "message": "Publicerar webbehållare …"
+   },
+   "gtm_publish_progress_setting_up_server_template": {
+      "message": "Konfigurerar mall på serversidan …"
+   },
+   "gtm_publish_progress_web_only_complete": {
+      "message": "Publicering endast på webben har slutförts."
+   },
+   "gtm_publish_published_button": {
+      "message": "Publicerat"
+   },
+   "gtm_publish_publishing_button": {
+      "message": "Publicerar …"
+   },
+   "gtm_publish_server_container_no_url_notice": {
+      "message": "Serverbehållaren skapas, men taggning på serversidan publiceras inte förrän en webbadress för taggningsservern är tillgänglig."
+   },
+   "gtm_publish_success_message": {
+      "message": "Taggar har publicerats!"
+   },
+   "gtm_publish_unsupported_draft_asset": {
+      "message": "$1 skapande av utkast under publicering stöds inte ännu"
+   },
+   "gtm_publish_web_only_notice": {
+      "message": "Ingen serverbehållare har valts. Publicerar en konfiguration för endast webben. Du kan lägga till och publicera en serverbehållare senare."
+   },
+   "gtm_reauthenticate": {
+      "message": "Återautentisera"
+   },
+   "gtm_review_setup_and_publish": {
+      "message": "Granska din konfiguration och publicera"
+   },
+   "gtm_setup_authenticate_button": {
+      "message": "Autentisera och hämta konton"
+   },
+   "gtm_setup_button": {
+      "message": "Konfiguration"
+   },
+   "gtm_setup_header_title": {
+      "message": "Anslut dina data säkert"
+   },
+   "gtm_setup_required_message": {
+      "message": "Du måste konfigurera en webbehållare i Google Tag Manager för att fortsätta"
+   },
+   "gtm_setup_required_primary_cta": {
+      "message": "Gå till Google Taggstyrning"
+   },
+   "gtm_setup_required_secondary_cta": {
+      "message": "Försök igen"
+   },
+   "gtm_setup_settings": {
+      "message": "Konfigurationsinställningar"
+   },
+   "gtm_setup_summary_description": {
+      "message": "Gör det enkelt att använda och hantera taggar. Effektiv händelsespårning utan kod för bättre annonsresultat."
+   },
+   "gtm_setup_warning_loading_label": {
+      "message": "Laddar ..."
+   },
+   "gtm_web_container_label": {
+      "message": "Webbehållare"
+   },
+   "gtm_web_container_placeholder": {
+      "message": "Välj en webbehållare"
+   },
+   "guidanceEventsAffectedBadge": {
+      "message": "1 % av händelserna påverkas"
+   },
+   "guidanceMoreIssuesPlural": {
+      "message": "Ett problem till"
+   },
+   "guidanceMoreIssuesSingular": {
+      "message": "Ett problem till"
+   },
+   "guidanceViewAllButton": {
+      "message": "Visa alla"
+   },
+   "guidanceViewButton": {
+      "message": "Visa"
+   },
+   "highlightTooltipChooseAccount": {
+      "message": "Välj ett konto för att logga in"
+   },
+   "highlightTooltipClickToContinue": {
+      "message": "Klicka här för att fortsätta"
+   },
+   "highlightTooltipSelectAll": {
+      "message": "Markera alla"
+   },
+   "idLabel": {
+      "message": "Id: 1"
+   },
+   "islandActionFailedMessage": {
+      "message": "Slutför åtgärden manuellt för att fortsätta"
+   },
+   "islandActionRequiredMessage": {
+      "message": "Slutför åtgärden för att fortsätta"
+   },
+   "learnAboutManualAdvancedMatching": {
+      "message": "Ta reda på mer om manuell avancerad matchning"
+   },
+   "learnAboutValueAndCurrencyParameters": {
+      "message": "Ange värde och valuta i Meta-pixeln"
+   },
+   "learnHowToSetupAdvancedMatchingManually": {
+      "message": "Ta reda på mer om hur du konfigurerar avancerad matchning manuellt"
+   },
+   "learnMoreLink": {
+      "message": "Ta reda på mer"
+   },
+   "loadingText": {
+      "message": "Laddar …"
+   },
+   "loginPageButtonCreateAccount": {
+      "message": "Skapa ett nytt konto"
+   },
+   "loginPageButtonLogin": {
+      "message": "Logga in med Facebook"
+   },
+   "loginPageButtonMMALogin": {
+      "message": "Logga in med ett hanterat Meta-konto"
+   },
+   "loginPageDescription": {
+      "message": "för anpassad support med händelsekonfigurationen"
+   },
+   "loginPageSubtitle": {
+      "message": "Logga in på Metas företagsverktyg"
+   },
+   "loginPageTitle": {
+      "message": "Meta Pixelhjälpen"
+   },
+   "mamStepExampleLabel": {
+      "message": "Exempel: 1 USD"
+   },
+   "metaLogoAlt": {
+      "message": "Meta"
+   },
+   "metaSignalHelperLogoAlt": {
+      "message": "Meta Pixelhjälpen"
+   },
+   "missingEventsActiveSessionTooltip": {
+      "message": "Händelsekonfiguration pågår redan"
+   },
+   "missingEventsTabSwitchTooltip": {
+      "message": "Växla tillbaka till fliken där du startade händelsekonfigurationen"
+   },
+   "moreInformationHeader": {
+      "message": "Mer information"
+   },
+   "moreLabel": {
+      "message": "+ 1 till"
+   },
+   "newFeaturesBannerLearnMore": {
+      "message": "Ta reda på mer"
+   },
+   "newFeaturesBannerText": {
+      "message": "En ny automatiseringsfunktion är tillgänglig som hjälper dig att konfigurera komplexa verktyg på några minuter."
+   },
+   "nextStepsHeader": {
+      "message": "Nästa steg"
+   },
+   "noEventsOnThisPageMessage": {
+      "message": "Inga händelser på den här sidan. Klicka på Visa alla händelser om du vill se händelser från andra sidor."
+   },
+   "noPixelsFoundCardHeader": {
+      "message": "Inga pixlar har hittats på den här sidan"
+   },
+   "onThisPageHeader": {
+      "message": "På den här sidan"
+   },
+   "optionalLabel": {
+      "message": "· Valfritt"
+   },
+   "overlayActionCompletedTitle": {
+      "message": "Åtgärden har slutförts"
+   },
+   "overlayCloseButton": {
+      "message": "Stäng"
+   },
+   "overlayDatasetCountPlural": {
+      "message": "Flera datauppsättningar"
+   },
+   "overlayDatasetCountSingular": {
+      "message": "1 datauppsättning"
+   },
+   "overlayDescriptionPluralActions": {
+      "message": "$1 åtgärder som du kan vidta"
+   },
+   "overlayDescriptionPluralPixelsPluralActions": {
+      "message": "Det finns 1 USD-pixlar på den här sidan och 2 USD-åtgärder du kan vidta."
+   },
+   "overlayDescriptionPluralPixelsSingularAction": {
+      "message": "Det finns 1 USD-pixlar på den här sidan och 1 åtgärd du kan vidta."
+   },
+   "overlayDescriptionSingularAction": {
+      "message": "Vi har hittat en optimering för dig:"
+   },
+   "overlayDescriptionSingularPixelPluralActions": {
+      "message": "Det finns 1 pixel på den här sidan och 1 USD-åtgärd du kan vidta."
+   },
+   "overlayDescriptionSingularPixelSingularAction": {
+      "message": "Det finns 1 pixel på den här sidan och 1 åtgärd du kan vidta."
+   },
+   "overlayFreeCapigEnabledLabel": {
+      "message": "Aktiverat"
+   },
+   "overlayGoBackButton": {
+      "message": "Tillbaka"
+   },
+   "overlayGreetingAfternoon": {
+      "message": "Godmorgon, 1 USD"
+   },
+   "overlayGreetingEvening": {
+      "message": "God kväll, 1 USD"
+   },
+   "overlayGreetingMorning": {
+      "message": "God morgon, 1 USD"
+   },
+   "overlayGtmSetupForMeCta": {
+      "message": "Konfigurera åt mig"
+   },
+   "overlayNotificationSettingsButton": {
+      "message": "Aviseringsinställningar"
+   },
+   "overlayNotificationSettingsDescription": {
+      "message": "Välj hur du vill ta emot aviseringar om att förbättra din konfiguration. Du kan även ändra det här när som helst på startsidan genom att klicka på klockikonen."
+   },
+   "overlayNotificationSettingsTitle": {
+      "message": "Aviseringsinställningar"
+   },
+   "overlayNotificationsToggleDescription": {
+      "message": "Visa aviseringar på sidor med dina pixlar"
+   },
+   "overlayNotificationsToggleLabel": {
+      "message": "Aviseringar"
+   },
+   "overlayTitle": {
+      "message": "Meta Pixelhjälpen"
+   },
+   "overlayToggleDescription": {
+      "message": "Visa åtgärder baserat på ditt sammanhang och din pixelstatus medan du bläddrar."
+   },
+   "overlayToggleOff": {
+      "message": "Kontextuella aviseringar har inaktiverats"
+   },
+   "overlayToggleOn": {
+      "message": "Kontextuella aviseringar har aktiverats"
+   },
+   "overlayViewAllButton": {
+      "message": "Visa alla"
+   },
+   "overlayViewDatasetsButton": {
+      "message": "Visa datauppsättningar"
+   },
+   "pageIssueHeaderPlural": {
+      "message": "En varning har hittats på den här sidan"
+   },
+   "pageIssueHeaderSingular": {
+      "message": "En varning har hittats på den här sidan"
+   },
+   "pinExtensionBannerCta": {
+      "message": "Fäst i verktygsfältet"
+   },
+   "pinExtensionBannerDescription": {
+      "message": "Fäst Metas signalhjälpverktyg i verktygsfältet för snabb åtkomst."
+   },
+   "pinExtensionBannerTitle": {
+      "message": "Fäst det här tillägget"
+   },
+   "pixelBackButton": {
+      "message": "Tillbaka"
+   },
+   "pixelCopyIdTitle": {
+      "message": "Kopiera datauppsättnings-id"
+   },
+   "pixelCopyIdTooltip": {
+      "message": "Kopiera datauppsättnings-id"
+   },
+   "pixelCustomConversionBadge": {
+      "message": "Anpassad konvertering"
+   },
+   "pixelErrorCommonStep1": {
+      "message": "Öppna koden för din webbplats."
+   },
+   "pixelErrorConflictingVersionsCardTitle": {
+      "message": "Ta bort gamla eller motstridiga pixlar"
+   },
+   "pixelErrorConflictingVersionsExample": {
+      "message": "Exempel: n.version='2.0'"
+   },
+   "pixelErrorConflictingVersionsMessage": {
+      "message": "Ta bort gamla eller motstridiga pixlar"
+   },
+   "pixelErrorConflictingVersionsRecommendation": {
+      "message": "Flera pixlar med versioner i konflikt har upptäckts på den här sidan. Använd endast en version av Meta-pixeln."
+   },
+   "pixelErrorConflictingVersionsStep2": {
+      "message": "Sök efter **n.version='** i baskoden för pixelinstallationen"
+   },
+   "pixelErrorConflictingVersionsStep3": {
+      "message": "Se till att versionerna är desamma för alla pixlar"
+   },
+   "pixelErrorDuplicatePixelIdCardTitle": {
+      "message": "Ta bort dubblett av datauppsättnings-id"
+   },
+   "pixelErrorDuplicatePixelIdMessage": {
+      "message": "Ta bort dubblett av datauppsättnings-id"
+   },
+   "pixelErrorDuplicatePixelIdRecommendation": {
+      "message": "Du har en dubblett av datauppsättnings-id: $1. Varje pixel får bara initieras en gång per sida för att inte få dubbletter av data."
+   },
+   "pixelErrorDuplicatePixelIdStep2": {
+      "message": "Sök efter **fbq('init', $1)** i baskoden för pixelinstallationen"
+   },
+   "pixelErrorDuplicatePixelIdStep3": {
+      "message": "Ta bort dubbletter av **fbq('init', $1)**"
+   },
+   "pixelErrorFbqNoMethodNameCardTitle": {
+      "message": "Saknar metodnamn i fbq()-anrop"
+   },
+   "pixelErrorFbqNoMethodNameExample": {
+      "message": "Exempel: fbq('track', 'PageView')"
+   },
+   "pixelErrorFbqNoMethodNameMessage": {
+      "message": "Tillhandahåll ett argument för fbq{}"
+   },
+   "pixelErrorFbqNoMethodNameRecommendation": {
+      "message": "Ange ett metodnamn när du anropar fbq(). Exempel: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorFbqNoMethodNameStep2": {
+      "message": "Hitta det fbq()-anrop som saknar ett metodnamn."
+   },
+   "pixelErrorFbqNoMethodNameStep3": {
+      "message": "Ange ett giltigt metodnamn som ”track” eller ”init” som det första argumentet."
+   },
+   "pixelErrorInvalidConsentActionCardTitle": {
+      "message": "Skicka en giltig samtyckesåtgärd"
+   },
+   "pixelErrorInvalidConsentActionMessage": {
+      "message": "Skicka en giltig samtyckesåtgärd"
+   },
+   "pixelErrorInvalidConsentActionRecommendation": {
+      "message": "\"fbq('$1', ...);\" är inte en giltig fbq('consent', ...)-åtgärd. Giltiga samtyckesåtgärder är \"grant\" och \"revoke\". Kontrollera implementeringen av samtyckeshanteringen."
+   },
+   "pixelErrorInvalidConsentActionStep2": {
+      "message": "Sök efter **fbq('$1', ...)**"
+   },
+   "pixelErrorInvalidConsentActionStep3": {
+      "message": "Uppdatera metodnamnet till **revoke** eller **grant**"
+   },
+   "pixelErrorInvalidEventIdFormatCardTitle": {
+      "message": "Lägg till ett strängvärde för händelse-id"
+   },
+   "pixelErrorInvalidEventIdFormatMessage": {
+      "message": "Lägg till ett strängvärde för händelse-id"
+   },
+   "pixelErrorInvalidEventIdFormatRecommendation": {
+      "message": "Felaktig händelse-id-typ för datauppsättnings-id: $1 för händelsen '$2'. Händelse-id-parametern måste vara en sträng. Exempel: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorInvalidEventIdFormatRecommendationGeneric": {
+      "message": "Felaktig händelse-id-typ för datauppsättnings-id: $1. Parametern för händelse-id måste vara en sträng. Exempel: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorInvalidEventIdFormatStep2": {
+      "message": "Sök efter **fbq('track', '$1', ..., {eventID: ...})** och kontrollera om eventID är en sträng"
+   },
+   "pixelErrorInvalidEventIdFormatStep2Generic": {
+      "message": "Sök efter **fbq('track', ..., {eventID: ...})** och kontrollera om eventID är en sträng"
+   },
+   "pixelErrorInvalidEventIdFormatStep3": {
+      "message": "Konvertera värdet för händelse-id till en strängtyp"
+   },
+   "pixelErrorInvalidFbqMethodCardTitle": {
+      "message": "Ogiltig metod i fbq()-anrop"
+   },
+   "pixelErrorInvalidFbqMethodExample": {
+      "message": "Giltiga metoder: ”init”, ”track”, ”trackCustom”, ”trackSingle”, ”trackSingleCustom”"
+   },
+   "pixelErrorInvalidFbqMethodMessage": {
+      "message": "Använd giltiga fbq-kommandon"
+   },
+   "pixelErrorInvalidFbqMethodParameterCardTitle": {
+      "message": "Uppdatera parameterformat"
+   },
+   "pixelErrorInvalidFbqMethodParameterExample": {
+      "message": "Exempel: fbq('init', '123456789', {em: 'user@example.com', ph: '1234567890'}); // user_data måste vara ett objekt"
+   },
+   "pixelErrorInvalidFbqMethodParameterMessage": {
+      "message": "Matcha parametrar med förväntat format"
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendation": {
+      "message": "Anrop till \"fbq('$1', $2);\" med parametern \"$3\" har det ogiltiga värdet \"$4\"."
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendationSimple": {
+      "message": "Ogiltig metodparameter för fbq()."
+   },
+   "pixelErrorInvalidFbqMethodParameterStep2": {
+      "message": "Sök efter **fbq('$1', $2);**"
+   },
+   "pixelErrorInvalidFbqMethodParameterStep3": {
+      "message": "Uppdatera **$1** till ett giltigt parameternamn"
+   },
+   "pixelErrorInvalidFbqMethodRecommendation": {
+      "message": "\"fbq('$1', ...);\" är inte ett giltigt fbq-kommando. Använd giltiga fbq-metoder som \"init\", \"track\", \"trackCustom\"."
+   },
+   "pixelErrorInvalidFbqMethodStep2": {
+      "message": "Hitta fbq()-anropet med den ogiltiga metoden \"$1\"."
+   },
+   "pixelErrorInvalidFbqMethodStep3": {
+      "message": "Ersätt det med ett giltigt metodnamn som ”track”, ”init” eller ”trackCustom”."
+   },
+   "pixelErrorInvalidJsonLdCardTitle": {
+      "message": "Uppdatera JSON-LD-format"
+   },
+   "pixelErrorInvalidJsonLdMessage": {
+      "message": "Se till att JSON-LD är korrekt och giltigt formaterat"
+   },
+   "pixelErrorInvalidJsonLdRecommendation": {
+      "message": "Det gick inte att analysera JSON-LD-taggen. Ogiltig JSON hittades: \"$1\". Kontrollera att JSON-LD-uppmärkningen är korrekt och giltig innan du skickar den till pixeln."
+   },
+   "pixelErrorInvalidJsonLdStep2": {
+      "message": "Sök efter **$1**"
+   },
+   "pixelErrorInvalidJsonLdStep3": {
+      "message": "Korrekt format och se till att det är ett giltigt JSON-format"
+   },
+   "pixelErrorInvalidParamCardTitle": {
+      "message": "Uppdatera ogiltig parameter för din händelse"
+   },
+   "pixelErrorInvalidParamExample": {
+      "message": "Exempel: fbq('track', 'Purchase', {currency: 'USD', value: 30.00})"
+   },
+   "pixelErrorInvalidParamFormatCardTitle": {
+      "message": "Uppdatera ditt parameterformat"
+   },
+   "pixelErrorInvalidParamFormatExample": {
+      "message": "Vanliga parametrar: värde, valuta, content_ids, content_type och fler. Fullständig lista på wiki: https://developers.facebook.com/docs/meta-pixel/reference/"
+   },
+   "pixelErrorInvalidParamFormatMessage": {
+      "message": "Uppdatera ditt parameterformat"
+   },
+   "pixelErrorInvalidParamFormatRecommendation": {
+      "message": "Ogiltigt parameterformat för $1."
+   },
+   "pixelErrorInvalidParamFormatStep2": {
+      "message": "Sök efter **$1**"
+   },
+   "pixelErrorInvalidParamMessage": {
+      "message": "Ta bort eller uppdatera ogiltig parameter för din händelse"
+   },
+   "pixelErrorInvalidParamRecommendation": {
+      "message": "Parametern ”$1” är ogiltig för händelsen ”$2”."
+   },
+   "pixelErrorInvalidParamStep2": {
+      "message": "Sök efter **fbq('track', $1, ...)**"
+   },
+   "pixelErrorInvalidParamStep3": {
+      "message": "Ta bort eller uppdatera $1"
+   },
+   "pixelErrorInvalidPixelIdCardTitle": {
+      "message": "Lägg till ett giltigt datauppsättnings-id"
+   },
+   "pixelErrorInvalidPixelIdMessage": {
+      "message": "Lägg till ett giltigt datauppsättnings-id"
+   },
+   "pixelErrorInvalidPixelIdRecommendation": {
+      "message": "Ditt datauppsättnings-id $1 är ogiltigt. Verifiera att id:t är korrekt i Meta Händelsehanteraren och uppdatera pixelkoden."
+   },
+   "pixelErrorInvalidPixelIdStep2": {
+      "message": "Sök efter **fbq('init', $1)** i baskoden för pixelinstallationen"
+   },
+   "pixelErrorInvalidPixelIdStep3": {
+      "message": "Ersätt ”$1” med en giltig som finns i Meta Händelsehanteraren"
+   },
+   "pixelErrorMultiplePixelsCardTitle": {
+      "message": "Sammanfoga till en enda Meta-pixel"
+   },
+   "pixelErrorMultiplePixelsMessage": {
+      "message": "Sammanfoga till en enda Meta-pixel"
+   },
+   "pixelErrorMultiplePixelsRecommendation": {
+      "message": "Flera pixlar har upptäckts på den här sidan. Flera pixlar kan tyda på konfigurationsproblem och hindra sömlös händelsespårning."
+   },
+   "pixelErrorMultiplePixelsStep2": {
+      "message": "Sök efter **fbq('init', ...)** i baskoden för pixelinstallationen"
+   },
+   "pixelErrorMultiplePixelsStep3": {
+      "message": "Ta bort alla pixlar utom en och se till att du uppdaterar dina kampanjer om en dubblett av en pixel används"
+   },
+   "pixelErrorNegativeEventParamCardTitle": {
+      "message": "Lägg till positivt värde till 1 USD"
+   },
+   "pixelErrorNegativeEventParamMessage": {
+      "message": "Kontrollera dina händelsedata"
+   },
+   "pixelErrorNegativeEventParamRecommendation": {
+      "message": "Parametern ”$1” är negativ för händelsen ”$2”. Händelseparametrar som värde, antal med flera får inte vara negativa."
+   },
+   "pixelErrorNegativeEventParamStep2": {
+      "message": "Sök efter **fbq('track', $1)**"
+   },
+   "pixelErrorNegativeEventParamStep3": {
+      "message": "Uppdatera värdet till ett positivt tal"
+   },
+   "pixelErrorNoEventIdCardTitle": {
+      "message": "Lägg till händelse-id:n"
+   },
+   "pixelErrorNoEventIdMessage": {
+      "message": "Inkludera ett händelse-id för spårning och deduplicering"
+   },
+   "pixelErrorNoEventIdRecommendation": {
+      "message": "Vi har upptäckt ett nollvärde eller ett tomt händelse-id från den fjärde parametern för pixel-id: $1. Inkludera ett händelse-id. Exempel: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorNoEventIdStep2": {
+      "message": "Sök efter **fbq('track', ..., ..., ..., {})** och leta efter platser där den fjärde parametern är tom eller där händelse-id:t är tomt"
+   },
+   "pixelErrorNoEventIdStep3": {
+      "message": "Ange händelse-id eller ta bort den fjärde parametern"
+   },
+   "pixelErrorNoEventNameCardTitle": {
+      "message": "Lägg till ett händelsenamn"
+   },
+   "pixelErrorNoEventNameExample": {
+      "message": "Exempel: fbq('track', 'AddToCart')"
+   },
+   "pixelErrorNoEventNameMessage": {
+      "message": "Ange ett händelsenamn för att spåra händelsen"
+   },
+   "pixelErrorNoEventNameRecommendation": {
+      "message": "Händelsenamn saknas. Spårningshändelser måste loggas med ett händelsenamn fbq(\"track\", eventName). Exempel: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorNoEventNameStep2": {
+      "message": "Sök efter **fbq('track', '', ...)** eller **fbq('track', ' ', ...)**"
+   },
+   "pixelErrorNoEventNameStep3": {
+      "message": "Lägg till händelsens namn"
+   },
+   "pixelErrorNonstandardEventCardTitle": {
+      "message": "Uppdatera din icke-standardhändelse"
+   },
+   "pixelErrorNonstandardEventMessage": {
+      "message": "Skicka din icke-standardhändelse med trackCustom"
+   },
+   "pixelErrorNonstandardEventRecommendation": {
+      "message": "Du skickar en icke-standardhändelse \"$1\". Skicka dessa händelser med hjälp av trackCustom. Anropa fbq('trackCustom', ...) istället."
+   },
+   "pixelErrorNonstandardEventStep2": {
+      "message": "Sök efter **fbq('track', $1)**"
+   },
+   "pixelErrorNonstandardEventStep3": {
+      "message": "Ersätt med **fbq('trackCustom', $1)**"
+   },
+   "pixelErrorPiiInvalidTypeCardTitle": {
+      "message": "Ta bort ogiltig kundinformation"
+   },
+   "pixelErrorPiiInvalidTypeExample": {
+      "message": "Exempel: **em**, **ph**, **fn**, **ln**, **db**, **ge**, **ct**, **zp**, **external_id**, etc"
+   },
+   "pixelErrorPiiInvalidTypeMessage": {
+      "message": "Ta bort ogiltig kundinformation"
+   },
+   "pixelErrorPiiInvalidTypeRecommendation": {
+      "message": "Ogiltig $1 har angetts för \"$2\". Data skickas inte med några händelser för den här pixeln."
+   },
+   "pixelErrorPiiInvalidTypeStep2": {
+      "message": "Sök efter **fbq('init', $1, {$2:...})**"
+   },
+   "pixelErrorPiiInvalidTypeStep3": {
+      "message": "Uppdatera **$1** eller ersätt med giltig info"
+   },
+   "pixelErrorPiiUnhashedPiiCardTitle": {
+      "message": "Skicka e-postmeddelanden med korrekt nyckelfält"
+   },
+   "pixelErrorPiiUnhashedPiiMessage": {
+      "message": "Skicka e-postmeddelanden med korrekt nyckelfält"
+   },
+   "pixelErrorPiiUnhashedPiiRecommendation": {
+      "message": "Värdet för nyckeln \"$1\" verkar vara PII. Dessa data skickas inte med några händelser för den här pixeln. Det rekommenderade sättet är att anropa fbq('init', 'PIXEL_ID', {em: 'email@email.com', ...})."
+   },
+   "pixelErrorPiiUnhashedPiiStep2": {
+      "message": "Sök efter **$1** och undersök om något värde har ställts in på ett e-postmeddelande"
+   },
+   "pixelErrorPiiUnhashedPiiStep3": {
+      "message": "Uppdatera **$1** till **em**"
+   },
+   "pixelErrorRequiredParamMissingCardTitle": {
+      "message": "Lägg till saknad parameter"
+   },
+   "pixelErrorRequiredParamMissingMessage": {
+      "message": "Lägg till den obligatoriska parameter som saknas för din händelse"
+   },
+   "pixelErrorRequiredParamMissingRecommendation": {
+      "message": "Den obligatoriska parametern $1 saknas för händelsen $2."
+   },
+   "pixelErrorRequiredParamMissingStep2": {
+      "message": "Sök efter **fbq('track', $1, ...)**"
+   },
+   "pixelErrorRequiredParamMissingStep3": {
+      "message": "Lägg till saknad parameter"
+   },
+   "pixelErrorRestrictedEventCardTitle": {
+      "message": "Granska blockerade händelser"
+   },
+   "pixelErrorRestrictedEventMessage": {
+      "message": "Gå till Händelsehanteraren för att granska blockerade händelser"
+   },
+   "pixelErrorRestrictedEventRecommendation": {
+      "message": "Du försöker skicka en begränsad händelse. Händelsen har stoppats."
+   },
+   "pixelErrorRestrictedEventStep1": {
+      "message": "Gå till fliken Inställningar för datauppsättningen i Händelsehanteraren"
+   },
+   "pixelErrorRestrictedEventStep2": {
+      "message": "Gå till avsnittet Webbplatser i Trafikbehörigheter"
+   },
+   "pixelErrorRestrictedEventStep3": {
+      "message": "Granska och uppdatera blockerade händelser eller sluta skicka blockerade händelser från webbplatsen"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelCardTitle": {
+      "message": "Initiera din pixel"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelMessage": {
+      "message": "Initiera pixeln innan du anger metadata"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendation": {
+      "message": "Försöker ställa in argument $1 för ej initierat datauppsättnings-id $2. Initiera pixeln innan du ställer in metadata. Anropa fbq('init', '$3') först."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendationSimple": {
+      "message": "Försöker ange metadata på oinitierad pixel."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep2": {
+      "message": "Sök efter **fbq()**"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep3": {
+      "message": "Anropa **fbq('init', 'PIXEL_ID')** först"
+   },
+   "pixelErrorSiteCodelessOptOutCardTitle": {
+      "message": "Aktivera kodlös händelsekonfiguration"
+   },
+   "pixelErrorSiteCodelessOptOutMessage": {
+      "message": "Aktivera kodlös händelsekonfiguration eller använd manuell pixelintegration"
+   },
+   "pixelErrorSiteCodelessOptOutRecommendation": {
+      "message": "Det går inte att öppna kodlösa händelser för pixeln eftersom webbplatsen har tackat nej. Datauppsättnings-id: $1."
+   },
+   "pixelErrorSiteCodelessOptOutStep2": {
+      "message": "Sök efter **fbq('set', 'codeless', 'false', $1)**"
+   },
+   "pixelErrorSiteCodelessOptOutStep3": {
+      "message": "Ta bort den här raden för att återaktivera den eller aktivera den explicit **fbq('set', 'codeless', 'true', $1);"
+   },
+   "pixelErrorUnableLoadFbqCardTitle": {
+      "message": "Ta bort annonsblockerare"
+   },
+   "pixelErrorUnableLoadFbqMessage": {
+      "message": "Kontrollera nätverksanslutningen och webbläsarens konsol"
+   },
+   "pixelErrorUnableLoadFbqRecommendation": {
+      "message": "Det gick inte att ladda fbq. Annonsblockerare kan också förhindra att pixeln laddas."
+   },
+   "pixelErrorUnableLoadFbqStep1": {
+      "message": "Kontrollera nätverksanslutningen"
+   },
+   "pixelErrorUnableLoadFbqStep2": {
+      "message": "Se till att annonsblockerare är inaktiverade"
+   },
+   "pixelErrorUninitializedPixelCardTitle": {
+      "message": "Initiera din pixel"
+   },
+   "pixelErrorUninitializedPixelMessage": {
+      "message": "Initiera din pixel"
+   },
+   "pixelErrorUninitializedPixelRecommendation": {
+      "message": "Pixel $1 hittades inte. Initialisera pixeln med fbq('init', 'PIXEL_ID') innan du anropar andra fbq-metoder."
+   },
+   "pixelErrorUninitializedPixelStep1": {
+      "message": "Gå till fliken Översikt i Händelsehanteraren och kopiera baskoden för Meta-pixeln"
+   },
+   "pixelErrorUninitializedPixelStep2": {
+      "message": "Klistra in Meta-pixelkoden mellan taggarna \u003Chead> och \u003C/head> på din webbsida"
+   },
+   "pixelErrorUnknownErrorMessage": {
+      "message": "Ett okänt pixelfel har uppstått"
+   },
+   "pixelErrorUnknownErrorRecommendation": {
+      "message": "Du hittar mer information om felet i webbläsarens konsol."
+   },
+   "pixelErrorUnsupportedMetadataCardTitle": {
+      "message": "Ta bort eller uppdatera metadatafält som inte stöds"
+   },
+   "pixelErrorUnsupportedMetadataMessage": {
+      "message": "Ta bort eller uppdatera metadatafält som inte stöds"
+   },
+   "pixelErrorUnsupportedMetadataRecommendation": {
+      "message": "Metadataargumentet stöds inte: $1. Giltiga metadataargument är \"agent\", \"automaticMatchingConfig\", \"codeless\", \"trackSingleOnly\", \"cbData.oneTrustId\"."
+   },
+   "pixelErrorUnsupportedMetadataStep2": {
+      "message": "Sök efter **fbq('set', $1)**"
+   },
+   "pixelErrorUnsupportedMetadataStep3": {
+      "message": "Ersätt med giltigt argument"
+   },
+   "pixelErrorUnverifiedEventCardTitle": {
+      "message": "Verifiera dina händelser"
+   },
+   "pixelErrorUnverifiedEventMessage": {
+      "message": "Verifiera dina händelser i Händelsehanteraren"
+   },
+   "pixelErrorUnverifiedEventRecommendation": {
+      "message": "Du försöker skicka en händelse som inte har verifierats. Händelsen har stoppats. Gå till Händelsehanteraren för mer information."
+   },
+   "pixelErrorUnverifiedEventStep1": {
+      "message": "Gå till diagnostikfliken för datauppsättningen i Händelsehanteraren"
+   },
+   "pixelErrorUnverifiedEventStep2": {
+      "message": "Verifiera händelser"
+   },
+   "pixelErrorUnwantedCustomDataCardTitle": {
+      "message": "Ta bort potentiella överträdelser"
+   },
+   "pixelErrorUnwantedCustomDataExample": {
+      "message": "Exempel: fbq('track', 'Purchase', {...}) - Ta bort fält för ssn, credit_card och password"
+   },
+   "pixelErrorUnwantedCustomDataMessage": {
+      "message": "Ta bort anpassade datafält med potentiella överträdelser"
+   },
+   "pixelErrorUnwantedCustomDataRecommendation": {
+      "message": "Parametrar har tagits bort från anpassade data på grund av potentiella överträdelser. Gå till Händelsehanteraren för att granska."
+   },
+   "pixelErrorUnwantedCustomDataStep2": {
+      "message": "Ta bort lösenord eller ekonomisk information. Du hittar fler typer av överträdelser på wiki"
+   },
+   "pixelErrorUnwantedEventNameCardTitle": {
+      "message": "Granska händelsenamn"
+   },
+   "pixelErrorUnwantedEventNameExample": {
+      "message": "Exempel: felaktiga händelsenamn som \"CreditCardSubmit\", \"PasswordEntered\", \"SSNCollected\""
+   },
+   "pixelErrorUnwantedEventNameMessage": {
+      "message": "Se till att händelsenamnet inte innehåller förbjuden information"
+   },
+   "pixelErrorUnwantedEventNameRecommendation": {
+      "message": "Din händelse har blockerats på grund av potentiella överträdelser."
+   },
+   "pixelErrorUnwantedEventNameStep2": {
+      "message": "Sök efter **fbq('track', ...)**"
+   },
+   "pixelErrorUnwantedEventNameStep3": {
+      "message": "Kontrollera händelsenamnet och se till att det inte innehåller förbjuden information (till exempel lösenord, personnummer, kreditkort och mer)"
+   },
+   "pixelErrorUnwantedUrlDataCardTitle": {
+      "message": "Granska potentiella överträdelser"
+   },
+   "pixelErrorUnwantedUrlDataExample": {
+      "message": "Exempel:\\n❌ Felaktiga webbadresser:\\nhttps://example.com/checkout?email=user@test.com&ssn=123-45-6789\\nhttps://example.com/login?password=secret123&credit_card=4111...\\n\\n✅ Korrekta webbadresser:\\nhttps://example.com/checkout?order_id=12345\\nhttps://example.com/login (inga känsliga frågeparametrar)"
+   },
+   "pixelErrorUnwantedUrlDataMessage": {
+      "message": "Granska webbadressdata och se till att ingen innehåller förbjuden info"
+   },
+   "pixelErrorUnwantedUrlDataRecommendation": {
+      "message": "Frågeparametrar för webbadress har tagits bort på grund av potentiella överträdelser."
+   },
+   "pixelErrorUnwantedUrlDataStep2": {
+      "message": "Granska dina webbadresser – kontrollera både den aktuella sidan (dl) och den som hänvisar (rl) för att se till att inga känsliga uppgifter finns med"
+   },
+   "pixelEventCountPlural": {
+      "message": "$1 evenemang"
+   },
+   "pixelEventCountSingular": {
+      "message": "$1 händelse"
+   },
+   "pixelEventUnnamed": {
+      "message": "Händelse (namnlös)"
+   },
+   "pixelHeaderPlural": {
+      "message": "En pixel har hittats på den här sidan"
+   },
+   "pixelHeaderSingular": {
+      "message": "En pixel har hittats på den här sidan"
+   },
+   "pixelIdLabel": {
+      "message": "Id: $1"
+   },
+   "pixelLoadTime": {
+      "message": "1 ms"
+   },
+   "pixelMetaPixelTitle": {
+      "message": "Meta-pixel"
+   },
+   "pixelMissingFiresMessage": {
+      "message": "Inga pixlar har aktiverats på den aktuella sidan, men pixlar har aktiverats på andra sidor på den här webbplatsen"
+   },
+   "pixelMissingFiresRecommendation": {
+      "message": "Överväg att lägga till pixelspårningshändelser till den här sidan eller kontrollera om befintliga pixlar fungerar korrekt"
+   },
+   "pixelNoEventsRecorded": {
+      "message": "Inga händelser har registrerats ännu"
+   },
+   "pixelNotFiringMessage": {
+      "message": "Pixel $1 är installerad men har inte aktiverats nyligen"
+   },
+   "pixelStatusActive": {
+      "message": "Aktiv"
+   },
+   "pixelStatusAutomaticallyDetected": {
+      "message": "Automatiskt identifierat"
+   },
+   "pixelStatusError": {
+      "message": "Fel"
+   },
+   "pixelStatusEventNotProcessed": {
+      "message": "Händelsen har inte behandlats"
+   },
+   "pixelStatusEventReceived": {
+      "message": "Händelsen har tagits emot"
+   },
+   "pixelStatusInactive": {
+      "message": "Inaktiv"
+   },
+   "pixelStatusReceived": {
+      "message": "Mottaget"
+   },
+   "pixelStatusSent": {
+      "message": "Händelsen har skickats"
+   },
+   "pixelStatusWarning": {
+      "message": "Varning"
+   },
+   "recipeAddMoreFields": {
+      "message": "Lägg till fler"
+   },
+   "recipeCancelAutomation": {
+      "message": "Avbryt automatisering"
+   },
+   "recipeCompleteActionToContinue": {
+      "message": "Slutför åtgärd för att fortsätta"
+   },
+   "recipeErrorBackButton": {
+      "message": "Gå till startsidan"
+   },
+   "recipeErrorMessage": {
+      "message": "På grund av ett oväntat problem gick det inte att starta automatiseringen. Kontrollera internetanslutningen och försök igen senare."
+   },
+   "recipeErrorTitle": {
+      "message": "Försök igen senare."
+   },
+   "recipeFailedStateDescription": {
+      "message": "Det gick inte att slutföra åtgärden. Du måste slutföra den manuellt om du vill fortsätta med konfigurationen."
+   },
+   "recipeFieldIdentifierLabel": {
+      "message": "Identifierare"
+   },
+   "recipeFieldMappingInfoBoxTextLead": {
+      "message": "För att fortsätta bekräftar du händelsenamn och händelsetid och väljer minst ett identifieringsfält (lead-id rekommenderas)."
+   },
+   "recipeFieldMappingInfoBoxTextOpportunity": {
+      "message": "Bekräfta händelsenamn och händelsetid för att fortsätta."
+   },
+   "recipeFieldOptionalLabel": {
+      "message": "Valfritt"
+   },
+   "recipeFieldsDropdownNoResultsFound": {
+      "message": "Inga sökresultat hittades"
+   },
+   "recipeFieldsEventNameTooltipContent": {
+      "message": "Det här namnet mappas till leads i din CRM-tratt. Skicka alla faser när de uppdateras."
+   },
+   "recipeFieldsEventNameTooltipExample": {
+      "message": "dvs."
+   },
+   "recipeFieldsEventNameTooltipExample1": {
+      "message": "Rå lead från Meta"
+   },
+   "recipeFieldsEventNameTooltipExample2": {
+      "message": "Marknadsföringskvalificerad lead"
+   },
+   "recipeFieldsEventNameTooltipExample3": {
+      "message": "Försäljningsmöjlighet"
+   },
+   "recipeFieldsEventNameTooltipExample4": {
+      "message": "Kund"
+   },
+   "recipeFieldsEventNameTooltipLearnMore": {
+      "message": "Ta reda på mer"
+   },
+   "recipeFieldsEventNameTooltipLearnMoreContinued": {
+      "message": "om hur du integrerar konverteringsleads."
+   },
+   "recipeFileABug": {
+      "message": "Skicka en felrapport"
+   },
+   "recipeFileAnotherBug": {
+      "message": "Skicka en felrapport till"
+   },
+   "recipeIntroStartAutomationButton": {
+      "message": "Starta automatisering"
+   },
+   "recipeMaibaCallerIndicator": {
+      "message": "Återgå till MAIBA"
+   },
+   "recipeMarkAsComplete": {
+      "message": "Markera som slutförd"
+   },
+   "recipeMilestoneActionNeededStatus": {
+      "message": "Åtgärd krävs"
+   },
+   "recipeMilestoneCompleteStatus": {
+      "message": "Klart"
+   },
+   "recipeMilestoneFailedStatus": {
+      "message": "Misslyckades"
+   },
+   "recipeMilestoneInProgressStatus": {
+      "message": "Pågående"
+   },
+   "recipeMilestonePausedStatus": {
+      "message": "Pausad"
+   },
+   "recipeMilestoneStepFailedSuffix": {
+      "message": "· Steget misslyckades"
+   },
+   "recipeOpportunityChoiceNo": {
+      "message": "nej"
+   },
+   "recipeOpportunityChoiceYes": {
+      "message": "ja"
+   },
+   "recipeOpportunityQuestionDropdownLabel": {
+      "message": "Använder du möjligheter?"
+   },
+   "recipeOpportunityQuestionInfoText": {
+      "message": "Möjligheter synkar Salesforce-avtalsstatus med Meta så att annonser kan optimera för verkliga intäktsresultat, inte bara leads."
+   },
+   "recipeOpportunityQuestionLearnMore": {
+      "message": "Ta reda på mer"
+   },
+   "recipeOpportunityQuestionNo": {
+      "message": "Nej"
+   },
+   "recipeOpportunityQuestionYes": {
+      "message": "Ja"
+   },
+   "recipePause": {
+      "message": "Pausa"
+   },
+   "recipeResume": {
+      "message": "Fortsätt"
+   },
+   "recipeRetry": {
+      "message": "Försök igen"
+   },
+   "recipeReturnToMaiba": {
+      "message": "Återgå till MAIBA"
+   },
+   "recipeReturnToTab": {
+      "message": "Gå tillbaka till fliken"
+   },
+   "recipeReturnToTabPrompt": {
+      "message": "Gå tillbaka till fliken där automatiseringen kördes och klicka sedan på Fortsätt."
+   },
+   "recipeStepFailed": {
+      "message": "Misslyckades"
+   },
+   "recipeStepNumber": {
+      "message": "Steg 1"
+   },
+   "recipeStepSkipped": {
+      "message": "Hoppat över"
+   },
+   "recipeStepSkippedTooltip": {
+      "message": "Det här steget hoppades över eftersom det inte längre anses behövas."
+   },
+   "recipeStepUserActionRequired": {
+      "message": "Åtgärd krävs"
+   },
+   "recipeSummaryHeaderTitle": {
+      "message": "Sammanfattning"
+   },
+   "recipeSwitchToActiveTabHint": {
+      "message": "Klicka för att byta till aktiv flik och påskynda automatiseringen."
+   },
+   "recipeThanksForFeedback": {
+      "message": "Tack för att du lämnar feedback"
+   },
+   "recipeVerifying": {
+      "message": "Verifierar …"
+   },
+   "recipeViewInEventsManager": {
+      "message": "Visa i Händelsehanteraren"
+   },
+   "recipeViewReport": {
+      "message": "Visa automatiseringssammanfattning"
+   },
+   "recipeWpAdminUrlInfoText": {
+      "message": "Vi kunde inte identifiera din webbadress för WordPress-administratör automatiskt. Ange den fullständiga webbadressen till din WordPress-administratörsöversikt så att vi kan fortsätta med konfigurationen."
+   },
+   "recipeWpAdminUrlInputLabel": {
+      "message": "Ange din webbadress för WordPress-administratör (till exempel https://yoursite.com/wp-admin/)"
+   },
+   "recipeYourActionIsRequired": {
+      "message": "Din åtgärd krävs"
+   },
+   "remove": {
+      "message": "Ta bort"
+   },
+   "remove_asset_button_label": {
+      "message": "Ta bort den här resursen"
+   },
+   "remove_asset_button_required_label": {
+      "message": "Den här resursen krävs och kan inte tas bort"
+   },
+   "reportAiGenerated": {
+      "message": "AI-genererat"
+   },
+   "reportAutomationCountPlural": {
+      "message": "$1 automatiseringar"
+   },
+   "reportAutomationCountSingular": {
+      "message": "$1 automatisering"
+   },
+   "reportAutomationPanelDescription": {
+      "message": "Granska status, tidslinje och åtgärder som har vidtagits under den här automatiseringen."
+   },
+   "reportAutomationSummaryDescription": {
+      "message": "En detaljerad uppdelning av din automatiseringsupplevelse. För din integritet kommer detta inte att lagras på vår plattform."
+   },
+   "reportAutomationSummaryTitle": {
+      "message": "Automatiseringssammanfattning"
+   },
+   "reportCapturedDuringEmSelection": {
+      "message": "Val i Händelsehanteraren"
+   },
+   "reportCapturedDuringGaSetup": {
+      "message": "Konfiguration av Google Analytics"
+   },
+   "reportCapturedDuringGtmSetup": {
+      "message": "GTM-konfiguration"
+   },
+   "reportCapturedDuringSfWebhook": {
+      "message": "Salesforce-webhookintegration"
+   },
+   "reportCapturedIdsCreatedDuringSession": {
+      "message": "Skapade under sessionen"
+   },
+   "reportCapturedIdsDescription": {
+      "message": "Följande id:n användes under automatiseringen."
+   },
+   "reportCapturedIdsEmpty": {
+      "message": "Inga id-handlingar användes under automatiseringen."
+   },
+   "reportCapturedIdsExisting": {
+      "message": "Befintlig"
+   },
+   "reportCapturedIdsHeading": {
+      "message": "Id:n har använts"
+   },
+   "reportClickToCopy": {
+      "message": "Klicka för att kopiera"
+   },
+   "reportCopied": {
+      "message": "Kopierat"
+   },
+   "reportCopyAll": {
+      "message": "Kopiera allt"
+   },
+   "reportDomainEventsManager": {
+      "message": "Händelsehanteraren"
+   },
+   "reportDomainGoogleAnalytics": {
+      "message": "Google Analytics"
+   },
+   "reportDomainGoogleTagManager": {
+      "message": "Google Taggstyrning"
+   },
+   "reportDomainSalesforce": {
+      "message": "Salesforce"
+   },
+   "reportDomainStape": {
+      "message": "Stape"
+   },
+   "reportExportPdf": {
+      "message": "Exportera sammanfattning som pdf"
+   },
+   "reportExportPdfNote": {
+      "message": "Det kan ta upp till 45 sekunder att exportera."
+   },
+   "reportFlowAutomationName": {
+      "message": "Automatiseringsflöde"
+   },
+   "reportFlowSummaryDescription": {
+      "message": "Granska statusar, tidslinjer och åtgärder som har vidtagits för alla automatiseringar i det här flödet."
+   },
+   "reportFlowSummaryHeading": {
+      "message": "Flödessammanfattning"
+   },
+   "reportIdCountPlural": {
+      "message": "$1 id:n"
+   },
+   "reportIdCountSingular": {
+      "message": "$1 id"
+   },
+   "reportIdLabelAdAccountId": {
+      "message": "Annonskonto-id"
+   },
+   "reportIdLabelBusinessId": {
+      "message": "Företags-id"
+   },
+   "reportIdLabelCustom": {
+      "message": "Anpassat id"
+   },
+   "reportIdLabelDatasetId": {
+      "message": "Datauppsättnings-id"
+   },
+   "reportIdLabelGaMeasurementId": {
+      "message": "Mät-id för Google Analytics"
+   },
+   "reportIdLabelGtmAccountId": {
+      "message": "Kontonamn för Google Tagghanteraren"
+   },
+   "reportIdLabelGtmContainerId": {
+      "message": "Behållar-id för Google Tagghanteraren"
+   },
+   "reportIdLabelGtmServerContainerName": {
+      "message": "Serverbehållare för Google Tagghanteraren"
+   },
+   "reportIdLabelGtmWebContainerName": {
+      "message": "Webbehållare för Google Tagghanteraren"
+   },
+   "reportIdLabelSgwDataPlaneUrl": {
+      "message": "Webbadress för dataplan i Signals Gateway"
+   },
+   "reportIdLabelSgwPixelId": {
+      "message": "Datauppsättnings-id för Signals Gateway"
+   },
+   "reportIdLabelWebhookIntegrationId": {
+      "message": "Id för webhook-integration"
+   },
+   "reportIdLabelWebhookUrl": {
+      "message": "Webhook-webbadress"
+   },
+   "reportInProgress": {
+      "message": "Pågående"
+   },
+   "reportKeyScreenshotEndOfAutomation": {
+      "message": "Slut på automatisering"
+   },
+   "reportKeyScreenshotFinalState": {
+      "message": "Slutgiltig automatiseringsstatus"
+   },
+   "reportLabelActionsTaken": {
+      "message": "Utförda åtgärder"
+   },
+   "reportLabelAutomations": {
+      "message": "Automatiseringar"
+   },
+   "reportLabelDuration": {
+      "message": "Varaktighet"
+   },
+   "reportLabelStatus": {
+      "message": "Status"
+   },
+   "reportLabelTimeline": {
+      "message": "Tidslinje"
+   },
+   "reportMilestoneComplete": {
+      "message": "Slutförd"
+   },
+   "reportNavHowWeUseData": {
+      "message": "Så här använder vi dina data"
+   },
+   "reportNavIdsAccessed": {
+      "message": "Id:n som har använts"
+   },
+   "reportNavPagesVisited": {
+      "message": "Besökta sidor och domäner"
+   },
+   "reportNavPrivacySecurity": {
+      "message": "Integritet och säkerhet"
+   },
+   "reportNavSummary": {
+      "message": "Sammanfattning"
+   },
+   "reportOverviewCapiGatewayDescription": {
+      "message": "Automatiseringen har konfigurerat Conversions API Gateway för spårning av händelser på serversidan. Denna Gateway skickar händelsedata direkt från din server till Meta, vilket förbättrar datatillförlitligheten och matchningskvaliteten."
+   },
+   "reportOverviewCapiGatewayTitle": {
+      "message": "Konfiguration av Conversions API Gateway"
+   },
+   "reportOverviewDefaultDescription": {
+      "message": "Den här rapporten sammanfattar de åtgärder som vidtagits under automatiseringsprocessen."
+   },
+   "reportOverviewDefaultTitle": {
+      "message": "Automatiseringen har slutförts"
+   },
+   "reportOverviewGtmServerDescription": {
+      "message": "Den här automatiseringen har konfigurerat taggning på serversidan via Google Tagghanterare. Taggning på serversidan förbättrar datakvaliteten, webbplatsens prestanda och användarintegriteten genom att behandla taggar på en server istället för i webbläsaren."
+   },
+   "reportOverviewGtmServerTitle": {
+      "message": "Konfiguration av Google Tagghanteraren på serversidan"
+   },
+   "reportOverviewGtmWebDescription": {
+      "message": "Den här automatiseringen har konfigurerat en webbehållare för Google Tagghanterare för din webbplats. Med behållaren kan du hantera marknadsföringstaggar, analys och spårningspixlar utan att ändra webbplatskoden."
+   },
+   "reportOverviewGtmWebTitle": {
+      "message": "Konfiguration av webbehållare för Google Tagghanteraren"
+   },
+   "reportOverviewMetaPixelDescription": {
+      "message": "Automatiseringen har installerat och verifierat Meta-pixeln på din webbplats. Pixeln spårar besökarnas aktivitet och hjälper dig mäta annonseffektiviteten, bygga upp målgrupper och optimera annonsleveransen."
+   },
+   "reportOverviewMetaPixelTitle": {
+      "message": "Meta-pixelinstallering"
+   },
+   "reportOverviewSalesforceDescription": {
+      "message": "Den här automatiseringen har konfigurerat Meta CRM-CAPI-webhooks i din Salesforce-instans. Webhook-integrationen skickar CRM-händelser från Salesforce direkt till Meta, vilket möjliggör bättre annonsinriktning och mätning genom händelsedelning på serversidan."
+   },
+   "reportOverviewSalesforceTitle": {
+      "message": "Konfiguration av Salesforce CRM-CAPI Webhook"
+   },
+   "reportPagesDescription": {
+      "message": "Följande sidor har besökts under din automatiseringsupplevelse."
+   },
+   "reportPagesDescriptionShort": {
+      "message": "Följande sidor har besökts under automatiseringen."
+   },
+   "reportPagesEmpty": {
+      "message": "Inga sidor besöktes under automatiseringen."
+   },
+   "reportPagesHeading": {
+      "message": "Besökta sidor och domäner"
+   },
+   "reportRecipeNameGaCreateAccount": {
+      "message": "Skapa ett Google Analytics-konto"
+   },
+   "reportRecipeNameGtmCreateAccount": {
+      "message": "Skapa GTM-konto"
+   },
+   "reportRecipeNameGtmProvisionServer": {
+      "message": "Tilldela GTM-serverbehållare"
+   },
+   "reportRecipeNameInstallFacebookForWoocommerce": {
+      "message": "Installera Facebook för WooCommerce"
+   },
+   "reportRecipeNameSalesforceWebhook": {
+      "message": "Konfigurera Salesforce CRM Webhook"
+   },
+   "reportRecipeNameSgwGtmSetup": {
+      "message": "Konfigurera Signals Gateway med GTM"
+   },
+   "reportRecipeNameShopifyProductSync": {
+      "message": "Shopify-produktsynkning"
+   },
+   "reportRecipeNameUpdateFacebookForWoocommerce": {
+      "message": "Uppdatera Facebook för WooCommerce"
+   },
+   "reportStatusFailed": {
+      "message": "Misslyckades"
+   },
+   "reportStatusSetupIncomplete": {
+      "message": "Konfigurationen är ofullständig"
+   },
+   "reportStatusSuccess": {
+      "message": "Klart"
+   },
+   "reportSummaryDescription": {
+      "message": "Granska statusar, tidslinjer och åtgärder som har vidtagits under automatiseringsupplevelsen."
+   },
+   "reportSummaryFailureDescription": {
+      "message": "Automatiseringen kunde inte slutföras. Granska tidslinjen och de resurser som skapades innan felet inträffade."
+   },
+   "reportSummaryHeading": {
+      "message": "Sammanfattning"
+   },
+   "reportTimelineStarted": {
+      "message": "Startade $1"
+   },
+   "reportTitleFailure": {
+      "message": "Automatisering misslyckades: $1"
+   },
+   "reportTitleFlow": {
+      "message": "Sammanfattning av automatiseringsflöde"
+   },
+   "reportTitleSuccess": {
+      "message": "Automatiseringssammanfattning: $1"
+   },
+   "required": {
+      "message": "Obligatoriskt"
+   },
+   "resolutionStepAddingMissingEventsTitle": {
+      "message": "Lägger till saknade händelser"
+   },
+   "resolutionStepClickToCopy": {
+      "message": "Klicka för att kopiera"
+   },
+   "resolutionStepConfirmNewEvents": {
+      "message": "Bekräfta nya händelser"
+   },
+   "resolutionStepEnableAAMEventsTitle": {
+      "message": "Aktivera automatisk avancerad matchning"
+   },
+   "resolutionStepEnableMAMEventsTitle": {
+      "message": "Konfigurera manuell avancerad matchning"
+   },
+   "resolutionStepInvalidValueCurrencyTitle": {
+      "message": "Uppdatera värde och valuta"
+   },
+   "resolutionStepLeaveTabOpen": {
+      "message": "Lämna den här fliken öppen"
+   },
+   "resolutionStepOpenEventSetupTool": {
+      "message": "Öppna verktyget för händelsekonfiguration för din webbplats"
+   },
+   "resolutionStepOpenWebsiteCode": {
+      "message": "Öppna din webbplatskod."
+   },
+   "resolutionStepSearchFbqInit": {
+      "message": "Sök efter **fbq('init'...)** för att hitta platser där du använder Meta-pixeln."
+   },
+   "resolutionStepSearchFbqTrackPurchase": {
+      "message": "Sök efter din pixels spårade köphändelse."
+   },
+   "resolutionStepUpdateCodeBlock": {
+      "message": "Uppdatera kodblocket så att det omfattar avancerade matchningsdata nedan som tredje parameter."
+   },
+   "resolutionStepUpdateCurrencyField": {
+      "message": "Uppdatera valutafältet."
+   },
+   "resolutionStepUpdateValueField": {
+      "message": "Uppdatera värdefältet."
+   },
+   "resolutionStepUserActionRequired": {
+      "message": "Användaråtgärd krävs"
+   },
+   "resolutionStepValueFieldInformation": {
+      "message": "Information i värdefältet:"
+   },
+   "resolutionStepValueFieldRequirement1": {
+      "message": "Måste vara ett numeriskt värde större än 0"
+   },
+   "resolutionStepValueFieldRequirement2": {
+      "message": "Kan innehålla decimalpunkt. Till exempel 9,99 eller 9."
+   },
+   "resolutionStepValueFieldRequirement3": {
+      "message": "Lägg inte till fler siffror, specialtecken eller symboler i valutaparametern."
+   },
+   "resolutionStepsDefault": {
+      "message": "Lösningssteg"
+   },
+   "reviewSuggestionsEmpty": {
+      "message": "Inga föreslagna händelser just nu."
+   },
+   "reviewSuggestionsIneligible": {
+      "message": "Föreslagna händelser är inte tillgängliga för den här pixeln ännu."
+   },
+   "reviewSuggestionsLoading": {
+      "message": "Laddar föreslagna händelser …"
+   },
+   "ruleOperator_eq": {
+      "message": "är lika med"
+   },
+   "ruleOperator_gt": {
+      "message": "är större än"
+   },
+   "ruleOperator_gte": {
+      "message": "är större än eller lika med"
+   },
+   "ruleOperator_i_contains": {
+      "message": "innehåller"
+   },
+   "ruleOperator_i_greater_than_or_equal": {
+      "message": "är större än eller lika med"
+   },
+   "ruleOperator_i_is_any": {
+      "message": "är någon av"
+   },
+   "ruleOperator_i_less_than_or_equal": {
+      "message": "är mindre än eller lika med"
+   },
+   "ruleOperator_i_not_contains": {
+      "message": "innehåller inte"
+   },
+   "ruleOperator_lt": {
+      "message": "är mindre än"
+   },
+   "ruleOperator_lte": {
+      "message": "är mindre än eller lika med"
+   },
+   "ruleOperator_neq": {
+      "message": "är inte lika med"
+   },
+   "ruleOperator_or": {
+      "message": "eller"
+   },
+   "ruleOperator_regex_match": {
+      "message": "matchar"
+   },
+   "screenshotGalleryDisclaimer": {
+      "message": "Skärmbilder sparas bara på din enhet och rensas när sessionen avslutas."
+   },
+   "screenshotGalleryTimeDaysAgo": {
+      "message": "För $1 dag sedan"
+   },
+   "screenshotGalleryTimeHoursAgo": {
+      "message": "För $1 timme sedan"
+   },
+   "screenshotGalleryTimeJustNow": {
+      "message": "alldeles nyss"
+   },
+   "screenshotGalleryTimeMinutesAgo": {
+      "message": "För $1 minut sedan"
+   },
+   "selector_no_options_available": {
+      "message": "Inga tillgängliga alternativ"
+   },
+   "selector_no_results_found": {
+      "message": "Inga resultat hittades"
+   },
+   "selector_select_placeholder": {
+      "message": "-- Välj --"
+   },
+   "server_container_creation_title": {
+      "message": "Serverbehållare"
+   },
+   "server_container_name_label": {
+      "message": "Behållarens namn"
+   },
+   "server_container_tagging_url_label": {
+      "message": "Webbadress för taggningsserver"
+   },
+   "settingsDescription": {
+      "message": "Hantera enkelt konfigurationen av Meta-pixeln och optimera hur den fungerar åt dig."
+   },
+   "settingsErrorOccurred": {
+      "message": "Ett fel har inträffat"
+   },
+   "settingsOverlayNotificationsDescription": {
+      "message": "Visa kontextuella överlagringsaviseringar på sidor med dina pixlar"
+   },
+   "settingsOverlayNotificationsTitle": {
+      "message": "Överlagringsaviseringar"
+   },
+   "settingsTitle": {
+      "message": "Inställningar"
+   },
+   "settingsWaitSpeedFast": {
+      "message": "Snabb"
+   },
+   "settingsWaitSpeedFastDescription": {
+      "message": "Mindre än 1 sekund"
+   },
+   "settingsWaitSpeedMedium": {
+      "message": "Ganska säkert"
+   },
+   "settingsWaitSpeedMediumDescription": {
+      "message": "2–3 sekunder"
+   },
+   "settingsWaitSpeedSlow": {
+      "message": "Långsam"
+   },
+   "settingsWaitSpeedSlowDescription": {
+      "message": "Över 5 sekunder"
+   },
+   "settingsWaitTimeBetweenActionsTitle": {
+      "message": "Väntetid mellan åtgärder"
+   },
+   "setupAddingAllEventsLabel": {
+      "message": "Lägger till alla händelser"
+   },
+   "setupAddingPixelEventsCardTitle": {
+      "message": "Lägger till pixelhändelser"
+   },
+   "setupComplete": {
+      "message": "Konfigurationen har slutförts"
+   },
+   "setupDetailsHeader": {
+      "message": "Konfigurationsinformation"
+   },
+   "setupDetailsInfoTooltip": {
+      "message": "När automatiseringen börjar slutförs följande steg åt dig."
+   },
+   "setupHowItWorksDescription": {
+      "message": "Meta AI skannar din webbplats, identifierar viktiga konverteringshändelser, exempelvis köp, tillägg i kundvagn eller leads, och lägger automatiskt till dem som pixelhändelser. Ingen kodning krävs."
+   },
+   "setupHowItWorksLabel": {
+      "message": "Så här fungerar det"
+   },
+   "setupPixelEventsAddedHeader": {
+      "message": "Pixelhändelser har lagts till"
+   },
+   "setupPixelEventsAddedSubtitle": {
+      "message": "Nu kan du luta dig tillbaka och njuta av att din kampanjprestanda boostas."
+   },
+   "setupPixelEventsHeader": {
+      "message": "Konfigurera pixelhändelser"
+   },
+   "setupReturnToPreviousPage": {
+      "message": "Gå tillbaka till föregående sida"
+   },
+   "setup_failed": {
+      "message": "Konfigurationen misslyckades"
+   },
+   "setup_requirements": {
+      "message": "Installationskrav"
+   },
+   "shopifyProductSyncIntroStep1SubA": {
+      "message": "Öppna inloggningssidan för Shopify-administratör"
+   },
+   "shopifyProductSyncIntroStep1SubB": {
+      "message": "Logga in på Shopify-administratören för din butik"
+   },
+   "shopifyProductSyncIntroStep1Title": {
+      "message": "Logga in på Shopify-administratören"
+   },
+   "shopifyProductSyncIntroStep2SubA": {
+      "message": "Klicka på **Produkter**"
+   },
+   "shopifyProductSyncIntroStep2SubB": {
+      "message": "Klicka på fliken **Alla**"
+   },
+   "shopifyProductSyncIntroStep2SubC": {
+      "message": "Välj alla produkter"
+   },
+   "shopifyProductSyncIntroStep2Title": {
+      "message": "Identifiera produkter"
+   },
+   "shopifyProductSyncIntroStep3SubA": {
+      "message": "Klicka på **Fler alternativ**"
+   },
+   "shopifyProductSyncIntroStep3SubB": {
+      "message": "Klicka på **Inkludera i försäljningskanaler**"
+   },
+   "shopifyProductSyncIntroStep3SubC": {
+      "message": "Välj **Facebook och Instagram**"
+   },
+   "shopifyProductSyncIntroStep3SubD": {
+      "message": "Klicka på **Inkludera produkter**"
+   },
+   "shopifyProductSyncIntroStep3Title": {
+      "message": "Inkludera produkter"
+   },
+   "showAllEvents": {
+      "message": "Visa alla händelser"
+   },
+   "showAllPixels": {
+      "message": "Visa alla pixlar"
+   },
+   "showAllWarnings": {
+      "message": "Visa alla varningar"
+   },
+   "showLess": {
+      "message": "Visa mindre"
+   },
+   "showLessEvents": {
+      "message": "Visa färre händelser"
+   },
+   "showMore": {
+      "message": "Visa mer"
+   },
+   "stepResumeTooltip": {
+      "message": "Se till att du har slutfört ovanstående åtgärd manuellt innan du fortsätter."
+   },
+   "suggestionButtonTextLabel": {
+      "message": "Knapptexten är ”$1”"
+   },
+   "suggestionExampleUrlsLabel": {
+      "message": "Exempel på webbadresser: $1"
+   },
+   "switcherCatalogSingular": {
+      "message": "1 USD-katalog"
+   },
+   "switcherCatalogsPlural": {
+      "message": "1 USD-kataloger"
+   },
+   "switcherPixelsPlural": {
+      "message": "1 USD-pixel"
+   },
+   "switcherPixelsSingular": {
+      "message": "1 USD-pixel"
+   },
+   "testEventsHeader": {
+      "message": "Testhändelser"
+   },
+   "topActionsSectionHeader": {
+      "message": "Dina populära åtgärder"
+   },
+   "topActionsSectionSubHeader": {
+      "message": "Baserat på din konfiguration"
+   },
+   "triggerEventDetection": {
+      "message": "Upptäck föreslagna händelser"
+   },
+   "useMetaEventSetupToolForWeb": {
+      "message": "Använd Metas verktyg för händelsekonfiguration för webben"
+   },
+   "verificationFailedCancelButton": {
+      "message": "Avbryt automatisering"
+   },
+   "verificationFailedMessage": {
+      "message": "Vi kunde inte identifiera status för den här åtgärden. Om problemet kvarstår kan du avbryta automatiseringen och fortsätta med manuell konfiguration."
+   },
+   "verificationFailedTitle": {
+      "message": "Försök igen"
+   },
+   "verificationFailedTryAgainButton": {
+      "message": "Försök igen"
+   },
+   "verificationInProgressMessage": {
+      "message": "Kontrollerar om åtgärden har slutförts"
+   },
+   "warningsHeader": {
+      "message": "Varningar"
+   },
+   "web_container_creation_title": {
+      "message": "Webbehållare"
+   },
+   "web_container_name_label": {
+      "message": "Behållarens namn"
+   },
+   "what_we_will_create_title": {
+      "message": "Det här skapar vi åt dig"
+   },
+   "wooCommerceIntroSetUpForMeButton": {
+      "message": "Konfigurera åt mig"
+   },
+   "wooCommerceIntroStep1SubA": {
+      "message": "Öppna administratörspanelen för WordPress"
+   },
+   "wooCommerceIntroStep1SubB": {
+      "message": "Logga in på ditt WordPress-konto"
+   },
+   "wooCommerceIntroStep1Title": {
+      "message": "Logga in på WordPress"
+   },
+   "wooCommerceIntroStep2SubA": {
+      "message": "Gå till panelen på vänster sida, välj **Pluginprogram** och sedan **Lägg till pluginprogram**"
+   },
+   "wooCommerceIntroStep2SubB": {
+      "message": "Klicka på **Lägg till pluginprogram**"
+   },
+   "wooCommerceIntroStep2SubC": {
+      "message": "Gå till sökfältet högst upp på sidan"
+   },
+   "wooCommerceIntroStep2SubD": {
+      "message": "Sök efter pluginprogrammet Meta för WooCommerce"
+   },
+   "wooCommerceIntroStep2SubE": {
+      "message": "Skrolla till pluginprogrammet Meta for WooCommerce och klicka på **Installera nu**"
+   },
+   "wooCommerceIntroStep2Title": {
+      "message": "Installera pluginprogram"
+   },
+   "wooCommerceIntroStep3SubA": {
+      "message": "När Meta för WooCommerce är installerat klickar du på **Aktivera**"
+   },
+   "wooCommerceIntroStep3SubB": {
+      "message": "Gå till sidan **Pluginprogram** på vänster sida i panelen"
+   },
+   "wooCommerceIntroStep3SubC": {
+      "message": "Skrolla till pluginprogrammet Meta for WooCommerce och klicka på **Konfigurera**"
+   },
+   "wooCommerceIntroStep3SubD": {
+      "message": "Klicka på **Kom igång** på konfigurationsskärmen"
+   },
+   "wooCommerceIntroStep3Title": {
+      "message": "Aktivera pluginprogram"
+   },
+   "wooCommerceUpdateIntroStep2SubA": {
+      "message": "Öppna sidan Lägg till pluginprogram"
+   },
+   "wooCommerceUpdateIntroStep2SubB": {
+      "message": "Skrolla till pluginprogrammet Meta för WooCommerce"
+   },
+   "wooCommerceUpdateIntroStep2SubC": {
+      "message": "Klicka på **Uppdatera nu**"
+   },
+   "wooCommerceUpdateIntroStep2Title": {
+      "message": "Uppdatera pluginprogram"
+   }
+}

@@ -1,0 +1,6 @@
+2026/07/15-18:14:07.369 5cc Creating DB /home/dread-wing/.config/google-chrome/Profile 1/IndexedDB/https_netfilm.world_0.indexeddb.leveldb since it was missing.
+2026/07/15-18:14:07.372 5cc Reusing MANIFEST /home/dread-wing/.config/google-chrome/Profile 1/IndexedDB/https_netfilm.world_0.indexeddb.leveldb/MANIFEST-000001
+2026/07/15-18:58:09.437 5cc Level-0 table #5: started
+2026/07/15-18:58:09.439 5cc Level-0 table #5: 3651 bytes OK
+2026/07/15-18:58:09.440 5cc Delete type=0 #3
+2026/07/15-18:58:09.441 5cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

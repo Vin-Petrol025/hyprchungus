@@ -89,12 +89,22 @@
 (session-info "toplevel"
     (factory-entry "gimp-file-open-dialog")
     (position 0 0)
-    (size 957 966)
+    (size 957 968)
     (monitor 0))
 (session-info "toplevel"
     (factory-entry "gimp-file-export-dialog")
     (position 0 0)
-    (size 957 966)
+    (size 957 968)
+    (monitor 0))
+(session-info "toplevel"
+    (factory-entry "gimp-levels-tool-dialog")
+    (position 0 0)
+    (size 632 614)
+    (monitor 0))
+(session-info "toplevel"
+    (factory-entry "gimp-curves-tool-dialog")
+    (position 0 0)
+    (size 538 616)
     (monitor 0))
 
 (hide-docks no)

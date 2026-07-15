@@ -1,0 +1,3332 @@
+{
+   "aamConfirmButton": {
+      "message": "Επιβεβαίωση"
+   },
+   "aamEditButton": {
+      "message": "Επεξεργασία"
+   },
+   "aamFieldCityStatePostal": {
+      "message": "Πόλη, πολιτεία, ταχυδρομικός κώδικας"
+   },
+   "aamFieldCountry": {
+      "message": "Χώρα"
+   },
+   "aamFieldDateOfBirth": {
+      "message": "Ημερομηνία γέννησης"
+   },
+   "aamFieldEmail": {
+      "message": "Διεύθυνση email"
+   },
+   "aamFieldExternalId": {
+      "message": "Εξωτερικό αναγνωριστικό"
+   },
+   "aamFieldFirstLastName": {
+      "message": "Όνομα και επώνυμο"
+   },
+   "aamFieldGender": {
+      "message": "Φύλο"
+   },
+   "aamFieldPhoneNumber": {
+      "message": "Αριθμός τηλεφώνου"
+   },
+   "aamInfoDescription": {
+      "message": "Η αυτόματη σύνθετη αντιστοίχιση χρησιμοποιεί δεδομένα πελατών που παρέχονται στην επιχείρησή σας, όπως διευθύνσεις email ή αριθμούς τηλεφώνου, για την αντιστοίχιση επισκεπτών που χρησιμοποιούν επίσης το Meta."
+   },
+   "aamNoEditPermissionTooltip": {
+      "message": "Δεν έχετε δικαίωμα επεξεργασίας. Επικοινωνήστε με τον διαχειριστή."
+   },
+   "aamStepConfirmFieldsDescription": {
+      "message": "Επιβεβαιώστε τα πεδία που θέλετε να στείλετε"
+   },
+   "aamStepUserActionRequired": {
+      "message": "Απαιτείται ενέργεια από τον χρήστη"
+   },
+   "aboutAdvancedMatchingForWeb": {
+      "message": "Πληροφορίες για τη σύνθετη αντιστοίχιση για ιστότοπους"
+   },
+   "aboutEventSetupTool": {
+      "message": "Πληροφορίες για το εργαλείο διαμόρφωσης συμβάντων"
+   },
+   "actionAddMissingEventsCtaLabel": {
+      "message": "Διαμόρφωση για εμένα"
+   },
+   "actionAddMissingEventsDescription": {
+      "message": "Ενισχύστε εύκολα την απόδοση των διαφημίσεών σας και την ακρίβεια των μετρήσεων προσθέτοντας τα συμβάντα που λείπουν στη διαμόρφωσή σας."
+   },
+   "actionAddMissingEventsHeader": {
+      "message": "Προσθήκη συμβάντων που λείπουν"
+   },
+   "actionAutomatableValueLabel": {
+      "message": "Με δυνατότητα αυτοματοποίησης"
+   },
+   "actionCAPIGTMProductRecommendationHeader": {
+      "message": "Κοινοποιήστε με ασφάλεια τα δεδομένα σας μέσω της Διαχείρισης ετικετών Google"
+   },
+   "actionCAPIGTMSetupDescription": {
+      "message": "Αυτό βελτιστοποιεί την ανάπτυξη και τη διαχείριση ετικετών, καθιστώντας εφικτή την αποτελεσματική παρακολούθηση συμβάντων χωρίς αλλαγές στον κώδικα για καλύτερη απόδοση μάρκετινγκ."
+   },
+   "actionCAPIGTMSetupHeader": {
+      "message": "Διαμόρφωση του API μετατροπών με τη Διαχείριση ετικετών Google"
+   },
+   "actionCAPIGeneralSetupDescription": {
+      "message": "Μεγιστοποιήστε τα δεδομένα που μετρούνται στον ιστότοπό σας και συμβάλλετε στη μείωση του κόστους ανά αποτέλεσμα."
+   },
+   "actionCAPIGeneralSetupHeader": {
+      "message": "Διαμόρφωση του API μετατροπών"
+   },
+   "actionCAPISalesforceCRMSetupDescription": {
+      "message": "Η αυτόματη διαμόρφωση επιτρέπει την ακριβή παρακολούθηση συμβάντων σε πραγματικό χρόνο μεταξύ διακομιστών για καλύτερα στατιστικά στοιχεία πελατών και αποδοτικότερο μάρκετινγκ."
+   },
+   "actionCAPISalesforceCRMSetupHeader": {
+      "message": "Διαμόρφωση του API μετατροπών με το CRM του Salesforce"
+   },
+   "actionCardDatasetTooltip": {
+      "message": "Πηγαίνετε στη Διαχείριση συμβάντων για να δείτε αυτό το σύνολο δεδομένων"
+   },
+   "actionCatalogUpsellCtaLabel": {
+      "message": "Προσθήκη προϊόντων"
+   },
+   "actionCatalogUpsellDescription": {
+      "message": "Προσελκύστε νέα κοινά και προσφέρετε μια εξατομικευμένη εμπειρία αγορών βάσει της συμπεριφοράς και των ενδιαφερόντων τους. Διατηρήστε ζωντανό το ενδιαφέρον των πελατών από την αξιολόγηση για αγορά μέχρι και την αγορά με ποικίλες μορφές διαφημίσεων."
+   },
+   "actionCatalogUpsellHeader": {
+      "message": "Προσθέστε προϊόντα σε έναν κατάλογο Meta και μεγιστοποιήστε την απόδοση των διαφημίσεών σας"
+   },
+   "actionFixInvalidValueCurrencyDescription": {
+      "message": "Η διόρθωση μη έγκυρων παραμέτρων τιμής και νομίσματος για τα συμβάντα αγοράς στον ιστότοπο εξασφαλίζει πιο ακριβείς αναφορές και καλύτερη βελτιστοποίηση εκστρατειών."
+   },
+   "actionFixInvalidValueCurrencyHeader": {
+      "message": "Διόρθωση μη έγκυρων παραμέτρων τιμής και νομίσματος"
+   },
+   "actionFreeCAPIGOneClickDescription": {
+      "message": "Στείλτε αυτόματα τα συμβάντα pixel από την πλευρά του διακομιστή. Δεν απαιτείται διαμόρφωση μηχανικής, ούτε επιπλέον ετικέτες. Θα δημιουργήσουμε τη σύνδεση για εσάς."
+   },
+   "actionFreeCAPIGOneClickHeader": {
+      "message": "API μετατροπών του Meta"
+   },
+   "actionFreeCAPIGOneClickTooltip": {
+      "message": "Με το κλικ ενεργοποιείται η προβολή συμβάντων από την πλευρά του διακομιστή που φιλοξενείται από το Meta για αυτή την επιχείρηση. Μπορείτε να αλλάξετε αργότερα αυτή την επιλογή στη Διαχείριση συμβάντων."
+   },
+   "actionFreeCAPIGOneClickValueLift": {
+      "message": "17,8% χαμηλότερο κόστος ανά αποτέλεσμα"
+   },
+   "actionFreeCAPIGOneClickViewDetails": {
+      "message": "Προβολή λεπτομερειών"
+   },
+   "actionInstallFacebookForWooCommerceCtaLabel": {
+      "message": "Ξεκινήστε"
+   },
+   "actionInstallFacebookForWooCommercePluginDescription": {
+      "message": "Το Meta for WooCommerce διατηρεί το κατάστημά σας συγχρονισμένο με το Facebook, το Instagram και το WhatsApp. Λιγότερες εργασίες διαχειριστή για εσάς, περισσότερος χρόνος για την επιχείρησή σας."
+   },
+   "actionInstallFacebookForWooCommercePluginHeader": {
+      "message": "Εγκατάσταση πρόσθετου Meta for WooCommerce"
+   },
+   "actionInstallFacebookForWooCommercePluginSubtitle": {
+      "message": "Εξοικονομήστε χρόνο και προβάλετε τα κατάλληλα προϊόντα στα κατάλληλα άτομα."
+   },
+   "actionSetupMamAamDescription": {
+      "message": "Η σύνθετη αντιστοίχιση παρέχει περισσότερες μετατροπές στις διαφημίσεις σας για να προσεγγίσετε περισσότερα άτομα με εκστρατείες επαναληπτικού μάρκετινγκ."
+   },
+   "actionSetupMamAamHeader": {
+      "message": "Διαμόρφωση σύνθετης αντιστοίχισης"
+   },
+   "actionShopifyProductSyncCtaLabel": {
+      "message": "Ξεκινήστε"
+   },
+   "actionShopifyProductSyncDescription": {
+      "message": "Μερικά αναγνωριστικά περιεχομένου σε αυτή τη σελίδα δεν μπορούν να αντιστοιχιστούν με προϊόντα στον κατάλογό σας. Χρησιμοποιήστε τον συγχρονισμό προϊόντων του Shopify για να προσθέσετε τα προϊόντα που λείπουν."
+   },
+   "actionShopifyProductSyncHeader": {
+      "message": "Συγχρονισμός προϊόντων που λείπουν από το Shopify"
+   },
+   "actionSignalsGatewayGTMSetupDescription": {
+      "message": "Επιτρέπει την ακριβή παρακολούθηση συμβάντων σε πραγματικό χρόνο μεταξύ διακομιστών για καλύτερα στατιστικά στοιχεία πελατών και αποδοτικότερο μάρκετινγκ."
+   },
+   "actionSignalsGatewayGTMSetupHeader": {
+      "message": "Διαμόρφωση του Signals Gateway Pixel με τη Διαχείριση ετικετών Google"
+   },
+   "actionUpdateFacebookForWooCommerceCtaLabel": {
+      "message": "Ενημέρωση πρόσθετου"
+   },
+   "actionUpdateFacebookForWooCommercePluginDescription": {
+      "message": "Κάντε ενημέρωση τώρα για τις πιο πρόσφατες βελτιώσεις και για να συνεχίσει το κατάστημά σας να συγχρονίζεται ομαλά με το Facebook, το Instagram και το WhatsApp."
+   },
+   "actionUpdateFacebookForWooCommercePluginHeader": {
+      "message": "Ενημέρωση πρόσθετου Meta for WooCommerce"
+   },
+   "actionUpdateFacebookForWooCommercePluginSubtitle": {
+      "message": "Μια νέα έκδοση του πρόσθετού σας είναι έτοιμη."
+   },
+   "addMissingEventsCancel": {
+      "message": "Ακύρωση"
+   },
+   "addMissingEventsHeader": {
+      "message": "Προσθήκη συμβάντων που λείπουν"
+   },
+   "addMissingEventsMoreDatasets": {
+      "message": "$1 ακόμη σύνολα δεδομένων"
+   },
+   "addMissingEventsNextSteps": {
+      "message": "Επόμενα βήματα"
+   },
+   "addMissingEventsPotentialBadge": {
+      "message": "Πιθανό -1% του CPR"
+   },
+   "addMissingEventsSetUpForMe": {
+      "message": "Διαμόρφωση για εμένα"
+   },
+   "addMissingEventsSubtitle": {
+      "message": "Προσθέστε τα συμβάντα pixel που λείπουν για να ξεκινήσετε την παρακολούθηση και τη βελτιστοποίηση των συμβάντων μετατροπής, ώστε να βελτιώσετε τα αποτελέσματα των διαφημίσεων."
+   },
+   "addMissingEventsTimeEstimate": {
+      "message": "Λιγότερο από \u003C 1 λεπτό"
+   },
+   "add_more_label": {
+      "message": "Προσθήκη περισσότερων"
+   },
+   "additionalRecommendation": {
+      "message": "επιπλέον πρόταση"
+   },
+   "additionalRecommendations": {
+      "message": "επιπλέον προτάσεις"
+   },
+   "agenticActionAskUserSelect": {
+      "message": "Σας ζητείται να επιλέξετε"
+   },
+   "agenticActionCaptureDropdown": {
+      "message": "Καταγραφή των επιλογών του αναπτυσσόμενου μενού από το στοιχείο $1"
+   },
+   "agenticActionCaptureDropdownActive": {
+      "message": "Γίνεται καταγραφή των επιλογών του αναπτυσσόμενου μενού από το στοιχείο $1"
+   },
+   "agenticActionCaptureDropdownPast": {
+      "message": "Καταγράφηκαν οι επιλογές του αναπτυσσόμενου μενού από το στοιχείο $1"
+   },
+   "agenticActionCaptureStoreAsDetail": {
+      "message": "Αποθήκευση ως $1"
+   },
+   "agenticActionClick": {
+      "message": "Κλικ $1"
+   },
+   "agenticActionClickActive": {
+      "message": "Γίνεται κλικ στο στοιχείο $1"
+   },
+   "agenticActionClickPast": {
+      "message": "Έγινε κλικ στην επιλογή $1"
+   },
+   "agenticActionCloseTab": {
+      "message": "Κλείσιμο καρτέλας $1"
+   },
+   "agenticActionCloseTabActive": {
+      "message": "Κλείνει το στοιχείο $1"
+   },
+   "agenticActionCloseTabPast": {
+      "message": "Έκλεισε η καρτέλα $1"
+   },
+   "agenticActionCopyMatchDetail": {
+      "message": "Αντιστοίχιση $1"
+   },
+   "agenticActionCopyMatchingText": {
+      "message": "Αντιγραφή αντίστοιχου κειμένου στη μνήμη cache $1"
+   },
+   "agenticActionCopyMatchingTextActive": {
+      "message": "Αντιγραφή αντίστοιχου κειμένου στη μνήμη cache $1"
+   },
+   "agenticActionCopyMatchingTextPast": {
+      "message": "Το αντίστοιχο κείμενο αντιγράφηκε στη μνήμη cache $1"
+   },
+   "agenticActionCopyTextFromTarget": {
+      "message": "Αντιγραφή κειμένου από $1 σε μνήμη cache $2"
+   },
+   "agenticActionCopyTextFromTargetActive": {
+      "message": "Αντιγραφή κειμένου από $1 στη μνήμη cache $2"
+   },
+   "agenticActionCopyTextFromTargetPast": {
+      "message": "Το κείμενο αντιγράφηκε από $1 στη μνήμη cache $2"
+   },
+   "agenticActionCopyVisibleText": {
+      "message": "Αντιγραφή ορατού κειμένου στη μνήμη cache $1"
+   },
+   "agenticActionCopyVisibleTextActive": {
+      "message": "Αντιγραφή ορατού κειμένου στη μνήμη cache $1"
+   },
+   "agenticActionCopyVisibleTextPast": {
+      "message": "Το ορατό κείμενο αντιγράφηκε στη μνήμη cache $1"
+   },
+   "agenticActionGetDropdownOptions": {
+      "message": "Διαβάστε τις επιλογές από το $1"
+   },
+   "agenticActionGoToUrl": {
+      "message": "Μετάβαση σε $1"
+   },
+   "agenticActionHover": {
+      "message": "Τοποθέτηση δείκτη στο στοιχείο 1 $"
+   },
+   "agenticActionNeededTitle": {
+      "message": "Απαιτείται ενέργεια"
+   },
+   "agenticActionOpenNewTab": {
+      "message": "Άνοιγμα νέας καρτέλας"
+   },
+   "agenticActionOpenPage": {
+      "message": "Άνοιγμα νέας σελίδας"
+   },
+   "agenticActionOpenPageActive": {
+      "message": "Ανοίγει μια νέα σελίδα"
+   },
+   "agenticActionOpenPagePast": {
+      "message": "Άνοιξε μια νέα σελίδα"
+   },
+   "agenticActionOpenRelativePath": {
+      "message": "Άνοιγμα σχετικής διαδρομής"
+   },
+   "agenticActionOpenRelativePathActive": {
+      "message": "Ανοίγει μια σχετική διαδρομή"
+   },
+   "agenticActionOpenRelativePathPast": {
+      "message": "Άνοιξε μια σχετική διαδρομή"
+   },
+   "agenticActionOpenTab": {
+      "message": "Άνοιγμα καρτέλας στο $1"
+   },
+   "agenticActionOpenTabActive": {
+      "message": "Ανοίγει μια νέα καρτέλα"
+   },
+   "agenticActionOpenTabDestinationDetail": {
+      "message": "Προορισμός: $1"
+   },
+   "agenticActionOpenTabPast": {
+      "message": "Άνοιξε μια νέα καρτέλα"
+   },
+   "agenticActionPaste": {
+      "message": "Επικόλληση σε $1"
+   },
+   "agenticActionPasteSourceDetail": {
+      "message": "Μνήμη cache πηγής: $1"
+   },
+   "agenticActionPasteText": {
+      "message": "Επικόλληση του αποθηκευμένου κειμένου στο στοιχείο $1"
+   },
+   "agenticActionPasteTextActive": {
+      "message": "Γίνεται επικόλληση του αποθηκευμένου κειμένου στο στοιχείο $1"
+   },
+   "agenticActionPasteTextPast": {
+      "message": "Έγινε επικόλληση του αποθηκευμένου κειμένου στο στοιχείο $1"
+   },
+   "agenticActionReloadPage": {
+      "message": "Επαναφόρτωση σελίδας"
+   },
+   "agenticActionReloadPageActive": {
+      "message": "Επαναφόρτωση σελίδας"
+   },
+   "agenticActionReloadPagePast": {
+      "message": "Η σελίδα φορτώθηκε ξανά"
+   },
+   "agenticActionScrollBottom": {
+      "message": "Σκρολάρετε προς τα κάτω"
+   },
+   "agenticActionScrollBottomActive": {
+      "message": "Γίνεται σκρολάρισμα στο τέλος της σελίδας"
+   },
+   "agenticActionScrollBottomPast": {
+      "message": "Έγινε σκρολάρισμα στο τέλος της σελίδας"
+   },
+   "agenticActionScrollElementPercent": {
+      "message": "Μετάβαση $1 σε $2%"
+   },
+   "agenticActionScrollIntoViewDetail": {
+      "message": "Σκρολάρετε πριν αλληλεπιδράσετε με κάποιο στοιχείο εκτός οθόνης."
+   },
+   "agenticActionScrollPercent": {
+      "message": "Μετάβαση στο $1%"
+   },
+   "agenticActionScrollPercentActive": {
+      "message": "Γίνεται σκρολάρισμα στο στοιχείο $1 μέχρι $2"
+   },
+   "agenticActionScrollPercentPage": {
+      "message": "τη σελίδα"
+   },
+   "agenticActionScrollPercentPast": {
+      "message": "Έγινε σκρολάρισμα στο στοιχείο $1 μέχρι $2"
+   },
+   "agenticActionScrollTo": {
+      "message": "Μετάβαση σε $1"
+   },
+   "agenticActionScrollToActive": {
+      "message": "Γίνεται σκρολάρισμα στο στοιχείο $1"
+   },
+   "agenticActionScrollToPast": {
+      "message": "Έγινε σκρολάρισμα στο στοιχείο $1"
+   },
+   "agenticActionScrollTop": {
+      "message": "Μετάβαση στην κορυφή"
+   },
+   "agenticActionScrollTopActive": {
+      "message": "Γίνεται σκρολάρισμα στην αρχή της σελίδας"
+   },
+   "agenticActionScrollTopPast": {
+      "message": "Έγινε σκρολάρισμα στην αρχή της σελίδας"
+   },
+   "agenticActionSelect": {
+      "message": "Επιλογή $1 σε $2"
+   },
+   "agenticActionSelectActive": {
+      "message": "Ορίζεται η επιλογή $1 στο $2"
+   },
+   "agenticActionSelectPast": {
+      "message": "Ορίστηκε η επιλογή $1 στο $2"
+   },
+   "agenticActionSfAskOpportunityPreference": {
+      "message": "Ρωτήστε για την παρακολούθηση ευκαιριών"
+   },
+   "agenticActionSfConfirmFieldMappings": {
+      "message": "Επιβεβαίωση αντιστοιχίσεων πεδίων"
+   },
+   "agenticActionSfGetFieldMappings": {
+      "message": "Λήψη προτεινόμενων αντιστοιχίσεων πεδίων"
+   },
+   "agenticActionSfMutateWebhookIntegration": {
+      "message": "Διαμόρφωση ενσωμάτωσης webhook"
+   },
+   "agenticActionSwitchTab": {
+      "message": "Μετάβαση στην καρτέλα $1"
+   },
+   "agenticActionSwitchTabActive": {
+      "message": "Γίνεται αλλαγή στην καρτέλα $1"
+   },
+   "agenticActionSwitchTabPast": {
+      "message": "Έγινε αλλαγή στην καρτέλα $1"
+   },
+   "agenticActionTypeInto": {
+      "message": "Πληκτρολογήστε σε $1"
+   },
+   "agenticActionTypeIntoActive": {
+      "message": "Πληκτρολογείται στο στοιχείο $1"
+   },
+   "agenticActionTypeIntoPast": {
+      "message": "Πληκτρολογήθηκε στο στοιχείο $1"
+   },
+   "agenticAskUserSelectDescriptionFallback": {
+      "message": "Κάντε μια επιλογή για να συνεχίσετε."
+   },
+   "agenticAskUserSelectFieldLabel": {
+      "message": "Επιλογή"
+   },
+   "agenticAskUserSelectPlaceholder": {
+      "message": "Κάντε μια επιλογή"
+   },
+   "agenticConnectionFailed": {
+      "message": "Δεν είναι δυνατή η επανασύνδεση. Ανανεώστε τη σελίδα."
+   },
+   "agenticConnectionReconnecting": {
+      "message": "Η σύνδεση διακόπηκε. Επανασύνδεση... ($1/$2)"
+   },
+   "agenticDefaultWaitPrompt": {
+      "message": "Ολοκληρώστε την απαιτούμενη ενέργεια."
+   },
+   "agenticElementNameOnly": {
+      "message": "το \"$1\""
+   },
+   "agenticElementNounAccordion": {
+      "message": "ακορντεόν"
+   },
+   "agenticElementNounBanner": {
+      "message": "μπάνερ"
+   },
+   "agenticElementNounButton": {
+      "message": "κουμπί"
+   },
+   "agenticElementNounCard": {
+      "message": "κάρτα"
+   },
+   "agenticElementNounCell": {
+      "message": "κυψέλη"
+   },
+   "agenticElementNounCheckbox": {
+      "message": "κουτάκι"
+   },
+   "agenticElementNounChip": {
+      "message": "τσιπ"
+   },
+   "agenticElementNounDialog": {
+      "message": "παράθυρο διαλόγου"
+   },
+   "agenticElementNounDropdown": {
+      "message": "αναπτυσσόμενο μενού"
+   },
+   "agenticElementNounElement": {
+      "message": "στοιχείο"
+   },
+   "agenticElementNounFileInput": {
+      "message": "εισαγωγή αρχείου"
+   },
+   "agenticElementNounImage": {
+      "message": "εικόνα"
+   },
+   "agenticElementNounInputField": {
+      "message": "Πεδίο εισαγωγής δεδομένων"
+   },
+   "agenticElementNounItem": {
+      "message": "στοιχείο"
+   },
+   "agenticElementNounLink": {
+      "message": "σύνδεσμος"
+   },
+   "agenticElementNounMenu": {
+      "message": "μενού"
+   },
+   "agenticElementNounOption": {
+      "message": "επιλογή"
+   },
+   "agenticElementNounPanel": {
+      "message": "πλαίσιο"
+   },
+   "agenticElementNounRadioButton": {
+      "message": "κουμπί επιλογής"
+   },
+   "agenticElementNounRow": {
+      "message": "σειρά"
+   },
+   "agenticElementNounStep": {
+      "message": "βήμα"
+   },
+   "agenticElementNounSubmitButton": {
+      "message": "Κουμπί υποβολής"
+   },
+   "agenticElementNounTab": {
+      "message": "καρτέλα"
+   },
+   "agenticElementNounTextArea": {
+      "message": "περιοχή κειμένου"
+   },
+   "agenticElementNounTile": {
+      "message": "πλακίδιο"
+   },
+   "agenticElementNounToggle": {
+      "message": "εναλλαγή"
+   },
+   "agenticElementWithName": {
+      "message": "το στοιχείο \"$1\" $2"
+   },
+   "agenticErrorApi": {
+      "message": "Δεν είναι δυνατή η σύνδεση με την υπηρεσία τεχνητής νοημοσύνης. Θέλετε να δοκιμάσετε ξανά;"
+   },
+   "agenticErrorRateLimit": {
+      "message": "Η υπηρεσία τεχνητής νοημοσύνης είναι απασχολημένη. Περιμένετε ή προσπαθήστε ξανά σε λίγο."
+   },
+   "agenticErrorTimeout": {
+      "message": "Η τεχνητή νοημοσύνη καθυστερεί περισσότερο από το αναμενόμενο. Θέλετε να δοκιμάσετε ξανά;"
+   },
+   "agenticErrorTitle": {
+      "message": "Σφάλμα"
+   },
+   "agenticErrorUnknown": {
+      "message": "Κάτι πήγε στραβά. Θέλετε να δοκιμάσετε ξανά;"
+   },
+   "agenticNavigationPageLoadFailed": {
+      "message": "Η φόρτωση της σελίδας απέτυχε. Επανάληψη..."
+   },
+   "agenticNavigationReorienting": {
+      "message": "Μη αναμενόμενη πλοήγηση σελίδας. Αλλαγή προσανατολισμού..."
+   },
+   "agenticPleaseCompleteAction": {
+      "message": "Ολοκληρώστε την ενέργεια για να συνεχίσετε"
+   },
+   "agenticReconnectNow": {
+      "message": "Επανασύνδεση τώρα"
+   },
+   "agenticResyncWithPage": {
+      "message": "Εκ νέου συγχρονισμός με τη Σελίδα"
+   },
+   "agenticScrollPercentFallback": {
+      "message": "το σημείο που ζητήθηκε"
+   },
+   "agenticTabFallbackById": {
+      "message": "καρτέλα $1"
+   },
+   "agenticTabFallbackSelected": {
+      "message": "επιλεγμένη καρτέλα"
+   },
+   "agenticThinking": {
+      "message": "Σε σκέψη..."
+   },
+   "agenticTryAgain": {
+      "message": "Δοκιμάστε ξανά"
+   },
+   "agenticVerbClick": {
+      "message": "Κλικ"
+   },
+   "agenticVerbCopyText": {
+      "message": "Αντιγραφή κειμένου"
+   },
+   "agenticVerbEnterText": {
+      "message": "Εισαγάγετε κείμενο"
+   },
+   "agenticVerbPasteText": {
+      "message": "Επικόλληση κειμένου"
+   },
+   "agenticVerbReadDropdown": {
+      "message": "Διαβάστε τις επιλογές του αναπτυσσόμενου μενού"
+   },
+   "agenticVerbScrollToElement": {
+      "message": "Μεταβείτε στο στοιχείο"
+   },
+   "agenticVerbSelectOption": {
+      "message": "Κάντε μια επιλογή"
+   },
+   "agenticWaitingForAction": {
+      "message": "Περιμένουμε την ενέργειά σας..."
+   },
+   "allRecommendationsHeader": {
+      "message": "Όλες οι προτάσεις"
+   },
+   "automatableBadge": {
+      "message": "Αυτοματοποίηση"
+   },
+   "automationFlowCompleteTitle": {
+      "message": "Διαμόρφωση Διαχείρισης ετικετών Google"
+   },
+   "automationSuccessFeedbackCommentPlaceholder": {
+      "message": "Προαιρετικό: προσθέστε σχόλιο"
+   },
+   "automationSuccessFeedbackFallbackName": {
+      "message": "Αυτοματοποίηση"
+   },
+   "automationSuccessFeedbackPromptTitle": {
+      "message": "Πώς ήταν αυτό το αποτέλεσμα;"
+   },
+   "automationSuccessFeedbackStarLabel": {
+      "message": "Αξιολόγηση με αστέρια"
+   },
+   "automationSuccessFeedbackSubmitError": {
+      "message": "Η υποβολή σχολίων και παρατηρήσεων απέτυχε"
+   },
+   "buttonLoading": {
+      "message": "Φόρτωση"
+   },
+   "buttonStartEventSetupTool": {
+      "message": "Διαμόρφωση συμβάντων"
+   },
+   "buttonTroubleshootPixel": {
+      "message": "Επίλυση προβλήματος με το pixel"
+   },
+   "cancelAutomationCancelButton": {
+      "message": "Ακύρωση αυτοματοποίησης"
+   },
+   "cancelAutomationCancellingButton": {
+      "message": "Ακύρωση..."
+   },
+   "cancelAutomationFromVerificationCancelButton": {
+      "message": "Ακύρωση αυτοματοποίησης"
+   },
+   "cancelAutomationFromVerificationMessage": {
+      "message": "Εξακολουθούμε να μην μπορούμε να επαληθεύσουμε την κατάσταση αυτής της ενέργειας. Ακυρώστε την αυτοματοποίηση για να κάνετε μη αυτόματη διαμόρφωση."
+   },
+   "cancelAutomationFromVerificationTitle": {
+      "message": "Ακύρωση αυτοματοποίησης"
+   },
+   "cancelAutomationFromVerificationTryAgainButton": {
+      "message": "Προσπαθήστε ξανά"
+   },
+   "cancelAutomationResumeButton": {
+      "message": "Συνέχιση αυτοματοποίησης"
+   },
+   "cancelAutomationTitle": {
+      "message": "Θέλετε σίγουρα να κλείσετε και να ακυρώσετε την αυτοματοποίηση;"
+   },
+   "cancelSetupCancelButton": {
+      "message": "Ακύρωση διαμόρφωσης"
+   },
+   "cancelSetupResumeButton": {
+      "message": "Συνέχιση διαμόρφωσης"
+   },
+   "cancelSetupTitle": {
+      "message": "Θέλετε σίγουρα να κλείσετε και να ακυρώσετε τη διαμόρφωση;"
+   },
+   "capiFieldCity": {
+      "message": "Πόλη"
+   },
+   "capiFieldClickId": {
+      "message": "Αναγνωριστικό κλικ"
+   },
+   "capiFieldCountry": {
+      "message": "Χώρα"
+   },
+   "capiFieldDateOfBirth": {
+      "message": "Ημερομηνία γέννησης"
+   },
+   "capiFieldEmail": {
+      "message": "Διεύθυνση email"
+   },
+   "capiFieldEventName": {
+      "message": "Όνομα συμβάντος"
+   },
+   "capiFieldEventTime": {
+      "message": "Ώρα συμβάντος"
+   },
+   "capiFieldExternalId": {
+      "message": "Εξωτερικό αναγνωριστικό"
+   },
+   "capiFieldFirstName": {
+      "message": "Όνομα"
+   },
+   "capiFieldGender": {
+      "message": "Φύλο"
+   },
+   "capiFieldLastName": {
+      "message": "Επώνυμο"
+   },
+   "capiFieldLeadId": {
+      "message": "Αναγνωριστικό υποψήφιου πελάτη Meta"
+   },
+   "capiFieldPhone": {
+      "message": "Αριθμός τηλεφώνου"
+   },
+   "capiFieldState": {
+      "message": "Πολιτεία/Νομός"
+   },
+   "capiFieldZipCode": {
+      "message": "Ταχυδρομικός κώδικας"
+   },
+   "catalogConnectedTo": {
+      "message": "Συνδέθηκε με $1"
+   },
+   "catalogConnections": {
+      "message": "Συνδέσεις"
+   },
+   "catalogCsvHeaderHowToFix": {
+      "message": "Λύση"
+   },
+   "catalogCsvHeaderIssueType": {
+      "message": "Τύπος ζητήματος"
+   },
+   "catalogCsvHeaderMoreInfo": {
+      "message": "Περισσότερες πληροφορίες"
+   },
+   "catalogCsvHeaderSampleType": {
+      "message": "Τύπος δείγματος"
+   },
+   "catalogCsvHeaderSampleValue": {
+      "message": "Παράδειγμα τιμής"
+   },
+   "catalogCsvHeaderTotalReceived": {
+      "message": "Σύνολο ληφθέντων"
+   },
+   "catalogCsvHowToFixText": {
+      "message": "Μάθετε πώς μπορείτε να προσθέσετε προϊόντα στον κατάλογό σας: https://www.facebook.com/business/help/384041892421495?id=725943027795860"
+   },
+   "catalogCsvMoreInfoText": {
+      "message": "Προσθέστε τα προϊόντα που αντιστοιχούν σε αυτά τα αναγνωριστικά περιεχομένου στον κατάλογό σας ή βεβαιωθείτε ότι στέλνετε τα σωστά αναγνωριστικά περιεχομένου με τα συμβάντα σας."
+   },
+   "catalogCsvUnmatchedEvents": {
+      "message": "Μη αντιστοιχισμένα συμβάντα"
+   },
+   "catalogEventNameAddToCart": {
+      "message": "Προσθήκες στο καλάθι"
+   },
+   "catalogEventNameAddToWishlist": {
+      "message": "Προσθήκες στη λίστα επιθυμιών"
+   },
+   "catalogEventNameInitiateCheckout": {
+      "message": "Ενάρξεις ολοκλήρωσης αγορών"
+   },
+   "catalogEventNameLead": {
+      "message": "Ανεύρεση υποψήφιων πελατών"
+   },
+   "catalogEventNamePurchase": {
+      "message": "Αγορές"
+   },
+   "catalogEventNameSearch": {
+      "message": "Αναζητήσεις"
+   },
+   "catalogEventNameSubscribe": {
+      "message": "Συνδρομές"
+   },
+   "catalogEventNameViewContent": {
+      "message": "Προβολές Σελίδας"
+   },
+   "catalogFooterManageConnection": {
+      "message": "Διαχείριση σύνδεσης"
+   },
+   "catalogFooterViewInCommerceManager": {
+      "message": "Προβολή στο Commerce Manager"
+   },
+   "catalogLiveMatchCount": {
+      "message": "Αντιστοιχίστηκαν προϊόντα 1 δολαρίου / 2 δολαρίων"
+   },
+   "catalogLoadError": {
+      "message": "Η φόρτωση δεδομένων καταλόγου απέτυχε"
+   },
+   "catalogManageCatalogConnections": {
+      "message": "Διαχείριση συνδέσεων καταλόγου"
+   },
+   "catalogMatchRate": {
+      "message": "$1% ποσοστό αντιστοίχισης καταλόγου"
+   },
+   "catalogMatchRateAdsImpactedBody": {
+      "message": "Με ποσοστό $1%, έχετε περιορισμένα διαθέσιμα προϊόντα για στόχευση διαφημίσεων. Αυτό θα μπορούσε να οδηγήσει σε μικρότερα κοινά, υψηλότερο κόστος και λιγότερες πωλήσεις."
+   },
+   "catalogMatchRateAdsImpactedFollowup": {
+      "message": "Δείτε παρακάτω πώς μπορείτε να βελτιώσετε το ποσοστό αντιστοίχισης."
+   },
+   "catalogMatchRateAdsImpactedTitle": {
+      "message": "Οι διαφημίσεις σας ενδέχεται να επηρεαστούν"
+   },
+   "catalogMatchRateByEventHeader": {
+      "message": "Αντιστοιχίσεις προϊόντων βάσει συμβάντος"
+   },
+   "catalogMatchRateDescription": {
+      "message": "των αλληλεπιδράσεων με προϊόντα αντιστοιχούν σε προϊόντα σε αυτόν τον κατάλογο"
+   },
+   "catalogMatchRateHeader": {
+      "message": "Ποσοστό αντιστοίχισης καταλόγου"
+   },
+   "catalogMatchRateImproveStep1Body": {
+      "message": "Βεβαιωθείτε ότι όλα τα προϊόντα σας βρίσκονται στον κατάλογό σας."
+   },
+   "catalogMatchRateImproveStep1Title": {
+      "message": "Έλεγχος συγχρονισμένων προϊόντων"
+   },
+   "catalogMatchRateImproveStep2Body": {
+      "message": "Τα αναγνωριστικά προϊόντων πρέπει να αντιστοιχούν ακριβώς στον κατάλογό σας."
+   },
+   "catalogMatchRateImproveStep2Title": {
+      "message": "Επαλήθευση αναγνωριστικών προϊόντων"
+   },
+   "catalogMatchRateImproveStep3Body": {
+      "message": "Βεβαιωθείτε ότι το pixel και τα συμβάντα μετατροπής λειτουργούν σωστά."
+   },
+   "catalogMatchRateImproveStep3Title": {
+      "message": "Επαλήθευση διαμόρφωσης συμβάντος"
+   },
+   "catalogMatchRateImproveTitle": {
+      "message": "Βελτίωση ποσοστού αντιστοίχισης προϊόντων"
+   },
+   "catalogMatchRateLearnMore": {
+      "message": "Μάθετε περισσότερα"
+   },
+   "catalogMatchRateMissing": {
+      "message": "Λείπει"
+   },
+   "catalogMatchRateTimeframe": {
+      "message": "Σε όλους τους συνδεδεμένους ιστότοπους τις τελευταίες 28 ημέρες"
+   },
+   "catalogMatchRateWarning": {
+      "message": "Συνιστούμε να διατηρήσετε το ποσοστό αντιστοίχισης καταλόγου πάνω από 90%."
+   },
+   "catalogMenuCopyCatalogId": {
+      "message": "Αντιγραφή αναγνωριστικού καταλόγου"
+   },
+   "catalogMenuGiveFeedback": {
+      "message": "Υποβολή σχολίων και παρατηρήσεων"
+   },
+   "catalogMenuGoToCatalog": {
+      "message": "Μετάβαση στον κατάλογο"
+   },
+   "catalogMenuMoreOptions": {
+      "message": "Περισσότερες επιλογές"
+   },
+   "catalogMoreCatalogs": {
+      "message": "$1+ περισσότεροι κατάλογοι"
+   },
+   "catalogOnboardingBannerLearnMore": {
+      "message": "Δείξτε μου"
+   },
+   "catalogOnboardingBannerText": {
+      "message": "Πλέον μπορείτε να βλέπετε τους καταλόγους μαζί με τα pixel, με τους ίδιους ελέγχους κατάστασης και τις ίδιες προειδοποιήσεις."
+   },
+   "catalogPixelAssociatedWebsites": {
+      "message": "Συνδεδεμένοι ιστότοποι"
+   },
+   "catalogPixelConnectionDetailsHeader": {
+      "message": "Λεπτομέρειες σύνδεσης pixel"
+   },
+   "catalogPixelProducts": {
+      "message": "Προϊόντα"
+   },
+   "catalogProductImageAlt": {
+      "message": "Εικόνα προϊόντος"
+   },
+   "catalogProductMatchedBadge": {
+      "message": "Αντιστοιχίστηκε"
+   },
+   "catalogProductNotMatchedBadge": {
+      "message": "Δεν αντιστοιχίστηκε"
+   },
+   "catalogProductsSectionTitle": {
+      "message": "Προϊόντα σε αυτή τη σελίδα"
+   },
+   "catalogUnmatchedAddProductsDescription": {
+      "message": "Οι χρήστες αλληλεπιδρούν με προϊόντα στον ιστότοπό σας που δεν αντιστοιχούν σε κανέναν συνδεδεμένο κατάλογο του Pixel σας. Βεβαιωθείτε ότι έχετε προσθέσει στον κατάλογό σας όλα τα προϊόντα του ιστότοπού σας"
+   },
+   "catalogUnmatchedAddProductsLink": {
+      "message": "Μάθετε πώς μπορείτε να προσθέσετε προϊόντα"
+   },
+   "catalogUnmatchedAddProductsTitle": {
+      "message": "Προσθέστε στον κατάλογό σας προϊόντα με τα οποία έχουν αλληλεπιδράσει οι χρήστες"
+   },
+   "catalogUnmatchedContentIdColumnHeader": {
+      "message": "Αναγνωριστικό περιεχομένου"
+   },
+   "catalogUnmatchedDescription": {
+      "message": "Προσθέστε τα προϊόντα που αντιστοιχούν σε αυτά τα αναγνωριστικά περιεχομένου στον κατάλογό σας ή βεβαιωθείτε ότι στέλνετε τα σωστά αναγνωριστικά περιεχομένου με τα συμβάντα σας."
+   },
+   "catalogUnmatchedDownloadList": {
+      "message": "Λήψη λίστας"
+   },
+   "catalogUnmatchedOtherWaysHeader": {
+      "message": "Άλλοι τρόποι να επιλύσετε αυτό το πρόβλημα"
+   },
+   "catalogUnmatchedRecommendationsHeader": {
+      "message": "Προτάσεις"
+   },
+   "catalogUnmatchedSendContentIdDescription": {
+      "message": "Ελέγξτε ότι στέλνετε το σωστό αναγνωριστικό περιεχομένου που αντιστοιχεί σε προϊόν σε αυτόν ή οποιονδήποτε άλλο κατάλογο που είναι συνδεδεμένος με το pixel σας."
+   },
+   "catalogUnmatchedSendContentIdTitle": {
+      "message": "Στείλτε το αντίστοιχο αναγνωριστικό περιεχομένου"
+   },
+   "catalogUnmatchedTitle": {
+      "message": "Ορισμένα αναγνωριστικά περιεχομένου δεν αντιστοιχούν σε κανέναν κατάλογο"
+   },
+   "catalogUnmatchedTopInteractionsHeader": {
+      "message": "Κορυφαίες αλληλεπιδράσεις με προβλήματα"
+   },
+   "catalogUnmatchedTotalReceivedColumnHeader": {
+      "message": "Σύνολο ληφθέντων"
+   },
+   "catalogWarningsFromPixel": {
+      "message": "Από 1 δολάριο"
+   },
+   "catalogWarningsHeader": {
+      "message": "Προειδοποιήσεις"
+   },
+   "catalogWarningsUnmatchedProductsDescription": {
+      "message": "Αναγνωριστικά περιεχομένου που δεν αντιστοιχούν σε κανέναν κατάλογο"
+   },
+   "catalogWarningsUnmatchedProductsHeader": {
+      "message": "Μη αντιστοιχισμένα προϊόντα"
+   },
+   "confirmEventsToSetUpHeader": {
+      "message": "Επιβεβαιώστε τα συμβάντα που θέλετε να διαμορφώσετε"
+   },
+   "continueButton": {
+      "message": "Συνέχεια"
+   },
+   "continueToNextDatasetButton": {
+      "message": "Συνέχεια στο επόμενο σύνολο δεδομένων"
+   },
+   "copyToClipboardCopied": {
+      "message": "Αντιγράφηκε!"
+   },
+   "copyToClipboardTitle": {
+      "message": "Αντιγραφή στο πρόχειρο"
+   },
+   "create_new_asset_already_added": {
+      "message": "Προστέθηκε ήδη"
+   },
+   "create_new_asset_button": {
+      "message": "Δημιουργία νέου"
+   },
+   "customConversionActionSourceLabel": {
+      "message": "Προέλευση ενέργειας"
+   },
+   "customConversionEventLabel": {
+      "message": "Συμβάν"
+   },
+   "customConversionNameLabel": {
+      "message": "Όνομα"
+   },
+   "customConversionRulesLabel": {
+      "message": "Κανόνες"
+   },
+   "customConversionValueFormat": {
+      "message": "$$1"
+   },
+   "customConversionValueLabel": {
+      "message": "Προεπιλεγμένη τιμή"
+   },
+   "datasetIdPrefix": {
+      "message": "Αναγνωριστικό: $1"
+   },
+   "datasetsAffected": {
+      "message": "Επηρεάστηκαν $1 σύνολα δεδομένων"
+   },
+   "dropdownSearchPlaceholder": {
+      "message": "Αναζήτηση"
+   },
+   "dropdownTagIdentifier": {
+      "message": "Αναγνωριστικό"
+   },
+   "dropdownTagRecommended": {
+      "message": "Προτεινόμενα"
+   },
+   "duplicateEventMessage": {
+      "message": "Το συμβάν \"$1\" ενεργοποιήθηκε $2 φορές με πανομοιότυπα δεδομένα, γεγονός που μπορεί να προκαλέσει σφάλματα παρακολούθησης"
+   },
+   "duplicateEventRecommendation": {
+      "message": "Ελέγξτε την υλοποίηση του pixel σας για να βεβαιωθείτε ότι τα συμβάντα δεν ενεργοποιούνται πολλές φορές ακούσια. Αυτό συχνά συμβαίνει όταν ο ίδιος κωδικός συμβάντος εκτελείται πολλές φορές ή όταν το pixel ενεργοποιείται περισσότερες από μία φορές."
+   },
+   "emptyActionsStateDescriptionPart1": {
+      "message": "Επίσκεψη"
+   },
+   "emptyActionsStateDescriptionPart2": {
+      "message": "για ευκαιρίες απόδοσης"
+   },
+   "emptyActionsStateEventsManagerLink": {
+      "message": "Διαχείριση συμβάντων"
+   },
+   "emptyActionsStateTitle": {
+      "message": "Δεν υπάρχουν διαθέσιμες ενέργειες"
+   },
+   "enableFreeCAPIGButton": {
+      "message": "Ενεργοποίηση"
+   },
+   "error_generic": {
+      "message": "Προέκυψε σφάλμα"
+   },
+   "eventDeduplicated": {
+      "message": "Διαγράφηκε το διπλότυπο"
+   },
+   "eventDetailsAdvancedMatchingHeader": {
+      "message": "Παράμετροι σύνθετης αντιστοίχισης που στάλθηκαν"
+   },
+   "eventDetailsBrowserOnlyAriaLabel": {
+      "message": "Παράμετρος μόνο στα δεδομένα προγράμματος περιήγησης"
+   },
+   "eventDetailsBrowserOnlyBadge": {
+      "message": "Μόνο σε πρόγραμμα περιήγησης"
+   },
+   "eventDetailsCustomParamsHeader": {
+      "message": "Προσαρμοσμένες παράμετροι"
+   },
+   "eventDetailsDpoHeader": {
+      "message": "Παράμετροι επεξεργασίας δεδομένων στάλθηκαν"
+   },
+   "eventDetailsDpoWarning": {
+      "message": "Μετά την αποστολή των επιλογών επεξεργασίας δεδομένων, οι προσαρμοσμένες μετατροπές ή η ενημέρωση καταλόγου ενδέχεται να μη λειτουργούν."
+   },
+   "eventDetailsEventIdLabel": {
+      "message": "Αναγνωριστικό συμβάντος"
+   },
+   "eventDetailsEventInfoHeader": {
+      "message": "Πληροφορίες συμβάντος"
+   },
+   "eventDetailsFrameIFrame": {
+      "message": "IFrame"
+   },
+   "eventDetailsFrameLabel": {
+      "message": "Πλαίσιο"
+   },
+   "eventDetailsFrameWindow": {
+      "message": "Παράθυρο"
+   },
+   "eventDetailsLoadTimeLabel": {
+      "message": "Χρόνος φόρτωσης"
+   },
+   "eventDetailsPixelCodeLabel": {
+      "message": "Κώδικας pixel"
+   },
+   "eventDetailsPixelLocationLabel": {
+      "message": "Τοποθεσία pixel"
+   },
+   "eventDetailsServerOnlyAriaLabel": {
+      "message": "Παράμετρος μόνο στα δεδομένα διακομιστή"
+   },
+   "eventDetailsServerOnlyBadge": {
+      "message": "Μόνο σε διακομιστή"
+   },
+   "eventDetailsSetupMethodAutomatic": {
+      "message": "Αυτόματη"
+   },
+   "eventDetailsSetupMethodLabel": {
+      "message": "Μέθοδος διαμόρφωσης"
+   },
+   "eventDetailsSetupMethodManual": {
+      "message": "Μη αυτόματη"
+   },
+   "eventDetailsUrlCalledLabel": {
+      "message": "Διεύθυνση URL που κλήθηκε"
+   },
+   "eventsHeader": {
+      "message": "Συμβάντα"
+   },
+   "eventsOnThisPageHeader": {
+      "message": "Συμβάντα σε αυτή τη σελίδα"
+   },
+   "extensionDescription": {
+      "message": "Το Meta Pixel Helper είναι ένα εργαλείο αντιμετώπισης προβλημάτων που σας βοηθά να επαληθεύσετε την υλοποίηση του pixel σας."
+   },
+   "extensionName": {
+      "message": "Meta Pixel Helper"
+   },
+   "feedbackAddButton": {
+      "message": "Προσθήκη"
+   },
+   "feedbackAttachScreenshots": {
+      "message": "Επισύναψη στιγμιότυπων οθόνης"
+   },
+   "feedbackAutomaticScreenshot": {
+      "message": "Αυτόματο στιγμιότυπο οθόνης"
+   },
+   "feedbackDeleteAttachment": {
+      "message": "Διαγραφή συνημμένου"
+   },
+   "feedbackDescriptionPlaceholder": {
+      "message": "Περιγράψτε λεπτομερώς τα σχόλια και τις παρατηρήσεις"
+   },
+   "feedbackDropdownLabel": {
+      "message": "Πείτε μας τη γνώμη σας"
+   },
+   "feedbackErrorScreenshotLabel": {
+      "message": "Στιγμιότυπο οθόνης σφάλματος"
+   },
+   "feedbackPageDescription": {
+      "message": "Βοηθήστε μας να βελτιωθούμε αναφέροντας προβλήματα ή κοινοποιώντας τα σχόλια και τις παρατηρήσεις σας."
+   },
+   "feedbackPagePrivacyLink": {
+      "message": "Δείτε πώς χρησιμοποιούμε αυτά τα δεδομένα."
+   },
+   "feedbackPageTitle": {
+      "message": "Αποστολή σχολίων και παρατηρήσεων"
+   },
+   "feedbackReceivedSubTitle": {
+      "message": "Ευχαριστούμε που συμβάλατε στη βελτίωσης αυτής της εμπειρίας."
+   },
+   "feedbackReceivedTitle": {
+      "message": "Λάβαμε τα σχόλια και τις παρατηρήσεις σας"
+   },
+   "feedbackReturnToPreviousPage": {
+      "message": "Επιστροφή στην προηγούμενη σελίδα"
+   },
+   "feedbackSelectorTypeBug": {
+      "message": "Σφάλμα"
+   },
+   "feedbackSelectorTypeFeatureRequest": {
+      "message": "Αίτημα για νέα δυνατότητα"
+   },
+   "feedbackSelectorTypeGeneralFeedback": {
+      "message": "Γενικά σχόλια και παρατηρήσεις"
+   },
+   "feedbackSelectorTypeQuestion": {
+      "message": "Τι είδους σχόλια και παρατηρήσεις;"
+   },
+   "feedbackStoredLocally": {
+      "message": "Αποθηκεύτηκε τοπικά"
+   },
+   "feedbackSubmitButton": {
+      "message": "Υποβολή"
+   },
+   "feedbackSubmitDisabledTooltip": {
+      "message": "Συμπληρώστε όλα τα απαιτούμενα πεδία για να υποβάλετε σχόλια και παρατηρήσεις"
+   },
+   "feedbackSubmittingButton": {
+      "message": "Υποβολή..."
+   },
+   "feedbackTitleLabel": {
+      "message": "Τίτλος για σχόλια και παρατηρήσεις"
+   },
+   "feedbackUploadButton": {
+      "message": "Ανέβασμα"
+   },
+   "fieldItemCopyTooltip": {
+      "message": "Αντιγραφή $1"
+   },
+   "fieldItemHide": {
+      "message": "Απόκρυψη"
+   },
+   "fieldItemShow": {
+      "message": "Εμφάνιση"
+   },
+   "freeCapigL2DisableNote": {
+      "message": "Μπορείτε να απενεργοποιήσετε αυτήν την επιλογή οποιαδήποτε στιγμή από τη Διαχείριση συμβάντων."
+   },
+   "freeCapigL2ReturnHome": {
+      "message": "Επιστροφή στην αρχική οθόνη"
+   },
+   "freeCapigL2SeeTermsLabel": {
+      "message": "Δείτε τους όρους"
+   },
+   "freeCapigL2SetupStep1": {
+      "message": "Το Meta διαμορφώνει τη σύνδεση του διακομιστή στο παρασκήνιο."
+   },
+   "freeCapigL2SetupStep2": {
+      "message": "Τα συμβάντα pixel θα αντικατοπτρίζονται αυτόματα στο API μετατροπών"
+   },
+   "freeCapigL2SetupStep3": {
+      "message": "Απολαύστε την ενισχυμένη αξιοπιστία της παρακολούθησης από την πλευρά του διακομιστή!"
+   },
+   "freeCapigL2SuccessExplainerEMLink": {
+      "message": "Διαχείριση συμβάντων"
+   },
+   "freeCapigL2SuccessExplainerPrefix": {
+      "message": "Οι αλλαγές θα τεθούν σε ισχύ εντός των επόμενων 7 ημερών. Εξερευνήστε και επεξεργαστείτε τις αλλαγές στη"
+   },
+   "freeCapigL2SuccessExplainerSuffix": {
+      "message": "οποιαδήποτε στιγμή."
+   },
+   "freeCapigL2SuccessTitle": {
+      "message": "Το API μετατροπών ενεργοποιήθηκε"
+   },
+   "freeCapigL2TermsBusinessToolsTermsLink": {
+      "message": "Όροι χρήσης των εργαλείων για επιχειρήσεις"
+   },
+   "freeCapigL2TermsDisclosureMiddle": {
+      "message": "και"
+   },
+   "freeCapigL2TermsDisclosurePrefix": {
+      "message": "Αν συνεχίσετε, εξουσιοδοτείτε και δίνετε εντολή στο Meta να διαμορφώσει μια ενσωμάτωση API μετατροπών που έχει ενεργοποιηθεί από το Meta για λογαριασμό σας και αποδέχεστε ότι η από μέρους σας χρήση της ενσωμάτωσης υπόκειται στους"
+   },
+   "freeCapigL2TermsPlatformTermsLink": {
+      "message": "Όροι πλατφόρμας"
+   },
+   "freeCapigOptInErrorMessage": {
+      "message": "Δεν ήταν δυνατή η ενεργοποίηση του API μετατροπών. Δοκιμάστε ξανά ή κάντε τη διαμόρφωση από τη Διαχείριση συμβάντων."
+   },
+   "freeCapigOptInLoadingLabel": {
+      "message": "Ενεργοποίηση…"
+   },
+   "freeCapigOptInSuccessTitle": {
+      "message": "Το API μετατροπών ενεργοποιήθηκε!"
+   },
+   "ga_account_creation_title": {
+      "message": "Λογαριασμός Google Analytics"
+   },
+   "ga_account_display_name_label": {
+      "message": "Όνομα λογαριασμού"
+   },
+   "ga_property_creation_title": {
+      "message": "Στοιχείο Google Analytics"
+   },
+   "ga_property_display_name_label": {
+      "message": "Όνομα στοιχείου"
+   },
+   "ga_property_time_zone_label": {
+      "message": "Ζώνη ώρας"
+   },
+   "ga_stream_creation_title": {
+      "message": "Ροή ιστού Google Analytics"
+   },
+   "ga_stream_display_name_label": {
+      "message": "Όνομα ροής"
+   },
+   "ga_stream_url_label": {
+      "message": "Διεύθυνση URL ιστότοπου"
+   },
+   "go_back": {
+      "message": "Πίσω"
+   },
+   "gtmAccountSelectorLabel": {
+      "message": "Λογαριασμός Διαχείρισης ετικετών Google"
+   },
+   "gtmAccountSelectorPlaceholder": {
+      "message": "Επιλέξτε λογαριασμό"
+   },
+   "gtmChooseHostingProvider": {
+      "message": "Επιλέξτε πάροχο φιλοξενίας:"
+   },
+   "gtmCreateNewServerContainer": {
+      "message": "Δημιουργία νέου κοντέινερ διακομιστή"
+   },
+   "gtmHostingGoogleBullet1": {
+      "message": "Δεν απαιτείται προγραμματιστής"
+   },
+   "gtmHostingGoogleBullet2": {
+      "message": "περίπου 30 λεπτά"
+   },
+   "gtmHostingGoogleBullet3": {
+      "message": "Πληρωμή για πηγές cloud"
+   },
+   "gtmHostingGoogleBullet4": {
+      "message": "Πλήρως προσαρμόσιμο"
+   },
+   "gtmHostingGoogleDescription": {
+      "message": "Ενσωματώστε απευθείας τη Διαχείριση ετικετών Google για να απλοποιήσετε και να διαχειρίζεστε τις ετικέτες σας. Είναι ιδανικό για όσους θέλουν να διαχειρίζονται τις ετικέτες με τα εγγενή εργαλεία της Google."
+   },
+   "gtmHostingGoogleLabel": {
+      "message": "Google"
+   },
+   "gtmHostingStapeBullet1": {
+      "message": "Δεν απαιτείται προγραμματιστής"
+   },
+   "gtmHostingStapeBullet2": {
+      "message": "περίπου 15 λεπτά"
+   },
+   "gtmHostingStapeBullet3": {
+      "message": "Διαθέσιμο δωρεάν πακέτο premium"
+   },
+   "gtmHostingStapeBullet4": {
+      "message": "Τιμές βάσει συνδρομής"
+   },
+   "gtmHostingStapeDescription": {
+      "message": "Το Stape απλοποιεί τη διαμόρφωση κοντέινερ διακομιστή και χειρίζεται τη φιλοξενία για εσάς. Είναι διαθέσιμο ένα δωρεάν επίπεδο."
+   },
+   "gtmHostingStapeLabel": {
+      "message": "Stape"
+   },
+   "gtmInvalidUrlError": {
+      "message": "Εισαγάγετε μια έγκυρη διεύθυνση URL."
+   },
+   "gtmServerConnectionOptionGoogleTagManager": {
+      "message": "Διαχείριση ετικετών Google"
+   },
+   "gtmServerConnectionOptionMetaEnabledCapig": {
+      "message": "API μετατροπών του Meta (Προτείνεται)"
+   },
+   "gtmServerConnectionOptionNone": {
+      "message": "Καμία"
+   },
+   "gtmServerConnectionSelectorLabel": {
+      "message": "Σύνδεση διακομιστή"
+   },
+   "gtmServerContainerLabel": {
+      "message": "Κοντέινερ διακομιστή"
+   },
+   "gtmServerContainerNotProvisionedWarning": {
+      "message": "Αυτός ο διακομιστής δεν παρέχεται"
+   },
+   "gtmServerContainerPlaceholder": {
+      "message": "Επιλέξτε κοντέινερ διακομιστή"
+   },
+   "gtmStepAnalyticsStream": {
+      "message": "Ροή Analytics"
+   },
+   "gtmStepGtmAccount": {
+      "message": "Λογαριασμός GTM"
+   },
+   "gtmStepPreExistingTooltip": {
+      "message": "Αυτό το στοιχείο υπήρχε ήδη ή ήταν αυτοματοποιημένο μέσω API."
+   },
+   "gtmStepProvisionedServerContainer": {
+      "message": "Παρεχόμενο κοντέινερ διακομιστή"
+   },
+   "gtmStepPublished": {
+      "message": "Δημοσιεύτηκε"
+   },
+   "gtmStepServerContainer": {
+      "message": "Κοντέινερ διακομιστή"
+   },
+   "gtmStepWebContainer": {
+      "message": "Κοντέινερ ιστού"
+   },
+   "gtmTaggingServerUrlLabel": {
+      "message": "Διεύθυνση URL διακομιστή ετικετών"
+   },
+   "gtmTaggingServerUrlPlaceholder": {
+      "message": "https://your-tagging-server.example.com"
+   },
+   "gtm_account_creation_title": {
+      "message": "Λογαριασμός Διαχείρισης ετικετών Google"
+   },
+   "gtm_account_name_label": {
+      "message": "Όνομα λογαριασμού"
+   },
+   "gtm_action_needed": {
+      "message": "Απαιτείται ενέργεια"
+   },
+   "gtm_api_fetch_accounts_error": {
+      "message": "Η λήψη των λογαριασμών απέτυχε. Δοκιμάστε ξανά ή ελέγξτε την πρόσβασή σας στη Διαχείριση ετικετών Google."
+   },
+   "gtm_api_fetch_containers_error": {
+      "message": "Η λήψη των κοντέινερ για τον λογαριασμό $1 απέτυχε. Δοκιμάστε ξανά ή ελέγξτε τα δικαιώματά σας στη Διαχείριση ετικετών Google."
+   },
+   "gtm_api_fetch_data_streams_error": {
+      "message": "Η λήψη ροών δεδομένων για το στοιχείο $1 απέτυχε"
+   },
+   "gtm_api_fetch_ga_accounts_error": {
+      "message": "Η λήψη λογαριασμών Google Analytics απέτυχε"
+   },
+   "gtm_api_fetch_ga_properties_error": {
+      "message": "Η λήψη των στοιχείων Google Analytics απέτυχε. Δοκιμάστε ξανά ή ελέγξτε την πρόσβασή σας στο Google Analytics."
+   },
+   "gtm_api_get_token_error": {
+      "message": "Η λήψη διακριτικού απέτυχε"
+   },
+   "gtm_api_invalid_token_response": {
+      "message": "Μη έγκυρη απάντηση διακριτικού"
+   },
+   "gtm_automatic_advanced_matching_label": {
+      "message": "Αντιστοιχίστε αυτόματα βασικά στοιχεία πελάτη, π.χ. διεύθυνση email και αριθμό τηλεφώνου, από τον ιστότοπό σας για να βελτιώσετε την προβολή διαφημίσεων."
+   },
+   "gtm_availability_load_error": {
+      "message": "Η φόρτωση στοιχείων Διαχείρισης ετικετών Google απέτυχε"
+   },
+   "gtm_availability_no_account_error": {
+      "message": "Δεν βρέθηκε λογαριασμός Διαχείρισης ετικετών Google."
+   },
+   "gtm_availability_no_web_container_error": {
+      "message": "Δεν βρέθηκε κοντέινερ ιστού στη Διαχείριση ετικετών Google."
+   },
+   "gtm_capi_token_error": {
+      "message": "Η δημιουργία διακριτικού πρόσβασης για το API μετατροπών απέτυχε. Βεβαιωθείτε ότι είστε διαχειριστής επιχείρησης για αυτό το pixel."
+   },
+   "gtm_dataset_label": {
+      "message": "Σύνολο δεδομένων"
+   },
+   "gtm_fetch_accounts_fallback_error": {
+      "message": "Η λήψη λογαριασμών απέτυχε"
+   },
+   "gtm_fetch_containers_fallback_error": {
+      "message": "Η λήψη κοντέινερ απέτυχε"
+   },
+   "gtm_fetch_google_analytics_accounts_fallback_error": {
+      "message": "Η λήψη λογαριασμών Google Analytics απέτυχε"
+   },
+   "gtm_fetch_google_analytics_properties_fallback_error": {
+      "message": "Η λήψη στοιχείων Google Analytics απέτυχε"
+   },
+   "gtm_fetch_google_analytics_web_streams_fallback_error": {
+      "message": "Η λήψη ροών διαδικτύου Google Analytics απέτυχε"
+   },
+   "gtm_fetch_server_containers_fallback_error": {
+      "message": "Η λήψη κοντέινερ διακομιστή Διαχείρισης ετικετών Google απέτυχε"
+   },
+   "gtm_ga4_data_stream_label": {
+      "message": "Ροή δεδομένων Google Analytics"
+   },
+   "gtm_ga4_web_stream_toggle_label": {
+      "message": "Προώθηση συμβάντων Google Analytics"
+   },
+   "gtm_ga_account_label": {
+      "message": "Λογαριασμός Google Analytics"
+   },
+   "gtm_ga_account_placeholder": {
+      "message": "Επιλέξτε λογαριασμό Google Analytics"
+   },
+   "gtm_ga_data_stream_placeholder": {
+      "message": "Επιλέξτε μια ροή δεδομένων"
+   },
+   "gtm_google_auth_warning_body": {
+      "message": "Φαίνεται ότι η περίοδος σύνδεσης Google απενεργοποιήθηκε κατά τη διάρκεια της διαμόρφωσης. Συνδεθείτε ξανά για να συνεχίσετε από εκεί που σταματήσατε."
+   },
+   "gtm_google_auth_warning_primary_cta": {
+      "message": "Σύνδεση"
+   },
+   "gtm_google_auth_warning_title": {
+      "message": "Για να συνεχίσετε, πρέπει να συνδεθείτε ξανά στην Google"
+   },
+   "gtm_next_step_back_aria_label": {
+      "message": "Πίσω"
+   },
+   "gtm_next_step_confirm_button": {
+      "message": "Επιβεβαίωση"
+   },
+   "gtm_next_step_event_setup_description": {
+      "message": "Το εργαλείο διαμόρφωσης συμβάντων σάς επιτρέπει να επιλέγετε συμβάντα μετατροπής, π.χ. αγορές ή προσθήκες στο καλάθι, απευθείας από τις σελίδες του ιστότοπού σας και να τα στέλνετε με ασφάλεια στο Meta."
+   },
+   "gtm_next_step_event_setup_title": {
+      "message": "Αποστολή βασικών συμβάντων μετατροπής στο Meta"
+   },
+   "gtm_next_step_eyebrow": {
+      "message": "Απαιτείται ενέργεια"
+   },
+   "gtm_next_step_manual_setup_title": {
+      "message": "Μη αυτόματη διαμόρφωση"
+   },
+   "gtm_next_step_missing_pixel_error": {
+      "message": "Επιλέξτε ένα αναγνωριστικό συνόλου δεδομένων για να συνεχίσετε"
+   },
+   "gtm_next_step_missing_url_error": {
+      "message": "Εισαγάγετε μια διεύθυνση URL ιστότοπου για να συνεχίσετε"
+   },
+   "gtm_next_step_nav_title": {
+      "message": "Συνδέστε με ασφάλεια τα δεδομένα σας"
+   },
+   "gtm_next_step_title": {
+      "message": "Συνδέστε με ασφάλεια τα δεδομένα σας"
+   },
+   "gtm_next_step_website_url_label": {
+      "message": "Διεύθυνση URL ιστότοπου"
+   },
+   "gtm_next_step_website_url_placeholder": {
+      "message": "Εισαγάγετε τη διεύθυνση URL του ιστότοπου"
+   },
+   "gtm_pixel_business_fetch_error": {
+      "message": "Δεν είναι δυνατή η λήψη πληροφοριών για το pixel $1. Μπορεί να μην έχετε δικαίωμα πρόσβασης σε αυτό το pixel. Λεπτομέρειες: $2"
+   },
+   "gtm_pixel_business_load_error": {
+      "message": "Δεν ήταν δυνατή η φόρτωση του συνόλου δεδομένων $1. Ελέγξτε ότι το αναγνωριστικό του συνόλου δεδομένων είναι σωστό και ότι έχετε δικαίωμα προβολής του."
+   },
+   "gtm_pixel_business_no_business_error": {
+      "message": "Το pixel $1 δεν ανήκει σε επιχείρηση. Το pixel πρέπει να κατοχυρωθεί από επιχείρηση για να δημιουργήσει διακριτικό πρόσβασης στο API μετατροπών."
+   },
+   "gtm_pixel_dataset_id_label": {
+      "message": "Αναγνωριστικό συνόλου δεδομένων"
+   },
+   "gtm_pixel_detected_on_page": {
+      "message": "Εντοπίστηκαν στη σελίδα"
+   },
+   "gtm_pixel_load_more": {
+      "message": "Φόρτωση περισσότερων pixel..."
+   },
+   "gtm_pixel_no_pixels_detected": {
+      "message": "Δεν εντοπίστηκαν pixel σε αυτή τη σελίδα. Εισαγάγετε ένα αναγνωριστικό συνόλου δεδομένων με μη αυτόματο τρόπο."
+   },
+   "gtm_pixel_no_pixels_found": {
+      "message": "Δεν βρέθηκαν pixel"
+   },
+   "gtm_pixel_picker_dataset_id_numeric_error": {
+      "message": "Το αναγνωριστικό συνόλου δεδομένων πρέπει να είναι αριθμητικό"
+   },
+   "gtm_pixel_picker_dataset_id_placeholder": {
+      "message": "Εισαγάγετε αναγνωριστικό συνόλου δεδομένων"
+   },
+   "gtm_pixel_picker_enter_manually": {
+      "message": "Μη αυτόματη εισαγωγή"
+   },
+   "gtm_pixel_search_placeholder": {
+      "message": "Αναζήτηση pixel"
+   },
+   "gtm_pixel_select_placeholder": {
+      "message": "Επιλέξτε ένα pixel"
+   },
+   "gtm_pixel_your_pixels": {
+      "message": "Τα pixel σας"
+   },
+   "gtm_publish_asset_preparation_failed": {
+      "message": "Αποτυχία προετοιμασίας στοιχείων"
+   },
+   "gtm_publish_asset_preparation_missing_ids": {
+      "message": "Η προετοιμασία των στοιχείων ολοκληρώθηκε χωρίς αναγνωριστικά έτοιμα για δημοσίευση"
+   },
+   "gtm_publish_automatic_advanced_matching_progress": {
+      "message": "Ενεργοποίηση αυτόματης σύνθετης αντιστοίχισης..."
+   },
+   "gtm_publish_automatic_advanced_matching_warning": {
+      "message": "Δεν ήταν δυνατή η ενεργοποίηση της αυτόματης σύνθετης αντιστοίχισης, ωστόσο δημοσιεύτηκαν ετικέτες της Διαχείρισης ετικετών Google."
+   },
+   "gtm_publish_completed_with_warnings_title": {
+      "message": "Δημοσιεύτηκε με προειδοποιήσεις"
+   },
+   "gtm_publish_confirm_button": {
+      "message": "Επιβεβαίωση"
+   },
+   "gtm_publish_create_ga_account_and_property_progress": {
+      "message": "Δημιουργία λογαριασμού και στοιχείου Google Analytics..."
+   },
+   "gtm_publish_create_ga_property_progress": {
+      "message": "Δημιουργία στοιχείου Google Analytics…"
+   },
+   "gtm_publish_create_ga_stream_progress": {
+      "message": "Δημιουργία ροής ιστού Google Analytics..."
+   },
+   "gtm_publish_create_gtm_account_and_web_container_progress": {
+      "message": "Δημιουργία λογαριασμού Διαχείρισης ετικετών Google και κοντέινερ ιστού..."
+   },
+   "gtm_publish_create_server_container_progress": {
+      "message": "Δημιουργία κοντέινερ διακομιστή..."
+   },
+   "gtm_publish_create_version_error": {
+      "message": "Η δημιουργία έκδοσης κοντέινερ $1 απέτυχε"
+   },
+   "gtm_publish_create_web_container_progress": {
+      "message": "Δημιουργία κοντέινερ ιστού..."
+   },
+   "gtm_publish_failed_title": {
+      "message": "Η δημοσίευση απέτυχε"
+   },
+   "gtm_publish_fetch_pixel_business_progress": {
+      "message": "Λήψη πληροφοριών pixel επιχείρησης..."
+   },
+   "gtm_publish_free_capig_opt_in_progress": {
+      "message": "Διαμόρφωση API μετατροπών με ενεργοποίηση από το Meta..."
+   },
+   "gtm_publish_free_capig_opt_in_warning": {
+      "message": "Δεν ήταν δυνατή η διαμόρφωση του API μετατροπών που είναι ενεργοποιημένο από το Meta, ωστόσο δημοσιεύτηκαν ετικέτες της Διαχείρισης ετικετών Google."
+   },
+   "gtm_publish_ga_account_recipe_flow_error": {
+      "message": "Η δημιουργία λογαριασμού Google Analytics απαιτεί μια ροή βάσει συνταγών"
+   },
+   "gtm_publish_generate_capi_token_progress": {
+      "message": "Δημιουργία διακριτικού πρόσβασης για το API μετατροπών..."
+   },
+   "gtm_publish_google_tag_manager_missing_ga_measurement_id": {
+      "message": "Αναγνωριστικό μέτρησης Google Analytics"
+   },
+   "gtm_publish_google_tag_manager_missing_requirements": {
+      "message": "Η σύνδεση διακομιστή Διαχείρισης ετικετών Google λείπει: $1"
+   },
+   "gtm_publish_google_tag_manager_missing_tagging_server_url": {
+      "message": "Διεύθυνση URL διακομιστή ετικετών"
+   },
+   "gtm_publish_gtm_account_recipe_flow_error": {
+      "message": "Η δημιουργία λογαριασμού Διαχείρισης ετικετών Google απαιτεί μια ροή βάσει συνταγών"
+   },
+   "gtm_publish_missing_ga_account_draft": {
+      "message": "Δεν υπάρχει προσχέδιο λογαριασμού Google Analytics"
+   },
+   "gtm_publish_missing_ga_account_for_property": {
+      "message": "Δεν έχει επιλεγεί λογαριασμός Google Analytics για δημιουργία στοιχείου"
+   },
+   "gtm_publish_missing_ga_property_draft": {
+      "message": "Δεν υπάρχει προσχέδιο στοιχείου Google Analytics"
+   },
+   "gtm_publish_missing_ga_property_for_stream": {
+      "message": "Δεν έχει επιλεγεί στοιχείο Google Analytics για δημιουργία ροής"
+   },
+   "gtm_publish_missing_ga_stream_draft": {
+      "message": "Δεν υπάρχει προσχέδιο ροής Google Analytics"
+   },
+   "gtm_publish_missing_google_auth": {
+      "message": "Δεν έχει γίνει έλεγχος ταυτότητας μέσω Google"
+   },
+   "gtm_publish_missing_gtm_account_draft": {
+      "message": "Δεν υπάρχει προσχέδιο λογαριασμού Διαχείρισης ετικετών Google"
+   },
+   "gtm_publish_missing_gtm_account_for_server_container": {
+      "message": "Δεν έχει επιλεγεί λογαριασμός Διαχείρισης ετικετών Google για τη δημιουργία κοντέινερ διακομιστή"
+   },
+   "gtm_publish_missing_gtm_account_for_web_container": {
+      "message": "Δεν έχει επιλεγεί λογαριασμός Διαχείρισης ετικετών Google για τη δημιουργία κοντέινερ ιστού"
+   },
+   "gtm_publish_missing_pixel_id": {
+      "message": "Δεν έχει επιλεγεί αναγνωριστικό συνόλου δεδομένων"
+   },
+   "gtm_publish_missing_required_asset": {
+      "message": "Το $1 λείπει. Προσθέστε το μέσω της επιλογής \"Δημιουργία νέου\" ή επιλέξτε ένα υπάρχον."
+   },
+   "gtm_publish_missing_required_assets_error": {
+      "message": "Λείπουν τα απαιτούμενα στοιχεία: $1"
+   },
+   "gtm_publish_missing_requirements_title": {
+      "message": "Απαιτήσεις που λείπουν:"
+   },
+   "gtm_publish_missing_server_container_draft": {
+      "message": "Δεν υπάρχει προσχέδιο για κοντέινερ διακομιστή"
+   },
+   "gtm_publish_missing_web_container_draft": {
+      "message": "Δεν υπάρχει προσχέδιο κοντέινερ ιστού"
+   },
+   "gtm_publish_no_workspaces_error": {
+      "message": "Δεν βρέθηκαν χώροι εργασίας για το κοντέινερ $1 στο $2. Δημιουργήστε έναν χώρο εργασίας στον Διαχειριστή ετικετών Google και έπειτα δοκιμάστε ξανά."
+   },
+   "gtm_publish_pixel_label": {
+      "message": "Αναγνωριστικό συνόλου δεδομένων: $1"
+   },
+   "gtm_publish_prepare_assets_progress": {
+      "message": "Προετοιμασία στοιχείων..."
+   },
+   "gtm_publish_progress_complete": {
+      "message": "Η δημοσίευση ολοκληρώθηκε."
+   },
+   "gtm_publish_progress_creating_datalayer_variables": {
+      "message": "Δημιουργία μεταβλητών επιπέδου δεδομένων..."
+   },
+   "gtm_publish_progress_creating_pixel_template_tag": {
+      "message": "Δημιουργία ετικέτας προτύπου pixel..."
+   },
+   "gtm_publish_progress_creating_server_action_source": {
+      "message": "Δημιουργία μεταβλητής προέλευσης ενέργειας στην πλευρά του διακομιστή..."
+   },
+   "gtm_publish_progress_creating_server_tag": {
+      "message": "Δημιουργία ετικέτας στην πλευρά του διακομιστή..."
+   },
+   "gtm_publish_progress_creating_server_trigger": {
+      "message": "Δημιουργία σημείου ενεργοποίησης στην πλευρά διακομιστή…"
+   },
+   "gtm_publish_progress_creating_web_tags": {
+      "message": "Δημιουργία ετικετών ιστού..."
+   },
+   "gtm_publish_progress_creating_web_tags_web_only": {
+      "message": "Δημιουργία ετικετών ιστού..."
+   },
+   "gtm_publish_progress_creating_web_triggers": {
+      "message": "Δημιουργία σημείων ενεργοποίησης ιστού…"
+   },
+   "gtm_publish_progress_enabling_builtin_variables": {
+      "message": "Ενεργοποίηση ενσωματωμένων μεταβλητών..."
+   },
+   "gtm_publish_progress_getting_web_workspace": {
+      "message": "Λήψη χώρου εργασίας διαδικτύου..."
+   },
+   "gtm_publish_progress_getting_workspaces": {
+      "message": "Λήψη χώρων εργασίας..."
+   },
+   "gtm_publish_progress_importing_web_pixel_template": {
+      "message": "Εισαγωγή προτύπου pixel διαδικτύου..."
+   },
+   "gtm_publish_progress_pixel_template_complete": {
+      "message": "Η δημοσίευση του προτύπου pixel ολοκληρώθηκε."
+   },
+   "gtm_publish_progress_publishing_server_container": {
+      "message": "Δημοσίευση κοντέινερ διακομιστή..."
+   },
+   "gtm_publish_progress_publishing_web_container": {
+      "message": "Δημοσίευση κοντέινερ ιστού..."
+   },
+   "gtm_publish_progress_setting_up_server_template": {
+      "message": "Διαμόρφωση προτύπου στην πλευρά του διακομιστή..."
+   },
+   "gtm_publish_progress_web_only_complete": {
+      "message": "Η δημοσίευση μόνο για ιστότοπους ολοκληρώθηκε."
+   },
+   "gtm_publish_published_button": {
+      "message": "Δημοσιεύτηκε"
+   },
+   "gtm_publish_publishing_button": {
+      "message": "Δημοσίευση..."
+   },
+   "gtm_publish_server_container_no_url_notice": {
+      "message": "Θα δημιουργηθεί κοντέινερ διακομιστή, αλλά η προσθήκη ετικετών από την πλευρά του διακομιστή δεν θα δημοσιευτεί μέχρι να είναι διαθέσιμη η διεύθυνση URL του διακομιστή προσθήκης ετικετών."
+   },
+   "gtm_publish_success_message": {
+      "message": "Οι ετικέτες δημοσιεύτηκαν επιτυχώς!"
+   },
+   "gtm_publish_unsupported_draft_asset": {
+      "message": "Η δημιουργία προσχεδίου $1 κατά τη δημοσίευση δεν υποστηρίζεται ακόμη"
+   },
+   "gtm_publish_web_only_notice": {
+      "message": "Δεν έχει επιλεγεί κοντέινερ διακομιστή. Δημοσίευση διαμόρφωσης μόνο για ιστότοπους. Μπορείτε να προσθέσετε και να δημοσιεύσετε ένα κοντέινερ διακομιστή αργότερα."
+   },
+   "gtm_reauthenticate": {
+      "message": "Επανέλεγχος ταυτότητας"
+   },
+   "gtm_review_setup_and_publish": {
+      "message": "Ελέγξτε τη διαμόρφωσή σας και δημοσιεύστε"
+   },
+   "gtm_setup_authenticate_button": {
+      "message": "Έλεγχος ταυτότητας και λήψη λογαριασμών"
+   },
+   "gtm_setup_button": {
+      "message": "Διαμόρφωση"
+   },
+   "gtm_setup_header_title": {
+      "message": "Συνδέστε με ασφάλεια τα δεδομένα σας"
+   },
+   "gtm_setup_required_message": {
+      "message": "Πρέπει να διαμορφώσετε ένα κοντέινερ ιστού στη Διαχείριση ετικετών Google για να συνεχίσετε"
+   },
+   "gtm_setup_required_primary_cta": {
+      "message": "Μετάβαση στη Διαχείριση ετικετών Google"
+   },
+   "gtm_setup_required_secondary_cta": {
+      "message": "Δοκιμάστε ξανά"
+   },
+   "gtm_setup_settings": {
+      "message": "Ρυθμίσεις διαμόρφωσης"
+   },
+   "gtm_setup_summary_description": {
+      "message": "Επιτρέπει την απρόσκοπτη ανάπτυξη και τη διαχείριση ετικετών, καθιστώντας εφικτή την αποτελεσματική παρακολούθηση συμβάντων χωρίς τη χρήση κώδικα για καλύτερα διαφημιστικά αποτελέσματα."
+   },
+   "gtm_setup_warning_loading_label": {
+      "message": "Φόρτωση..."
+   },
+   "gtm_web_container_label": {
+      "message": "Κοντέινερ ιστού"
+   },
+   "gtm_web_container_placeholder": {
+      "message": "Επιλέξτε ένα κοντέινερ ιστού"
+   },
+   "guidanceEventsAffectedBadge": {
+      "message": "Επηρεάστηκε το $1% των συμβάντων"
+   },
+   "guidanceMoreIssuesPlural": {
+      "message": "$1 ακόμη ζητήματα"
+   },
+   "guidanceMoreIssuesSingular": {
+      "message": "$1 ακόμη ζήτημα"
+   },
+   "guidanceViewAllButton": {
+      "message": "Προβολή όλων"
+   },
+   "guidanceViewButton": {
+      "message": "Προβολή"
+   },
+   "highlightTooltipChooseAccount": {
+      "message": "Επιλέξτε έναν λογαριασμό για να συνδεθείτε"
+   },
+   "highlightTooltipClickToContinue": {
+      "message": "Πατήστε εδώ για να συνεχίσετε"
+   },
+   "highlightTooltipSelectAll": {
+      "message": "Επιλογή όλων"
+   },
+   "idLabel": {
+      "message": "Αναγνωριστικό: $1"
+   },
+   "islandActionFailedMessage": {
+      "message": "Ολοκληρώστε την ενέργεια με μη αυτόματο τρόπο για να συνεχίσετε"
+   },
+   "islandActionRequiredMessage": {
+      "message": "Ολοκληρώστε την ενέργεια για να συνεχίσετε"
+   },
+   "learnAboutManualAdvancedMatching": {
+      "message": "Μάθετε για τη μη αυτόματη σύνθετη αντιστοίχιση"
+   },
+   "learnAboutValueAndCurrencyParameters": {
+      "message": "Ορισμός τιμής και νομίσματος στο Pixel του Meta"
+   },
+   "learnHowToSetupAdvancedMatchingManually": {
+      "message": "Μάθετε πώς μπορείτε να διαμορφώσετε τη σύνθετη αντιστοίχιση με μη αυτόματο τρόπο"
+   },
+   "learnMoreLink": {
+      "message": "Μάθετε περισσότερα"
+   },
+   "loadingText": {
+      "message": "Φόρτωση..."
+   },
+   "loginPageButtonCreateAccount": {
+      "message": "Δημιουργία νέου λογαριασμού"
+   },
+   "loginPageButtonLogin": {
+      "message": "Σύνδεση μέσω Facebook"
+   },
+   "loginPageButtonMMALogin": {
+      "message": "Συνδεθείτε με έναν λογαριασμό Meta υπό διαχείριση"
+   },
+   "loginPageDescription": {
+      "message": "για εξατομικευμένη υποστήριξη με τη διαμόρφωση συμβάντων"
+   },
+   "loginPageSubtitle": {
+      "message": "Συνδεθείτε στα εργαλεία για επιχειρήσεις από το Meta"
+   },
+   "loginPageTitle": {
+      "message": "Meta Pixel Helper"
+   },
+   "mamStepExampleLabel": {
+      "message": "Παράδειγμα: $1"
+   },
+   "metaLogoAlt": {
+      "message": "Meta"
+   },
+   "metaSignalHelperLogoAlt": {
+      "message": "Meta Pixel Helper"
+   },
+   "missingEventsActiveSessionTooltip": {
+      "message": "Η διαμόρφωση συμβάντος είναι ήδη σε εξέλιξη"
+   },
+   "missingEventsTabSwitchTooltip": {
+      "message": "Επιστρέψτε στην καρτέλα στην οποία ξεκινήσατε τη διαμόρφωση του συμβάντος"
+   },
+   "moreInformationHeader": {
+      "message": "Περισσότερες πληροφορίες"
+   },
+   "moreLabel": {
+      "message": "+ $1 ακόμη"
+   },
+   "newFeaturesBannerLearnMore": {
+      "message": "Μάθετε περισσότερα"
+   },
+   "newFeaturesBannerText": {
+      "message": "Μια νέα λειτουργία αυτοματοποίησης είναι διαθέσιμη για να σας βοηθήσει να διαμορφώσετε σύνθετα εργαλεία σε λίγα λεπτά."
+   },
+   "nextStepsHeader": {
+      "message": "Επόμενα βήματα"
+   },
+   "noEventsOnThisPageMessage": {
+      "message": "Δεν υπάρχουν συμβάντα σε αυτή τη σελίδα. Πατήστε \"Εμφάνιση όλων των συμβάντων\" για να δείτε συμβάντα από άλλες σελίδες."
+   },
+   "noPixelsFoundCardHeader": {
+      "message": "Δεν βρέθηκαν pixel σε αυτή τη σελίδα"
+   },
+   "onThisPageHeader": {
+      "message": "Σε αυτή τη σελίδα"
+   },
+   "optionalLabel": {
+      "message": "· Προαιρετικό"
+   },
+   "overlayActionCompletedTitle": {
+      "message": "Η ενέργεια ολοκληρώθηκε"
+   },
+   "overlayCloseButton": {
+      "message": "Κλείσιμο"
+   },
+   "overlayDatasetCountPlural": {
+      "message": "Πολλά σύνολα δεδομένων"
+   },
+   "overlayDatasetCountSingular": {
+      "message": "1 σύνολο δεδομένων"
+   },
+   "overlayDescriptionPluralActions": {
+      "message": "$1 ενέργειες που μπορείτε να κάνετε"
+   },
+   "overlayDescriptionPluralPixelsPluralActions": {
+      "message": "Υπάρχουν $1 pixel σε αυτή τη σελίδα και $2 ενέργειες που μπορείτε να κάνετε."
+   },
+   "overlayDescriptionPluralPixelsSingularAction": {
+      "message": "Υπάρχουν $1 pixel σε αυτή τη σελίδα και 1 ενέργεια που μπορείτε να κάνετε."
+   },
+   "overlayDescriptionSingularAction": {
+      "message": "Βρήκαμε μια βελτιστοποίηση για εσάς:"
+   },
+   "overlayDescriptionSingularPixelPluralActions": {
+      "message": "Υπάρχει 1 pixel σε αυτή τη σελίδα και $1 ενέργειες που μπορείτε να κάνετε."
+   },
+   "overlayDescriptionSingularPixelSingularAction": {
+      "message": "Υπάρχει 1 pixel σε αυτή τη σελίδα και 1 ενέργεια που μπορείτε να κάνετε."
+   },
+   "overlayFreeCapigEnabledLabel": {
+      "message": "Ενεργοποιήθηκε"
+   },
+   "overlayGoBackButton": {
+      "message": "Πίσω"
+   },
+   "overlayGreetingAfternoon": {
+      "message": "Καλό απόγευμα, $1"
+   },
+   "overlayGreetingEvening": {
+      "message": "Καλό απόγευμα, $1"
+   },
+   "overlayGreetingMorning": {
+      "message": "Καλημέρα, $1"
+   },
+   "overlayGtmSetupForMeCta": {
+      "message": "Διαμόρφωση για εμένα"
+   },
+   "overlayNotificationSettingsButton": {
+      "message": "Ρυθμίσεις ειδοποιήσεων"
+   },
+   "overlayNotificationSettingsDescription": {
+      "message": "Επιλέξτε πώς θα λαμβάνετε ειδοποιήσεις σχετικά με τη βελτίωση της διαμόρφωσής σας. Μπορείτε επίσης να αλλάξετε αυτή την επιλογή οποιαδήποτε στιγμή στην αρχική σελίδα πατώντας το εικονίδιο με το καμπανάκι."
+   },
+   "overlayNotificationSettingsTitle": {
+      "message": "Ρυθμίσεις ειδοποιήσεων"
+   },
+   "overlayNotificationsToggleDescription": {
+      "message": "Εμφάνιση ειδοποιήσεων σε σελίδες με τα pixel σας"
+   },
+   "overlayNotificationsToggleLabel": {
+      "message": "Ειδοποιήσεις"
+   },
+   "overlayTitle": {
+      "message": "Meta Pixel Helper"
+   },
+   "overlayToggleDescription": {
+      "message": "Εμφάνιση ενεργειών με βάση το περιεχόμενο και την κατάσταση του Pixel ενώ περιηγείστε."
+   },
+   "overlayToggleOff": {
+      "message": "Οι ειδοποιήσεις περιεχομένου είναι απενεργοποιημένες"
+   },
+   "overlayToggleOn": {
+      "message": "Οι ειδοποιήσεις περιεχομένου είναι ενεργοποιημένες"
+   },
+   "overlayViewAllButton": {
+      "message": "Προβολή όλων"
+   },
+   "overlayViewDatasetsButton": {
+      "message": "Προβολή συνόλων δεδομένων"
+   },
+   "pageIssueHeaderPlural": {
+      "message": "Βρέθηκαν $1 προειδοποιήσεις σε αυτή τη σελίδα"
+   },
+   "pageIssueHeaderSingular": {
+      "message": "Βρέθηκε μια προειδοποίηση σε αυτή τη σελίδα"
+   },
+   "pinExtensionBannerCta": {
+      "message": "Καρφίτσωμα στη γραμμή εργαλείων"
+   },
+   "pinExtensionBannerDescription": {
+      "message": "Καρφιτσώστε το Meta Signal Helper στη γραμμή εργαλείων σας για γρήγορη πρόσβαση."
+   },
+   "pinExtensionBannerTitle": {
+      "message": "Καρφιτσώστε αυτήν την επέκταση"
+   },
+   "pixelBackButton": {
+      "message": "Πίσω"
+   },
+   "pixelCopyIdTitle": {
+      "message": "Αντιγραφή αναγνωριστικού συνόλου δεδομένων"
+   },
+   "pixelCopyIdTooltip": {
+      "message": "Αντιγραφή αναγνωριστικού συνόλου δεδομένων"
+   },
+   "pixelCustomConversionBadge": {
+      "message": "Προσαρμοσμένη μετατροπή"
+   },
+   "pixelErrorCommonStep1": {
+      "message": "Ανοίξτε τον κώδικα του ιστότοπού σας."
+   },
+   "pixelErrorConflictingVersionsCardTitle": {
+      "message": "Αφαιρέστε παλιά pixel ή pixel σε διένεξη"
+   },
+   "pixelErrorConflictingVersionsExample": {
+      "message": "Παράδειγμα: n.version='2.0'"
+   },
+   "pixelErrorConflictingVersionsMessage": {
+      "message": "Αφαιρέστε παλιά pixel ή pixel σε διένεξη"
+   },
+   "pixelErrorConflictingVersionsRecommendation": {
+      "message": "Εντοπίστηκαν πολλά pixel με αντικρουόμενες εκδόσεις σε αυτή τη σελίδα. Χρησιμοποιήστε μόνο μία έκδοση του Pixel του Meta."
+   },
+   "pixelErrorConflictingVersionsStep2": {
+      "message": "Κάντε αναζήτηση για **n.version='** στον βασικό κώδικα εγκατάστασης του pixel σας"
+   },
+   "pixelErrorConflictingVersionsStep3": {
+      "message": "Βεβαιωθείτε ότι οι εκδόσεις είναι ίδιες για όλα τα pixel"
+   },
+   "pixelErrorDuplicatePixelIdCardTitle": {
+      "message": "Αφαιρέστε διπλότυπο αναγνωριστικό συνόλου δεδομένων"
+   },
+   "pixelErrorDuplicatePixelIdMessage": {
+      "message": "Αφαιρέστε διπλότυπο αναγνωριστικό συνόλου δεδομένων"
+   },
+   "pixelErrorDuplicatePixelIdRecommendation": {
+      "message": "Έχετε ένα διπλότυπο αναγνωριστικό συνόλου δεδομένων: $1. Κάθε pixel πρέπει να ενεργοποιηθεί μόνο μία φορά ανά σελίδα για να αποφευχθούν τα διπλότυπα δεδομένα."
+   },
+   "pixelErrorDuplicatePixelIdStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('init', $1)** στον βασικό κώδικα εγκατάστασης του pixel σας"
+   },
+   "pixelErrorDuplicatePixelIdStep3": {
+      "message": "Αφαιρέστε το διπλότυπο **fbq('init', $1)**"
+   },
+   "pixelErrorFbqNoMethodNameCardTitle": {
+      "message": "Λείπει το όνομα μεθόδου στην κλήση fbq()"
+   },
+   "pixelErrorFbqNoMethodNameExample": {
+      "message": "Παράδειγμα: fbq('track', 'PageView')"
+   },
+   "pixelErrorFbqNoMethodNameMessage": {
+      "message": "Εισαγάγετε ένα όρισμα για τη συνάρτηση fbq{}"
+   },
+   "pixelErrorFbqNoMethodNameRecommendation": {
+      "message": "Εισαγάγετε ένα όνομα μεθόδου όταν καλείτε τη συνάρτηση fbq(). Παράδειγμα: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorFbqNoMethodNameStep2": {
+      "message": "Βρείτε την κλήση fbq() από την οποία λείπει ένα όνομα μεθόδου."
+   },
+   "pixelErrorFbqNoMethodNameStep3": {
+      "message": "Προσθέστε ένα έγκυρο όνομα μεθόδου όπως \"track\" ή \"init\" ως πρώτο όρισμα."
+   },
+   "pixelErrorInvalidConsentActionCardTitle": {
+      "message": "Στείλτε μια έγκυρη ενέργεια συγκατάθεσης"
+   },
+   "pixelErrorInvalidConsentActionMessage": {
+      "message": "Στείλτε μια έγκυρη ενέργεια συγκατάθεσης"
+   },
+   "pixelErrorInvalidConsentActionRecommendation": {
+      "message": "Η ενέργεια \"fbq('$1', ...)\" δεν είναι έγκυρη ενέργεια fbq('consent', ...). Οι έγκυρες ενέργειες συγκατάθεσης είναι \"grant\" και \"revoke\". Ελέγξτε την υλοποίηση της διαχείρισης συγκατάθεσης."
+   },
+   "pixelErrorInvalidConsentActionStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('$1', ...)**"
+   },
+   "pixelErrorInvalidConsentActionStep3": {
+      "message": "Ενημερώστε το όνομα μεθόδου σε **revoke** ή **grant**"
+   },
+   "pixelErrorInvalidEventIdFormatCardTitle": {
+      "message": "Προσθέστε τιμή συμβολοσειράς για το eventID"
+   },
+   "pixelErrorInvalidEventIdFormatMessage": {
+      "message": "Προσθέστε τιμή συμβολοσειράς για το eventID"
+   },
+   "pixelErrorInvalidEventIdFormatRecommendation": {
+      "message": "Λανθασμένος τύπος eventID για αναγνωριστικό συνόλου δεδομένων: $1 για το συμβάν \"$2\". Η παράμετρος eventID πρέπει να είναι συμβολοσειρά. Παράδειγμα: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'}})."
+   },
+   "pixelErrorInvalidEventIdFormatRecommendationGeneric": {
+      "message": "Λανθασμένος τύπος eventID για το αναγνωριστικό συνόλου δεδομένων: $1. Η παράμετρος eventID πρέπει να είναι συμβολοσειρά. Παράδειγμα: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'}})."
+   },
+   "pixelErrorInvalidEventIdFormatStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('track', '$1', ..., {eventID: ...})** και ελέγξτε αν το eventID είναι συμβολοσειρά"
+   },
+   "pixelErrorInvalidEventIdFormatStep2Generic": {
+      "message": "Κάντε αναζήτηση για **fbq('track', ..., {eventID: ...})** και ελέγξτε αν το eventID είναι συμβολοσειρά"
+   },
+   "pixelErrorInvalidEventIdFormatStep3": {
+      "message": "Μετατρέψτε την τιμή eventID σε τύπο συμβολοσειράς"
+   },
+   "pixelErrorInvalidFbqMethodCardTitle": {
+      "message": "Μη έγκυρη μέθοδος στην κλήση fbq()"
+   },
+   "pixelErrorInvalidFbqMethodExample": {
+      "message": "Έγκυρες μέθοδοι: 'init', 'track', 'trackCustom', 'trackSingle', 'trackSingleCustom'"
+   },
+   "pixelErrorInvalidFbqMethodMessage": {
+      "message": "Χρησιμοποιήστε έγκυρες εντολές fbq"
+   },
+   "pixelErrorInvalidFbqMethodParameterCardTitle": {
+      "message": "Ενημερώστε τη μορφή παραμέτρου"
+   },
+   "pixelErrorInvalidFbqMethodParameterExample": {
+      "message": "Παράδειγμα: fbq('init', '123456789', {em: 'user@example.com', ph: '1234567890'}); // Το user_data πρέπει να είναι αντικείμενο"
+   },
+   "pixelErrorInvalidFbqMethodParameterMessage": {
+      "message": "Αντιστοιχίστε τις παραμέτρους στην αναμενόμενη μορφή"
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendation": {
+      "message": "Η κλήση της συνάρτησης \"fbq('$1', $2);\" με παράμετρο \"$3\" έχει μη έγκυρη τιμή \"$4\"."
+   },
+   "pixelErrorInvalidFbqMethodParameterRecommendationSimple": {
+      "message": "Μη έγκυρη παράμετρος μεθόδου fbq()."
+   },
+   "pixelErrorInvalidFbqMethodParameterStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('$1', $2);**"
+   },
+   "pixelErrorInvalidFbqMethodParameterStep3": {
+      "message": "Ενημερώστε το **$1** σε έγκυρο όνομα παραμέτρου"
+   },
+   "pixelErrorInvalidFbqMethodRecommendation": {
+      "message": "Η εντολή \"fbq('$1', ...);\" δεν είναι έγκυρη εντολή fbq. Χρησιμοποιήστε έγκυρες μεθόδους fbq όπως \"init\", \"track\", \"trackCustom\"."
+   },
+   "pixelErrorInvalidFbqMethodStep2": {
+      "message": "Βρείτε την κλήση fbq() με τη μη έγκυρη μέθοδο '$1'."
+   },
+   "pixelErrorInvalidFbqMethodStep3": {
+      "message": "Αντικαταστήστε το με έγκυρο όνομα μεθόδου όπως \"track\", \"init\", ή \"trackCustom\"."
+   },
+   "pixelErrorInvalidJsonLdCardTitle": {
+      "message": "Ενημερώστε τη μορφή JSON-LD"
+   },
+   "pixelErrorInvalidJsonLdMessage": {
+      "message": "Βεβαιωθείτε ότι το JSON-LD έχει σωστή μορφή και είναι έγκυρο"
+   },
+   "pixelErrorInvalidJsonLdRecommendation": {
+      "message": "Δεν είναι δυνατή η ανάλυση της ετικέτας JSON-LD. Βρέθηκε λάθος μορφή JSON: \"$1\". Βεβαιωθείτε ότι η σήμανση JSON-LD έχει τη σωστή μορφή και είναι έγκυρη πριν τη στείλετε στο pixel."
+   },
+   "pixelErrorInvalidJsonLdStep2": {
+      "message": "Κάντε αναζήτηση για **$1**"
+   },
+   "pixelErrorInvalidJsonLdStep3": {
+      "message": "Διορθώστε τη μορφή και βεβαιωθείτε ότι είναι έγκυρο JSON"
+   },
+   "pixelErrorInvalidParamCardTitle": {
+      "message": "Ενημερώστε τη μη έγκυρη παράμετρο για το συμβάν σας"
+   },
+   "pixelErrorInvalidParamExample": {
+      "message": "Παράδειγμα: fbq('track', 'Purchase', {currency: 'USD', value: 30.00})"
+   },
+   "pixelErrorInvalidParamFormatCardTitle": {
+      "message": "Ενημερώστε τη μορφή της παραμέτρου σας"
+   },
+   "pixelErrorInvalidParamFormatExample": {
+      "message": "Συνήθεις παράμετροι: value, currency, content_ids, content_type, κ.λπ. Πλήρης λίστα στο wiki: https://developers.facebook.com/docs/meta-pixel/reference/"
+   },
+   "pixelErrorInvalidParamFormatMessage": {
+      "message": "Ενημερώστε τη μορφή της παραμέτρου σας"
+   },
+   "pixelErrorInvalidParamFormatRecommendation": {
+      "message": "Μη έγκυρη μορφή παραμέτρου για $1."
+   },
+   "pixelErrorInvalidParamFormatStep2": {
+      "message": "Κάντε αναζήτηση για **$1**"
+   },
+   "pixelErrorInvalidParamMessage": {
+      "message": "Αφαιρέστε ή ενημερώστε μη έγκυρη παράμετρο για το συμβάν σας"
+   },
+   "pixelErrorInvalidParamRecommendation": {
+      "message": "Η παράμετρος \"$1\" δεν είναι έγκυρη για το συμβάν \"$2\"."
+   },
+   "pixelErrorInvalidParamStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('track', $1, ...)**"
+   },
+   "pixelErrorInvalidParamStep3": {
+      "message": "Αφαιρέστε ή ενημερώστε την παράμετρο \"$1\""
+   },
+   "pixelErrorInvalidPixelIdCardTitle": {
+      "message": "Προσθέστε ένα έγκυρο αναγνωριστικό συνόλου δεδομένων"
+   },
+   "pixelErrorInvalidPixelIdMessage": {
+      "message": "Προσθέστε ένα έγκυρο αναγνωριστικό σύνολου δεδομένων"
+   },
+   "pixelErrorInvalidPixelIdRecommendation": {
+      "message": "Το αναγνωριστικό συνόλου δεδομένων $1 δεν είναι έγκυρο. Επαληθεύστε ότι το αναγνωριστικό είναι σωστό στη Διαχείριση συμβάντων του Meta και ενημερώστε τον κώδικα του pixel."
+   },
+   "pixelErrorInvalidPixelIdStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('init', $1)** στον βασικό κώδικα εγκατάστασης του pixel σας"
+   },
+   "pixelErrorInvalidPixelIdStep3": {
+      "message": "Αντικαταστήστε το \"$1\" με ένα έγκυρο που μπορείτε να βρείτε στη Διαχείριση συμβάντων του Meta"
+   },
+   "pixelErrorMultiplePixelsCardTitle": {
+      "message": "Πραγματοποιήστε ενοποίηση σε ένα Pixel του Meta"
+   },
+   "pixelErrorMultiplePixelsMessage": {
+      "message": "Πραγματοποιήστε ενοποίηση σε ένα Pixel του Meta"
+   },
+   "pixelErrorMultiplePixelsRecommendation": {
+      "message": "Εντοπίστηκαν πολλά pixel σε αυτή τη σελίδα. Η ύπαρξη πολλών pixel μπορεί να υποδεικνύει ζητήματα διαμόρφωσης και να εμποδίζει την ομαλή παρακολούθηση συμβάντων."
+   },
+   "pixelErrorMultiplePixelsStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('init', ...)** στον βασικό κώδικα εγκατάστασης του pixel σας"
+   },
+   "pixelErrorMultiplePixelsStep3": {
+      "message": "Αφαιρέστε όλα τα pixel εκτός από ένα και φροντίστε να ενημερώσετε τις εκστρατείες σας αν χρησιμοποιείται διπλότυπο pixel"
+   },
+   "pixelErrorNegativeEventParamCardTitle": {
+      "message": "Προσθέστε μια θετική τιμή στην παράμετρο 1$"
+   },
+   "pixelErrorNegativeEventParamMessage": {
+      "message": "Ελέγξτε τα δεδομένα συμβάντων $1"
+   },
+   "pixelErrorNegativeEventParamRecommendation": {
+      "message": "Η παράμετρος \"$1\" είναι αρνητική για το συμβάν \"$2\". Οι παράμετροι συμβάντος όπως η τιμή, η ποσότητα κ.λπ. δεν πρέπει να είναι αρνητικές."
+   },
+   "pixelErrorNegativeEventParamStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('track', $1)**"
+   },
+   "pixelErrorNegativeEventParamStep3": {
+      "message": "Ενημερώστε την τιμή σε θετικό αριθμό"
+   },
+   "pixelErrorNoEventIdCardTitle": {
+      "message": "Προσθέστε αναγνωριστικά συμβάντων"
+   },
+   "pixelErrorNoEventIdMessage": {
+      "message": "Συμπεριλάβετε ένα αναγνωριστικό συμβάντος για παρακολούθηση και κατάργηση διπλότυπων"
+   },
+   "pixelErrorNoEventIdRecommendation": {
+      "message": "Εντοπίσαμε μηδενικό ή κενό eventID από την 4η παράμετρο για το αναγνωριστικό συνόλου δεδομένων: $1. Συμπεριλάβετε ένα αναγνωριστικό συμβάντος. Παράδειγμα: fbq('track', 'Purchase', {value: 12, currency: 'USD'}, {eventID: 'EVENT_ID'})."
+   },
+   "pixelErrorNoEventIdStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('track', ..., ..., ..., {})** και ψάξτε πού είναι κενή η 4η παράμετρος ή το eventID"
+   },
+   "pixelErrorNoEventIdStep3": {
+      "message": "Καθορίστε το eventID ή αφαιρέστε την 4η παράμετρο"
+   },
+   "pixelErrorNoEventNameCardTitle": {
+      "message": "Προσθέστε όνομα συμβάντος"
+   },
+   "pixelErrorNoEventNameExample": {
+      "message": "Παράδειγμα: fbq('track', 'AddToCart')"
+   },
+   "pixelErrorNoEventNameMessage": {
+      "message": "Προσθέστε ένα όνομα συμβάντος για να παρακολουθείτε το συμβάν σας"
+   },
+   "pixelErrorNoEventNameRecommendation": {
+      "message": "Λείπει το όνομα συμβάντος. Τα συμβάντα που παρακολουθούνται πρέπει να καταγράφονται με ένα όνομα συμβάντος fbq(\"track\", eventName). Παράδειγμα: fbq('track', 'AddToCart')."
+   },
+   "pixelErrorNoEventNameStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('track', '', ...)** ή **fbq('track', ' ', ...)**"
+   },
+   "pixelErrorNoEventNameStep3": {
+      "message": "Προσθέστε όνομα εκδήλωσης"
+   },
+   "pixelErrorNonstandardEventCardTitle": {
+      "message": "Ενημερώστε το μη βασικό συμβάν σας"
+   },
+   "pixelErrorNonstandardEventMessage": {
+      "message": "Στείλτε το μη βασικό συμβάν σας χρησιμοποιώντας τη συνάρτηση trackCustom"
+   },
+   "pixelErrorNonstandardEventRecommendation": {
+      "message": "Στέλνετε ένα μη βασικό συμβάν \"$1\". Στείλτε αυτά τα συμβάντα χρησιμοποιώντας τη συνάρτηση trackCustom. Καλέστε τη συνάρτηση fbq('trackCustom', ...)."
+   },
+   "pixelErrorNonstandardEventStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('track', $1)**"
+   },
+   "pixelErrorNonstandardEventStep3": {
+      "message": "Αντικαταστήστε με **fbq('trackCustom', $1)**"
+   },
+   "pixelErrorPiiInvalidTypeCardTitle": {
+      "message": "Αφαιρέστε μη έγκαιρα στοιχεία πελάτη"
+   },
+   "pixelErrorPiiInvalidTypeExample": {
+      "message": "Παράδειγμα: **em**, **ph**, **fn**, **ln**, **db**, **ge**, **ct**, **zp**, **external_id**, κ.λπ."
+   },
+   "pixelErrorPiiInvalidTypeMessage": {
+      "message": "Αφαιρέστε μη έγκαιρα στοιχεία πελάτη"
+   },
+   "pixelErrorPiiInvalidTypeRecommendation": {
+      "message": "Ορίστηκε μη έγκυρη τιμή $1 για την παράμετρο \"$2\". Αυτά τα δεδομένα δεν θα σταλούν με κανένα συμβάν για το συγκεκριμένο pixel."
+   },
+   "pixelErrorPiiInvalidTypeStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('init', $1, {$2:...})**"
+   },
+   "pixelErrorPiiInvalidTypeStep3": {
+      "message": "Ενημερώστε το πεδίο **$1** ή αντικαταστήστε το με έγκυρη πληροφορία"
+   },
+   "pixelErrorPiiUnhashedPiiCardTitle": {
+      "message": "Στείλτε διευθύνσεις email με το σωστό πεδίο κλειδιού"
+   },
+   "pixelErrorPiiUnhashedPiiMessage": {
+      "message": "Στείλτε διευθύνσεις email με το σωστό πεδίο κλειδιού"
+   },
+   "pixelErrorPiiUnhashedPiiRecommendation": {
+      "message": "Η τιμή για το πεδίο \"$1\" φαίνεται να είναι PII. Αυτά τα δεδομένα δεν θα σταλούν με κανένα συμβάν για το συγκεκριμένο pixel. Ο συνιστώμενος τρόπος είναι να καλέσετε τη συνάρτηση bq('init', 'PIXEL_ID', {em: 'email@email.com', ...})."
+   },
+   "pixelErrorPiiUnhashedPiiStep2": {
+      "message": "Κάντε αναζήτηση για **$1** και ελέγξτε αν έχει οριστεί κάποια τιμή για μια διεύθυνση email"
+   },
+   "pixelErrorPiiUnhashedPiiStep3": {
+      "message": "Ενημερώστε την παράμετρο **$1** σε **em**"
+   },
+   "pixelErrorRequiredParamMissingCardTitle": {
+      "message": "Προσθέστε την παράμετρο που λείπει"
+   },
+   "pixelErrorRequiredParamMissingMessage": {
+      "message": "Προσθέστε την απαιτούμενη παράμετρο που λείπει στο συμβάν σας"
+   },
+   "pixelErrorRequiredParamMissingRecommendation": {
+      "message": "Λείπει η απαιτούμενη παράμετρος \"$1\" για το συμβάν \"$2\"."
+   },
+   "pixelErrorRequiredParamMissingStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('track', $1, ...)**"
+   },
+   "pixelErrorRequiredParamMissingStep3": {
+      "message": "Προσθέστε την παράμετρο που λείπει"
+   },
+   "pixelErrorRestrictedEventCardTitle": {
+      "message": "Ελέγξτε τα μπλοκαρισμένα συμβάντα"
+   },
+   "pixelErrorRestrictedEventMessage": {
+      "message": "Πηγαίνετε στη Διαχείριση συμβάντων για να ελέγξετε τα μπλοκαρισμένα συμβάντα"
+   },
+   "pixelErrorRestrictedEventRecommendation": {
+      "message": "Προσπαθείτε να στείλετε ένα συμβάν υπό περιορισμούς. Το συμβάν δεν ενεργοποιήθηκε."
+   },
+   "pixelErrorRestrictedEventStep1": {
+      "message": "Πηγαίνετε στην καρτέλα \"Ρυθμίσεις\" του συνόλου δεδομένων στη Διαχείριση συμβάντων"
+   },
+   "pixelErrorRestrictedEventStep2": {
+      "message": "Πηγαίνετε στην ενότητα \"Δικαιώματα κίνησης > Ιστότοποι\""
+   },
+   "pixelErrorRestrictedEventStep3": {
+      "message": "Ελέγξτε και ενημερώστε τα μπλοκαρισμένα συμβάντα ή σταματήστε να στέλνετε μπλοκαρισμένα συμβάντα από τον ιστότοπό σας"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelCardTitle": {
+      "message": "Ενεργοποιήστε το pixel σας"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelMessage": {
+      "message": "Ενεργοποιήστε το pixel πριν από τον ορισμό μεταδεδομένων"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendation": {
+      "message": "Προσπαθείτε να ορίσετε το όρισμα $1 για το μη ενεργοποιημένο αναγνωριστικό συνόλου δεδομένων $2. Ενεργοποιήστε το pixel πριν ορίσετε μεταδεδομένα. Καλέστε πρώτα τη συνάρτηση fbq('init', '$3')."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelRecommendationSimple": {
+      "message": "Προσπαθείτε να ορίσετε μεταδεδομένα σε μη ενεργοποιημένο pixel."
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep2": {
+      "message": "Κάντε αναζήτηση για **fbq()**"
+   },
+   "pixelErrorSetMetadataOnUninitializedPixelStep3": {
+      "message": "Καλέστε πρώτα τη συνάρτηση **fbq('init', 'PIXEL_ID')**"
+   },
+   "pixelErrorSiteCodelessOptOutCardTitle": {
+      "message": "Ενεργοποιήστε τη διαμόρφωση συμβάντων χωρίς κώδικα"
+   },
+   "pixelErrorSiteCodelessOptOutMessage": {
+      "message": "Ενεργοποιήστε τη διαμόρφωση συμβάντων χωρίς κώδικα ή χρησιμοποιήστε τη μη αυτόματη ενσωμάτωση pixel"
+   },
+   "pixelErrorSiteCodelessOptOutRecommendation": {
+      "message": "Δεν είναι δυνατό το άνοιγμα του περιβάλλοντος εργασίας συμβάντων χωρίς κώδικα για το pixel, καθώς ο ιστότοπος έχει επιλέξει να εξαιρεθεί. Αναγνωριστικό συνόλου δεδομένων: $1."
+   },
+   "pixelErrorSiteCodelessOptOutStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('set', 'codeless', 'false', $1)**"
+   },
+   "pixelErrorSiteCodelessOptOutStep3": {
+      "message": "Αφαιρέστε αυτή τη γραμμή για να ενεργοποιήσετε ξανά την επιλογή ή να την ενεργοποιήσετε ρητά **fbq('set', 'codeless', 'true', $1);"
+   },
+   "pixelErrorUnableLoadFbqCardTitle": {
+      "message": "Αφαιρέστε τα προγράμματα αποκλεισμού διαφημίσεων"
+   },
+   "pixelErrorUnableLoadFbqMessage": {
+      "message": "Ελέγξτε τη σύνδεση του δικτύου σας και την κονσόλα του προγράμματος περιήγησης"
+   },
+   "pixelErrorUnableLoadFbqRecommendation": {
+      "message": "Δεν είναι δυνατή η φόρτωση της συνάρτησης fbq. Τα εργαλεία αποκλεισμού διαφημίσεων μπορεί επίσης να εμποδίζουν τη φόρτωση του pixel."
+   },
+   "pixelErrorUnableLoadFbqStep1": {
+      "message": "Ελέγξτε τη σύνδεση του δικτύου σας"
+   },
+   "pixelErrorUnableLoadFbqStep2": {
+      "message": "Βεβαιωθείτε ότι τα εργαλεία αποκλεισμού διαφημίσεων είναι απενεργοποιημένα"
+   },
+   "pixelErrorUninitializedPixelCardTitle": {
+      "message": "Ενεργοποιήστε το pixel σας"
+   },
+   "pixelErrorUninitializedPixelMessage": {
+      "message": "Ενεργοποιήστε το pixel σας"
+   },
+   "pixelErrorUninitializedPixelRecommendation": {
+      "message": "Το pixel $1 δεν βρέθηκε. Ενεργοποιήστε το pixel με τη συνάρτηση fbq('init', 'PIXEL_ID') πριν την κλήση άλλων μεθόδων fbq."
+   },
+   "pixelErrorUninitializedPixelStep1": {
+      "message": "Πηγαίνετε στην καρτέλα \"Επισκόπηση\" της Διαχείρισης συμβάντων για να αντιγράψετε τον βασικό κώδικα του Pixel του Meta"
+   },
+   "pixelErrorUninitializedPixelStep2": {
+      "message": "Επικολλήστε τον κώδικα του Pixel του Meta ανάμεσα στα tag `\u003Chead>` και `\u003C/head>` της ιστοσελίδας σας"
+   },
+   "pixelErrorUnknownErrorMessage": {
+      "message": "Προέκυψε άγνωστο σφάλμα pixel"
+   },
+   "pixelErrorUnknownErrorRecommendation": {
+      "message": "Για περισσότερες λεπτομέρειες σχετικά με αυτό το σφάλμα, ελέγξτε την κονσόλα του προγράμματος περιήγησης."
+   },
+   "pixelErrorUnsupportedMetadataCardTitle": {
+      "message": "Αφαιρέστε ή ενημερώστε μη υποστηριζόμενα πεδία μεταδεδομένων"
+   },
+   "pixelErrorUnsupportedMetadataMessage": {
+      "message": "Αφαιρέστε ή ενημερώστε μη υποστηριζόμενα πεδία μεταδεδομένων"
+   },
+   "pixelErrorUnsupportedMetadataRecommendation": {
+      "message": "Μη υποστηριζόμενο όρισμα μεταδεδομένων: $1. Έγκυρα ορίσματα μεταδεδομένων είναι τα εξής: \"agent\", \"automaticMatchingConfig\", \"codeless\", \"trackSingleOnly\", \"cbData.oneTrustId\"."
+   },
+   "pixelErrorUnsupportedMetadataStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('set', $1)**"
+   },
+   "pixelErrorUnsupportedMetadataStep3": {
+      "message": "Αντικαταστήστε με έγκυρο όρισμα"
+   },
+   "pixelErrorUnverifiedEventCardTitle": {
+      "message": "Επαληθεύστε τα συμβάντα σας"
+   },
+   "pixelErrorUnverifiedEventMessage": {
+      "message": "Επαληθεύστε τα συμβάντα σας στη Διαχείριση συμβάντων"
+   },
+   "pixelErrorUnverifiedEventRecommendation": {
+      "message": "Προσπαθείτε να στείλετε ένα μη επαληθευμένο συμβάν. Το συμβάν δεν ενεργοποιήθηκε. Επισκεφτείτε τη Διαχείριση συμβάντων για να μάθετε περισσότερα."
+   },
+   "pixelErrorUnverifiedEventStep1": {
+      "message": "Πηγαίνετε στην καρτέλα \"Διαγνωστικός έλεγχος\" του συνόλου δεδομένων στη Διαχείριση συμβάντων"
+   },
+   "pixelErrorUnverifiedEventStep2": {
+      "message": "Επαληθεύστε τα συμβάντα"
+   },
+   "pixelErrorUnwantedCustomDataCardTitle": {
+      "message": "Αφαιρέστε πιθανές παραβιάσεις"
+   },
+   "pixelErrorUnwantedCustomDataExample": {
+      "message": "Παράδειγμα: fbq('track', 'Purchase', {...}) - Αφαιρέστε τα πεδία ssn, credit_card, password"
+   },
+   "pixelErrorUnwantedCustomDataMessage": {
+      "message": "Αφαιρέστε προσαρμοσμένα πεδία δεδομένων με πιθανές παραβιάσεις"
+   },
+   "pixelErrorUnwantedCustomDataRecommendation": {
+      "message": "Αφαιρέσαμε παραμέτρους από τα προσαρμοσμένα δεδομένα λόγω πιθανών παραβιάσεων. Πηγαίνετε στη Διαχείριση συμβάντων για να τις ελέγξετε."
+   },
+   "pixelErrorUnwantedCustomDataStep2": {
+      "message": "Αφαιρέστε τον κωδικό πρόσβασης ή τυχόν οικονομικά στοιχεία και ελέγξτε περισσότερους τύπους παραβιάσεων στο wiki"
+   },
+   "pixelErrorUnwantedEventNameCardTitle": {
+      "message": "Ελέγξτε τα ονόματα συμβάντων"
+   },
+   "pixelErrorUnwantedEventNameExample": {
+      "message": "Παράδειγμα: Λάθος ονόματα συμβάντων όπως 'CreditCardSubmit', 'PasswordEntered', 'SSNCollected'"
+   },
+   "pixelErrorUnwantedEventNameMessage": {
+      "message": "Βεβαιωθείτε ότι το όνομα συμβάντος δεν περιλαμβάνει απαγορευμένες πληροφορίες"
+   },
+   "pixelErrorUnwantedEventNameRecommendation": {
+      "message": "Το συμβάν σας μπλοκαρίστηκε λόγω πιθανών παραβιάσεων."
+   },
+   "pixelErrorUnwantedEventNameStep2": {
+      "message": "Κάντε αναζήτηση για **fbq('track', ...)**"
+   },
+   "pixelErrorUnwantedEventNameStep3": {
+      "message": "Ελέγξτε το όνομα του συμβάντος σας για να βεβαιωθείτε ότι δεν περιλαμβάνει απαγορευμένες πληροφορίες (π.χ. κωδικό πρόσβασης, αριθμό κοινωνικής ασφάλισης, πιστωτική κάρτα κ.λπ.)"
+   },
+   "pixelErrorUnwantedUrlDataCardTitle": {
+      "message": "Ελέγξτε πιθανές παραβιάσεις"
+   },
+   "pixelErrorUnwantedUrlDataExample": {
+      "message": "Παράδειγμα:\n❌ Λανθασμένες διευθύνσεις URL:\nhttps://example.com/checkout?email=user@test.com&ssn=123-45-6789\nhttps://example.com/login?password=secret123&credit_card=4111...\n\n✅ Σωστές διευθύνσεις URL:\nhttps://example.com/checkout?order_id=12345\nhttps://example.com/login (χωρίς ευαίσθητες παραμέτρους ερωτήματος)"
+   },
+   "pixelErrorUnwantedUrlDataMessage": {
+      "message": "Ελέγξτε τα δεδομένα διεύθυνσης URL για να βεβαιωθείτε ότι δεν περιλαμβάνουν απαγορευμένες πληροφορίες"
+   },
+   "pixelErrorUnwantedUrlDataRecommendation": {
+      "message": "Οι παράμετροι ερωτήματος διεύθυνσης URL αφαιρέθηκαν λόγω πιθανών παραβιάσεων."
+   },
+   "pixelErrorUnwantedUrlDataStep2": {
+      "message": "Ελέγξτε τις διευθύνσεις URL - Ελέγξτε την τρέχουσα σελίδα (dl) και την παραπομπή (rl) για να βεβαιωθείτε ότι δεν υπάρχουν ευαίσθητες πληροφορίες"
+   },
+   "pixelEventCountPlural": {
+      "message": "$1 συμβάντα"
+   },
+   "pixelEventCountSingular": {
+      "message": "$1 συμβάν"
+   },
+   "pixelEventUnnamed": {
+      "message": "Συμβάν (χωρίς όνομα)"
+   },
+   "pixelHeaderPlural": {
+      "message": "Βρέθηκαν $1 pixel σε αυτή τη σελίδα"
+   },
+   "pixelHeaderSingular": {
+      "message": "Βρέθηκε ένα pixel σε αυτή τη σελίδα"
+   },
+   "pixelIdLabel": {
+      "message": "Αναγνωριστικό: $1"
+   },
+   "pixelLoadTime": {
+      "message": "$1 χιλιοστά του δευτερολέπτου"
+   },
+   "pixelMetaPixelTitle": {
+      "message": "Pixel του Meta"
+   },
+   "pixelMissingFiresMessage": {
+      "message": "Δεν έχει ενεργοποιηθεί κανένα pixel στην τρέχουσα σελίδα, αλλά έχουν ενεργοποιηθεί pixel σε άλλες σελίδες αυτού του ιστότοπου"
+   },
+   "pixelMissingFiresRecommendation": {
+      "message": "Εξετάστε το ενδεχόμενο να προσθέσετε συμβάντα παρακολούθησης pixel σε αυτή τη σελίδα ή ελέγξτε αν τα υπάρχοντα pixel λειτουργούν σωστά"
+   },
+   "pixelNoEventsRecorded": {
+      "message": "Δεν έχουν καταγραφεί ακόμα συμβάντα"
+   },
+   "pixelNotFiringMessage": {
+      "message": "Το Pixel $1 έχει εγκατασταθεί αλλά δεν έχει ενεργοποιηθεί πρόσφατα"
+   },
+   "pixelStatusActive": {
+      "message": "Ενεργό"
+   },
+   "pixelStatusAutomaticallyDetected": {
+      "message": "Εντοπίστηκε αυτόματα"
+   },
+   "pixelStatusError": {
+      "message": "Σφάλμα"
+   },
+   "pixelStatusEventNotProcessed": {
+      "message": "Το συμβάν δεν υποβλήθηκε σε επεξεργασία"
+   },
+   "pixelStatusEventReceived": {
+      "message": "Το συμβάν λήφθηκε"
+   },
+   "pixelStatusInactive": {
+      "message": "Ανενεργό"
+   },
+   "pixelStatusReceived": {
+      "message": "Ελήφθη"
+   },
+   "pixelStatusSent": {
+      "message": "Το συμβάν στάλθηκε"
+   },
+   "pixelStatusWarning": {
+      "message": "Προειδοποίηση"
+   },
+   "recipeAddMoreFields": {
+      "message": "Προσθήκη περισσότερων"
+   },
+   "recipeCancelAutomation": {
+      "message": "Ακύρωση αυτοματοποίησης"
+   },
+   "recipeCompleteActionToContinue": {
+      "message": "Ολοκληρώστε την ενέργεια για να συνεχίσετε"
+   },
+   "recipeErrorBackButton": {
+      "message": "Μετάβαση στην αρχική σελίδα"
+   },
+   "recipeErrorMessage": {
+      "message": "Δεν μπορέσαμε να ξεκινήσουμε την αυτοματοποίηση λόγω μη αναμενόμενου σφάλματος. Ελέγξτε τη σύνδεσή σας στο internet και προσπαθήστε ξανά αργότερα."
+   },
+   "recipeErrorTitle": {
+      "message": "Προσπαθήστε ξανά αργότερα."
+   },
+   "recipeFailedStateDescription": {
+      "message": "Παρουσιάστηκε πρόβλημα κατά την ολοκλήρωση αυτής της ενέργειας. Θα πρέπει να ολοκληρώσετε αυτή την ενέργεια με μη αυτόματο τρόπο για να συνεχίσετε τη διαμόρφωση."
+   },
+   "recipeFieldIdentifierLabel": {
+      "message": "Αναγνωριστικό"
+   },
+   "recipeFieldMappingInfoBoxTextLead": {
+      "message": "Για να συνεχίσετε, επιβεβαιώστε το όνομα και την ώρα της εκδήλωσης και επιλέξτε τουλάχιστον 1 πεδίο αναγνωριστικού (προτείνεται το \"Αναγνωριστικό υποψήφιου πελάτη\")."
+   },
+   "recipeFieldMappingInfoBoxTextOpportunity": {
+      "message": "Για να συνεχίσετε, επιβεβαιώστε το όνομα και την ώρα της εκδήλωσης."
+   },
+   "recipeFieldOptionalLabel": {
+      "message": "Προαιρετικό"
+   },
+   "recipeFieldsDropdownNoResultsFound": {
+      "message": "Δεν βρέθηκαν αποτελέσματα"
+   },
+   "recipeFieldsEventNameTooltipContent": {
+      "message": "Αυτό το όνομα αντιστοιχεί σε υποψήφιους πελάτες στη χοάνη του CRM σας. Στείλτε όλα τα στάδια καθώς ενημερώνονται."
+   },
+   "recipeFieldsEventNameTooltipExample": {
+      "message": "π.χ."
+   },
+   "recipeFieldsEventNameTooltipExample1": {
+      "message": "Απλός υποψήφιος πελάτης από το Meta"
+   },
+   "recipeFieldsEventNameTooltipExample2": {
+      "message": "Υποψήφιος πελάτης επιλέξιμος για μάρκετινγκ"
+   },
+   "recipeFieldsEventNameTooltipExample3": {
+      "message": "Ευκαιρία πωλήσεων"
+   },
+   "recipeFieldsEventNameTooltipExample4": {
+      "message": "Πελάτης"
+   },
+   "recipeFieldsEventNameTooltipLearnMore": {
+      "message": "Μάθετε περισσότερα"
+   },
+   "recipeFieldsEventNameTooltipLearnMoreContinued": {
+      "message": "σχετικά με την ενσωμάτωση υποψήφιων πελατών για μετατροπές."
+   },
+   "recipeFileABug": {
+      "message": "Αναφορά σφάλματος"
+   },
+   "recipeFileAnotherBug": {
+      "message": "Αναφορά άλλου σφάλματος"
+   },
+   "recipeIntroStartAutomationButton": {
+      "message": "Έναρξη αυτοματοποίησης"
+   },
+   "recipeMaibaCallerIndicator": {
+      "message": "Επιστροφή στο MAIBA"
+   },
+   "recipeMarkAsComplete": {
+      "message": "Επισήμανση ως ολοκληρωμένου"
+   },
+   "recipeMilestoneActionNeededStatus": {
+      "message": "Απαιτείται ενέργεια"
+   },
+   "recipeMilestoneCompleteStatus": {
+      "message": "Ολοκληρώθηκε"
+   },
+   "recipeMilestoneFailedStatus": {
+      "message": "Απέτυχε"
+   },
+   "recipeMilestoneInProgressStatus": {
+      "message": "Σε εξέλιξη"
+   },
+   "recipeMilestonePausedStatus": {
+      "message": "Σε παύση"
+   },
+   "recipeMilestoneStepFailedSuffix": {
+      "message": "· Το βήμα απέτυχε"
+   },
+   "recipeOpportunityChoiceNo": {
+      "message": "όχι"
+   },
+   "recipeOpportunityChoiceYes": {
+      "message": "ναι"
+   },
+   "recipeOpportunityQuestionDropdownLabel": {
+      "message": "Χρησιμοποιείτε ευκαιρίες;"
+   },
+   "recipeOpportunityQuestionInfoText": {
+      "message": "Οι ευκαιρίες συγχρονίζουν την κατάσταση των συμφωνιών στο Salesforce με το Meta, ώστε οι διαφημίσεις να μπορούν να βελτιστοποιούνται βάσει των αποτελεσμάτων πραγματικών εσόδων και όχι μόνο βάσει της ανεύρεσης υποψήφιων πελατών."
+   },
+   "recipeOpportunityQuestionLearnMore": {
+      "message": "Μάθετε περισσότερα"
+   },
+   "recipeOpportunityQuestionNo": {
+      "message": "Όχι"
+   },
+   "recipeOpportunityQuestionYes": {
+      "message": "Ναι"
+   },
+   "recipePause": {
+      "message": "Παύση"
+   },
+   "recipeResume": {
+      "message": "Συνέχιση"
+   },
+   "recipeRetry": {
+      "message": "Επανάληψη"
+   },
+   "recipeReturnToMaiba": {
+      "message": "Επιστροφή στο MAIBA"
+   },
+   "recipeReturnToTab": {
+      "message": "Επιστροφή στην καρτέλα"
+   },
+   "recipeReturnToTabPrompt": {
+      "message": "Επιστρέψτε στην καρτέλα όπου εκτελούνταν αυτή η αυτοματοποίηση και έπειτα πατήστε \"Συνέχεια\"."
+   },
+   "recipeStepFailed": {
+      "message": "Απέτυχε"
+   },
+   "recipeStepNumber": {
+      "message": "Βήμα $1"
+   },
+   "recipeStepSkipped": {
+      "message": "Παραλείφθηκε"
+   },
+   "recipeStepSkippedTooltip": {
+      "message": "Αυτό το βήμα παραλείφθηκε επειδή διαπιστώθηκε ότι δεν είναι πλέον απαραίτητο."
+   },
+   "recipeStepUserActionRequired": {
+      "message": "Απαιτείται ενέργεια"
+   },
+   "recipeSummaryHeaderTitle": {
+      "message": "Σύνοψη"
+   },
+   "recipeSwitchToActiveTabHint": {
+      "message": "Πατήστε για να μεταφερθείτε στην ενεργή καρτέλα και να επιταχύνετε την αυτοματοποίηση."
+   },
+   "recipeThanksForFeedback": {
+      "message": "Ευχαριστούμε για την υποβολή σχολίων"
+   },
+   "recipeVerifying": {
+      "message": "Επαλήθευση..."
+   },
+   "recipeViewInEventsManager": {
+      "message": "Προβολή στη Διαχείριση συμβάντων"
+   },
+   "recipeViewReport": {
+      "message": "Προβολή σύνοψης αυτοματοποίησης"
+   },
+   "recipeWpAdminUrlInfoText": {
+      "message": "Δεν μπορέσαμε να εντοπίσουμε αυτόματα τη διεύθυνση URL διαχειριστή WordPress. Συμπληρώστε την πλήρη διεύθυνση URL για τον πίνακα πληροφοριών διαχειριστή WordPress, ώστε να μπορέσουμε να προχωρήσουμε με τη διαμόρφωση."
+   },
+   "recipeWpAdminUrlInputLabel": {
+      "message": "Εισαγάγετε τη διεύθυνση URL του διαχειριστή WordPress (π.χ. https://yoursite.com/wp-admin/)"
+   },
+   "recipeYourActionIsRequired": {
+      "message": "Απαιτείται ενέργεια από εσάς"
+   },
+   "remove": {
+      "message": "Αφαίρεση"
+   },
+   "remove_asset_button_label": {
+      "message": "Αφαίρεση αυτού του στοιχείου"
+   },
+   "remove_asset_button_required_label": {
+      "message": "Αυτό το στοιχείο απαιτείται και δεν είναι δυνατή η αφαίρεσή του"
+   },
+   "reportAiGenerated": {
+      "message": "Δημιουργήθηκε με τεχνητή νοημοσύνη"
+   },
+   "reportAutomationCountPlural": {
+      "message": "$1 αυτοματοποιήσεις"
+   },
+   "reportAutomationCountSingular": {
+      "message": "$1 αυτοματοποίηση"
+   },
+   "reportAutomationPanelDescription": {
+      "message": "Ελέγξτε την κατάσταση, το χρονολόγιο και τις ενέργειες που πραγματοποιήθηκαν κατά τη διάρκεια αυτής της αυτοματοποίησης."
+   },
+   "reportAutomationSummaryDescription": {
+      "message": "Μια λεπτομερής ανάλυση της εμπειρίας αυτοματοποίησής σας. Για την προστασία του απορρήτου σας, αυτή η ανάλυση δεν θα αποθηκευτεί στην πλατφόρμα μας."
+   },
+   "reportAutomationSummaryTitle": {
+      "message": "Σύνοψη αυτοματοποίησης"
+   },
+   "reportCapturedDuringEmSelection": {
+      "message": "Επιλογή Διαχείρισης συμβάντων"
+   },
+   "reportCapturedDuringGaSetup": {
+      "message": "Διαμόρφωση Google Analytics"
+   },
+   "reportCapturedDuringGtmSetup": {
+      "message": "Διαμόρφωση GTM"
+   },
+   "reportCapturedDuringSfWebhook": {
+      "message": "Ενσωμάτωση webhook του Salesforce"
+   },
+   "reportCapturedIdsCreatedDuringSession": {
+      "message": "Δημιουργήθηκαν κατά τη διάρκεια της περιόδου σύνδεσής σας"
+   },
+   "reportCapturedIdsDescription": {
+      "message": "Αποκτήθηκε πρόσβαση στα παρακάτω αναγνωριστικά κατά τη διάρκεια της αυτοματοποίησης."
+   },
+   "reportCapturedIdsEmpty": {
+      "message": "Δεν αποκτήθηκε πρόσβαση σε αναγνωριστικά κατά τη διάρκεια αυτής της αυτοματοποίησης."
+   },
+   "reportCapturedIdsExisting": {
+      "message": "Υπάρχουσες"
+   },
+   "reportCapturedIdsHeading": {
+      "message": "Αναγνωριστικά στα οποία αποκτήθηκε πρόσβαση"
+   },
+   "reportClickToCopy": {
+      "message": "Κλικ για αντιγραφή"
+   },
+   "reportCopied": {
+      "message": "Έγινε αντιγραφή"
+   },
+   "reportCopyAll": {
+      "message": "Αντιγραφή όλων"
+   },
+   "reportDomainEventsManager": {
+      "message": "Διαχείριση συμβάντων"
+   },
+   "reportDomainGoogleAnalytics": {
+      "message": "Google Analytics"
+   },
+   "reportDomainGoogleTagManager": {
+      "message": "Διαχείριση ετικετών Google"
+   },
+   "reportDomainSalesforce": {
+      "message": "Salesforce"
+   },
+   "reportDomainStape": {
+      "message": "Stape"
+   },
+   "reportExportPdf": {
+      "message": "Εξαγωγή σύνοψης ως .pdf"
+   },
+   "reportExportPdfNote": {
+      "message": "Η εξαγωγή μπορεί να διαρκέσει έως 45 δευτερόλεπτα."
+   },
+   "reportFlowAutomationName": {
+      "message": "Ροή αυτοματοποίησης"
+   },
+   "reportFlowSummaryDescription": {
+      "message": "Ελέγξτε τις καταστάσεις, τα χρονολόγια και τις ενέργειες που πραγματοποιήθηκαν σε όλες τις αυτοματοποιήσεις σε αυτή τη ροή."
+   },
+   "reportFlowSummaryHeading": {
+      "message": "Σύνοψη ροής"
+   },
+   "reportIdCountPlural": {
+      "message": "$1 αναγνωριστικά"
+   },
+   "reportIdCountSingular": {
+      "message": "$1 αναγνωριστικό"
+   },
+   "reportIdLabelAdAccountId": {
+      "message": "Αναγνωριστικό διαφημιστικού λογαριασμού"
+   },
+   "reportIdLabelBusinessId": {
+      "message": "Αναγνωριστικό επιχείρησης"
+   },
+   "reportIdLabelCustom": {
+      "message": "Προσαρμοσμένο αναγνωριστικό"
+   },
+   "reportIdLabelDatasetId": {
+      "message": "Αναγνωριστικό συνόλου δεδομένων"
+   },
+   "reportIdLabelGaMeasurementId": {
+      "message": "Αναγνωριστικό μέτρησης Google Analytics"
+   },
+   "reportIdLabelGtmAccountId": {
+      "message": "Όνομα λογαριασμού Διαχείρισης ετικετών Google"
+   },
+   "reportIdLabelGtmContainerId": {
+      "message": "Αναγνωριστικό κοντέινερ Διαχείρισης ετικετών Google"
+   },
+   "reportIdLabelGtmServerContainerName": {
+      "message": "Κοντέινερ διακομιστή Διαχείρισης ετικετών Google"
+   },
+   "reportIdLabelGtmWebContainerName": {
+      "message": "Κοντέινερ ιστού Διαχείρισης ετικετών Google"
+   },
+   "reportIdLabelSgwDataPlaneUrl": {
+      "message": "Διεύθυνση URL επιπέδου δεδομένων Signals Gateway"
+   },
+   "reportIdLabelSgwPixelId": {
+      "message": "Αναγνωριστικό συνόλου δεδομένων Signals Gateway"
+   },
+   "reportIdLabelWebhookIntegrationId": {
+      "message": "Αναγνωριστικό ενσωμάτωσης Webhook"
+   },
+   "reportIdLabelWebhookUrl": {
+      "message": "Διεύθυνση URL Webhook"
+   },
+   "reportInProgress": {
+      "message": "Σε εξέλιξη"
+   },
+   "reportKeyScreenshotEndOfAutomation": {
+      "message": "Τέλος αυτοματοποίησης"
+   },
+   "reportKeyScreenshotFinalState": {
+      "message": "Τελική κατάσταση αυτοματοποίησης"
+   },
+   "reportLabelActionsTaken": {
+      "message": "Ενέργειες που έγιναν"
+   },
+   "reportLabelAutomations": {
+      "message": "Αυτοματοποιήσεις"
+   },
+   "reportLabelDuration": {
+      "message": "Διάρκεια"
+   },
+   "reportLabelStatus": {
+      "message": "Κατάσταση"
+   },
+   "reportLabelTimeline": {
+      "message": "Χρονολόγιο"
+   },
+   "reportMilestoneComplete": {
+      "message": "Ολοκληρώθηκε"
+   },
+   "reportNavHowWeUseData": {
+      "message": "Πώς χρησιμοποιούμε τα δεδομένα σας"
+   },
+   "reportNavIdsAccessed": {
+      "message": "Αναγνωριστικά στα οποία αποκτήθηκε πρόσβαση"
+   },
+   "reportNavPagesVisited": {
+      "message": "Σελίδες και τομείς στα οποία έγιναν επισκέψεις"
+   },
+   "reportNavPrivacySecurity": {
+      "message": "Απόρρητο και ασφάλεια"
+   },
+   "reportNavSummary": {
+      "message": "Σύνοψη"
+   },
+   "reportOverviewCapiGatewayDescription": {
+      "message": "Αυτή η αυτοματοποίηση διαμόρφωσε την Πύλη API μετατροπών για παρακολούθηση συμβάντων από την πλευρά του διακομιστή. Η πύλη στέλνει δεδομένα συμβάντων απευθείας από τον διακομιστή σας στο Meta, βελτιώνοντας την αξιοπιστία των δεδομένων και την ποιότητα αντιστοίχισης."
+   },
+   "reportOverviewCapiGatewayTitle": {
+      "message": "Διαμόρφωση Πύλης API μετατροπών"
+   },
+   "reportOverviewDefaultDescription": {
+      "message": "Αυτή η αναφορά παρουσιάζει συνοπτικά τις ενέργειες που πραγματοποιήθηκαν κατά τη διαδικασία αυτοματοποίησης."
+   },
+   "reportOverviewDefaultTitle": {
+      "message": "Η αυτοματοποίηση ολοκληρώθηκε"
+   },
+   "reportOverviewGtmServerDescription": {
+      "message": "Αυτή η αυτοματοποίηση διαμόρφωσε την προσθήκη ετικετών από την πλευρά του διακομιστή μέσω της Διαχείρισης ετικετών Google. Η προσθήκη ετικετών από την πλευρά του διακομιστή βελτιώνει την ποιότητα των δεδομένων, την απόδοση του ιστότοπου και το απόρρητο των χρηστών χάρη στην επεξεργασία των ετικετών σε διακομιστή και όχι στο πρόγραμμα περιήγησης."
+   },
+   "reportOverviewGtmServerTitle": {
+      "message": "Διαμόρφωση της Διαχείρισης ετικετών Google από την πλευρά του διακομιστή"
+   },
+   "reportOverviewGtmWebDescription": {
+      "message": "Αυτή η αυτοματοποίηση ρύθμισε ένα κοντέινερ ιστού για τη Διαχείριση ετικετών Google και το διαμόρφωσε για τον ιστότοπό σας. Το κοντέινερ σάς επιτρέπει να διαχειρίζεστε ετικέτες μάρκετινγκ, αναλυτικά στοιχεία και pixel παρακολούθησης χωρίς να τροποποιείτε τον κώδικα του ιστοτόπου σας."
+   },
+   "reportOverviewGtmWebTitle": {
+      "message": "Διαμόρφωση κοντέινερ ιστού της Διαχείρισης ετικετών Google"
+   },
+   "reportOverviewMetaPixelDescription": {
+      "message": "Αυτή η αυτοματοποίηση εγκατέστησε και επαλήθευσε το Pixel του Meta στον ιστότοπό σας. Το pixel παρακολουθεί τη δραστηριότητα των επισκεπτών για να σας βοηθήσει με τη μέτρηση της αποτελεσματικότητας των διαφημίσεων, τη δημιουργία κοινών και τη βελτιστοποίηση της προβολής διαφημίσεων."
+   },
+   "reportOverviewMetaPixelTitle": {
+      "message": "Εγκατάσταση του Pixel του Meta"
+   },
+   "reportOverviewSalesforceDescription": {
+      "message": "Αυτή η αυτοματοποίηση διαμόρφωσε τα webhook του Meta CRM-CAPI στην παρουσία του Salesforce. Η ενσωμάτωση των webhook στέλνει συμβάντα CRM από το Salesforce απευθείας στο Meta, επιτρέποντας καλύτερη στόχευση και μέτρηση διαφημίσεων μέσω κοινοποίησης συμβάντων από την πλευρά του διακομιστή."
+   },
+   "reportOverviewSalesforceTitle": {
+      "message": "Διαμόρφωση webhook CRM-CAPI για το Salesforce"
+   },
+   "reportPagesDescription": {
+      "message": "Έγιναν επισκέψεις στις παρακάτω σελίδες κατά τη διάρκεια της εμπειρίας αυτοματοποίησης."
+   },
+   "reportPagesDescriptionShort": {
+      "message": "Έγιναν επισκέψεις στις παρακάτω σελίδες κατά τη διάρκεια της αυτοματοποίησης."
+   },
+   "reportPagesEmpty": {
+      "message": "Δεν έγιναν επισκέψεις στις παρακάτω σελίδες κατά τη διάρκεια αυτής της αυτοματοποίησης."
+   },
+   "reportPagesHeading": {
+      "message": "Σελίδες και τομείς στα οποία έγιναν επισκέψεις"
+   },
+   "reportRecipeNameGaCreateAccount": {
+      "message": "Δημιουργία λογαριασμού Google Analytics"
+   },
+   "reportRecipeNameGtmCreateAccount": {
+      "message": "Δημιουργία λογαριασμού GTM"
+   },
+   "reportRecipeNameGtmProvisionServer": {
+      "message": "Παροχή κοντέινερ διακομιστή GTM"
+   },
+   "reportRecipeNameInstallFacebookForWoocommerce": {
+      "message": "Εγκατάσταση του Facebook για WooCommerce"
+   },
+   "reportRecipeNameSalesforceWebhook": {
+      "message": "Διαμόρφωση webhook του CRM του Salesforce"
+   },
+   "reportRecipeNameSgwGtmSetup": {
+      "message": "Διαμόρφωση του Signals Gateway με το GTM"
+   },
+   "reportRecipeNameShopifyProductSync": {
+      "message": "Συγχρονισμός προϊόντος Shopify"
+   },
+   "reportRecipeNameUpdateFacebookForWoocommerce": {
+      "message": "Ενημέρωση του Facebook για WooCommerce"
+   },
+   "reportStatusFailed": {
+      "message": "Απέτυχε"
+   },
+   "reportStatusSetupIncomplete": {
+      "message": "Μη ολοκληρωμένη διαμόρφωση"
+   },
+   "reportStatusSuccess": {
+      "message": "Επιτυχία"
+   },
+   "reportSummaryDescription": {
+      "message": "Ελέγξτε τις καταστάσεις, τα χρονολόγια και τις ενέργειες που πραγματοποιήθηκαν κατά την εμπειρία αυτοματοποίησης."
+   },
+   "reportSummaryFailureDescription": {
+      "message": "Η αυτοματοποίηση δεν ολοκληρώθηκε με επιτυχία. Ελέγξτε το χρονοδιάγραμμα και τυχόν πόρους που δημιουργήθηκαν πριν από την αποτυχία της διαδικασίας."
+   },
+   "reportSummaryHeading": {
+      "message": "Σύνοψη"
+   },
+   "reportTimelineStarted": {
+      "message": "Έναρξη $1"
+   },
+   "reportTitleFailure": {
+      "message": "Η αυτοματοποίηση απέτυχε: $1"
+   },
+   "reportTitleFlow": {
+      "message": "Σύνοψη ροής αυτοματοποίησης"
+   },
+   "reportTitleSuccess": {
+      "message": "Σύνοψη αυτοματοποίησης: $1"
+   },
+   "required": {
+      "message": "Υποχρεωτικό"
+   },
+   "resolutionStepAddingMissingEventsTitle": {
+      "message": "Προσθήκη συμβάντων που λείπουν"
+   },
+   "resolutionStepClickToCopy": {
+      "message": "Κλικ για αντιγραφή"
+   },
+   "resolutionStepConfirmNewEvents": {
+      "message": "Επιβεβαιώστε νέα συμβάντα"
+   },
+   "resolutionStepEnableAAMEventsTitle": {
+      "message": "Ενεργοποίηση αυτόματης σύνθετης αντιστοίχισης"
+   },
+   "resolutionStepEnableMAMEventsTitle": {
+      "message": "Διαμόρφωση μη αυτόματης σύνθετης αντιστοίχισης"
+   },
+   "resolutionStepInvalidValueCurrencyTitle": {
+      "message": "Ενημέρωση τιμής και νομίσματος"
+   },
+   "resolutionStepLeaveTabOpen": {
+      "message": "Αφήστε αυτή την καρτέλα ανοιχτή"
+   },
+   "resolutionStepOpenEventSetupTool": {
+      "message": "Ανοίξτε το εργαλείο διαμόρφωσης συμβάντων για τον ιστότοπό σας"
+   },
+   "resolutionStepOpenWebsiteCode": {
+      "message": "Ανοίξτε τον κώδικα του ιστότοπού σας."
+   },
+   "resolutionStepSearchFbqInit": {
+      "message": "Κάντε αναζήτηση για **fbq('init'...)** για να βρείτε τοποθεσίες όπου χρησιμοποιείτε το Pixel του Meta."
+   },
+   "resolutionStepSearchFbqTrackPurchase": {
+      "message": "Αναζητήστε το συμβάν αγοράς που παρακολουθεί το pixel σας."
+   },
+   "resolutionStepUpdateCodeBlock": {
+      "message": "Ενημερώστε το μπλοκ κώδικα για να συμπεριλάβετε τα παρακάτω δεδομένα σύνθετης αντιστοίχισης ως την τρίτη παράμετρο."
+   },
+   "resolutionStepUpdateCurrencyField": {
+      "message": "Ενημερώστε το πεδίο νομίσματος."
+   },
+   "resolutionStepUpdateValueField": {
+      "message": "Ενημερώστε το πεδίο τιμής."
+   },
+   "resolutionStepUserActionRequired": {
+      "message": "Απαιτείται ενέργεια από τον χρήστη"
+   },
+   "resolutionStepValueFieldInformation": {
+      "message": "Οι πληροφορίες του πεδίου τιμής:"
+   },
+   "resolutionStepValueFieldRequirement1": {
+      "message": "Πρέπει να είναι αριθμητική τιμή μεγαλύτερη από 0"
+   },
+   "resolutionStepValueFieldRequirement2": {
+      "message": "Μπορεί να περιέχει υποδιαστολή. Για παράδειγμα 9,99 ή 9."
+   },
+   "resolutionStepValueFieldRequirement3": {
+      "message": "Μη συμπεριλάβετε τυχόν επιπλέον αριθμούς, ειδικούς χαρακτήρες ή σύμβολα στην παράμετρο νομίσματος."
+   },
+   "resolutionStepsDefault": {
+      "message": "Βήματα επίλυσης"
+   },
+   "reviewSuggestionsEmpty": {
+      "message": "Δεν υπάρχουν προτεινόμενα συμβάντα προς το παρόν."
+   },
+   "reviewSuggestionsIneligible": {
+      "message": "Τα προτεινόμενα συμβάντα δεν είναι ακόμη διαθέσιμα για αυτό το pixel."
+   },
+   "reviewSuggestionsLoading": {
+      "message": "Φόρτωση προτεινόμενων συμβάντων..."
+   },
+   "ruleOperator_eq": {
+      "message": "ισούται με"
+   },
+   "ruleOperator_gt": {
+      "message": "είναι μεγαλύτερο από"
+   },
+   "ruleOperator_gte": {
+      "message": "μεγαλύτερο από ή ίσο με"
+   },
+   "ruleOperator_i_contains": {
+      "message": "περιέχει"
+   },
+   "ruleOperator_i_greater_than_or_equal": {
+      "message": "είναι μεγαλύτερο από ή ίσο με"
+   },
+   "ruleOperator_i_is_any": {
+      "message": "είναι οποιοδήποτε από"
+   },
+   "ruleOperator_i_less_than_or_equal": {
+      "message": "είναι λιγότερο από ή ίσο με"
+   },
+   "ruleOperator_i_not_contains": {
+      "message": "δεν περιέχει"
+   },
+   "ruleOperator_lt": {
+      "message": "είναι μικρότερο από"
+   },
+   "ruleOperator_lte": {
+      "message": "είναι λιγότερο από ή ίσο με"
+   },
+   "ruleOperator_neq": {
+      "message": "δεν ισούται με"
+   },
+   "ruleOperator_or": {
+      "message": "ή"
+   },
+   "ruleOperator_regex_match": {
+      "message": "αντιστοιχεί με"
+   },
+   "screenshotGalleryDisclaimer": {
+      "message": "Τα στιγμιότυπα οθόνης αποθηκεύονται μόνο στη συσκευή σας και διαγράφονται όταν τερματιστεί η περίοδος σύνδεσης."
+   },
+   "screenshotGalleryTimeDaysAgo": {
+      "message": "Πριν από $1 ημ."
+   },
+   "screenshotGalleryTimeHoursAgo": {
+      "message": "Πριν από $1 ω."
+   },
+   "screenshotGalleryTimeJustNow": {
+      "message": "μόλις τώρα"
+   },
+   "screenshotGalleryTimeMinutesAgo": {
+      "message": "Πριν από $1 λ."
+   },
+   "selector_no_options_available": {
+      "message": "Δεν υπάρχουν επιλογές"
+   },
+   "selector_no_results_found": {
+      "message": "Δεν βρέθηκαν αποτελέσματα"
+   },
+   "selector_select_placeholder": {
+      "message": "-- Επιλογή --"
+   },
+   "server_container_creation_title": {
+      "message": "Κοντέινερ διακομιστή"
+   },
+   "server_container_name_label": {
+      "message": "Όνομα κοντέινερ"
+   },
+   "server_container_tagging_url_label": {
+      "message": "Διεύθυνση URL διακομιστή ετικετών"
+   },
+   "settingsDescription": {
+      "message": "Διαχειριστείτε εύκολα τη διαμόρφωση του Pixel του Meta και βελτιστοποιήστε τον τρόπο με τον οποίο λειτουργεί για εσάς."
+   },
+   "settingsErrorOccurred": {
+      "message": "Παρουσιάστηκε σφάλμα"
+   },
+   "settingsOverlayNotificationsDescription": {
+      "message": "Εμφάνιση θεματικών ειδοποιήσεων επικάλυψης σε σελίδες με τα pixel σας"
+   },
+   "settingsOverlayNotificationsTitle": {
+      "message": "Ειδοποιήσεις επικάλυψης"
+   },
+   "settingsTitle": {
+      "message": "Ρυθμίσεις"
+   },
+   "settingsWaitSpeedFast": {
+      "message": "Γρήγορα"
+   },
+   "settingsWaitSpeedFastDescription": {
+      "message": "Λιγότερο από 1 δευτερόλεπτο"
+   },
+   "settingsWaitSpeedMedium": {
+      "message": "Μέτρια"
+   },
+   "settingsWaitSpeedMediumDescription": {
+      "message": "2-3 δευτερόλεπτα"
+   },
+   "settingsWaitSpeedSlow": {
+      "message": "Αργά"
+   },
+   "settingsWaitSpeedSlowDescription": {
+      "message": "Πάνω από 5 δευτερόλεπτα"
+   },
+   "settingsWaitTimeBetweenActionsTitle": {
+      "message": "Χρόνος αναμονής μεταξύ ενεργειών"
+   },
+   "setupAddingAllEventsLabel": {
+      "message": "Προσθήκη όλων των συμβάντων"
+   },
+   "setupAddingPixelEventsCardTitle": {
+      "message": "Προσθήκη συμβάντων pixel"
+   },
+   "setupComplete": {
+      "message": "Η διαμόρφωση ολοκληρώθηκε"
+   },
+   "setupDetailsHeader": {
+      "message": "Λεπτομέρειες διαμόρφωσης"
+   },
+   "setupDetailsInfoTooltip": {
+      "message": "Όταν ξεκινήσει η αυτοματοποίηση, τα παρακάτω βήματα θα ολοκληρωθούν για εσάς."
+   },
+   "setupHowItWorksDescription": {
+      "message": "Το Meta AI σαρώνει τον ιστότοπό σας, εντοπίζει βασικά συμβάντα μετατροπής, όπως αγορές, προσθήκες στο καλάθι ή υποψήφιους πελάτες, και τα προσθέτει αυτόματα ως συμβάντα pixel, χωρίς να απαιτείται κώδικας."
+   },
+   "setupHowItWorksLabel": {
+      "message": "Πώς λειτουργεί"
+   },
+   "setupPixelEventsAddedHeader": {
+      "message": "Προστέθηκαν τα συμβάντα pixel"
+   },
+   "setupPixelEventsAddedSubtitle": {
+      "message": "Τώρα μπορείτε να χαλαρώσετε και να απολαύσετε την ενίσχυση της απόδοσης της εκστρατείας σας."
+   },
+   "setupPixelEventsHeader": {
+      "message": "Διαμόρφωση συμβάντων Pixel"
+   },
+   "setupReturnToPreviousPage": {
+      "message": "Επιστροφή στην προηγούμενη σελίδα"
+   },
+   "setup_failed": {
+      "message": "Η διαμόρφωση απέτυχε"
+   },
+   "setup_requirements": {
+      "message": "Απαιτήσεις για διαμόρφωση"
+   },
+   "shopifyProductSyncIntroStep1SubA": {
+      "message": "Ανοίξτε τη σελίδα σύνδεσης διαχειριστή Shopify"
+   },
+   "shopifyProductSyncIntroStep1SubB": {
+      "message": "Συνδεθείτε στην ενότητα διαχειριστή του Shopify για το κατάστημά σας"
+   },
+   "shopifyProductSyncIntroStep1Title": {
+      "message": "Σύνδεση στην ενότητα διαχειριστή του Shopify"
+   },
+   "shopifyProductSyncIntroStep2SubA": {
+      "message": "Πατήστε **Προϊόντα**"
+   },
+   "shopifyProductSyncIntroStep2SubB": {
+      "message": "Πατήστε την καρτέλα **Όλα**"
+   },
+   "shopifyProductSyncIntroStep2SubC": {
+      "message": "Επιλέξτε όλα τα προϊόντα"
+   },
+   "shopifyProductSyncIntroStep2Title": {
+      "message": "Αναγνώριση προϊόντων"
+   },
+   "shopifyProductSyncIntroStep3SubA": {
+      "message": "Πατήστε **Περισσότερες επιλογές**"
+   },
+   "shopifyProductSyncIntroStep3SubB": {
+      "message": "Πατήστε **Συμπερίληψη στα κανάλια πωλήσεων**"
+   },
+   "shopifyProductSyncIntroStep3SubC": {
+      "message": "Επιλέξτε **Facebook και Instagram**"
+   },
+   "shopifyProductSyncIntroStep3SubD": {
+      "message": "Πατήστε **Συμπερίληψη προϊόντων**"
+   },
+   "shopifyProductSyncIntroStep3Title": {
+      "message": "Συμπερίληψη προϊόντων"
+   },
+   "showAllEvents": {
+      "message": "Εμφάνιση όλων των συμβάντων"
+   },
+   "showAllPixels": {
+      "message": "Εμφάνιση όλων των pixel"
+   },
+   "showAllWarnings": {
+      "message": "Εμφάνιση όλων των προειδοποιήσεων"
+   },
+   "showLess": {
+      "message": "Δείτε λιγότερα"
+   },
+   "showLessEvents": {
+      "message": "Εμφάνιση λιγότερων συμβάντων"
+   },
+   "showMore": {
+      "message": "Δείτε περισσότερα"
+   },
+   "stepResumeTooltip": {
+      "message": "Βεβαιωθείτε ότι έχετε ολοκληρώσει την παραπάνω ενέργεια με μη αυτόματο τρόπο πριν συνεχίσετε."
+   },
+   "suggestionButtonTextLabel": {
+      "message": "Το κείμενο του κουμπιού είναι \"$1\""
+   },
+   "suggestionExampleUrlsLabel": {
+      "message": "Παράδειγμα διευθύνσεων URL: $1"
+   },
+   "switcherCatalogSingular": {
+      "message": "$1 κατάλογος"
+   },
+   "switcherCatalogsPlural": {
+      "message": "$1 κατάλογοι"
+   },
+   "switcherPixelsPlural": {
+      "message": "$1 pixel"
+   },
+   "switcherPixelsSingular": {
+      "message": "$1 pixel"
+   },
+   "testEventsHeader": {
+      "message": "Δοκιμή συμβάντων"
+   },
+   "topActionsSectionHeader": {
+      "message": "Οι κορυφαίες ενέργειές σας"
+   },
+   "topActionsSectionSubHeader": {
+      "message": "Με βάση τη διαμόρφωσή σας"
+   },
+   "triggerEventDetection": {
+      "message": "Εντοπισμός προτεινόμενων συμβάντων"
+   },
+   "useMetaEventSetupToolForWeb": {
+      "message": "Χρήση εργαλείου διαμόρφωσης συμβάντων του Meta για το διαδίκτυο"
+   },
+   "verificationFailedCancelButton": {
+      "message": "Ακύρωση αυτοματοποίησης"
+   },
+   "verificationFailedMessage": {
+      "message": "Δεν μπορέσαμε να εντοπίσουμε την κατάσταση αυτής της ενέργειας. Αν το σφάλμα εξακολουθεί να εμφανίζεται, μπορείτε να ακυρώσετε την αυτοματοποίηση και να προχωρήσετε με τη μη αυτόματη διαμόρφωση."
+   },
+   "verificationFailedTitle": {
+      "message": "Προσπαθήστε ξανά"
+   },
+   "verificationFailedTryAgainButton": {
+      "message": "Προσπαθήστε ξανά"
+   },
+   "verificationInProgressMessage": {
+      "message": "Γίνεται έλεγχος για να διαπιστώσουμε αν η ενέργεια ολοκληρώθηκε"
+   },
+   "warningsHeader": {
+      "message": "Προειδοποιήσεις"
+   },
+   "web_container_creation_title": {
+      "message": "Κοντέινερ ιστού"
+   },
+   "web_container_name_label": {
+      "message": "Όνομα κοντέινερ"
+   },
+   "what_we_will_create_title": {
+      "message": "Τι θα δημιουργήσουμε για εσάς"
+   },
+   "wooCommerceIntroSetUpForMeButton": {
+      "message": "Διαμόρφωση για εμένα"
+   },
+   "wooCommerceIntroStep1SubA": {
+      "message": "Ανοίξτε τον πίνακα διαχείρισης του WordPress"
+   },
+   "wooCommerceIntroStep1SubB": {
+      "message": "Συνδεθείτε στον λογαριασμό σας στο WordPress"
+   },
+   "wooCommerceIntroStep1Title": {
+      "message": "Σύνδεση στο WordPress"
+   },
+   "wooCommerceIntroStep2SubA": {
+      "message": "Πηγαίνετε στο παράθυρο στα αριστερά, επιλέξτε **Πρόσθετα** και έπειτα **Προσθήκη πρόσθετων**"
+   },
+   "wooCommerceIntroStep2SubB": {
+      "message": "Πατήστε **Προσθήκη πρόσθετου**"
+   },
+   "wooCommerceIntroStep2SubC": {
+      "message": "Πηγαίνετε στη γραμμή αναζήτησης στο πάνω μέρος της σελίδας"
+   },
+   "wooCommerceIntroStep2SubD": {
+      "message": "Κάντε αναζήτηση για το πρόσθετο Meta for WooCommerce"
+   },
+   "wooCommerceIntroStep2SubE": {
+      "message": "Πηγαίνετε στο πρόσθετο Meta for WooCommerce και πατήστε **Εγκατάσταση τώρα**"
+   },
+   "wooCommerceIntroStep2Title": {
+      "message": "Εγκατάσταση πρόσθετου"
+   },
+   "wooCommerceIntroStep3SubA": {
+      "message": "Μόλις εγκατασταθεί το Meta for WooCommerce, πατήστε **Ενεργοποίηση**"
+   },
+   "wooCommerceIntroStep3SubB": {
+      "message": "Πηγαίνετε στη σελίδα **Πρόσθετα** στο παράθυρο στα αριστερά"
+   },
+   "wooCommerceIntroStep3SubC": {
+      "message": "Πηγαίνετε στο πρόσθετο Meta for WooCommerce και πατήστε **Διαμόρφωση**"
+   },
+   "wooCommerceIntroStep3SubD": {
+      "message": "Στην οθόνη διαμόρφωσης, πατήστε **Ξεκινήστε**"
+   },
+   "wooCommerceIntroStep3Title": {
+      "message": "Ενεργοποίηση πρόσθετου"
+   },
+   "wooCommerceUpdateIntroStep2SubA": {
+      "message": "Ανοίξτε τη σελίδα \"Προσθήκη πρόσθετων\""
+   },
+   "wooCommerceUpdateIntroStep2SubB": {
+      "message": "Πηγαίνετε στο πρόσθετο Meta for WooCommerce"
+   },
+   "wooCommerceUpdateIntroStep2SubC": {
+      "message": "Πατήστε **Ενημέρωση τώρα**"
+   },
+   "wooCommerceUpdateIntroStep2Title": {
+      "message": "Ενημέρωση πρόσθετου"
+   }
+}

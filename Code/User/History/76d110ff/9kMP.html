@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PVSNC7C5D6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PVSNC7C5D6');
+</script>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>M Stitch | Where Quality Meets Affordability.</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="var.css" />
+    <!-- Meta Pixel Code -->
+    <script>
+      !(function (f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function () {
+          n.callMethod
+            ? n.callMethod.apply(n, arguments)
+            : n.queue.push(arguments);
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = "2.0";
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s);
+      })(
+        window,
+        document,
+        "script",
+        "https://connect.facebook.net/en_US/fbevents.js",
+      );
+      fbq("init", "1045310841180095");
+      fbq("track", "PageView");
+    </script>
+    <noscript
+      ><img
+        height="1"
+        width="1"
+        style="display: none"
+        src="https://www.facebook.com/tr?id=1045310841180095&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
+  </head>
+
+  <body>
+    <nav>
+      <div class="nav_logo">
+        <div class="logo"><a href="index.html">M Stitch</a></div>
+      </div>
+      <div class="nav_links">
+        <a href="index.html" class="nav_link_item">Home</a
+        ><a href="about_us.html" class="nav_link_item">About Us</a
+        ><a href="contact_us.html" class="nav_link_item">Contact Us</a>
+      </div>
+    </nav>
+    <section class="hero" style="width: 100vw">
+      <div class="hero_content">
+        <h1 class="hero_big">Welcome to M Stitch</h1>
+        <p class="hero_small">Where Quality Meets Affordability.</p>
+        <a href="index.html" class="hero_button">Shop Now</a>
+      </div>
+    </section>
+    <main>
+      <div id="product-list" class="product-list">
+        <h1 class="ft_summer">Designer Collection</h1>
+      </div>
+    </main>
+    <footer>
+      <div class="footer_logo">
+        MS
+        <p>
+          M Stitch presents, high quality, Hand Designed, Professionally
+          tailored, Affordable, Durable Outfits for Office, University, Casual
+          and formal wear.Learn more about us on our Facebook, Instagram
+          accounts.
+        </p>
+      </div>
+      <div class="footer_link">
+        <p>Learn more about us on</p>
+        <a
+          href="https://www.instagram.com/m_stitchh/"
+          target="_blank"
+          class="footer_links"
+          ><img src="content/ig.png" alt="Instagram"
+        /></a>
+        <a
+          href="https://wa.me/923234359130"
+          target="_blank"
+          class="footer_links"
+          ><img src="content/wap.png" alt="Instagram"
+        /></a>
+        <a
+          href="https://www.youtube.com/@MStitch-s6z"
+          target="_blank"
+          class="footer_links"
+          ><img src="content/yt.png" alt="Instagram"
+        /></a>
+        <a
+          href="https://www.facebook.com/p/M-Stitch-clothing-brand-61577752810818/"
+          target="_blank"
+          class="footer_links"
+          ><img src="content/fb.png" alt="facebook"
+        /></a>
+        <a
+          href="https://www.facebook.com/p/M-Stitch-clothing-brand-61577752810818/"
+          target="_blank"
+          class="footer_links"
+          ><img src="content/tik-tok.png" alt="facebook"
+        /></a>
+      </div>
+      <!-- <div class="policies">
+        <a href="privacy_policy.html">Privacy Policy</a>
+        <a href="terms_and_conditions.html">Terms & Conditions</a>
+        <a href="return_policy.html">Return Policy</a>
+      </div> -->
+    </footer>
+  </body>
+  <script src="products.js"></script>
+  <script>
+    const productList = document.getElementById("product-list");
+    products.forEach((product) => {
+      const card = document.createElement("div");
+      card.className = "product-card";
+      card.innerHTML =
+        product.inStock === 0
+          ? `
+      <div class="img-wrapper out-of-stock">
+        <img src="${product.image}" alt="${product.name}" loading="lazy" width="300" height="400" loading="lazy" />
+        <span class="sold-out-overlay">SOLD OUT</span>
+      </div>
+      <h3>${product.name}</h3>
+      <p class="product-description">${product.shortDescription}</p>
+      <p class="product_price">
+        ${product.originalPrice ? `<span class="original-price">${product.originalPrice}</span>` : ""}
+        <span class="discounted-price">${product.price}</span>
+      </p>
+    `
+          : `
+      <a href="product.html?id=${product.id}">
+        <div class="img-wrapper">
+          <img loading="lazy" src="${product.image}" alt="${product.name}" width="300" height="400" loading="lazy" />
+        </div>
+        <h3>${product.name}</h3>
+        <p class="product-description">${product.shortDescription}</p>
+        <p class="product_price">
+          ${product.originalPrice ? `<span class="original-price">${product.originalPrice}</span>` : ""}
+          <span class="discounted-price">${product.price}</span>
+        </p>
+      </a>
+    `;
+      productList.appendChild(card);
+    });
+  </script>
+  <a
+    href="https://wa.me/923234359130"
+    class="whatsapp-float-button"
+    aria-label="WhatsApp"
+    ><img src="content/wap.png" alt="WhatsApp"
+  /></a>
+</html>
