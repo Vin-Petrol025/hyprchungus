@@ -10,6 +10,8 @@ session/
 dconf/
 pulse/
 libaccounts-glib/
+google-chrome/
+transmission/
 spotify-player/
 # ==========================
 # Telemetry / IDE
