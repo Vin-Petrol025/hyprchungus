@@ -1,6 +1,0 @@
-{
-    "workbench.colorTheme": "Solarized Dark",
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
-}

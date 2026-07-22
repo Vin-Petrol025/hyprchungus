@@ -1,7 +1,0 @@
-{
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "workbench.colorTheme": "Dracula Theme Soft",
-    "workbench.iconTheme": "material-icon-theme"
-}
