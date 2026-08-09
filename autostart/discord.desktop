@@ -1,9 +1,9 @@
 [Desktop Entry]
 Type=Application
-Exec=/home/dread-wing/.config/discord/app-1.0.149/Discord
+Exec=/home/dread-wing/.config/discord/app-1.0.152/Discord
 Hidden=false
 NoDisplay=false
 Name=Discord
-Icon=/home/dread-wing/.config/discord/app-1.0.149/discord.png
+Icon=/home/dread-wing/.config/discord/app-1.0.152/discord.png
 Comment=Text and voice chat for gamers.
 X-GNOME-Autostart-enabled=true

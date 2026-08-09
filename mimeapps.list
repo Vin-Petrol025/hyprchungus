@@ -15,6 +15,7 @@ application/xhtml+xml=firefox.desktop;
 application/x-extension-xhtml=firefox.desktop;
 application/x-extension-xht=firefox.desktop;
 video/x-matroska=vlc.desktop;
+application/zip=userapp-unzip-FVNLS3.desktop;
 
 [Default Applications]
 x-scheme-handler/discord-831593107883032657=discord-831593107883032657.desktop
@@ -31,3 +32,4 @@ application/x-extension-shtml=firefox.desktop
 application/xhtml+xml=firefox.desktop
 application/x-extension-xhtml=firefox.desktop
 application/x-extension-xht=firefox.desktop
+application/zip=userapp-unzip-FVNLS3.desktop
